@@ -38,7 +38,7 @@ function html_header()
     <meta charset="UTF-8">
     <link rel="shortcut icon" href="/material/res/favicon.png">
     <link rel="apple-touch-icon" href="/material/res/favicon.png">
-    <link rel="icon" type="image/png" href="/material//res/favicon.png">
+    <link rel="icon" type="image/png" href="/material/res/favicon.png">
     <link rel="alternate" type="application/rss+xml" title="Tirea Na\'vi" href="/feed.xml">
     <link rel="stylesheet" href="/material/res/icons.css">
     <link rel="stylesheet" href="/material/res/materialize.min.css">
