@@ -141,7 +141,7 @@ function home()
                 </p>
               </div>
               <div class="card-action">
-                <a class="amber-text accent-2" href="lessons/index.php">Get started</a>
+                <a class="amber-text accent-2" href="', $weblink ,'?page=lessons">Get started</a>
               </div>
             </div>
           </div>
