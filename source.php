@@ -105,8 +105,8 @@ function html_bottom()
     respective owners.<br />
     <b>\'Ivong Na\'vi!</b>
   </div>
-  <script src="/res/jquery.min.js"></script>
-  <script src="/res/materialize.min.js"></script>
+  <script src="res/jquery.min.js"></script>
+  <script src="res/materialize.min.js"></script>
   <script>
     $(document).ready(function(){$(\'.button-collapse\').sideNav();})
   </script>
