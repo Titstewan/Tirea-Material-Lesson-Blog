@@ -118,6 +118,8 @@ function html_bottom()
 // The re-worked material design page!
 function home()
 {
+	global $weblink;
+
 	echo '
       <div class="tooltip" id="index-tt">
         <div class="titlename"><span>Zola&#39;u N&igrave;prrte&#39;</span></div>
