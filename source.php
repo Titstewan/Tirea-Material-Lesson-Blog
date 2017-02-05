@@ -16,7 +16,7 @@ navi_download()
 navi_lesson()
 
 Author: Tìtstewan
-titstewan@learnnavi.org
+titstewan-learnnavi.org
 ----------------------------*/
 
 // Some php functions for generating the site
@@ -24,7 +24,7 @@ if (!defined('TLB'))
 	die('No direct access...');
 
 // some variables that NEED to be defined!
-$weblink = 'http://localhost/material/index.php';
+$weblink = '/material/index.php';
 
 // ...html header (<html><body>)...
 function html_header()
