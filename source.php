@@ -107,6 +107,7 @@ function html_bottom()
   </div>
   <script src="res/jquery.min.js"></script>
   <script src="res/materialize.min.js"></script>
+  <script src="res/play.js"></script>
   <script>
     $(document).ready(function(){$(\'.button-collapse\').sideNav();})
   </script>
@@ -573,8 +574,7 @@ Your browser does not support the audio element.
   <source src="audio/z.ogg" type="audio/ogg"/>
   <source src="audio/z.mp3" type="audio/mpeg"/>
   Your browser does not support the audio element.
-</audio>
-  <script src="res/play.js"></script>';
+</audio>';
 }
 
 // The link page
