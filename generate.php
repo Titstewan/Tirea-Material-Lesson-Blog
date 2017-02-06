@@ -1,79 +1,119 @@
-<?php
-// Some php functions for generating the site
-if (!defined('TLB'))
-	die('No direct access...');
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tirea Na&apos;vi</title>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="/material/res/favicon.png">
+    <link rel="apple-touch-icon" href="/material/res/favicon.png">
+    <link rel="icon" type="image/png" href="/material/res/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Tirea Na'vi" href="/material/feed.xml">
+    <link rel="stylesheet" href="/material/res/icons.css">
+    <link rel="stylesheet" href="/material/res/materialize.min.css">
+    <link rel="stylesheet" href="/material/res/tirea.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#00bcd4">
+  </head>
+  <header>
+    <nav>
+      <div class="nav-wrapper">
+        <a href="/material/index.php" class="brand-logo">Tirea Na&apos;vi</a>
+        <!-- <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a> -->
+        <a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a>
+        <ul class="right hide-on-med-and-down" id="regnav">
+          <li><a href="/material/index.php">Home</a></li>
+          <li><a href="/material/sounds.php">Sounds</a></li>
+          <li><a href="/material/lessons/index.php">Lessons</a></li>
+          <li><a href="/material/links.php">Links</a></li>
+          <li><a href="/material/download/index.php">Downloads</a></li>
+          <li id="rss-nav-item"><a id="rss-link" href="/material/feed.xml"><img id="rss-icon" src="/material/res/rss-icon.png"></a></li>
+        </ul>
+        <ul class="side-nav" id="mobilenav">
+          <li><a href="/material/index.php">Home</a></li>
+          <li><a href="/material/sounds.php">Sounds</a></li>
+          <li><a href="/material/lessons/index.php">Lessons</a></li>
+          <li><a href="/material/links.php">Links</a></li>
+          <li><a href="/material/download/index.php">Downloads</a></li>
+          <li><a href="/material/feed.xml">RSS Feed</a></li>
+        </ul>
+      </div>
+    </nav>
+    <!-- <div class="amber black-text" id="warning">EXPERIMENTAL SITE UNDER CONSTRUCTION! :D</div> -->
+  </header>
+  <main>
+  <div class="container">
+    <div id="page-content-div">
 
-// So...
-function name_gen()
-{
-echo '
+
 <div>
 <div class="titlename">Random Na&apos;vi Name: </div><br>
 	<br>
-<h4>';
-$a = $_REQUEST['a']; $b = $_REQUEST['b']; $c = $_REQUEST['c'];
-$hrh = $_REQUEST['hrh'];
+<h4>
+<?php
+error_reporting(E_ALL & ~E_NOTICE);
 
-if (($a > 4 || $b > 4 || $c > 4) && !isset($hrh))
-	echo 'HRH te HRH HRH\'itan';
-else {
-	if (isset($hrh) && $hrh != 1)
-		echo 'HRH te HRH HRH\'ite';
-	else
-	{
-	function getInitial() {
+$a = $_REQUEST["a"]; $b = $_REQUEST["b"]; $c = $_REQUEST["c"];
+$hrh = $_REQUEST["hrh"];
+
+if (($a > 4 || $b > 4 || $c > 4) && !isset($hrh)) {
+	echo "HRH te HRH HRH'itan";
+} else {
+		if (isset($hrh) && $hrh !=1 ) {
+			echo "HRH te HRH HRH'ite";
+		} else {
+
+			function getInitial () {
 				$type;
 				$result;
 
 				if (rand(0,100) <= 70){
-					$type = 'single';
+					$type="single";
 				}else {
-					$type = 'cluster';
+					$type="cluster";
 				}
 
 				//single letter initial
-				if ($type == 'single'){
+				if ($type == "single"){
 					$rn = rand(0, 100);
 					if ($rn <= 4){
-						$result = 'px';
+						$result = "px";
 					}else if ($rn <= 8){
-						$result = 'tx';
+						$result = "tx";
 					}else if ($rn <= 12){
-						$result = 'kx';
+						$result = "kx";
 					}else if ($rn <= 17){
-						$result = 'p';
+						$result = "p";
 					}else if ($rn <= (22)){
-						$result = 't';
+						$result = "t";
 					}else if ($rn <= (27)){
-						$result = 'k';
+						$result = "k";
 					}else if ($rn <= (32)){
-						$result = 'ts';
+						$result = "ts";
 					}else if ($rn <= (37)){
-						$result = 'f';
+						$result = "f";
 					}else if ($rn <= (42)){
-						$result = 's';
+						$result = "s";
 					}else if ($rn <= (47)){
-						$result = 'h';
+						$result = "h";
 					}else if ($rn <= (52)){
-						$result = 'v';
+						$result = "v";
 					}else if ($rn <= (57)){
-						$result = 'z';
+						$result = "z";
 					}else if ($rn <= (62)){
-						$result = 'm';
+						$result = "m";
 					}else if ($rn <= (67)){
-						$result = 'n';
+						$result = "n";
 					}else if ($rn <= (72)){
-						$result = 'ng';
+						$result = "ng";
 					}else if ($rn <= (77)){
-						$result = 'r';
+						$result = "r";
 					}else if ($rn <= (82)){
-						$result = 'l';
+						$result = "l";
 					}else if ($rn <= (87)){
-						$result = 'w';
+						$result = "w";
 					}else if ($rn <= (92)){
-						$result = 'n';
+						$result = "n";
 					}else {
-						$result = '\'';
+						$result = "'";
 					}
 				}else {
 					$ro = rand(1, 3);
@@ -81,179 +121,177 @@ else {
 					if ($ro == 1){
 						$rp = rand(1, 100);
 						if ($rp <= 5){
-							$result = 'fpx';
+							$result = "fpx";
 						}else if ($rp <= 11){
-							$result = 'fkx';
+							$result = "fkx";
 						}else if ($rp <= 16){
-							$result = 'ftx';
+							$result = "ftx";
 						}else if ($rp <= 25){
-							$result = 'ft';
+							$result = "ft";
 						}else if ($rp <= 33){
-							$result = 'fp';
+							$result = "fp";
 						}else if ($rp <= 42){
-							$result = 'fk';
+							$result = "fk";
 						}else if ($rp <= 50){
-							$result = 'fm';
+							$result = "fm";
 						}else if ($rp <= 57){
-							$result = 'fn';
+							$result = "fn";
 						}else if ($rp <= 63){
-							$result = 'fng';
+							$result = "fng";
 						}else if ($rp <= 70){
-							$result = 'fr';
+							$result = "fr";
 						}else if ($rp <= 78){
-							$result = 'fl';
+							$result = "fl";
 						}else if ($rp <= 86){
-							$result = 'fw';
+							$result = "fw";
 						}else if ($rp <= 94){
-							$result = 'fy';
+							$result = "fy";
 						}else {
-							$result = 'fr';
+							$result = "fr";
 						}
 					}else if ($ro == 2){ //start with s
 						$rp = rand(1, 100);
 						if ($rp <= 5){
-							$result = 'spx';
+							$result = "spx";
 						}else if ($rp <= 11){
-							$result = 'skx';
+							$result = "skx";
 						}else if ($rp <= 16){
-							$result = 'stx';
+							$result = "stx";
 						}else if ($rp <= 25){
-							$result = 'st';
+							$result = "st";
 						}else if ($rp <= 33){
-							$result = 'sp';
+							$result = "sp";
 						}else if ($rp <= 42){
-							$result = 'sk';
+							$result = "sk";
 						}else if ($rp <= 50){
-							$result = 'sm';
+							$result = "sm";
 						}else if ($rp <= 57){
-							$result = 'sn';
+							$result = "sn";
 						}else if ($rp <= 63){
-							$result = 'sng';
+							$result = "sng";
 						}else if ($rp <= 70){
-							$result = 'sr';
+							$result = "sr";
 						}else if ($rp <= 78){
-							$result = 'sl';
+							$result = "sl";
 						}else if ($rp <= 86){
-							$result = 'sw';
+							$result = "sw";
 						}else if ($rp <= 94){
-							$result = 'sy';
+							$result = "sy";
 						}else {
-							$result = 'sr';
+							$result = "sr";
 						}
-					}
-					elseif ($ro == 3)
-					{ //start with ts
+					}else if ($ro == 3){ //start with ts
 						$rp = rand(1, 100);
 						if ($rp <= 5){
-							$result = 'tspx';
+							$result = "tspx";
 						}else if ($rp <= 11){
-							$result = 'tskx';
+							$result = "tskx";
 						}else if ($rp <= 16){
-							$result = 'tstx';
+							$result = "tstx";
 						}else if ($rp <= 25){
-							$result = 'tst';
+							$result = "tst";
 						}else if ($rp <= 33){
-							$result = 'tsp';
+							$result = "tsp";
 						}else if ($rp <= 42){
-							$result = 'tsk';
+							$result = "tsk";
 						}else if ($rp <= 50){
-							$result = 'tsm';
+							$result = "tsm";
 						}else if ($rp <= 57){
-							$result = 'tsn';
+							$result = "tsn";
 						}else if ($rp <= 63){
-							$result = 'tsng';
+							$result = "tsng";
 						}else if ($rp <= 70){
-							$result = 'tsr';
+							$result = "tsr";
 						}else if ($rp <= 78){
-							$result = 'tsl';
+							$result = "tsl";
 						}else if ($rp <= 86){
-							$result = 'tsw';
+							$result = "tsw";
 						}else if ($rp <= 94){
-							$result = 'tsy';
-						}else {$result = 'tsr';}
+							$result = "tsy";
+						}else {$result = "tsr";}
 					}
 				}
 				return $result;
 			}
 
-	function getNucleus() {
+			function getNucleus () {
 
 				$isDiphthong;
 				$result;
 
 				if (rand(0,100) > 20){
-					$isDiphthong='kehe';
+					$isDiphthong="kehe";
 				}else {
-					$isDiphthong='srane';
+					$isDiphthong="srane";
 				}
 
-				if ($isDiphthong == 'srane'){ //diphthong
+				if ($isDiphthong == "srane"){ //diphthong
 					$rx = rand(0, 100);
 					if ($rx <= 25){
-						$result = 'aw';
+						$result = "aw";
 					}else if ($rx <= 50){
-						$result = 'ay';
+						$result = "ay";
 					}else if ($rx <= 75){
-						$result = 'ey';
+						$result = "ey";
 					}else if ($rx <= 100){
-						$result = 'ew';
+						$result = "ew";
 					}
 				}else {
 					$ry = rand(1, 100);
 					if ($ry <= 25){
-						$result = 'a';
+						$result = "a";
 					}else if ($ry <= 40){
-						$result = 'e';
+						$result = "e";
 					}else if ($ry <= 55){
-						$result = 'o';
+						$result = "o";
 					}else if ($ry <= 70){
-						$result = 'u';
+						$result = "u";
 					}else if ($ry <= 80){
-						$result = 'ì';
+						$result = "ì";
 					}else if ($ry <= 85){
-						$result = 'ä';
-					}else {$result = 'a';}
+						$result = "ä";
+					}else {$result = "a";}
 				}
 				return $result;
 			}
 
-	function getCoda () {
+			function getCoda () {
 
 				$result;
 				$rz = rand(0, 320);
 
 				if ($rz <= 4){
-					$result = 'px';
+					$result = "px";
 				}else if ($rz <= 8){
-					$result = 'tx';
+					$result = "tx";
 				}else if ($rz <= 12){
-					$result = 'kx';
+					$result = "kx";
 				}else if ($rz <= 20){
-					$result = 'p';
+					$result = "p";
 				}else if ($rz <= 28){
-					$result = 't';
+					$result = "t";
 				}else if ($rz <= 44){
-					$result = 'k';
+					$result = "k";
 				}else if ($rz <= 49){
-					$result = 'k';
+					$result = "k";
 				}else if ($rz <= 58){
-					$result = 'm';
+					$result = "m";
 				}else if ($rz <= 70){
-					$result = 'n';
+					$result = "n";
 				}else if ($rz <= 76){
-					$result = 'ng';
+					$result = "ng";
 				}else if ($rz <= 80){
-					$result = 'r';
+					$result = "r";
 				}else if ($rz <= 85){
-					$result = 'l';
+					$result = "l";
 				}else{
-					$result='';
+					$result="";
 				}
 				return $result;
 			}
 
 			$k;
-			while ($k <= $_REQUEST['k'] -5){
+			while ($k <= $_REQUEST["k"] -1){
 				$i=0;
 				echo ucfirst(getInitial().getNucleus());
 				while ($i <= $a - 2){
@@ -261,7 +299,7 @@ else {
 					$i++;
 				}
 				echo getCoda();$i=0;
-				echo ' te ';
+				echo " te ";
 				echo ucfirst(getInitial().getNucleus());
 				while ($i <= $b - 2){
 					echo getInitial().getNucleus();
@@ -269,36 +307,39 @@ else {
 				}
 				echo getCoda();
 				$i=0;
-				echo ' ';
+				echo " ";
 				echo ucfirst(getInitial().getNucleus());
 				while ($i <= $c - 2){
 					echo getInitial().getNucleus();
 					$i++;
 				}
 				echo getCoda();$i=0;
-				echo '\'it';
+				echo "'it";
 				if (rand(0,1)==0){
-					echo 'an';
+					echo "an";
 				}else{
-					echo 'e';
+					echo "e";
 				}
 				$k++;
-				//echo '<br/>';
+				echo "<br/>";
 			}
 		}
 }
-echo '
-</h4>';
-if (($a > 4 || $b > 4 || $c > 4) && (!isset($hrh) || $hrh != 1) ) {
-	echo '<span class="cyan-text darken-3">Nice try. ;D</span>';
+?>
+</h4>
+<?php if (($a > 4 || $b > 4 || $c > 4) && (!isset($hrh) || $hrh != 1) ) {
+	echo "<span class='cyan-text darken-3'>Nice try. ;D</span>";
 }
-echo '
+?>
 <br />
 <hr>
 
 <style>select{display:block;}</style>
+
 <div class="row">
+
   <form class="col s12" name="sform">
+
 		<div class="row">
 			<div class="input-field col s12 l4">
 			  <select name="a">
@@ -310,6 +351,7 @@ echo '
 			  </select>
 			</div>
 		</div>
+
 		<div class="row">
 			<div class="input-field col s12 l4">
 			  <select name="b">
@@ -321,6 +363,7 @@ echo '
 			  </select>
 			</div>
 		</div>
+
 		<div class="row">
 			<div class="input-field col s12 l4">
 			  <select name="c">
@@ -332,17 +375,66 @@ echo '
 			  </select>
 			</div>
 		</div>
+
+		<div class="row">
+			<div class="input-field col s12 l4">
+			  <select name="k">
+			    <option value="" disabled selected>Number of Names to Generate</option>
+			    <option value="1">1</option>
+			    <option value="5">5</option>
+			    <option value="10">10</option>
+			    <option value="50">50</option>
+					<option value="100">100</option>
+			  </select>
+			</div>
+		</div>
+
 		<button class="btn waves-effect waves-light amber black-text" type="submit">Submit
     	<i class="material-icons right">send</i>
-		</button>
+    </button>
+
 	</form>
+
 </div>
-<div style="margin-top: 18px; text-align: center; border-top: 1px solid #eeeeee; padding-top: 5px;">
-	<a href="http://forum.learnnavi.org/index.php?msg=566249.0">
-		Web-based Na\'vi Name Generator!
+
+<div style="margin-top: 18px; text-align: center; border-top: 1px solid #eeeeee; padding-top: 5px; ">
+	<a href="http://forum.learnnavi.org/projects/web-based-navi-name-generator!/msg566249/#msg566249">
+		Web-based Na'vi Name Generator!
 	</a> by Uniltìrantokx te Skxawng
 </div>
-</div>';
-}
 
-?>
+</div>
+
+</div> <!-- #page-content-div -->
+</div> <!-- main .container -->
+
+<!-- FAB -->
+<div id="fab" class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+<a class="btn-floating btn-large amber accent-2">
+<i class="large material-icons">search</i>
+</a>
+<ul>
+	<li><a class="btn-floating red"><i class="material-icons">insert_chart</i></a></li>
+	<li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li>
+	<li><a class="btn-floating green"><i class="material-icons">publish</i></a></li>
+	<li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
+</ul>
+</div>
+
+<div class="foot">
+Website Admin/Designer: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
+| This site was created by members of the <a href="http://learnnavi.org/">LearnNa'vi.org</a> forum. <br />
+This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
+Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
+respective owners.<br />
+<b>'Ivong Na'vi!</b>
+</div>
+<script src="/material/res/jquery.min.js"></script>
+<script src="/material/res/materialize.min.js"></script>
+<script>
+$( document ).ready(function(){
+	$(".button-collapse").sideNav();
+})
+</script>
+</main>
+</html>

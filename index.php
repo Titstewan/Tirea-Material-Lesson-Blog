@@ -37,7 +37,7 @@ function hp_main()
 	// Here's the $_REQUEST['page'] array - $_REQUEST['page'] => array($file, $function).
 	$pageArray = array(
 		'sounds' => array('source.php', 'abc_sound'),
-		'generator' => array('generate.php', 'name_gen'),
+		//'generator' => array('generate.php', 'name_gen'),
 		'links' => array('source.php', 'aysaheylu'),
 		'downloads' => array('source.php', 'navi_download'),
 		'lessons' => array('source.php', 'navi_lesson'),

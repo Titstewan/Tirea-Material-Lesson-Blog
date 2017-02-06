@@ -624,7 +624,7 @@ function navi_download()
   <li class="collection-item"><a class="collection-link" href="download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard Mod [APK Android App]</a><br>KXWERTY keyboard layout for Android</li>
   <li class="collection-item"><a class="collection-link" href="download/ts3_Client_LN_Sound_Pack-0.2.zip">TS3 Voice Pack [ZIP]</a><br>Na&#39;vi Language support for TeamSpeak 3</li>
   <li class="collection-item"><a class="collection-link" href="download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br>KXWERTY keyboard layout for Windows / Mac</li>
-  <li class="collection-item"><a class="collection-link" href="', $weblink ,'?page=generator">Na&#39;vi Name Generator</a><br>Generates valid names</li>
+  <li class="collection-item"><a class="collection-link" href="generate.php">Na&#39;vi Name Generator</a><br>Generates valid names</li>
   <!-- <li class="collection-item"><a class="collection-link" href="/material/img">images folder</a><br>Bunch of old memes and comics and whatnot, some Na&#39;vi-related</li> -->
 </ul>';
 }
@@ -653,4 +653,3 @@ function navi_lesson()
 }
 
 ?>
-
