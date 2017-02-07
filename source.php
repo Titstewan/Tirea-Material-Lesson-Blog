@@ -1,3 +1,4 @@
+
 <?php
 /*----------------------------
 This is a new custom home page for Tirea Tean's Lesson Blog.
@@ -20,17 +21,16 @@ titstewan-learnnavi.org
 ----------------------------*/
 
 // Some php functions for generating the site
-if (!defined('TLB'))
-	die('No direct access...');
+if (!defined('TLB')) die('No direct access...');
 
 // some variables that NEED to be defined!
 $weblink = '/material/index.php';
+$lessondir = 'lessons';
 
 // ...html header (<html><body>)...
 function html_header()
 {
 	global $weblink;
-
 	echo '<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
@@ -49,23 +49,23 @@ function html_header()
   <header>
     <nav>
       <div class="nav-wrapper">
-        <a href="', $weblink ,'" class="brand-logo">Tirea Na&apos;vi</a>
+        <a href="', $weblink, '" class="brand-logo">Tirea Na&apos;vi</a>
         <!-- <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a> -->
         <a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a>
         <ul class="right hide-on-med-and-down" id="regnav">
-          <li><a href="', $weblink ,'">Home</a></li>
-          <li><a href="', $weblink ,'?page=sounds">Sounds</a></li>
-          <li><a href="', $weblink ,'?page=lessons">Lessons</a></li>
-          <li><a href="', $weblink ,'?page=links">Links</a></li>
-          <li><a href="', $weblink ,'?page=downloads">Downloads</a></li>
+          <li><a href="', $weblink, '">Home</a></li>
+          <li><a href="', $weblink, '?page=sounds">Sounds</a></li>
+          <li><a href="', $weblink, '?page=lessons">Lessons</a></li>
+          <li><a href="', $weblink, '?page=links">Links</a></li>
+          <li><a href="', $weblink, '?page=downloads">Downloads</a></li>
           <li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="res/rss-icon.png"></a></li>
         </ul>
         <ul class="side-nav" id="mobilenav">
-          <li><a href="', $weblink ,'">Home</a></li>
-          <li><a href="', $weblink ,'?page=sounds">Sounds</a></li>
-          <li><a href="', $weblink ,'?page=lessons">Lessons</a></li>
-          <li><a href="', $weblink ,'?page=links">Links</a></li>
-          <li><a href="', $weblink ,'?page=downloads">Downloads</a></li>
+          <li><a href="', $weblink, '">Home</a></li>
+          <li><a href="', $weblink, '?page=sounds">Sounds</a></li>
+          <li><a href="', $weblink, '?page=lessons">Lessons</a></li>
+          <li><a href="', $weblink, '?page=links">Links</a></li>
+          <li><a href="', $weblink, '?page=downloads">Downloads</a></li>
           <li><a href="feed.xml">RSS Feed</a></li>
         </ul>
       </div>
@@ -119,7 +119,6 @@ function html_bottom()
 function home()
 {
 	global $weblink;
-
 	echo '
       <div class="tooltip" id="index-tt">
         <div class="titlename"><span>Zola&#39;u N&igrave;prrte&#39;</span></div>
@@ -143,7 +142,7 @@ function home()
                 </p>
               </div>
               <div class="card-action">
-                <a class="amber-text accent-2" href="', $weblink ,'?page=lessons">Get started</a>
+                <a class="amber-text accent-2" href="', $weblink, '?page=lessons">Get started</a>
               </div>
             </div>
           </div>
@@ -580,6 +579,7 @@ Your browser does not support the audio element.
 }
 
 // The link page
+
 function aysaheylu()
 {
 	echo '
@@ -587,26 +587,27 @@ function aysaheylu()
 
   <ul class="collection with-header">
     <li class="collection-header"><h4>Things I think are cool</h4></li>
-    <li class="collection-item"><a class="collection-link" href="https://soundcloud.com/thesoundsofpandora">The Sounds of Pandora</a><br>Official Avatar SoundCloud</li>
-    <li class="collection-item"><a class="collection-link" href="http://dict-navi.com">Dict-Na&#39;vi.com</a><br>Online Na&#39;vi Dictionary Search Engine</li>
-    <li class="collection-item"><a class="collection-link" href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br>Epic Na&#39;vi Number translator thingy</li>
-    <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a><br>Learn Na&#39;vi Memrise Course</li>
-    <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/51606/navi-useful-phrases/">Na&#39;vi Useful Phrases</a><br>Na&#39;vi Phrases Memrise Course</li>
-    <li class="collection-item"><a class="collection-link" href="http://naviteri.org">Na&#39;viteri.org</a><br>Paul Frommer&#39;s Blog</li>
-    <li class="collection-item"><a class="collection-link" href="http://layonyayo.com">Layon Yayo</a><br>Na&#39;vi Web Comic by Eana Unil</li>
-    <li class="collection-item"><a class="collection-link" href="http://www.avatarnation.net">Avatar Nation</a><br>Avatar Fan Site / Podcast</li>
+    <li class="collection-item"><a class="collection-link" href="https://soundcloud.com/thesoundsofpandora">The Sounds of Pandora</a><br />Official Avatar SoundCloud</li>
+    <li class="collection-item"><a class="collection-link" href="http://dict-navi.com">Dict-Na&#39;vi.com</a><br />Online Na&#39;vi Dictionary Search Engine</li>
+    <li class="collection-item"><a class="collection-link" href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br />Epic Na&#39;vi Number translator thingy</li>
+    <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a><br />Learn Na&#39;vi Memrise Course</li>
+    <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/51606/navi-useful-phrases/">Na&#39;vi Useful Phrases</a><br />Na&#39;vi Phrases Memrise Course</li>
+    <li class="collection-item"><a class="collection-link" href="http://naviteri.org">Na&#39;viteri.org</a><br />Paul Frommer&#39;s Blog</li>
+    <li class="collection-item"><a class="collection-link" href="http://layonyayo.com">Layon Yayo</a><br />Na&#39;vi Web Comic by Eana Unil</li>
+    <li class="collection-item"><a class="collection-link" href="http://www.avatarnation.net">Avatar Nation</a><br />Avatar Fan Site / Podcast</li>
+		<li class="collection-item"><a class="collection-link" href="generate.php">Na&#39;vi Name Generator</a><br />Generates valid names</li>
   </ul>
 
   <ul class="collection with-header">
     <li class="collection-header"><h4>Na&#39;vi Blogs I read</h4></li>
-    <li class="collection-item"><a class="collection-link" href="http://tireaaean.wordpress.com">Pìlok Tireayä Aean</a><br>Tirea Aean</li>
-    <li class="collection-item"><a class="collection-link" href="http://masempul.org">Ma Sempul</a><br>Prrton</li>
-    <li class="collection-item"><a class="collection-link" href="http://stegemue.blogspot.com">Aylì’uä Ramunong</a><br>Plumps</li>
-    <li class="collection-item"><a class="collection-link" href="http://eana-elf.blogspot.com/">Blog of Blue Elf</a><br>Blue Elf</li>
-    <li class="collection-item"><a class="collection-link" href="http://leeylan.blogg.se">Le&#39;eylan</a><br>Le&#39;eylan</li>
-    <li class="collection-item"><a class="collection-link" href="http://ngawng.blogspot.com">SìLawk LeKye&#39;ung</a><br>Ngawng</li>
-    <li class="collection-item"><a class="collection-link" href="http://tsyesika.co.uk">Tsyesìkayä Pìlok</a><br>Tsyesìka</li>
-    <li class="collection-item"><a class="collection-link" href="http://eanaunil.blogspot.com/">Tskxekeng ne tìyo&#39;</a><br>Eana Unil</li>
+    <li class="collection-item"><a class="collection-link" href="http://tireaaean.wordpress.com">Pìlok Tireayä Aean</a><br />Tirea Aean</li>
+    <li class="collection-item"><a class="collection-link" href="http://masempul.org">Ma Sempul</a><br />Prrton</li>
+    <li class="collection-item"><a class="collection-link" href="http://stegemue.blogspot.com">Aylì’uä Ramunong</a><br />Plumps</li>
+    <li class="collection-item"><a class="collection-link" href="http://eana-elf.blogspot.com/">Blog of Blue Elf</a><br />Blue Elf</li>
+    <li class="collection-item"><a class="collection-link" href="http://leeylan.blogg.se">Le&#39;eylan</a><br />Le&#39;eylan</li>
+    <li class="collection-item"><a class="collection-link" href="http://ngawng.blogspot.com">SìLawk LeKye&#39;ung</a><br />Ngawng</li>
+    <li class="collection-item"><a class="collection-link" href="http://tsyesika.co.uk">Tsyesìkayä Pìlok</a><br />Tsyesìka</li>
+    <li class="collection-item"><a class="collection-link" href="http://eanaunil.blogspot.com/">Tskxekeng ne tìyo&#39;</a><br />Eana Unil</li>
   </ul>';
 }
 
@@ -614,42 +615,52 @@ function aysaheylu()
 function navi_download()
 {
 	global $weblink;
-
 	echo '
 <ul class="collection with-header">
   <li class="collection-header"><h4>Other Things Hosted On This Site</h4></li>
-  <li class="collection-item"><a class="collection-link" href="download/101-Handout-4-WA-2012.pdf">Na\'vi 101 Handout [PDF]</a><br>From AvatarMeet 2012 Seattle, WA</li>
-  <li class="collection-item"><a class="collection-link" href="download/102-Handout-4-DC-2013.pdf">Na\'vi 102 Handout [PDF]</a><br>From AvatarMeet 2013 Washington, DC</li>
-  <li class="collection-item"><a class="collection-link" href="download/103-Handout-4-LA-2014.pdf">Na\'vi 103 Handout [PDF]</a><br>From AvatarMeet 2014 Los Angeles, CA</li>
-  <li class="collection-item"><a class="collection-link" href="download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard Mod [APK Android App]</a><br>KXWERTY keyboard layout for Android</li>
-  <li class="collection-item"><a class="collection-link" href="download/ts3_Client_LN_Sound_Pack-0.2.zip">TS3 Voice Pack [ZIP]</a><br>Na&#39;vi Language support for TeamSpeak 3</li>
-  <li class="collection-item"><a class="collection-link" href="download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br>KXWERTY keyboard layout for Windows / Mac</li>
-  <li class="collection-item"><a class="collection-link" href="generate.php">Na&#39;vi Name Generator</a><br>Generates valid names</li>
-  <!-- <li class="collection-item"><a class="collection-link" href="/material/img">images folder</a><br>Bunch of old memes and comics and whatnot, some Na&#39;vi-related</li> -->
+  <li class="collection-item"><a class="collection-link" href="download/101-Handout-4-WA-2012.pdf">Na\'vi 101 Handout [PDF]</a><br />From AvatarMeet 2012 Seattle, WA</li>
+  <li class="collection-item"><a class="collection-link" href="download/102-Handout-4-DC-2013.pdf">Na\'vi 102 Handout [PDF]</a><br />From AvatarMeet 2013 Washington, DC</li>
+  <li class="collection-item"><a class="collection-link" href="download/103-Handout-4-LA-2014.pdf">Na\'vi 103 Handout [PDF]</a><br />From AvatarMeet 2014 Los Angeles, CA</li>
+  <li class="collection-item"><a class="collection-link" href="download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard Mod [APK Android App]</a><br />KXWERTY keyboard layout for Android</li>
+  <li class="collection-item"><a class="collection-link" href="download/ts3_Client_LN_Sound_Pack-0.2.zip">TS3 Voice Pack [ZIP]</a><br />Na&#39;vi Language support for TeamSpeak 3</li>
+  <li class="collection-item"><a class="collection-link" href="download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br />KXWERTY keyboard layout for Windows / Mac</li>
+  <!-- <li class="collection-item"><a class="collection-link" href="/material/img">images folder</a><br />Bunch of old memes and comics and whatnot, some Na&#39;vi-related</li> -->
 </ul>';
 }
 
 // The Na'vi lessons
-function navi_lesson()
+function navi_lesson($lnum)
 {
-	echo '
-        <div class="titlename">Na\'vi Language Lessons</div>
-        <br><br>
+	global $lessondir;
+	if ($lnum != '')
+	{
+		require_once 'Parsedown.php';
 
-        <h1>Conversational Lessons</h1>
+		$Parsedown = new Parsedown();
+		$f = $lessondir . '/' . $lnum . '.md';
+		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) : "File Not Found: " . htmlspecialchars($f);
+	}
+	else
+	{
+		echo '
+	        <div class="titlename">Na\'vi Language Lessons</div>
+	        <br /><br />
 
-        <ul class="collection with-header">
-          <li class="collection-header"><h4>Beginners\' Basics</h4></li>
-          <li class="collection-item"><a class="collection-link" href="01.php">Greetings &amp; Introductions</a></li>
-          <!-- <li class="collection-item"><a class="collection-link" href="02.php">What are you doing?</a></li> -->
-        </ul>
+	        <h1>Conversational Lessons</h1>
 
-        <h1>Simplified Grammar Lessons</h1>
+	        <ul class="collection with-header">
+	          <li class="collection-header"><h4>Beginners\' Basics</h4></li>
+	          <li class="collection-item"><a class="collection-link" href="01.php">Greetings &amp; Introductions</a></li>
+	          <!-- <li class="collection-item"><a class="collection-link" href="02.php">What are you doing?</a></li> -->
+	        </ul>
 
-        <ul class="collection with-header">
-          <li class="collection-header"><h4>Intro to Na\'vi Grammar</h4></li>
-          <li class="collection-item"><a class="collection-link" href="01g.php">Word Order &amp; Simple Sentences</li>
-        </ul>';
+	        <h1>Simplified Grammar Lessons</h1>
+
+	        <ul class="collection with-header">
+	          <li class="collection-header"><h4>Intro to Na\'vi Grammar</h4></li>
+	          <li class="collection-item"><a class="collection-link" href="01g.php">Word Order &amp; Simple Sentences</li>
+	        </ul>';
+	}
 }
 
 ?>
