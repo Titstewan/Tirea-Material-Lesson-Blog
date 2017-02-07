@@ -143,6 +143,10 @@ h1, h2, h3, h4, .titlename, .collection-header {
 	padding-bottom: 40px;
 }
 
+blockquote {
+	border-left: 0px;
+}
+
 .navword {
 	font-weight: bold;
 	color: #06619F;

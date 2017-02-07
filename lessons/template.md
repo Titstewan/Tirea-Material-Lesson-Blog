@@ -1,4 +1,4 @@
-# Lesson title
+# <span class="titlename">Lesson title</span>
 
 Paragraph about some stuff here.
 
@@ -12,18 +12,18 @@ Paragraph about some stuff here.
 
 Paragraph about thing 1 here.
 
-	Blockquote, probably.
+> Blockquote, probably.
 
 # Thing 2
 
 Paragraph about thing 2 here.
 
-	Blockquote again, I thin.
+> Blockquote again, I think.
 
 # Thing 3
 
-Paragraph about thing 3 here.
+Paragraph about thing 3 here. Gonna need to edit some CSS.
 
-	And stuff.
+> And stuff.
 
 Some text. [here is a link.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
