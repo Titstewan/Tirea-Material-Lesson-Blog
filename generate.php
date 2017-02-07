@@ -4,7 +4,8 @@ if (!defined('TLB'))
   die('No direct access...');
 
 // The name generator
-function getInitial () {
+function getInitial()
+{
   $type;
   $result;
 
@@ -157,8 +158,8 @@ function getInitial () {
   return $result;
 }
 
-function getNucleus () {
-
+function getNucleus()
+{
   $isDiphthong;
   $result;
 
@@ -198,8 +199,8 @@ function getNucleus () {
   return $result;
 }
 
-function getCoda () {
-
+function getCoda()
+{
   $result;
   $rz = rand(0, 320);
 
