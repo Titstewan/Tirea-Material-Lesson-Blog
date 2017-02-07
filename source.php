@@ -641,6 +641,11 @@ function navi_lesson($lnum)
 	//       $lnum as found in this function should already be the l value in the URL
 	//$lnum = '1';  // ← Unless you do this.
 	//       the above assignment is unnecessary because index.php?page=lessons&l=1 already sets this to 1.
+	// TIT: I see what I did here, hrh. I really should sit down on a weekend and think for
+	//	a way to let stuff pass without hax, hrh.gif.
+	//	PS: the hax at generate.php what the most hilarious hax I have seen. Thanks so much for this HRH.
+	//	PPS: holy ikran, if we continue working on this and making stuff better, ladies and gentlemens,
+	// 	we have a total custom website unit, just wou.
 	
 	if ($lnum != '')
 	{
