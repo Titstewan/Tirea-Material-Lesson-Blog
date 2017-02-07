@@ -55,7 +55,7 @@ function html_header()
         <ul class="right hide-on-med-and-down" id="regnav">
           <li><a href="', $weblink, '">Home</a></li>
           <li><a href="', $weblink, '?page=sounds">Sounds</a></li>
-          <li><a href="', $weblink, '?page=lessons">Lessons</a></li>
+          <li><a href="', $weblink, '?page=lessons&l">Lessons</a></li>
           <li><a href="', $weblink, '?page=links">Links</a></li>
           <li><a href="', $weblink, '?page=downloads">Downloads</a></li>
           <li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="res/rss-icon.png"></a></li>
@@ -63,7 +63,7 @@ function html_header()
         <ul class="side-nav" id="mobilenav">
           <li><a href="', $weblink, '">Home</a></li>
           <li><a href="', $weblink, '?page=sounds">Sounds</a></li>
-          <li><a href="', $weblink, '?page=lessons">Lessons</a></li>
+          <li><a href="', $weblink, '?page=lessons&l">Lessons</a></li>
           <li><a href="', $weblink, '?page=links">Links</a></li>
           <li><a href="', $weblink, '?page=downloads">Downloads</a></li>
           <li><a href="feed.xml">RSS Feed</a></li>
@@ -142,7 +142,7 @@ function home()
                 </p>
               </div>
               <div class="card-action">
-                <a class="amber-text accent-2" href="', $weblink, '?page=lessons">Get started</a>
+                <a class="amber-text accent-2" href="', $weblink, '?page=lessons&l">Get started</a>
               </div>
             </div>
           </div>
