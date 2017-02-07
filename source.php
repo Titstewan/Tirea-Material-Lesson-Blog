@@ -579,7 +579,6 @@ Your browser does not support the audio element.
 }
 
 // The link page
-
 function aysaheylu()
 {
 	global $weblink;
@@ -617,6 +616,8 @@ function navi_download()
 {
 	global $weblink;
 	echo '
+<div class="titlename">Downloads</div>
+
 <ul class="collection with-header">
   <li class="collection-header"><h4>Other Things Hosted On This Site</h4></li>
   <li class="collection-item"><a class="collection-link" href="download/101-Handout-4-WA-2012.pdf">Na\'vi 101 Handout [PDF]</a><br />From AvatarMeet 2012 Seattle, WA</li>
