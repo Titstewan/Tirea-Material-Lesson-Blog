@@ -29,7 +29,12 @@ html_header();
 // What function shall we execute? (done like this for memory's sake.)
 if (isset($_REQUEST['page']) && $_REQUEST['page'] == 'lessons' && isset($_REQUEST['l']))
 {
-	call_user_func('navi_lesson', $_REQUEST['l']);
+	call_user_func(hp_main(), $_REQUEST['l']);
+}
+else if ($_REQUEST['page'] == 'generator')
+{
+	require_once 'generate.php';
+	call_user_func(hp_main(), $_REQUEST['a'], $_REQUEST['b'], $_REQUEST['c'], $_REQUEST['k'], $_REQUEST['hrh']);
 }
 else
 {
@@ -44,7 +49,7 @@ function hp_main()
 	// Here's the $_REQUEST['page'] array - $_REQUEST['page'] => array($file, $function).
 	$pageArray = array(
 		'sounds' => array('source.php', 'abc_sound'),
-		//'generator' => array('generate.php', 'name_gen'),
+		'generator' => array('generate.php', 'name_gen'),
 		'links' => array('source.php', 'aysaheylu'),
 		'downloads' => array('source.php', 'navi_download'),
 		'lessons' => array('source.php', 'navi_lesson'),
