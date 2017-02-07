@@ -634,6 +634,10 @@ function navi_download()
 function navi_lesson($lnum)
 {
 	global $lessondir;
+	
+	// This should be a function or something. $lnum is currently just '1' for testing.
+	$lnum = '1';
+	
 	if ($lnum != '')
 	{
 		require_once 'Parsedown.php';
