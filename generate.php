@@ -358,7 +358,7 @@ function name_gen($first, $family, $parent, $repeat, $hrh)
 
   <div style="margin-top: 18px; text-align: center; border-top: 1px solid #eeeeee; padding-top: 5px; ">
     <a href="http://forum.learnnavi.org/projects/web-based-navi-name-generator!/msg566249/#msg566249">
-      Web-based Na&39;vi Name Generator!
+      Web-based Na\'vi Name Generator!
     </a> by Uniltìrantokx te Skxawng
   </div>
 
