@@ -636,7 +636,11 @@ function navi_lesson($lnum)
 	global $lessondir;
 	
 	// This should be a function or something. $lnum is currently just '1' for testing.
-	$lnum = '1';
+	// TA: not really because this gets $lnum parameter passed to it from index.php...
+	//       seemed good to have index.php?page=lessons&l=[0-9]+ call this function and pass it what it gets from $_REQUEST['l'].
+	//       $lnum as found in this function should already be the l value in the URL
+	//$lnum = '1';  // ← Unless you do this.
+	//       the above assignment is unnecessary because index.php?page=lessons&l=1 already sets this to 1.
 	
 	if ($lnum != '')
 	{
