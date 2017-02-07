@@ -1,4 +1,7 @@
 <?php
+// No direct access to this file :P
+if (!defined('TLB'))
+	die('No direct access...');
 
 #
 #
