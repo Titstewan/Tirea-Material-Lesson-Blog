@@ -5,7 +5,14 @@
 // This is kind of important.
 define('TLB', 1);
 
+// Error reports! WoOoOOoo!
+error_reporting(E_ALL & ~E_NOTICE);
+
+// define the dir
 $sourcedir = dirname(__FILE__);
+
+// Path to the lessons
+$lessondir =  '/material/lessons';
 
 // Emit some headers for some modicum of protection against nasties.
 if (!headers_sent())
@@ -15,8 +22,6 @@ if (!headers_sent())
 	header('X-XSS-Protection: 1');
 	header('X-Content-Type-Options: nosniff');
 }
-
-error_reporting(E_ALL & ~E_NOTICE);
 
 // Let's require the source file!
 require_once($sourcedir . '/source.php');
