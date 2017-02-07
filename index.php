@@ -33,7 +33,6 @@ if (isset($_REQUEST['page']) && $_REQUEST['page'] == 'lessons' && isset($_REQUES
 }
 else if ($_REQUEST['page'] == 'generator')
 {
-	require_once 'generate.php';
 	call_user_func(hp_main(), $_REQUEST['a'], $_REQUEST['b'], $_REQUEST['c'], $_REQUEST['k'], $_REQUEST['hrh']);
 }
 else
