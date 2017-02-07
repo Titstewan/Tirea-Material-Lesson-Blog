@@ -1,9 +1,9 @@
 <?php
 // Some php functions for generating the site
-if (!defined('TLB')) die('No direct access...');
+if (!defined('TLB'))
+  die('No direct access...');
 
-error_reporting(E_ALL & ~E_NOTICE);
-
+// The name generator
 function getInitial () {
   $type;
   $result;
@@ -357,7 +357,7 @@ function name_gen($first, $family, $parent, $repeat, $hrh)
   </div>
 
   <div style="margin-top: 18px; text-align: center; border-top: 1px solid #eeeeee; padding-top: 5px; ">
-    <a href="http://forum.learnnavi.org/projects/web-based-navi-name-generator!/msg566249/#msg566249">
+    <a href="http://forum.learnnavi.org/index.php?msg=566249">
       Web-based Na\'vi Name Generator!
     </a> by Uniltìrantokx te Skxawng
   </div>
