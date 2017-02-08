@@ -234,7 +234,7 @@ function getCoda()
   return $result;
 }
 
-function name_gen($first, $family, $parent, $repeat, $hrh)
+function name_gen()
 {
   echo '<h4>';
 
@@ -297,7 +297,7 @@ function name_gen($first, $family, $parent, $repeat, $hrh)
 
     <form class="col s12" name="sform" action="index.php" method="get">
 
-    <input type="text" name="page" value="generator" style="display: none"> <!-- TEH HAAAAXX0RZZ! hrh.gif -->
+    <input type="hidden" name="page" value="generator"> <!-- TEH HAAAAXX0RZZ! hrh.gif -->
 
       <div class="row">
         <div class="input-field col s12 l4">
