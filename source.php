@@ -634,7 +634,7 @@ function navi_download()
 function navi_lesson($lnum)
 {
 	global $lessondir;
-	
+
 	// This should be a function or something. $lnum is currently just '1' for testing.
 	// TA: not really because this gets $lnum parameter passed to it from index.php...
 	//       seemed good to have index.php?page=lessons&l=[0-9]+ call this function and pass it what it gets from $_REQUEST['l'].
@@ -646,7 +646,9 @@ function navi_lesson($lnum)
 	//	PS: the hax at generate.php what the most hilarious hax I have seen. Thanks so much for this HRH.
 	//	PPS: holy ikran, if we continue working on this and making stuff better, ladies and gentlemens,
 	// 	we have a total custom website unit, just wou.
-	
+	// TA: Yeah, I can't wait to get this to the point where I put it into production :D
+	//     The only problem is, All links to pages in this website ever shared will be broken...
+
 	if ($lnum != '')
 	{
 		require_once 'Parsedown.php';
