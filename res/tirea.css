@@ -15,7 +15,8 @@ html, body {
 
 main {
 	width: 100%;
-	background-color: #fff;
+	background-color:#fafafa;
+	color:#555;
 }
 
 h1 {
@@ -35,12 +36,16 @@ h4 {
 }
 
 ul {
-	padding-left: 40px;
+	padding-left: 20px;
 }
 
 a {
 	cursor: pointer;
 	cursor: hand;
+}
+
+strong {
+	font-weight: bold;
 }
 
 .nav-wrapper {
@@ -141,6 +146,15 @@ h1, h2, h3, h4, .titlename, .collection-header {
 #page-content-div {
 	padding-top: 40px;
 	padding-bottom: 40px;
+}
+
+#page-content-div > h1:first-of-type {
+	font-family: Maiandra GD, sans-serif;
+	text-align: center;
+	font-size: 2.1rem;
+	letter-spacing: 0px;
+	line-height: 1.1em;
+	margin: 0 0 0 0;
 }
 
 blockquote {
