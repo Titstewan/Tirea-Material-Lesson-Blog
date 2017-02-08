@@ -1,26 +1,48 @@
-# <span class="titlename">Lesson title</span>
+# Lesson title
 
 Paragraph about some stuff here.
 
-#### Learning Objectives
+## Learning Objectives
 
-* Thing 1
-* Thing 2
-* Thing 3
+| Testing | Markdown | Tables |
+| ------- | -------- | ------ |
+| Thing 1 | Thing 2  | Thing 3|
+| Row 2   | Goes     | Here   |
 
-# Thing 1
+Numbered List:
+1. First
+  * Nested
+  * List
+  * Items
+2. Second
+  + plus
+  + sign
+  + list
+3. Third
+  - minus
+  - sign
+  - list
+
+**bold**  
+*italics*  
+~~strikethrough~~
+
+Horizontal Rule  
+____
+
+## Thing 1
 
 Paragraph about thing 1 here.
 
 > Blockquote, probably.
 
-# Thing 2
+## Thing 2
 
 Paragraph about thing 2 here.
 
 > Blockquote again, I think.
 
-# Thing 3
+## Thing 3
 
 Paragraph about thing 3 here. Gonna need to edit some CSS.
 
