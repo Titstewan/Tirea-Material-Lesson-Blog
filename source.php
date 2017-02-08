@@ -637,17 +637,20 @@ function navi_lesson($lnum)
 
 	// This should be a function or something. $lnum is currently just '1' for testing.
 	// TA: not really because this gets $lnum parameter passed to it from index.php...
-	//       seemed good to have index.php?page=lessons&l=[0-9]+ call this function and pass it what it gets from $_REQUEST['l'].
-	//       $lnum as found in this function should already be the l value in the URL
+	//	seemed good to have index.php?page=lessons&l=[0-9]+ call this function and pass it what it gets from $_REQUEST['l'].
+	//	$lnum as found in this function should already be the l value in the URL
 	//$lnum = '1';  // ← Unless you do this.
-	//       the above assignment is unnecessary because index.php?page=lessons&l=1 already sets this to 1.
+	//	the above assignment is unnecessary because index.php?page=lessons&l=1 already sets this to 1.
 	// TIT: I see what I did here, hrh. I really should sit down on a weekend and think for
 	//	a way to let stuff pass without hax, hrh.gif.
 	//	PS: the hax at generate.php what the most hilarious hax I have seen. Thanks so much for this HRH.
 	//	PPS: holy ikran, if we continue working on this and making stuff better, ladies and gentlemens,
 	// 	we have a total custom website unit, just wou.
 	// TA: Yeah, I can't wait to get this to the point where I put it into production :D
-	//     The only problem is, All links to pages in this website ever shared will be broken...
+	//	The only problem is, All links to pages in this website ever shared will be broken...
+	// TIT: Yeah, this is true, but is that really bad? I mean, we have switched the gallery plugin on the forum, by that
+	//	a truckload of links went to Eywa.
+	//	Kop, "tirea.learnnavi.org" or tirea.learnnavi.org/index.php will still work.
 
 	if ($lnum != '')
 	{
