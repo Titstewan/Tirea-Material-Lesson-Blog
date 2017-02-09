@@ -651,6 +651,9 @@ function navi_lesson($lnum)
 	// TIT: Yeah, this is true, but is that really bad? I mean, we have switched the gallery plugin on the forum, by that
 	//	a truckload of links went to Eywa.
 	//	Kop, "tirea.learnnavi.org" or tirea.learnnavi.org/index.php will still work.
+	// TA: No, It's really not that bad. It is what it is. People are gonna say the links are broken and we'll give them new links.
+	//     Okay, actually, this comment is starting to get REALLY long now. HRH I think I'm gonna remove all of this in the commit after this commit.
+	//     What a strange and uncenventional system of sending messages. Forget about email, let's use code comments shared via github commits. HRH.gif
 
 	if ($lnum != '')
 	{
