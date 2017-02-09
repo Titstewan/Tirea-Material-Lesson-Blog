@@ -635,54 +635,60 @@ function navi_lesson($lnum)
 {
 	global $lessondir;
 
-	// This should be a function or something. $lnum is currently just '1' for testing.
-	// TA: not really because this gets $lnum parameter passed to it from index.php...
-	//	seemed good to have index.php?page=lessons&l=[0-9]+ call this function and pass it what it gets from $_REQUEST['l'].
-	//	$lnum as found in this function should already be the l value in the URL
-	//$lnum = '1';  // ← Unless you do this.
-	//	the above assignment is unnecessary because index.php?page=lessons&l=1 already sets this to 1.
-	// TIT: I see what I did here, hrh. I really should sit down on a weekend and think for
-	//	a way to let stuff pass without hax, hrh.gif.
-	//	PS: the hax at generate.php what the most hilarious hax I have seen. Thanks so much for this HRH.
-	//	PPS: holy ikran, if we continue working on this and making stuff better, ladies and gentlemens,
-	// 	we have a total custom website unit, just wou.
-	// TA: Yeah, I can't wait to get this to the point where I put it into production :D
-	//	The only problem is, All links to pages in this website ever shared will be broken...
-	// TIT: Yeah, this is true, but is that really bad? I mean, we have switched the gallery plugin on the forum, by that
-	//	a truckload of links went to Eywa.
-	//	Kop, "tirea.learnnavi.org" or tirea.learnnavi.org/index.php will still work.
-	// TA: No, It's really not that bad. It is what it is. People are gonna say the links are broken and we'll give them new links.
-	//     Okay, actually, this comment is starting to get REALLY long now. HRH I think I'm gonna remove all of this in the commit after this commit.
-	//     What a strange and uncenventional system of sending messages. Forget about email, let's use code comments shared via github commits. HRH.gif
-
+	// Something (Hopefully lesson) was requested in l= URL var
 	if ($lnum != '')
 	{
+		// Fire up the Markdown Parser
 		require_once 'Parsedown.php';
-
 		$Parsedown = new Parsedown();
+		// Ready the Markdown Lesson File
 		$f = $lessondir . '/' . $lnum . '.md';
+		// Parse the file and echo it as HTML, or echo not found.
 		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) : "File Not Found: " . htmlspecialchars($f);
 	}
+	// No lesson was requested, all we do is show Lesson index.
 	else
 	{
 		echo '
-	        <div class="titlename">Na\'vi Language Lessons</div>
-	        <br /><br />
+		<div class="titlename">Na\'vi Language Lessons</div>
+		<br><br>
 
-	        <h1>Conversational Lessons</h1>
+		<!-- <h1>Conversational Lessons</h1>
 
-	        <ul class="collection with-header">
-	          <li class="collection-header"><h4>Beginners\' Basics</h4></li>
-	          <li class="collection-item"><a class="collection-link" href="01.php">Greetings &amp; Introductions</a></li>
-	          <!-- <li class="collection-item"><a class="collection-link" href="02.php">What are you doing?</a></li> -->
-	        </ul>
+		<ul class="collection with-header">
+			<li class="collection-header"><h4>Beginners\' Basics</h4></li>
+			<li class="collection-item"><a class="collection-link" href="01.php">Greetings &amp; Introductions</a></li>
+			<li class="collection-item"><a class="collection-link" href="02.php">What are you doing?</a></li>
+		</ul> -->
 
-	        <h1>Simplified Grammar Lessons</h1>
+		<h1>Simplified Grammar Lessons</h1>
 
-	        <ul class="collection with-header">
-	          <li class="collection-header"><h4>Intro to Na\'vi Grammar</h4></li>
-	          <li class="collection-item"><a class="collection-link" href="01g.php">Word Order &amp; Simple Sentences</li>
-	        </ul>';
+		<p>While I\'m working on new content and the back end of this website, here are the classic lessons. Tried and true over the years, and now back by popular demand.</p>
+
+		<ul class="collection with-header">
+			<!-- <li class="collection-header"><h4>Intro to Na\'vi Grammar</h4></li> -->
+			<!-- <li class="collection-item"><a class="collection-link" href="01g.php">Word Order &amp; Simple Sentences</a></li> -->
+			<!-- old lessons -->
+			<li class="collection-header"><h4>Classic Tirea Na\'vi Lessons</h4></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/01c.php">01: Order, -l &amp; -t</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/02c.php">02: Past and Future</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/03c.php">03: Have, Plurals, Changes</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/04c.php">04: Describing Stuff</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/05c.php">05: Questions</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/06c.php">06: This &amp; That +misc</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/07c.php">07: -ru, -yä, and si</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/08c.php">08: &lt;iv&gt;</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/09c.php">09: -ri</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/10c.php">10: No and Not</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/11c.php">11: Pum</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/12c.php">12: -ing in Na&#39;vi</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/13c.php">13: F-words</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/14c.php">14: Colours</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/15c.php">15: Numbers</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/16c.php">16: &lt;eyk&gt;</a></li>
+			<li class="collection-item"><a class="collection-link" href="lessons/17c.php">17: Self</a></li>
+		</ul>
+		';
 	}
 }
 
