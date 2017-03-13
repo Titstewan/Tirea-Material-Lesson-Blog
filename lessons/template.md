@@ -1,8 +1,9 @@
 # Lesson Title
 
-**Kaltxì**! And welcome to Lesson X. Some introductory text.
+**Kaltxì**! And welcome to Lesson X. 
+Some introductory text.
 
-## Learning Objectives
+## Topics
 
 ### [Part 1](#1)
 

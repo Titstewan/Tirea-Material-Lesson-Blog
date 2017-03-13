@@ -661,7 +661,7 @@ function navi_lesson($lnum)
 
 		<ul class="collection with-header">
 			<li class="collection-header"><h4>Simplified Grammar Lessons: Intro to Na\'vi Grammar</h4></li>
-			<li class="collection-item"><a class="collection-link" href="#">Word Order &amp; Simple Sentences</a></li>
+			<li class="collection-item"><a class="collection-link" href="index.php?page=lessons&l=01g">Word Order &amp; Simple Sentences</a></li>
 		</ul>
 		';
 	}
