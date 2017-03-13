@@ -1,75 +1,88 @@
-# Lesson title
+# Lesson Title
 
-Paragraph about some stuff here.
+**Kaltxì**! And welcome to Lesson X. Some introductory text.
 
 ## Learning Objectives
 
-| Testing | Markdown | Tables |
-| ------- | -------- | ------ |
-| Thing 1 | Thing 2  | Thing 3|
-| Row 2   | Goes     | Here   |
+### [Part 1](#1)
 
-Numbered List:
-1. First
-  * Nested
-  * List
-  * Items
-2. Second
-  + plus
-  + sign
-  + list
-3. Third
-  - minus
-  - sign
-  - list
+### [Part 2](#2)
 
-**bold**  
-*italics*  
-~~strikethrough~~
+### [Part 3](#3)
 
-Horizontal Rule  
-____
+### [Part 4](#4)
 
-## Thing 1
+### [Dialogue](#d)
+
+### [Vocabulary Learned](#v)
+
+<span id="1">
+</span>
+
+## Part 1
 
 Paragraph about thing 1 here.
 
-> Blockquote, probably.
+- **Tìkenong fìtseng.**
+- _Example here._
 
-## Thing 2
+<span id="2">
+</span>
+
+## Part 2
 
 Paragraph about thing 2 here.
 
-> Blockquote again, I think.
+- **Tìkenong fìtseng.**
+- _Example here._
 
-## Thing 3
+<span id="3">
+</span>
 
-Paragraph about thing 3 here. Gonna need to edit some CSS.
+## Part 3
 
-> And stuff.
-
-### Thing 3.1
-    //code block
-    echo true;
-
-`backticks are code.`
-
-```java
-//probably some code as well
-public static void main(string[] args){}
-```
-
-**Na'vi word**
-
-## Thing 4
-
-paragraph here about some **Lì'u leNa'vi** (*Na'vi word*) followed by an example:
+Paragraph about thing 3 here.
 
 - **Tìkenong fìtseng.**
-- *Example here.*
+- _Example here._
 
-Na'vi                 | English
---------------------- | ---------------
-**Tìkenong fìtseng.** | *Example here.*
+<span id="4">
+</span>
+
+## Part 4
+
+paragraph here about some **Lì'u leNa'vi** (_Na'vi word_) followed by an example:
+
+- **Tìkenong fìtseng.**
+- _Example here._
+
+<span id="d">
+</span>
+
+## Dialogue
+
+### Na'vi Transcript
+
+- A: **ayu**
+- B: **ayu alahe**
+- A: **aylì'u**
+- B: **Tì'eyng**
+
+### English Translation
+
+- A: _stuff_
+- B: _other stuff_
+- A: _words_
+- B: _reply_
+
+<span id="v">
+</span>
+
+## Vocabulary Learned
+
+Na'vi        | English
+------------ | ---------
+**tìkenong** | _example_
+**fìtseng**  | _here_
 
 Some text. [here is a link.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
