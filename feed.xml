@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 
-<channel>
-  <title>Tirea Na'vi</title>
-  <link>http://tirea.learnnavi.org/material</link>
-  <description>Na'vi Language Lessons for Non-linguists</description>
-  <lastBuildDate>Sun, 16 Oct 2016 08:26:05 -0700</lastBuildDate>
+    <channel>
+        <title>Tirea Na'vi</title>
+        <link>http://tirea.learnnavi.org/material</link>
+        <description>Na'vi Language Lessons for Non-linguists</description>
+        <lastBuildDate>Sun, 16 Oct 2016 08:26:05 -0700</lastBuildDate>
 
-  <item>
-    <title>Greetings &amp; Introductions</title>
-    <author>tirea@learnnavi.org (Tirea Aean)</author>
-    <link>http://tirea.learnnavi.org/material/lessons/01.php</link>
-    <description>Hello, and welcome to the first of a new series of Na&#39;vi Language lessons! Here are some of the classic building blocks of getting started with conversation in Na'vi.</description>
-  </item>
+        <item>
+            <title>Word Order &amp; Simple Sentences</title>
+            <author>tirea@learnnavi.org (Tirea Aean)</author>
+            <link>http://tirea.learnnavi.org/material/index.php?page=lessons&l=01g</link>
+            <description>Kaltxì! Hello! And welcome to Lesson 1. This lesson will cover basic foundations of the grammar every beginner may want to start with. Makto ko!</description>
+        </item>
 
-  <!-- <item>
-    <title>What are you doing?</title>
-    <author>tirea@learnnavi.org (Tirea Aean)</author>
-    <link>http://tirea.learnnavi.org/material/lessons/02.php</link>
-    <description>Kaltxì! And welcome to Lesson 2. Continuing on a conversational approach, this time we will talk about doing stuff.</description>
-  </item> -->
-
-</channel>
-
+    </channel>
 </rss>
