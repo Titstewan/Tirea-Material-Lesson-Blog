@@ -18,6 +18,8 @@ navi_lesson()
 
 Author: Tìtstewan
 titstewan-learnnavi.org
+Co-Author: Tirea Aean
+tirea-learnnavi.org
 ----------------------------*/
 
 // Some php functions for generating the site
@@ -656,7 +658,6 @@ function navi_lesson($lnum)
 		<ul class="collection with-header">
 			<li class="collection-header"><h4>Conversational Lessons: Beginners\' Basics</h4></li>
 			<li class="collection-item"><a class="collection-link" href="#">Greetings &amp; Introductions</a></li>
-			<li class="collection-item"><a class="collection-link" href="#">What are you doing?</a></li>
 		</ul>
 
 		<ul class="collection with-header">
