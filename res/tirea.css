@@ -106,6 +106,8 @@ strong {
 
 h1, h2, h3, h4, .titlename, .collection-header {
 	color: #217CBA;
+	color: #0097A7;
+	color: #00ACC1;
 }
 
 #index-tt {
@@ -162,8 +164,41 @@ h1, h2, h3, h4, .titlename, .collection-header {
 	margin-top: 0px;
 }
 
+/* #page-content-div a {
+	color: #80DEEA;
+} */
+
 blockquote {
 	border-left: 5px solid #ffc107;
+}
+
+table{
+    display:block;
+    width:100%;
+    overflow:auto;
+}
+
+table th{
+    font-weight:600;
+    font-size: 14pt;
+}
+
+table th, table td{
+    padding:6px 13px;
+    border:1px solid #dfe2e5;
+}
+
+table th {
+	border-bottom: 3px solid #dfe2e5;
+}
+
+table tr{
+    background-color:#fff;
+    border-top:1px solid #c6cbd1;
+}
+
+table tr:nth-child(2n){
+    background-color:#E0F7FA;
 }
 
 .navword {
@@ -172,7 +207,7 @@ blockquote {
 }
 
 #fab {
-	display:none;
+	display: none;
 }
 
 .foot {
