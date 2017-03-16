@@ -1,4 +1,20 @@
 <?php
+/*----------------------------
+This is a new custom home page for Tirea Tean's Lesson Blog.
+
+This is the main index.php.
+This is the "mother page" :P
+
+Following functions are in use:
+
+hp_main()
+
+Author: Tìtstewan
+titstewan-learnnavi.org
+Co-Author: Tirea Aean
+tirea-learnnavi.org
+----------------------------*/
+
 // For some reasons, we will have to set up a memory limit to keep the server happy
 @ini_set('memory_limit', '8M');
 
@@ -70,5 +86,4 @@ function hp_main()
 
 // HTML end </html> plus the disclaimer
 html_bottom();
-
 ?>
