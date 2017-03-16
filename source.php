@@ -25,10 +25,6 @@ tirea-learnnavi.org
 // Some php functions for generating the site
 if (!defined('TLB')) die('No direct access...');
 
-// some variables that NEED to be defined!
-$weblink = '/material/index.php';
-$lessondir = 'lessons';
-
 // ...html header (<html><body>)...
 function html_header()
 {
