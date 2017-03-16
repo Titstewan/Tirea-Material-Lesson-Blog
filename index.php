@@ -27,8 +27,11 @@ error_reporting(E_ALL & ~E_NOTICE);
 // define the dir
 $sourcedir = dirname(__FILE__);
 
-// Path to the lessons
-$lessondir =  '/material/lessons';
+// path to the lesson dir
+$lessondir = $sourcedir . '/lessons';
+
+// define the weblink
+$weblink = '/material/index.php';
 
 // Emit some headers for some modicum of protection against nasties.
 if (!headers_sent())
