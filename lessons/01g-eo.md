@@ -10,83 +10,72 @@
 
 ### [Ordo de Vortoj](#1)
 
-### [Parto 2](#2)
+### [Plej Simplaj Frazoj](#2)
 
-### [Parto 3](#3)
-
-### [Parto 4](#4)
-
-### [Dialogo](#d)
+### [L kaj T Sufiksoj](#3)
 
 ### [Vortoj Uzitaj en Tiu Leciono](#v)
 
 <span id="1">
 </span>
 
-## Parto 1
+## Ordo de Vortoj
 
-Paragrafo pri unua afero tie.
+La ordor de vortoj en Na'via lingvo estas fleksibla kiel en Esperanto. Tial oni povas diri:
 
-- **Tìkenong fìtseng.**
-- _Ekzemplo tie._
+- **Poe tul.**
+- _Ŝi kuras._
+
+aŭ
+
+- **Tul poe.**
+- _Kuras ŝi._
+
+kaj la signifo estas sama.
 
 <span id="2">
 </span>
 
-## Parto 2
+## Plej Simplaj Frazoj
 
-Paragrafo pri dua afero tie.
+La plej simplaj kaj facilaj frazoj en la Na'vi lingvo estas la frazoj kun du vortoj, kiel tiu en la supra ekzemplo. All you need to do to make a sentence like this is follow these two simple steps:
 
-- **Tìkenong fìtseng.**
-- _Ekzemplo tie._
+1. Find a noun in the dictionary to use as the subject. (nouns are marked _n._ and pronouns are marked _pn._)
+2. Find a verb in the dictionary to use. (verbs are marked _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._)
+
+These two words can be in either order, like the following example:
+
+- **Payoang slele.**
+- _The fish swims._
+
+or
+
+- **Slele payoang.**
+- _The fish swims._
+
+Note that whatever word comes last in the sentence is the one that carries the most emphasis in the sentence.
 
 <span id="3">
 </span>
 
-## Parto 3
+## L kaj T Sufiksoj
 
 Paragrafo pri tria afero tie.
-
-- **Tìkenong fìtseng.**
-- _Ekzemplo tie._
-
-<span id="4">
-</span>
-
-## Parto 4
-
-Paragrafo tie pri **Lì'u leNa'vi** (_Na'via vorto_) kaj ekzemplo:
-
-- **Tìkenong fìtseng.**
-- _Ekzemplo tie._
-
-<span id="d">
-</span>
-
-## Dialogo
-
-### Na'via Transskribo
-
-- A: **ayu**
-- B: **ayu alahe**
-- A: **aylì'u**
-- B: **Tì'eyng**
-
-### Traduko en Esperanto
-
-- A: _aferoj_
-- B: _aferoj aliaj_
-- A: _vortoj_
-- B: _respondo_
 
 <span id="v">
 </span>
 
 ## Vortoj Uzitaj en Tiu Leciono
 
-Na'vi        | Esperanto
------------- | ----------
-**tìkenong** | _ekzemplo_
-**fìtseng**  | _tie_
-
-Teksto. [Tie estas una ligilo.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Na'vi       | Esperanto
+----------- | ---------------------------------------------
+**poe**     | pn. _ŝi_
+**tul**     | vin. _kuri_
+**payoang** | n. _fiŝo_
+**slele**   | vin. _naĝi_
+**Peyral**  | prop. n. (_Na'via nomo ina_)
+**taron**   | vtr. _ĉasi_
+**ioang**   | n. _besto_
+**oe**      | pn. _mi_
+**nga**     | pn. _vi_
+**kame**    | vtr. _Vidi (en profunda kaj spirita maniero)_
