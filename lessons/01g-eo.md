@@ -1,8 +1,8 @@
-# Ordo de Vortoj kaj Simpla Frazoj
+# Ordo de Vortoj kaj Simplaj Frazoj
 
 **Kaltxì**! Saluton! Kaj bonvenon al la unua parto de la Enkonduko de Na'via Gramatiko, parto de la serio, Gramatiko Simpligita.
 
-Ĉi tiu leciono enhavas iujn tre bazajn partojn de la gramatiko ke ĉiu komencanto eble volas lerni unue por komenci Krei frazojn.
+Ĉi tiu leciono enhavas iujn tre bazajn partojn de la gramatiko ke ĉiu komencanto eble volas lerni unue por komenci krei frazojn.
 
 **Makto ko!**
 
@@ -21,7 +21,7 @@
 
 ## Ordo de Vortoj
 
-La ordor de vortoj en Na'via lingvo estas fleksibla kiel en Esperanto. Tial oni povas diri:
+La ordo de vortoj en Na'via lingvo estas fleksibla kiel en Esperanto. Tial oni povas diri:
 
 - **Poe tul.**
 - _Ŝi kuras._
@@ -38,7 +38,8 @@ kaj la signifo estas sama.
 
 ## Plej Simplaj Frazoj
 
-La plej simplaj kaj facilaj frazoj en la Na'vi lingvo estas la frazoj kun du vortoj, kiel tiu en la supra ekzemplo. All you need to do to make a sentence like this is follow these two simple steps:
+La plej simplaj kaj facilaj frazoj en la Na'via lingvo estas la frazoj kun du vortoj, kiel tiu en la supra ekzemplo. 
+All you need to do to make a sentence like this is follow these two simple steps:
 
 1. Find a noun in the dictionary to use as the subject. (nouns are marked _n._ and pronouns are marked _pn._)
 2. Find a verb in the dictionary to use. (verbs are marked _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._)
