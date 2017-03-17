@@ -593,7 +593,7 @@ function aysaheylu()
     <li class="collection-item"><a class="collection-link" href="http://naviteri.org">Na&#39;viteri.org</a><br />Paul Frommer&#39;s Blog</li>
     <li class="collection-item"><a class="collection-link" href="http://layonyayo.com">Layon Yayo</a><br />Na&#39;vi Web Comic by Eana Unil</li>
     <li class="collection-item"><a class="collection-link" href="http://www.avatarnation.net">Avatar Nation</a><br />Avatar Fan Site / Podcast</li>
-		<li class="collection-item"><a class="collection-link" href="' . $weblink . '?page=generator">Na&#39;vi Name Generator</a><br />Generates valid names</li>
+    <li class="collection-item"><a class="collection-link" href="' . $weblink . '?page=generator">Na&#39;vi Name Generator</a><br />Generates valid names</li>
   </ul>
 
   <ul class="collection with-header">
