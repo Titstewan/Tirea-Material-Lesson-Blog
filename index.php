@@ -51,7 +51,7 @@ html_header();
 
 // The Homepage
 // What function shall we execute? (done like this for memory's sake.)
-if (isset($_REQUEST['page']) && $_REQUEST['page'] == 'lessons' && isset($_REQUEST['l']))
+if (isset($_REQUEST['p']) && $_REQUEST['p'] == 'lessons' && isset($_REQUEST['l']))
 {
 	call_user_func(hp_main(), $_REQUEST['l']);
 }
@@ -65,7 +65,7 @@ function hp_main()
 {
 	global $sourcedir;
 
-	// Here's the $_REQUEST['page'] array - $_REQUEST['page'] => array($file, $function).
+	// Here's the $_REQUEST['p'] array - $_REQUEST['p'] => array($file, $function).
 	$pageArray = array(
 		'sounds' => array('source.php', 'abc_sound'),
 		'generator' => array('generate.php', 'name_gen'),
@@ -75,7 +75,7 @@ function hp_main()
 	);
 
 	// Get the function and file to include - if it's not there, do the index.
-	if (!isset($_REQUEST['page']) || !isset($pageArray[$_REQUEST['page']]))
+	if (!isset($_REQUEST['p']) || !isset($pageArray[$_REQUEST['p']]))
 	{
 		// Fall through to the index then...
 		require_once($sourcedir . '/index.php');
@@ -83,8 +83,8 @@ function hp_main()
 	}
 
 	// Otherwise, it was set - so let's go to that page.
-	require_once($sourcedir . '/' . $pageArray[$_REQUEST['page']][0]);
-	return $pageArray[$_REQUEST['page']][1];
+	require_once($sourcedir . '/' . $pageArray[$_REQUEST['p']][0]);
+	return $pageArray[$_REQUEST['p']][1];
 }
 
 // HTML end </html> plus the disclaimer
