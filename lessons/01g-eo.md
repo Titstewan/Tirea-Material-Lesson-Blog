@@ -1,6 +1,6 @@
 # Ordo de Vortoj kaj Simplaj Frazoj
 
-**Kaltxì**! Saluton! Kaj bonvenon al la unua parto de la Enkonduko de Na'via Gramatiko, parto de la serio, Gramatiko Simpligita.
+**Kaltxì**! Saluton! Kaj bonvenon al la unua parto de la Enkonduko de Na'via Gramatiko, parto de la serio *Gramatiko Simpligita*.
 
 Ĉi tiu leciono enhavas iujn tre bazajn partojn de la gramatiko ke ĉiu komencanto eble volas lerni unue por komenci krei frazojn.
 
@@ -21,7 +21,7 @@
 
 ## Ordo de Vortoj
 
-La ordo de vortoj en Na'via lingvo estas fleksibla kiel en Esperanto. Tial oni povas diri:
+La ordo de vortoj en Na'via lingvo estas libera kiel en Esperanto. Tial oni povas diri:
 
 - **Poe tul.**
 - _Ŝi kuras._
@@ -39,29 +39,67 @@ kaj la signifo estas sama.
 ## Plej Simplaj Frazoj
 
 La plej simplaj kaj facilaj frazoj en la Na'via lingvo estas la frazoj kun du vortoj, kiel tiu en la supra ekzemplo. 
-Nur necesas sekvi cxi tiujn du etapojn:
+Nur necesas sekvi ĉi tiujn du etapojn:
 
-1. Find a noun in the dictionary to use as the subject. (nouns are marked _n._ and pronouns are marked _pn._)
-2. Find a verb in the dictionary to use. (verbs are marked _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._)
+1. Trovi substantivon en la vortaro kiu iĝos la subjekto. (substantivoj havas la markon  _n._ kaj pronomoj, _pn._)
+2. Trovi verbon en la vortaro. (verboj havas la markon _v._, _vin._, _svin._, _vim._, _vtr._, aŭ _vtrm._)
 
-These two words can be in either order, like the following example:
+Ambaŭ vortoj povas esti en ajna ordo, kiel en tiu ekzemplo:
 
 - **Payoang slele.**
 - _The fish swims._
 
-or
+aŭ
 
 - **Slele payoang.**
 - _The fish swims._
 
-Note that whatever word comes last in the sentence is the one that carries the most emphasis in the sentence.
+Notu ke la lasta vorto de la frazo havas la plej grandan emfazon.
 
 <span id="3">
 </span>
 
 ## L kaj T Sufiksoj
 
-Paragrafo pri tria afero tie.
+En la antaŭaj frazoj, estis nur unu substantivo kaj unu verbo, sen iu ŝanĝo. Sed kio okazas kiam estas du aŭ pluraj substantivoj implicitaj en la ago de la verbo?
+
+In English, the word order of a sentence establishes the roles of the people or things involved. For example, compare these two sentences:
+
+> Peyral ĉasas animalon. (_subjekto estas Peyral, objekto estas animalo_)
+
+> Animalo ĉasas Peyral-on. (_subjekto estas animalo, objekto estas Peyral_)
+
+Kiel vi vidas, oni interŝanĝas la funkcion de la vorto kiam oni ŝanĝas kion estas antaŭ la verbo kaj kion estas post la verbo.
+
+Tamen, en la Na'vi, ĉar la vortordo en la frazoj estas tute libera, oni ne povas antaŭdiri la funkcion de la vorto. Anstataŭe, la lingvo uzas kazojn, kiuj estas ŝanĝetoj al la fino de _vortoj_ por identigi siajn funkciojn. La supraj frazoj povas esti tradukitaj kiel:
+
+- **Peyralìl taron ioangit.**
+- Peyral-ìl taron ioang-it.
+- _Peyral ĉasas animalon._
+
+Kiel vi vidas, la fino **-ìl** markas **Peyral**-on kiel la _subjekto_ kaj la fino **-it** markas **ioang**-on kiel la _objekto_.
+
+- **Peyralit taron ioangìl.**
+- Peyral-it taron ioang-ìl.
+- _Animalo ĉasas Peyral-on._
+
+Oni rimarkas ke la vortordo ne ŝanĝis, sed la funkcio de la du vortoj estis interŝanĝita per la interŝanĝo de la finaj kazoj **-ìl** kaj **-it**.
+
+Jen memorinda ekzemplo de tiu tipo de strukturo de frazo:
+
+- **Oel ngati kame.**
+- Oe-l nga-ti kame.
+- _I See you._
+
+La vortordo de tipo "Subjekto Objekto Verbo" (SOV) estas ofte uzata. Ankaŭ, oni vidas alian version de la kazoj **-ìl** kaj **-it**,  kiu estas **-l** kaj **-ti**. (Estas tria version de la objekta kazo **-it** / **-ti**, nome **-t**). Oni uzas tiujn alternajn versiojn por faciligi la prononcon de la vortoj.
+
+Por skribi tiu tipo de frazo, nur sekvu ĉi tiuj etapojn:
+
+1. Serĉu la verbon kiun vi volas uzi. **Ĝi DEVAS havi la markon _vtr._ aŭ _vtrm._** Aliokaze, vi ne povas uzi la kazojn -l and -t.
+2. Serĉu la substantivon kiu estos la subjekto faranta la verbon kaj aldonu la finaĵon **-l** aŭ **-ìl**. (**-ìl** se konsonanto finas ĝin, **-l** se vokalo finas ĝin)
+3. Serĉu la substantivon kiu estos la objekto afektata de la verbo kaj aldonu la finaĵon **-t** aŭ **-it** aŭ **-ti**. (**-t** se vokalo finas ĝin, **-it** se konsonanto finas ĝin, **-ti** ĉiam funkcias)
+
+Ĉi tiuj tri vortoj povas esti ordigitaj laŭvole. Denove, memoru ke la lasta vorto havas la plej grandan emfazon.
 
 <span id="v">
 </span>
