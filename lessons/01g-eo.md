@@ -21,7 +21,7 @@
 
 ## Ordo de Vortoj
 
-La ordo de vortoj en Na'via lingvo estas fleksibla kiel en Esperanto. Tial oni povas diri:
+La ordo de vortoj en Na'via lingvo estas libera kiel en Esperanto. Tial oni povas diri:
 
 - **Poe tul.**
 - _Ŝi kuras._
@@ -61,7 +61,45 @@ Notu ke la lasta vorto de la frazo havas la plej grandan emfazon.
 
 ## L kaj T Sufiksoj
 
-Paragrafo pri tria afero tie.
+En la antaŭaj frazoj, estis nur unu substantivo kaj unu verbo, sen iu ŝanĝo. Sed kio okazas kiam estas du aŭ pluraj substantivoj implicitaj en la ago de la verbo?
+
+In English, the word order of a sentence establishes the roles of the people or things involved. For example, compare these two sentences:
+
+> Peyral ĉasas animalon. (_subjekto estas Peyral, objekto estas animalo_)
+
+> Animalo ĉasas Peyral-on. (_subjekto estas animalo, objekto estas Peyral_)
+
+Kiel vi vidas, oni interŝanĝas la funkcion de la vorto kiam oni ŝanĝas kion estas antaŭ la verbo kaj kion estas post la verbo.
+
+Tamen, en la Na'vi, ĉar la vortordo en la frazoj estas tute libera, oni ne povas antaŭdiri la funkcion de la vorto. Anstataŭe, la lingvo uzas kazojn, kiuj estas ŝanĝetoj al la fino de _vortoj_ por identigi siajn funkciojn. La supraj frazoj povas esti tradukitaj kiel:
+
+- **Peyralìl taron ioangit.**
+- Peyral-ìl taron ioang-it.
+- _Peyral ĉasas animalon._
+
+Kiel vi vidas, la fino **-ìl** markas **Peyral**-on kiel la _subjekto_ kaj la fino **-it** markas **ioang**-on kiel la _objekto_.
+
+- **Peyralit taron ioangìl.**
+- Peyral-it taron ioang-ìl.
+- _Animalo ĉasas Peyral-on._
+
+Oni rimarkas ke la vortordo ne ŝanĝis, sed la funkcio de la du vortoj estis interŝanĝita per la interŝanĝo de la finaj kazoj **-ìl** kaj **-it**.
+
+Jen memorinda ekzemplo de tiu tipo de strukturo de frazo:
+
+- **Oel ngati kame.**
+- Oe-l nga-ti kame.
+- _I See you._
+
+La vortordo de tipo "Subjekto Objekto Verbo" (SOV) estas ofte uzata. Ankaŭ, oni vidas alian version de la kazoj **-ìl** kaj **-it**,  kiu estas **-l** kaj **-ti**. (Estas tria version de la objekta kazo **-it** / **-ti**, nome **-t**). Oni uzas tiujn alternajn versiojn por faciligi la prononcon de la vortoj.
+
+Por skribi tiu tipo de frazo, nur sekvu ĉi tiuj etapojn:
+
+1. Serĉu la verbon kiun vi volas uzi. **ĝi DEVAS havi la markon _vtr._ aŭ _vtrm._** (Aliokaze, vi ne povas uzi la kazojn -l and -t)
+2. Serĉu la substantivon kiu estos la subjekto faranta la verbon kaj aldonu **-l** or **-ìl** al sia fino. (**-ìl** se konsonanto finas ĝin, **-l** se vokalo finas ĝin)
+3. Serĉu la substantivon kiu estos la objekto afektata de la verbo kaj aldonu **-t** or **-it** or **-ti** al sia fino. (**-t** se vokalo finas ĝin, **-it** se konsonanto finas ĝin, **-ti** ĉiam funkcias)
+
+Ĉi tiuj tri vortoj povas esti ordigitaj laŭ. Denove, memoru ke la lasta vorto havas la plej grandan emfazon.
 
 <span id="v">
 </span>
