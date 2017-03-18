@@ -143,7 +143,7 @@ function home()
                 </p>
               </div>
               <div class="card-action">
-                <a class="amber-text accent-2" href="', $weblink, '?page=lessons&l">Get started</a>
+                <a class="amber-text accent-2" href="', $weblink, '?p=lessons&l">Get started</a>
               </div>
             </div>
           </div>
