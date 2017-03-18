@@ -47,12 +47,12 @@ Nur necesas sekvi ĉi tiujn du etapojn:
 Ambaŭ vortoj povas esti en ajna ordo, kiel en tiu ekzemplo:
 
 - **Payoang slele.**
-- _The fish swims._
+- _La fiŝo naĝas._
 
 aŭ
 
 - **Slele payoang.**
-- _The fish swims._
+- _Naĝas la fiŝo._
 
 Notu ke la lasta vorto de la frazo havas la plej grandan emfazon.
 
