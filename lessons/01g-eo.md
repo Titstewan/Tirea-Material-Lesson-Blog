@@ -1,6 +1,6 @@
 # Ordo de Vortoj kaj Simplaj Frazoj
 
-**Kaltxì**! Saluton! Kaj bonvenon al la unua parto de la Enkonduko de Na'via Gramatiko, parto de la serio, Gramatiko Simpligita.
+**Kaltxì**! Saluton! Kaj bonvenon al la unua parto de la Enkonduko de Na'via Gramatiko, parto de la serio *Gramatiko Simpligita*.
 
 Ĉi tiu leciono enhavas iujn tre bazajn partojn de la gramatiko ke ĉiu komencanto eble volas lerni unue por komenci krei frazojn.
 
@@ -39,22 +39,22 @@ kaj la signifo estas sama.
 ## Plej Simplaj Frazoj
 
 La plej simplaj kaj facilaj frazoj en la Na'via lingvo estas la frazoj kun du vortoj, kiel tiu en la supra ekzemplo. 
-Nur necesas sekvi cxi tiujn du etapojn:
+Nur necesas sekvi ĉi tiujn du etapojn:
 
-1. Find a noun in the dictionary to use as the subject. (nouns are marked _n._ and pronouns are marked _pn._)
-2. Find a verb in the dictionary to use. (verbs are marked _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._)
+1. Trovi substantivon en la vortaro kiu iĝos la subjekto. (substantivoj havas la markon  _n._ kaj pronomoj, _pn._)
+2. Trovi verbon en la vortaro. (verboj havas la markon _v._, _vin._, _svin._, _vim._, _vtr._, aŭ _vtrm._)
 
-These two words can be in either order, like the following example:
+Ambaŭ vortoj povas esti en ajna ordo, kiel en tiu ekzemplo:
 
 - **Payoang slele.**
 - _The fish swims._
 
-or
+aŭ
 
 - **Slele payoang.**
 - _The fish swims._
 
-Note that whatever word comes last in the sentence is the one that carries the most emphasis in the sentence.
+Notu ke la lasta vorto de la frazo havas la plej grandan emfazon.
 
 <span id="3">
 </span>
