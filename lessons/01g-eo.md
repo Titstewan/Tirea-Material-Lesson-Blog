@@ -39,7 +39,7 @@ kaj la signifo estas sama.
 ## Plej Simplaj Frazoj
 
 La plej simplaj kaj facilaj frazoj en la Na'via lingvo estas la frazoj kun du vortoj, kiel tiu en la supra ekzemplo. 
-All you need to do to make a sentence like this is follow these two simple steps:
+Nur necesas sekvi cxi tiujn du etapojn:
 
 1. Find a noun in the dictionary to use as the subject. (nouns are marked _n._ and pronouns are marked _pn._)
 2. Find a verb in the dictionary to use. (verbs are marked _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._)
