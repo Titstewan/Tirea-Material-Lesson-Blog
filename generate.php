@@ -262,13 +262,10 @@ function name_gen() {
   // echo the user input form and generator info footer
   echo '<br />
   <hr>
-
   <style>select{display:block;}</style>
-
   <div class="row">
     <form class="col s12" name="sform" action="index.php" method="get">
-      <input type="hidden" name="page" value="generator">
-
+      <input type="hidden" name="p" value="generator">
       <div class="row">
         <div class="input-field col s12 l4">
           <select name="a">
@@ -280,7 +277,6 @@ function name_gen() {
           </select>
         </div>
       </div>
-
       <div class="row">
         <div class="input-field col s12 l4">
           <select name="b">
@@ -292,7 +288,6 @@ function name_gen() {
           </select>
         </div>
       </div>
-
       <div class="row">
         <div class="input-field col s12 l4">
           <select name="c">
@@ -304,7 +299,6 @@ function name_gen() {
           </select>
         </div>
       </div>
-
       <div class="row">
         <div class="input-field col s12 l4">
           <select name="k">
@@ -317,16 +311,12 @@ function name_gen() {
           </select>
         </div>
       </div>
-
       <button class="btn waves-effect waves-light amber black-text" type="submit">
         Generate!
         <i class="material-icons right">send</i>
       </button>
-
     </form>
-
   </div>
-
   <div style="margin-top: 18px; text-align: center; border-top: 1px solid #eeeeee; padding-top: 5px; ">
     <a href="http://forum.learnnavi.org/index.php?msg=566249">
       Web-based Na\'vi Name Generator!
