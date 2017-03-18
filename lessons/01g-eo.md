@@ -63,15 +63,19 @@ Notu ke la lasta vorto de la frazo havas la plej grandan emfazon.
 
 En la antaŭaj frazoj, estis nur unu substantivo kaj unu verbo, sen iu ŝanĝo. Sed kio okazas kiam estas du aŭ pluraj substantivoj implicitaj en la ago de la verbo?
 
-In English, the word order of a sentence establishes the roles of the people or things involved. For example, compare these two sentences:
+En la angla, la ordo de la vortoj en la frazo indikas la funkcion/rolon de la personoj aŭ aferoj partoprenantaj. Ekzemple, komparu tiujn ĉi du frazojn:
 
-> Peyral ĉasas animalon. (_subjekto estas Peyral, objekto estas animalo_)
+> Peyral chases an animal. (_subjekto estas Peyral, objekto estas animal_)
 
-> Animalo ĉasas Peyral-on. (_subjekto estas animalo, objekto estas Peyral_)
+> EO: Peyral ĉasas animalon.
+
+> An animal chases Peyral. (_subjekto estas animalo, objekto estas Peyral_)
+
+> EO: Animalo ĉasas Peyral-on.
 
 Kiel vi vidas, oni interŝanĝas la funkcion de la vorto kiam oni ŝanĝas kion estas antaŭ la verbo kaj kion estas post la verbo.
 
-Tamen, en la Na'vi, ĉar la vortordo en la frazoj estas tute libera, oni ne povas antaŭdiri la funkcion de la vorto. Anstataŭe, la lingvo uzas kazojn, kiuj estas ŝanĝetoj al la fino de _vortoj_ por identigi siajn funkciojn. La supraj frazoj povas esti tradukitaj kiel:
+Tamen, en la Na'via, ĉar la vortordo en la frazoj estas tute libera, oni ne povas antaŭdiri la funkcion de la vorto. Anstataŭe, la lingvo uzas kazojn, kiuj estas ŝanĝetoj al la fino de _vortoj_ por identigi siajn funkciojn. La supraj frazoj povas esti tradukitaj kiel:
 
 - **Peyralìl taron ioangit.**
 - Peyral-ìl taron ioang-it.
@@ -89,7 +93,7 @@ Jen memorinda ekzemplo de tiu tipo de strukturo de frazo:
 
 - **Oel ngati kame.**
 - Oe-l nga-ti kame.
-- _I See you._
+- _Mi Vidas je vi._
 
 La vortordo de tipo "Subjekto Objekto Verbo" (SOV) estas ofte uzata. Ankaŭ, oni vidas alian version de la kazoj **-ìl** kaj **-it**,  kiu estas **-l** kaj **-ti**. (Estas tria version de la objekta kazo **-it** / **-ti**, nome **-t**). Oni uzas tiujn alternajn versiojn por faciligi la prononcon de la vortoj.
 
