@@ -95,11 +95,11 @@ La vortordo de tipo "Subjekto Objekto Verbo" (SOV) estas ofte uzata. Ankaŭ, oni
 
 Por skribi tiu tipo de frazo, nur sekvu ĉi tiuj etapojn:
 
-1. Serĉu la verbon kiun vi volas uzi. **ĝi DEVAS havi la markon _vtr._ aŭ _vtrm._** (Aliokaze, vi ne povas uzi la kazojn -l and -t)
-2. Serĉu la substantivon kiu estos la subjekto faranta la verbon kaj aldonu **-l** or **-ìl** al sia fino. (**-ìl** se konsonanto finas ĝin, **-l** se vokalo finas ĝin)
-3. Serĉu la substantivon kiu estos la objekto afektata de la verbo kaj aldonu **-t** or **-it** or **-ti** al sia fino. (**-t** se vokalo finas ĝin, **-it** se konsonanto finas ĝin, **-ti** ĉiam funkcias)
+1. Serĉu la verbon kiun vi volas uzi. **Ĝi DEVAS havi la markon _vtr._ aŭ _vtrm._** Aliokaze, vi ne povas uzi la kazojn -l and -t.
+2. Serĉu la substantivon kiu estos la subjekto faranta la verbon kaj aldonu la finaĵon **-l** aŭ **-ìl**. (**-ìl** se konsonanto finas ĝin, **-l** se vokalo finas ĝin)
+3. Serĉu la substantivon kiu estos la objekto afektata de la verbo kaj aldonu la finaĵon **-t** aŭ **-it** aŭ **-ti**. (**-t** se vokalo finas ĝin, **-it** se konsonanto finas ĝin, **-ti** ĉiam funkcias)
 
-Ĉi tiuj tri vortoj povas esti ordigitaj laŭ. Denove, memoru ke la lasta vorto havas la plej grandan emfazon.
+Ĉi tiuj tri vortoj povas esti ordigitaj laŭvole. Denove, memoru ke la lasta vorto havas la plej grandan emfazon.
 
 <span id="v">
 </span>
