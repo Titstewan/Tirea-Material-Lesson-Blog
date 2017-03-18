@@ -42,6 +42,15 @@ if (!headers_sent())
 	header('X-Content-Type-Options: nosniff');
 }
 
+// Sine tirea.learnnavi.org is a sub domain of learnnavi.org, it does support https, so let's use it!
+if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] == 'off')
+{
+	$redirect = 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+	header('HTTP/1.1 301 Moved Permanently');
+	header('Location: ' . $redirect);
+	exit();
+}
+
 // Let's require the source file!
 require_once($sourcedir . '/source.php');
 
