@@ -52,18 +52,18 @@ function html_header()
         <a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a>
         <ul class="right hide-on-med-and-down" id="regnav">
           <li><a href="', $weblink, '">Home</a></li>
-          <li><a href="', $weblink, '?page=sounds">Sounds</a></li>
-          <li><a href="', $weblink, '?page=lessons&l">Lessons</a></li>
-          <li><a href="', $weblink, '?page=links">Links</a></li>
-          <li><a href="', $weblink, '?page=downloads">Downloads</a></li>
+          <li><a href="', $weblink, '?p=sounds">Sounds</a></li>
+          <li><a href="', $weblink, '?p=lessons&l">Lessons</a></li>
+          <li><a href="', $weblink, '?p=links">Links</a></li>
+          <li><a href="', $weblink, '?p=downloads">Downloads</a></li>
           <li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="res/rss-icon.png"></a></li>
         </ul>
         <ul class="side-nav" id="mobilenav">
           <li><a href="', $weblink, '">Home</a></li>
-          <li><a href="', $weblink, '?page=sounds">Sounds</a></li>
-          <li><a href="', $weblink, '?page=lessons&l">Lessons</a></li>
-          <li><a href="', $weblink, '?page=links">Links</a></li>
-          <li><a href="', $weblink, '?page=downloads">Downloads</a></li>
+          <li><a href="', $weblink, '?p=sounds">Sounds</a></li>
+          <li><a href="', $weblink, '?p=lessons&l">Lessons</a></li>
+          <li><a href="', $weblink, '?p=links">Links</a></li>
+          <li><a href="', $weblink, '?p=downloads">Downloads</a></li>
           <li><a href="feed.xml">RSS Feed</a></li>
         </ul>
       </div>
@@ -96,11 +96,11 @@ function html_bottom()
   </div>
 
   <div class="foot">
-    Website Admin/Designer: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
+    Website Admin/Designer: <a href="https://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
 	<span title="PHP: Hypertext Preprocessor">Software development</span>:
-	<a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> and 
-	<a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
-    | This site was created by members of the <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
+	<a href="https://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> and 
+	<a href="https://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
+    | This site was created by members of the <a href="https://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
     This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
     Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
     respective owners.<br />
@@ -590,13 +590,13 @@ function aysaheylu()
     <li class="collection-header"><h4>Things I think are cool</h4></li>
     <li class="collection-item"><a class="collection-link" href="https://soundcloud.com/thesoundsofpandora">The Sounds of Pandora</a><br />Official Avatar SoundCloud</li>
     <li class="collection-item"><a class="collection-link" href="http://dict-navi.com">Dict-Na&#39;vi.com</a><br />Online Na&#39;vi Dictionary Search Engine</li>
-    <li class="collection-item"><a class="collection-link" href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br />Epic Na&#39;vi Number translator thingy</li>
+    <li class="collection-item"><a class="collection-link" href="https://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br />Epic Na&#39;vi Number translator thingy</li>
     <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a><br />Learn Na&#39;vi Memrise Course</li>
     <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/51606/navi-useful-phrases/">Na&#39;vi Useful Phrases</a><br />Na&#39;vi Phrases Memrise Course</li>
     <li class="collection-item"><a class="collection-link" href="http://naviteri.org">Na&#39;viteri.org</a><br />Paul Frommer&#39;s Blog</li>
     <li class="collection-item"><a class="collection-link" href="http://layonyayo.com">Layon Yayo</a><br />Na&#39;vi Web Comic by Eana Unil</li>
     <li class="collection-item"><a class="collection-link" href="http://www.avatarnation.net">Avatar Nation</a><br />Avatar Fan Site / Podcast</li>
-    <li class="collection-item"><a class="collection-link" href="' . $weblink . '?page=generator">Na&#39;vi Name Generator</a><br />Generates valid names</li>
+    <li class="collection-item"><a class="collection-link" href="' . $weblink . '?p=generator">Na&#39;vi Name Generator</a><br />Generates valid names</li>
   </ul>
 
   <ul class="collection with-header">
