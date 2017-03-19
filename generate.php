@@ -269,7 +269,7 @@ function name_gen() {
       <div class="row">
         <div class="input-field col s12 l4">
           <select name="a">
-            <option value="" disabled selected>First Name # of Syllables</option>
+            <option value="" disabled selected>', $txt['g_first_name'], '</option>
             <option value="1">1</option>
             <option value="2">2</option>
             <option value="3">3</option>
@@ -280,7 +280,7 @@ function name_gen() {
       <div class="row">
         <div class="input-field col s12 l4">
           <select name="b">
-            <option value="" disabled selected>Family Name # of Syllables</option>
+            <option value="" disabled selected>', $txt['g_family_name'], '</option>
             <option value="1">1</option>
             <option value="2">2</option>
             <option value="3">3</option>
@@ -291,7 +291,7 @@ function name_gen() {
       <div class="row">
         <div class="input-field col s12 l4">
           <select name="c">
-            <option value="" disabled selected>Parent&apos;s Name # of Syllables</option>
+            <option value="" disabled selected>', $txt['g_parent_name'], '</option>
             <option value="1">1</option>
             <option value="2">2</option>
             <option value="3">3</option>
@@ -302,7 +302,7 @@ function name_gen() {
       <div class="row">
         <div class="input-field col s12 l4">
           <select name="k">
-            <option value="" disabled selected>Number of Names to Generate</option>
+            <option value="" disabled selected>', $txt['g_number_of_name'], '</option>
             <option value="1">1</option>
             <option value="5">5</option>
             <option value="10">10</option>
@@ -312,15 +312,11 @@ function name_gen() {
         </div>
       </div>
       <button class="btn waves-effect waves-light amber black-text" type="submit">
-        Generate!
+        ', $txt['g_generate'], '
         <i class="material-icons right">send</i>
       </button>
     </form>
   </div>
-  <div style="margin-top: 18px; text-align: center; border-top: 1px solid #eeeeee; padding-top: 5px; ">
-    <a href="http://forum.learnnavi.org/index.php?msg=566249">
-      Web-based Na\'vi Name Generator!
-    </a> by Uniltìrantokx te Skxawng
-  </div>';
+  <div style="margin-top: 18px; text-align: center; border-top: 1px solid #eeeeee; padding-top: 5px; ">', $txt['g_credits'], '</div>';
 }
 ?>
