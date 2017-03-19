@@ -14,13 +14,18 @@ tirea-learnnavi.org
 if (!defined('TLB'))
 	die('No direct access...');
 
-// define the dir
+// define the server dir for use by PHP
 $sourcedir = dirname(__FILE__);
+
+// define HTTP Document root for use by Apache
+// because soon it will change from this to just "/"
+// and now, that change will be very easy by edit one line affects all pages
+$httproot = "/material";
 
 // path to the lesson dir
 $lessondir = $sourcedir . '/lessons';
 
 // define the weblink
-$weblink = '/material/index.php';
+$weblink = $httproot . '/index.php';
 
 ?>

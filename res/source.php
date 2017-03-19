@@ -28,19 +28,19 @@ if (!defined('TLB')) die('No direct access...');
 // ...html header (<html><body>)...
 function html_header()
 {
-	global $weblink, $txt;
+	global $httproot, $weblink, $txt;
 	echo '<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<title>Tirea Na\'vi</title>
 		<meta charset="UTF-8">
-		<link rel="shortcut icon" href="/material/res/favicon.png">
-		<link rel="apple-touch-icon" href="/material/res/favicon.png">
-		<link rel="icon" type="image/png" href="/material/res/favicon.png">
-		<link rel="alternate" type="application/rss+xml" title="Tirea Na\'vi" href="/feed.xml">
-		<link rel="stylesheet" href="/material/res/icons.css">
-		<link rel="stylesheet" href="/material/res/materialize.min.css">
-		<link rel="stylesheet" href="/material/res/tirea.css">
+		<link rel="shortcut icon" href="' . $httproot . '/res/favicon.png">
+		<link rel="apple-touch-icon" href="' . $httproot . '/res/favicon.png">
+		<link rel="icon" type="image/png" href="' . $httproot . '/res/favicon.png">
+		<link rel="alternate" type="application/rss+xml" title="Tirea Na\'vi" href="' . $httproot . '/feed.xml">
+		<link rel="stylesheet" href="' . $httproot . '/res/icons.css">
+		<link rel="stylesheet" href="' . $httproot . '/res/materialize.min.css">
+		<link rel="stylesheet" href="' . $httproot . '/res/tirea.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="theme-color" content="#00bcd4">
 	</head>
@@ -63,7 +63,7 @@ function html_header()
 					<li><a href="', $weblink, '?p=lessons&l">', $txt['m_lessons'], '</a></li>
 					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
 					<li><a href="', $weblink, '?p=downloads">', $txt['m_downloads'], '</a></li>
-					<li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="res/rss-icon.png"></a></li>
+					<li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li>
 				</ul>
 				<ul class="side-nav" id="mobilenav">
 					<li>
@@ -115,9 +115,9 @@ function html_bottom()
 		</ul>
 	</div>
 	<div class="foot">', $txt['foot_disc'], '</div>
-	<script src="res/jquery.min.js"></script>
-	<script src="res/materialize.min.js"></script>
-	<script src="res/play.js"></script>
+	<script src="' . $httproot . 'res/jquery.min.js"></script>
+	<script src="' . $httproot . 'res/materialize.min.js"></script>
+	<script src="' . $httproot . 'res/play.js"></script>
 	<script>
 		$(document).ready(function(){
 			$(".button-collapse").sideNav();
@@ -144,7 +144,7 @@ function home()
 					<div class="col s12 m12 l12">
 						<div class="card">
 							<div class="card-image">
-								<img src="res/school.jpg">
+								<img src="' . $httproot . 'res/school.jpg">
 								<span class="card-title">', $txt['h_title'], '</span>
 							</div>
 							<div class="card-content">
@@ -410,172 +410,172 @@ function abc_sound()
 		</li>
 	</ul>
 	<audio id="audio_a">
-	<source src="audio/a.ogg" type="audio/ogg"/>
-	<source src="audio/a.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/a.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/a.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_ae">
-	<source src="audio/ae.ogg" type="audio/ogg"/>
-	<source src="audio/ae.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/ae.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/ae.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_e">
-	<source src="audio/e.ogg" type="audio/ogg"/>
-	<source src="audio/e.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/e.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/e.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_i">
-	<source src="audio/i.ogg" type="audio/ogg"/>
-	<source src="audio/i.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/i.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/i.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_ih">
-	<source src="audio/ih.ogg" type="audio/ogg"/>
-	<source src="audio/ih.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/ih.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/ih.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_o">
-	<source src="audio/o.ogg" type="audio/ogg"/>
-	<source src="audio/o.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/o.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/o.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_u">
-	<source src="audio/u.ogg" type="audio/ogg"/>
-	<source src="audio/u.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/u.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/u.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_u1">
-	<source src="audio/u1.ogg" type="audio/ogg"/>
-	<source src="audio/u1.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/u1.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/u1.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_aw">
-	<source src="audio/aw.ogg" type="audio/ogg"/>
-	<source src="audio/aw.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/aw.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/aw.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_ay">
-	<source src="audio/ay.ogg" type="audio/ogg"/>
-	<source src="audio/ay.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/ay.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/ay.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_ew">
-	<source src="audio/ew.ogg" type="audio/ogg"/>
-	<source src="audio/ew.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/ew.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/ew.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_ey">
-	<source src="audio/ey.ogg" type="audio/ogg"/>
-	<source src="audio/ey.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/ey.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/ey.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_ll">
-	<source src="audio/ll.ogg" type="audio/ogg"/>
-	<source src="audio/ll.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/ll.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/ll.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_rr">
-	<source src="audio/rr.ogg" type="audio/ogg"/>
-	<source src="audio/rr.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/rr.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/rr.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_tihftang">
-	<source src="audio/tihftang.ogg" type="audio/ogg"/>
-	<source src="audio/tihftang.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/tihftang.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/tihftang.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_f">
-	<source src="audio/f.ogg" type="audio/ogg"/>
-	<source src="audio/f.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/f.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/f.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_h">
-	<source src="audio/h.ogg" type="audio/ogg"/>
-	<source src="audio/h.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/h.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/h.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_k">
-	<source src="audio/k.ogg" type="audio/ogg"/>
-	<source src="audio/k.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/k.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/k.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_kx">
-	<source src="audio/kx.ogg" type="audio/ogg"/>
-	<source src="audio/kx.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/kx.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/kx.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_l">
-	<source src="audio/l.ogg" type="audio/ogg"/>
-	<source src="audio/l.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/l.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/l.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_m">
-	<source src="audio/m.ogg" type="audio/ogg"/>
-	<source src="audio/m.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/m.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/m.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_n">
-	<source src="audio/n.ogg" type="audio/ogg"/>
-	<source src="audio/n.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/n.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/n.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_ng">
-	<source src="audio/ng.ogg" type="audio/ogg"/>
-	<source src="audio/ng.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/ng.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/ng.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_p">
-	<source src="audio/p.ogg" type="audio/ogg"/>
-	<source src="audio/p.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/p.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/p.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_px">
-	<source src="audio/px.ogg" type="audio/ogg"/>
-	<source src="audio/px.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/px.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/px.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_r">
-	<source src="audio/r.ogg" type="audio/ogg"/>
-	<source src="audio/r.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/r.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/r.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_s">
-	<source src="audio/s.ogg" type="audio/ogg"/>
-	<source src="audio/s.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/s.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/s.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_t">
-	<source src="audio/t.ogg" type="audio/ogg"/>
-	<source src="audio/t.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/t.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/t.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_ts">
-<source src="audio/ts.ogg" type="audio/ogg"/>
-<source src="audio/ts.mp3" type="audio/mpeg"/>
+<source src="' . $httproot . 'audio/ts.ogg" type="audio/ogg"/>
+<source src="' . $httproot . 'audio/ts.mp3" type="audio/mpeg"/>
 ', $txt['no_audio'], '
 <audio id="audio_tx">
-	<source src="audio/tx.ogg" type="audio/ogg"/>
-	<source src="audio/tx.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/tx.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/tx.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_v">
-	<source src="audio/v.ogg" type="audio/ogg"/>
-	<source src="audio/v.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/v.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/v.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_w">
-	<source src="audio/w.ogg" type="audio/ogg"/>
-	<source src="audio/w.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/w.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/w.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_y">
-	<source src="audio/y.ogg" type="audio/ogg"/>
-	<source src="audio/y.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/y.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/y.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>
 <audio id="audio_z">
-	<source src="audio/z.ogg" type="audio/ogg"/>
-	<source src="audio/z.mp3" type="audio/mpeg"/>
+	<source src="' . $httproot . 'audio/z.ogg" type="audio/ogg"/>
+	<source src="' . $httproot . 'audio/z.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
 </audio>';
 }
