@@ -35,10 +35,6 @@ h4 {
 	font-size: 1.2rem;
 }
 
-ul {
-	padding-left: 40px;
-}
-
 a {
 	cursor: pointer;
 	cursor: hand;
@@ -60,6 +56,10 @@ strong {
 .button-collapse {
 	height:64px;
 	width:64px;
+}
+
+.collapsible-body {
+	color: #444;
 }
 
 #mobile-menu-icon {
@@ -164,9 +164,9 @@ h1, h2, h3, h4, .titlename, .collection-header {
 	margin-top: 0px;
 }
 
-/* #page-content-div a {
-	color: #80DEEA;
-} */
+#page-content-div ul {
+	padding-left: 40px;
+}
 
 blockquote {
 	border-left: 5px solid #ffc107;
