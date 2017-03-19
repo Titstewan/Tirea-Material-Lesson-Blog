@@ -195,7 +195,9 @@ function valid($a, $b, $c) {
  * Echo a generated name and the user form and footer
  * Get vars from URL or form to generate another name
  */
-function name_gen() {
+function name_gen()
+{
+  global $txt;
   echo '<h2>';
 
   $a = $_REQUEST["a"]; // number of syllables in the First name
