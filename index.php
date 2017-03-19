@@ -24,15 +24,6 @@ define('TLB', 1);
 // Error reports! WoOoOOoo!
 error_reporting(E_ALL & ~E_NOTICE);
 
-// define the dir
-$sourcedir = dirname(__FILE__);
-
-// path to the lesson dir
-$lessondir = $sourcedir . '/lessons';
-
-// define the weblink
-$weblink = '/material/index.php';
-
 // Emit some headers for some modicum of protection against nasties.
 if (!headers_sent())
 {
@@ -52,6 +43,7 @@ if (!headers_sent())
 
 // Let's require the source file!
 require_once($sourcedir . '/source.php');
+require_once($sourcedir . '/settings.php');
 
 // Which languages shall we load?
 $lang = 'english';
