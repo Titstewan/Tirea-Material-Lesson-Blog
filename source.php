@@ -45,12 +45,19 @@ function html_header()
 		<meta name="theme-color" content="#00bcd4">
 	</head>
 	<header>
+		<!-- Dropdown Structure -->
+		<ul id="dropdown1" class="dropdown-content">
+		<li><a href="#!">English</a></li>
+		<li><a href="#!">Deutsch</a></li>
+		</ul>
 		<nav>
 			<div class="nav-wrapper">
 				<a href="', $weblink, '" class="brand-logo">Tirea Na&apos;vi</a>
 				<!-- <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a> -->
 				<a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a>
 				<ul class="right hide-on-med-and-down" id="regnav">
+				<!-- Dropdown Trigger -->
+  					<li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">',$txt['m_language'],'<i class="material-icons right">arrow_drop_down</i></a></li>
 					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
 					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
 					<li><a href="', $weblink, '?p=lessons&l">', $txt['m_lessons'], '</a></li>
@@ -59,6 +66,18 @@ function html_header()
 					<li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="res/rss-icon.png"></a></li>
 				</ul>
 				<ul class="side-nav" id="mobilenav">
+					<li>
+						<ul class="collapsible collapsible-accordion">
+							<li><a class="collapsible-header waves-effect waves-amber">', $txt['m_language'], '</a>
+								<div class="collapsible-body">
+									<ul>
+										<li><a href="', $weblink, '">English</a></li>
+										<li><a href="', $weblink, '">Deutsch</a></li>
+									</ul>
+								</div>
+							</li>
+						</ul>
+					</li>
 					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
 					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
 					<li><a href="', $weblink, '?p=lessons&l">', $txt['m_lessons'], '</a></li>
@@ -100,7 +119,11 @@ function html_bottom()
 	<script src="res/materialize.min.js"></script>
 	<script src="res/play.js"></script>
 	<script>
-		$(document).ready(function(){$(\'.button-collapse\').sideNav();})
+		$(document).ready(function(){
+			$(".button-collapse").sideNav();
+			$(".dropdown-button").dropdown();
+			$(".collapsible").collapsible();
+		});
 	</script>
 </main>
 </html>';
@@ -520,7 +543,7 @@ function abc_sound()
 	<source src="audio/s.ogg" type="audio/ogg"/>
 	<source src="audio/s.mp3" type="audio/mpeg"/>
 	', $txt['no_audio'], '
-</audio>	
+</audio>
 <audio id="audio_t">
 	<source src="audio/t.ogg" type="audio/ogg"/>
 	<source src="audio/t.mp3" type="audio/mpeg"/>
