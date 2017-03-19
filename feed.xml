@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-
     <channel>
         <title>Tirea Na'vi</title>
         <link>http://tirea.learnnavi.org/material</link>
         <description>Na'vi Language Lessons for Non-linguists</description>
         <lastBuildDate>Sun, 16 Oct 2016 08:26:05 -0700</lastBuildDate>
-
         <item>
             <title>Word Order &amp; Simple Sentences</title>
             <author>tirea@learnnavi.org (Tirea Aean)</author>
-            <link>http://tirea.learnnavi.org/material/index.php?page=lessons&l=01g</link>
+            <link>http://tirea.learnnavi.org/material/index.php?p=lessons&l=01g</link>
             <description>Kaltxì! Hello! And welcome to Lesson 1. This lesson will cover basic foundations of the grammar every beginner may want to start with. Makto ko!</description>
         </item>
-
     </channel>
 </rss>
