@@ -16,7 +16,7 @@ tirea-learnnavi.org
 ----------------------------*/
 
 // For some reasons, we will have to set up a memory limit to keep the server happy
-@ini_set('memory_limit', '8M');
+@ini_set('memory_limit', '16M');
 
 // This is kind of important.
 define('TLB', 1);
