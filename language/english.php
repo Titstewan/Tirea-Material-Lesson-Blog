@@ -15,7 +15,7 @@ $txt['no_audio'] = 'Your browser does not support the audio element.';
 $txt['tlb_exp'] = 'EXPERIMENTAL SITE UNDER CONSTRUCTION! :D';
 $txt['foot_disc'] = 'Website Admin/Designer: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
 	<span title="PHP: Hypertext Preprocessor">Software development</span>:
-	<a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> and 
+	<a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> and
 	<a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
     | This site was created by members of the <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
     This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
@@ -24,6 +24,7 @@ $txt['foot_disc'] = 'Website Admin/Designer: <a href="http://forum.learnnavi.org
     <b>\'Ivong Na\'vi!</b>';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons
 // menu
+$txt['m_language'] = 'Language';
 $txt['m_home'] = 'Home';
 $txt['m_sounds'] = 'Sounds';
 $txt['m_lessons'] = 'Lessons';
