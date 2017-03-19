@@ -53,6 +53,12 @@ if (!headers_sent())
 // Let's require the source file!
 require_once($sourcedir . '/source.php');
 
+// Which languages shall we load?
+$lang = 'english';
+
+// require the languages file
+require_once($sourcedir . '/language/' . $lang . '.php');
+
 // Call the main functions, woo!
 // The <html> start tag and the buttors for Na'vigation
 html_header();
