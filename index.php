@@ -42,7 +42,7 @@ if (!headers_sent())
 //}
 
 // Let's require the source file!
-require_once($sourcedir . '/source.php');
+require_once($sourcedir . '/res/source.php');
 require_once($sourcedir . '/settings.php');
 
 // Which languages shall we load?
@@ -73,11 +73,11 @@ function hp_main()
 
 	// Here's the $_REQUEST['p'] array - $_REQUEST['p'] => array($file, $function).
 	$pageArray = array(
-		'sounds' => array('source.php', 'abc_sound'),
-		'generator' => array('generate.php', 'name_gen'),
-		'links' => array('source.php', 'aysaheylu'),
-		'downloads' => array('source.php', 'navi_download'),
-		'lessons' => array('source.php', 'navi_lesson'),
+		'sounds' => array('/res/source.php', 'abc_sound'),
+		'generator' => array('/res/generate.php', 'name_gen'),
+		'links' => array('/res/source.php', 'aysaheylu'),
+		'downloads' => array('/res/source.php', 'navi_download'),
+		'lessons' => array('/res/source.php', 'navi_lesson'),
 	);
 
 	// Get the function and file to include - if it's not there, do the index.
