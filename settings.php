@@ -20,7 +20,7 @@ $sourcedir = dirname(__FILE__);
 // define HTTP Document root for use by Apache
 // because soon it will change from this to just "/"
 // and now, that change will be very easy by edit one line affects all pages
-$httproot = '/material';
+$httproot = '/material/';
 
 // path to the lesson dir
 $lessondir = $sourcedir . '/lessons';
