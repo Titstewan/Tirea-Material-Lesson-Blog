@@ -42,14 +42,14 @@ if (!headers_sent())
 //}
 
 // Let's require the source file!
-require_once('settings.php');
-require_once($sourcedir . '/res/source.php');
+require_once(dirname(__FILE__) . 'settings.php');
+require_once($sourcedir . '/source.php');
 
 // Which languages shall we load?
 $lang = 'english';
 
 // require the languages file
-require_once($sourcedir . '/language/' . $lang . '.php');
+require_once($langdir . '/' . $lang . '.php');
 
 // Call the main functions, woo!
 // The <html> start tag and the buttors for Na'vigation
@@ -73,18 +73,18 @@ function hp_main()
 
 	// Here's the $_REQUEST['p'] array - $_REQUEST['p'] => array($file, $function).
 	$pageArray = array(
-		'sounds' => array('/res/source.php', 'abc_sound'),
-		'generator' => array('/res/generate.php', 'name_gen'),
-		'links' => array('/res/source.php', 'aysaheylu'),
-		'downloads' => array('/res/source.php', 'navi_download'),
-		'lessons' => array('/res/source.php', 'navi_lesson'),
+		'sounds' => array('source.php', 'abc_sound'),
+		'generator' => array('generate.php', 'name_gen'),
+		'links' => array('source.php', 'aysaheylu'),
+		'downloads' => array('source.php', 'navi_download'),
+		'lessons' => array('source.php', 'navi_lesson'),
 	);
 
 	// Get the function and file to include - if it's not there, do the index.
 	if (!isset($_REQUEST['p']) || !isset($pageArray[$_REQUEST['p']]))
 	{
 		// Fall through to the index then...
-		require_once($sourcedir . '/index.php');
+		require_once(dirname(__FILE__) . '/index.php');
 		return 'home';
 	}
 
