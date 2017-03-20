@@ -42,7 +42,6 @@ if (!headers_sent())
 //}
 
 // Let's require the source file!
-require_once('settings.php');
 require_once($sourcedir . '/res/source.php');
 require_once($sourcedir . '/settings.php');
 
