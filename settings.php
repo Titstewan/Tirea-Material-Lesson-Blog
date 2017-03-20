@@ -26,6 +26,6 @@ $httproot = '/material';
 $lessondir = $sourcedir . '/lessons';
 
 // define the weblink
-$weblink = $httproot . '/index.php';
+$weblink = $httproot . 'index.php';
 
 ?>
