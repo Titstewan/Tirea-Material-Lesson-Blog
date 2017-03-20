@@ -15,7 +15,7 @@ if (!defined('TLB'))
 	die('No direct access...');
 
 // define the server dir for use by PHP
-$sourcedir = dirname(__FILE__);
+$sourcedir = dirname(__FILE__) . '/res';
 
 // define HTTP Document root for use by Apache
 // because soon it will change from this to just "/"
@@ -23,7 +23,10 @@ $sourcedir = dirname(__FILE__);
 $httproot = '/material/';
 
 // path to the lesson dir
-$lessondir = $sourcedir . '/lessons';
+$lessondir = dirname(__FILE__) . '/lessons';
+
+// path to the langauge dir
+$langdir = dirname(__FILE__) . '/language';
 
 // define the weblink
 $weblink = $httproot . 'index.php';
