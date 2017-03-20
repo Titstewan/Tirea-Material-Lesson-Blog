@@ -14,7 +14,7 @@ tirea-learnnavi.org
 $txt['no_audio'] = 'Via retumilo ne subtenas la Audio elemento.';
 $txt['tlb_exp'] = 'EKSPERIMENTA RETEJO SUB KONSTRUADO! :D';
 $txt['foot_disc'] = 'Website Admin/Designer: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
-	<span title="PHP: Hypertext Preprocessor">Software development</span>:
+	<span title="PHP: Hypertext Preprocessor">Programara Disvolviĝo</span>:
 	<a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> and
 	<a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
     | This site was created by members of the <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
