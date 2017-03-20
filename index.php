@@ -42,7 +42,7 @@ if (!headers_sent())
 //}
 
 // Let's require the source file!
-require_once(dirname(__FILE__) . 'settings.php');
+require_once(dirname(__FILE__) . '/settings.php');
 require_once($sourcedir . '/source.php');
 
 // Which languages shall we load?
