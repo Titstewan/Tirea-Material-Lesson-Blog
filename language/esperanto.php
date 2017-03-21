@@ -13,7 +13,7 @@ tirea-learnnavi.org
 // general stuff
 $txt['no_audio'] = 'Via retumilo ne subtenas la Audio elemento.';
 $txt['tlb_exp'] = 'EKSPERIMENTA RETEJO SUB KONSTRUADO! :D';
-$txt['foot_disc'] = 'Website Admin/Designer: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
+$txt['foot_disc'] = 'Administranto/Dezajnisto: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
 	<span title="PHP: Hypertext Preprocessor">Programara Disvolviĝo</span>:
 	<a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> and
 	<a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
@@ -30,12 +30,12 @@ $txt['m_sounds'] = 'Sonoj';
 $txt['m_lessons'] = 'Lecionoj';
 $txt['m_links'] = 'Ligiloj';
 $txt['m_downloads'] = 'Elŝutoj';
-$txt['m_rss'] = 'RSS Feed';
+$txt['m_rss'] = 'RSS-fluo';
 // home
 $txt['h_welcome'] = 'Bonvenon';
 $txt['h_title'] = 'Facilaj Lecionoj de Gramatiko';
-$txt['h_welcome_txt'] = 'Bonvenon al Tirea Na\'vi! Tiu ĉi retejo ekzists por intrui la Na\'vian
-                  Lingvon al ĉiuj en maniero facile komprenebla. Al vi ĉiuj kiuj 
+$txt['h_welcome_txt'] = 'Bonvenon al Tirea Na\'vi! Tiu ĉi retejo ekzistas por intrui la Na\'vian
+                  Lingvon al ĉiuj kun maniero facile komprenebla. Al vi ĉiuj kiuj 
                   amas la filmon Avatar kaj ne estas spertuloj de lingvistiko, mi esperas
                   ke mi helpu vin iĝi la sekvanta parolanto de tiu mirinda lingvo.
                   -- Tirea Aean (Blua Spiritulo)';
