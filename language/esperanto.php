@@ -39,7 +39,7 @@ $txt['h_welcome_txt'] = 'Bonvenon al Tirea Na\'vi! Tiu ĉi retejo ekzistas por i
                   amas la filmon Avatar kaj ne estas spertuloj de lingvistiko, mi esperas
                   ke mi helpu vin iĝi la sekvanta parolanto de tiu mirinda lingvo.
                   -- Tirea Aean (Blua Spiritulo)';
-$txt['h_get_st'] = 'Komencu ni!';
+$txt['h_get_st'] = 'Komencu tie';
 // sounds
 $txt['s_sound'] = 'Na&#39;viaj Sonoj';
 $txt['s_intro'] = '<span class="navi">Kaltxì</span> ma frapo! En tiu ĉi paĝo estas literoj,
