@@ -95,15 +95,6 @@ strong {
 	line-height: 1.1em;
 }
 
-.collection-header {
-	font-family: Maiandra GD, sans-serif;
-	font-size: 2.0rem;
-}
-
-.collection {
-	padding-left: 0px;
-}
-
 h1, h2, h3, h4, .titlename, .collection-header {
 	color: #00ACC1;
 }
@@ -164,6 +155,15 @@ h1, h2, h3, h4, .titlename, .collection-header {
 
 #page-content-div ul {
 	padding-left: 40px;
+}
+
+#page-content-div li.collection-header {
+	font-family: Maiandra GD, sans-serif;
+	font-size: 2.0rem;
+}
+
+#page-content-div ul.collection {
+	padding-left: 0px;
 }
 
 blockquote {
