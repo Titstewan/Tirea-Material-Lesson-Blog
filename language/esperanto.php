@@ -24,14 +24,13 @@ $txt['foot_disc'] = 'Website Admin/Designer: <a href="http://forum.learnnavi.org
     <b>\'Ivong Na\'vi!</b>';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons
 // menu
-$txt['m_language'] = 'Language';
-$txt['m_home'] = 'Home';
-$txt['m_sounds'] = 'Sounds';
-$txt['m_lessons'] = 'Lessons';
-$txt['m_links'] = 'Links';
-$txt['m_downloads'] = 'Downloads';
+$txt['m_language'] = 'Lingvo';
+$txt['m_home'] = 'Hejmo';
+$txt['m_sounds'] = 'Sonoj';
+$txt['m_lessons'] = 'Lecionoj';
+$txt['m_links'] = 'Ligiloj';
+$txt['m_downloads'] = 'Elŝutoj';
 $txt['m_rss'] = 'RSS Feed';
-$txt['m_language'] = 'Language';
 // home
 $txt['h_welcome'] = 'Welcome';
 $txt['h_title'] = 'Easy Grammar Lessons';
