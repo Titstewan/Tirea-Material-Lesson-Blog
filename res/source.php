@@ -34,13 +34,13 @@ function html_header()
 	<head>
 		<title>Tirea Na\'vi</title>
 		<meta charset="UTF-8">
-		<link rel="shortcut icon" href="' . $httproot . '/res/favicon.png">
-		<link rel="apple-touch-icon" href="' . $httproot . '/res/favicon.png">
-		<link rel="icon" type="image/png" href="' . $httproot . '/res/favicon.png">
-		<link rel="alternate" type="application/rss+xml" title="Tirea Na\'vi" href="' . $httproot . '/feed.xml">
-		<link rel="stylesheet" href="' . $httproot . '/res/icons.css">
-		<link rel="stylesheet" href="' . $httproot . '/res/materialize.min.css">
-		<link rel="stylesheet" href="' . $httproot . '/res/tirea.css">
+		<link rel="shortcut icon" href="' . $httproot . 'res/favicon.png">
+		<link rel="apple-touch-icon" href="' . $httproot . 'res/favicon.png">
+		<link rel="icon" type="image/png" href="' . $httproot . 'res/favicon.png">
+		<link rel="alternate" type="application/rss+xml" title="Tirea Na\'vi" href="' . $httproot . 'feed.xml">
+		<link rel="stylesheet" href="' . $httproot . 'res/icons.css">
+		<link rel="stylesheet" href="' . $httproot . 'res/materialize.min.css">
+		<link rel="stylesheet" href="' . $httproot . 'res/tirea.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="theme-color" content="#00bcd4">
 	</head>
