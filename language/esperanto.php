@@ -17,10 +17,10 @@ $txt['foot_disc'] = 'Website Admin/Designer: <a href="http://forum.learnnavi.org
 	<span title="PHP: Hypertext Preprocessor">Programara Disvolviĝo</span>:
 	<a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> and
 	<a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
-    | This site was created by members of the <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
-    This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
-    Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
-    respective owners.<br />
+    | Tiu ĉi retejo estis kreita de uzantoj de la forumo je <a href="http://learnnavi.org/">LearnNa\'vi.org</a>. <br />
+    Tiu ĉi retejo ne filiiĝas al la oficiala retejo de Avatar, James Cameron, Lightstorm Entertainment aŭ la
+    Twentieth Century Fox Film Corporation. Ĉiuj la registritaj markoj kaj la servicmarkoj estas
+    proprietaĵoj de siaj respektivaj proprietuloj.<br /><br />
     <b>\'Ivong Na\'vi!</b>';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons
 // menu
@@ -32,48 +32,48 @@ $txt['m_links'] = 'Ligiloj';
 $txt['m_downloads'] = 'Elŝutoj';
 $txt['m_rss'] = 'RSS Feed';
 // home
-$txt['h_welcome'] = 'Welcome';
-$txt['h_title'] = 'Easy Grammar Lessons';
-$txt['h_welcome_txt'] = 'Welcome to Tirea Na\'vi! This site exists to teach the Na\'vi
-                  Language to everyone in an easy to understand way. For all you
-                  non-linguist Avatar fans out there, I hope to help you on your
-                  way to becoming the next speaker of this amazing language.
-                  -- Tirea Aean';
-$txt['h_get_st'] = 'Get started';
+$txt['h_welcome'] = 'Bonvenon';
+$txt['h_title'] = 'Facilaj Lecionoj de Gramatiko';
+$txt['h_welcome_txt'] = 'Bonvenon al Tirea Na\'vi! Tiu ĉi retejo ekzists por intrui la Na\'vian
+                  Lingvon al ĉiuj en maniero facile komprenebla. Al vi ĉiuj kiuj 
+                  amas la filmon Avatar kaj ne estas spertuloj de lingvistiko, mi esperas
+                  ke mi helpu vin iĝi la sekvanta parolanto de tiu mirinda lingvo.
+                  -- Tirea Aean (Blua Spiritulo)';
+$txt['h_get_st'] = 'Komencu ni!';
 // sounds
-$txt['s_sound'] = 'Na&#39;vi Sounds';
-$txt['s_intro'] = '<span class="navi">Kaltxì</span> ma frapo! This page contains the letters,
-    the corresponding International Phonetics Alphabet (IPA) characters and recordings
-    of the sounds of the Na&#39;vi language. So to practice your pronunciation,
-    click the play button and listen, then try to go along and such.';
-$txt['s_vowels'] = 'Vowels';
-$txt['s_pseudo'] = 'Pseudovowels';
-$txt['s_conson'] = 'Consonants';
-$txt['s_diphto'] = 'Diphthongs';
+$txt['s_sound'] = 'Na&#39;viaj Sonoj';
+$txt['s_intro'] = '<span class="navi">Kaltxì</span> ma frapo! En tiu ĉi paĝo estas literoj,
+    siaj respektivaj karakteroj de la Internacia Fonetika Alfabeto (IFA) kaj sonregistraĵoj
+    de la fonemoj en la Na&#39;via lingvo. Do por praktiki vian prononcadon,
+    alklaku la butonon kaj aŭdu, tiam klopodu prononci kion vi aŭdis.';
+$txt['s_vowels'] = 'Vokalo';
+$txt['s_pseudo'] = 'Pseŭdovokaloj';
+$txt['s_conson'] = 'Konsonantoj';
+$txt['s_diphto'] = 'Diftongoj';
 // links
-$txt['l_links'] = 'Links';
-$txt['l_cool'] = 'Things I think are cool';
-$txt['l_blogs'] = 'Na\'vi Blogs I read';
-$txt['l_navi_gen'] = 'Na\'vi Name Generator';
-$txt['l_valid_gen'] = 'Generates valid names';
+$txt['l_links'] = 'Ligiloj';
+$txt['l_cool'] = 'Mojosaj aferoj';
+$txt['l_blogs'] = 'Na\'viaj Blogoj kiuj mi legis';
+$txt['l_navi_gen'] = 'Kreu vian Na\'vian nomon';
+$txt['l_valid_gen'] = 'Generas validajn nomojn';
 // downloads
-$txt['d_downl'] = 'Downloads';
-$txt['d_thing'] = 'Other Things Hosted On This Site';
-$txt['d_hrhgif'] = 'Bunch of old memes and comics and whatnot, some Na&#39;vi-related';
-$txt['d_images'] = 'images folder';
+$txt['d_downl'] = 'Dokumentoj';
+$txt['d_thing'] = 'Aliaj aferoj gastigataj en tiu retejo';
+$txt['d_hrhgif'] = 'Multaj malnovaj memeoj, komikoj ktp, rilate la Na&#39;via lingvo/popolo';
+$txt['d_images'] = 'imaĝoj';
 // lessons
-$txt['n_lesson'] = 'Na\'vi Language Lessons';
+$txt['n_lesson'] = 'Lecionoj de la Na\'via Lingvo';
 $txt['n_basic'] = 'Conversational Lessons: Beginners\' Basics';
-$txt['n_kaltxi'] = 'Greetings &amp; Introductions';
-$txt['n_intro'] = 'Simplified Grammar Lessons: Intro to Na\'vi Grammar';
+$txt['n_kaltxi'] = 'Salutoj &amp; Prezentoj';
+$txt['n_intro'] = 'Simpligitaj Lecionoj de Gramatikos: Enkonduko de la Gramatiko';
 // name generator
-$txt['g_n_try'] = 'Nice try. ;D';
+$txt['g_n_try'] = 'Almenaŭ vi klopodis. ;D';
 $txt['g_first_name'] = 'First Name # of Syllables';
 $txt['g_family_name'] = 'Family Name # of Syllables';
 $txt['g_parent_name'] = 'Parent&apos;s Name # of Syllables';
 $txt['g_number_of_name'] = 'Number of Names to Generate';
 $txt['g_credits'] = '<a href="http://forum.learnnavi.org/index.php?msg=566249">
-      Web-based Na\'vi Name Generator!
-    </a> by Uniltìrantokx te Skxawng';
-$txt['g_generate'] = 'Generate!';
+      TTT-a generanto de Na\'viaj Nomoj!
+    </a> de Uniltìrantokx te Skxawng';
+$txt['g_generate'] = 'Kreu!';
 ?>
