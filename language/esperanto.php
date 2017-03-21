@@ -65,13 +65,13 @@ $txt['d_images'] = 'imaĝoj';
 $txt['n_lesson'] = 'Lecionoj de la Na\'via Lingvo';
 $txt['n_basic'] = 'Conversational Lessons: Beginners\' Basics';
 $txt['n_kaltxi'] = 'Salutoj &amp; Prezentoj';
-$txt['n_intro'] = 'Simpligitaj Lecionoj de Gramatikos: Enkonduko de la Gramatiko';
+$txt['n_intro'] = 'Simpligitaj Lecionoj de Gramatiko: Enkonduko de la Na\'via lingvo';
 // name generator
 $txt['g_n_try'] = 'Almenaŭ vi klopodis. ;D';
-$txt['g_first_name'] = 'First Name # of Syllables';
-$txt['g_family_name'] = 'Family Name # of Syllables';
-$txt['g_parent_name'] = 'Parent&apos;s Name # of Syllables';
-$txt['g_number_of_name'] = 'Number of Names to Generate';
+$txt['g_first_name'] = 'Antaŭnomo # de Silaboj';
+$txt['g_family_name'] = 'Familia Nomo # de Silaboj';
+$txt['g_parent_name'] = 'Nomo de Gepatro # de Silaboj';
+$txt['g_number_of_name'] = 'Kvanto da Generendaj Nomoj';
 $txt['g_credits'] = '<a href="http://forum.learnnavi.org/index.php?msg=566249">
       TTT-a generanto de Na\'viaj Nomoj!
     </a> de Uniltìrantokx te Skxawng';
