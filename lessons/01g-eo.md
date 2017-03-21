@@ -1,6 +1,6 @@
 # Ordo de Vortoj kaj Simplaj Frazoj
 
-**Kaltxì**! Saluton! Kaj bonvenon al la unua parto de la Enkonduko de Na'via Gramatiko, parto de la serio *Gramatiko Simpligita*.
+**Kaltxì**! Saluton! Kaj bonvenon al la unua parto de la Enkonduko de Na'via Gramatiko, parto de la serio _Gramatiko Simpligita_.
 
 Ĉi tiu leciono enhavas iujn tre bazajn partojn de la gramatiko ke ĉiu komencanto eble volas lerni unue por komenci krei frazojn.
 
@@ -38,10 +38,9 @@ kaj la signifo estas sama.
 
 ## Plej Simplaj Frazoj
 
-La plej simplaj kaj facilaj frazoj en la Na'via lingvo estas la frazoj kun du vortoj, kiel tiu en la supra ekzemplo. 
-Nur necesas sekvi ĉi tiujn du etapojn:
+La plej simplaj kaj facilaj frazoj en la Na'via lingvo estas la frazoj kun du vortoj, kiel tiu en la supra ekzemplo. Nur necesas sekvi ĉi tiujn du etapojn:
 
-1. Trovi substantivon en la vortaro kiu iĝos la subjekto. (substantivoj havas la markon  _n._ kaj pronomoj, _pn._)
+1. Trovi substantivon en la vortaro kiu iĝos la subjekto. (substantivoj havas la markon _n._ kaj pronomoj, _pn._)
 2. Trovi verbon en la vortaro. (verboj havas la markon _v._, _vin._, _svin._, _vim._, _vtr._, aŭ _vtrm._)
 
 Ambaŭ vortoj povas esti en ajna ordo, kiel en tiu ekzemplo:
@@ -95,7 +94,7 @@ Jen memorinda ekzemplo de tiu tipo de strukturo de frazo:
 - Oe-l nga-ti kame.
 - _Mi Vidas je vi._
 
-La vortordo de tipo "Subjekto Objekto Verbo" (SOV) estas ofte uzata. Ankaŭ, oni vidas alian version de la kazoj **-ìl** kaj **-it**,  kiu estas **-l** kaj **-ti**. (Estas tria version de la objekta kazo **-it** / **-ti**, nome **-t**). Oni uzas tiujn alternajn versiojn por faciligi la prononcon de la vortoj.
+La vortordo de tipo "Subjekto Objekto Verbo" (SOV) estas ofte uzata. Ankaŭ, oni vidas alian version de la kazoj **-ìl** kaj **-it**, kiu estas **-l** kaj **-ti**. (Estas tria version de la objekta kazo **-it** / **-ti**, nome **-t**). Oni uzas tiujn alternajn versiojn por faciligi la prononcon de la vortoj.
 
 Por skribi tiu tipo de frazo, nur sekvu ĉi tiuj etapojn:
 
