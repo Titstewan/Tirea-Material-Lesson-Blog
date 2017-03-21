@@ -31,7 +31,6 @@ $txt['m_lessons'] = 'Lessons';
 $txt['m_links'] = 'Links';
 $txt['m_downloads'] = 'Downloads';
 $txt['m_rss'] = 'RSS Feed';
-$txt['m_language'] = 'Language';
 // home
 $txt['h_welcome'] = 'Welcome';
 $txt['h_title'] = 'Easy Grammar Lessons';

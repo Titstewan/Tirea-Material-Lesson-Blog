@@ -30,7 +30,6 @@ $txt['m_lessons'] = 'Unterricht';
 $txt['m_links'] = 'Links';
 $txt['m_downloads'] = 'Downloads';
 $txt['m_rss'] = 'RSS Feed';
-$txt['m_language'] = 'Sprache';
 // home
 $txt['h_welcome'] = 'Wilkommen';
 $txt['h_title'] = 'Einfacher Grammatik Unterricht';
