@@ -586,30 +586,30 @@ function aysaheylu()
 {
 	global $weblink, $txt;
 	echo '
-	<div class="titlename">', $txt['l_links'], '</div>
-	<ul class="collection with-header">
-		<li class="collection-header"><h4>', $txt['l_cool'], '</h4></li>
-		<li class="collection-item"><a class="collection-link" href="https://soundcloud.com/thesoundsofpandora">The Sounds of Pandora</a><br />Official Avatar SoundCloud</li>
-		<li class="collection-item"><a class="collection-link" href="http://dict-navi.com">Dict-Na&#39;vi.com</a><br />Online Na&#39;vi Dictionary Search Engine</li>
-		<li class="collection-item"><a class="collection-link" href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br />Epic Na&#39;vi Number translator thingy</li>
-		<li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a><br />Learn Na&#39;vi Memrise Course</li>
-		<li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/51606/navi-useful-phrases/">Na&#39;vi Useful Phrases</a><br />Na&#39;vi Phrases Memrise Course</li>
-		<li class="collection-item"><a class="collection-link" href="http://naviteri.org">Na&#39;viteri.org</a><br />Paul Frommer&#39;s Blog</li>
-		<li class="collection-item"><a class="collection-link" href="http://layonyayo.com">Layon Yayo</a><br />Na&#39;vi Web Comic by Eana Unil</li>
-		<li class="collection-item"><a class="collection-link" href="http://www.avatarnation.net">Avatar Nation</a><br />Avatar Fan Site / Podcast</li>
-		<li class="collection-item"><a class="collection-link" href="' . $weblink . '?p=generator">', $txt['l_navi_gen'], '</a><br />', $txt['l_valid_gen'], '</li>
-	</ul>
-	<ul class="collection with-header">
-		<li class="collection-header"><h4>', $txt['l_blogs'], '</h4></li>
-		<li class="collection-item"><a class="collection-link" href="http://tireaaean.wordpress.com">Pìlok Tireayä Aean</a><br />Tirea Aean</li>
-		<li class="collection-item"><a class="collection-link" href="http://masempul.org">Ma Sempul</a><br />Prrton</li>
-		<li class="collection-item"><a class="collection-link" href="http://stegemue.blogspot.com">Aylì’uä Ramunong</a><br />Plumps</li>
-		<li class="collection-item"><a class="collection-link" href="http://eana-elf.blogspot.com/">Blog of Blue Elf</a><br />Blue Elf</li>
-		<li class="collection-item"><a class="collection-link" href="http://leeylan.blogg.se">Le&#39;eylan</a><br />Le&#39;eylan</li>
-		<li class="collection-item"><a class="collection-link" href="http://ngawng.blogspot.com">SìLawk LeKye&#39;ung</a><br />Ngawng</li>
-		<li class="collection-item"><a class="collection-link" href="http://tsyesika.co.uk">Tsyesìkayä Pìlok</a><br />Tsyesìka</li>
-		<li class="collection-item"><a class="collection-link" href="http://eanaunil.blogspot.com/">Tskxekeng ne tìyo&#39;</a><br />Eana Unil</li>
-	</ul>';
+			<div class="titlename">', $txt['l_links'], '</div>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['l_cool'], '</h4></li>
+				<li class="collection-item"><a class="collection-link" href="https://soundcloud.com/thesoundsofpandora">The Sounds of Pandora</a><br />Official Avatar SoundCloud</li>
+				<li class="collection-item"><a class="collection-link" href="http://dict-navi.com">Dict-Na&#39;vi.com</a><br />Online Na&#39;vi Dictionary Search Engine</li>
+				<li class="collection-item"><a class="collection-link" href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br />Epic Na&#39;vi Number translator thingy</li>
+				<li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a><br />Learn Na&#39;vi Memrise Course</li>
+				<li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/51606/navi-useful-phrases/">Na&#39;vi Useful Phrases</a><br />Na&#39;vi Phrases Memrise Course</li>
+				<li class="collection-item"><a class="collection-link" href="http://naviteri.org">Na&#39;viteri.org</a><br />Paul Frommer&#39;s Blog</li>
+				<li class="collection-item"><a class="collection-link" href="http://layonyayo.com">Layon Yayo</a><br />Na&#39;vi Web Comic by Eana Unil</li>
+				<li class="collection-item"><a class="collection-link" href="http://www.avatarnation.net">Avatar Nation</a><br />Avatar Fan Site / Podcast</li>
+				<li class="collection-item"><a class="collection-link" href="' . $weblink . '?p=generator">', $txt['l_navi_gen'], '</a><br />', $txt['l_valid_gen'], '</li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['l_blogs'], '</h4></li>
+				<li class="collection-item"><a class="collection-link" href="http://tireaaean.wordpress.com">Pìlok Tireayä Aean</a><br />Tirea Aean</li>
+				<li class="collection-item"><a class="collection-link" href="http://masempul.org">Ma Sempul</a><br />Prrton</li>
+				<li class="collection-item"><a class="collection-link" href="http://stegemue.blogspot.com">Aylì’uä Ramunong</a><br />Plumps</li>
+				<li class="collection-item"><a class="collection-link" href="http://eana-elf.blogspot.com/">Blog of Blue Elf</a><br />Blue Elf</li>
+				<li class="collection-item"><a class="collection-link" href="http://leeylan.blogg.se">Le&#39;eylan</a><br />Le&#39;eylan</li>
+				<li class="collection-item"><a class="collection-link" href="http://ngawng.blogspot.com">SìLawk LeKye&#39;ung</a><br />Ngawng</li>
+				<li class="collection-item"><a class="collection-link" href="http://tsyesika.co.uk">Tsyesìkayä Pìlok</a><br />Tsyesìka</li>
+				<li class="collection-item"><a class="collection-link" href="http://eanaunil.blogspot.com/">Tskxekeng ne tìyo&#39;</a><br />Eana Unil</li>
+			</ul>';
 }
 
 // The download page
@@ -617,17 +617,17 @@ function navi_download()
 {
 	global $weblink, $txt;
 	echo '
-<div class="titlename">', $txt['d_downl'], '</div>
-<ul class="collection with-header">
-	<li class="collection-header"><h4>', $txt['d_thing'], '</h4></li>
-	<li class="collection-item"><a class="collection-link" href="download/101-Handout-4-WA-2012.pdf">Na\'vi 101 Handout [PDF]</a><br />From AvatarMeet 2012 Seattle, WA</li>
-	<li class="collection-item"><a class="collection-link" href="download/102-Handout-4-DC-2013.pdf">Na\'vi 102 Handout [PDF]</a><br />From AvatarMeet 2013 Washington, DC</li>
-	<li class="collection-item"><a class="collection-link" href="download/103-Handout-4-LA-2014.pdf">Na\'vi 103 Handout [PDF]</a><br />From AvatarMeet 2014 Los Angeles, CA</li>
-	<li class="collection-item"><a class="collection-link" href="download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard Mod [APK Android App]</a><br />KXWERTY keyboard layout for Android</li>
-	<li class="collection-item"><a class="collection-link" href="download/ts3_Client_LN_Sound_Pack-0.2.zip">TS3 Voice Pack [ZIP]</a><br />Na&#39;vi Language support for TeamSpeak 3</li>
-	<li class="collection-item"><a class="collection-link" href="download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br />KXWERTY keyboard layout for Windows / Mac</li>
-	<!-- <li class="collection-item"><a class="collection-link" href="/material/img">', $txt['d_images'], '</a><br />', $txt['d_hrhgif'], '</li> -->
-</ul>';
+			<div class="titlename">', $txt['d_downl'], '</div>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['d_thing'], '</h4></li>
+				<li class="collection-item"><a class="collection-link" href="download/101-Handout-4-WA-2012.pdf">Na\'vi 101 Handout [PDF]</a><br />From AvatarMeet 2012 Seattle, WA</li>
+				<li class="collection-item"><a class="collection-link" href="download/102-Handout-4-DC-2013.pdf">Na\'vi 102 Handout [PDF]</a><br />From AvatarMeet 2013 Washington, DC</li>
+				<li class="collection-item"><a class="collection-link" href="download/103-Handout-4-LA-2014.pdf">Na\'vi 103 Handout [PDF]</a><br />From AvatarMeet 2014 Los Angeles, CA</li>
+				<li class="collection-item"><a class="collection-link" href="download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard Mod [APK Android App]</a><br />KXWERTY keyboard layout for Android</li>
+				<li class="collection-item"><a class="collection-link" href="download/ts3_Client_LN_Sound_Pack-0.2.zip">TS3 Voice Pack [ZIP]</a><br />Na&#39;vi Language support for TeamSpeak 3</li>
+				<li class="collection-item"><a class="collection-link" href="download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br />KXWERTY keyboard layout for Windows / Mac</li>
+				<!-- <li class="collection-item"><a class="collection-link" href="/material/img">', $txt['d_images'], '</a><br />', $txt['d_hrhgif'], '</li> -->
+			</ul>';
 }
 
 // The Na'vi lessons
