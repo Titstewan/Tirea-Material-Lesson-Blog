@@ -659,8 +659,7 @@ function navi_lesson($lnum)
 		<ul class="collection with-header">
 			<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>
 			<li class="collection-item"><a class="collection-link" href="index.php?p=lessons&l=01g">Word Order &amp; Simple Sentences</a></li>
-		</ul>
-		';
+		</ul>';
 	}
 }
 
