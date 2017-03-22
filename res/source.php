@@ -650,16 +650,16 @@ function navi_lesson($lnum)
 	else
 	{
 		echo '
-		<div class="titlename">', $txt['n_lesson'], '</div>
-		<br><br>
-		<ul class="collection with-header">
-			<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>
-			<li class="collection-item"><a class="collection-link" href="#">', $txt['n_kaltxi'], '</a></li>
-		</ul>
-		<ul class="collection with-header">
-			<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>
-			<li class="collection-item"><a class="collection-link" href="index.php?p=lessons&l=01g">Word Order &amp; Simple Sentences</a></li>
-		</ul>';
+			<div class="titlename">', $txt['n_lesson'], '</div>
+			<br><br>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>
+				<li class="collection-item"><a class="collection-link" href="#">', $txt['n_kaltxi'], '</a></li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>
+				<li class="collection-item"><a class="collection-link" href="index.php?p=lessons&l=01g">Word Order &amp; Simple Sentences</a></li>
+			</ul>';
 	}
 }
 
