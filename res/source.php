@@ -162,422 +162,423 @@ function home()
 // The sound page
 function abc_sound()
 {
-	global $txt;
+	global $txt, $httproot;
 
 	echo '
-	<div class="titlename">
-		Na&#39;vi Sounds
-	</div>
-	<p>', $txt['s_intro'], '</p>
-	<ul class="collection with-header">
-		<li class="collection-header"><h4>', $txt['s_vowels'], '</h4></li>
-		<li class="collection-item">
-			<div>a [a]
-				<a id="play_a" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
+			<div class="titlename">
+				', $txt['m_sounds'], '
 			</div>
-		</li>
-		<li class="collection-item">
-			<div>ä [æ]
-				<a id="play_ae" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>e [ɛ]
-				<a id="play_e" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>i [i]
-				<a id="play_i" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>ì [ɪ]
-				<a id="play_ih" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>o [o]
-				<a id="play_o" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>u [u] / [ʊ]
-				<a id="play_u1" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-				<span class="secondary-content black-text">&nbsp; / &nbsp;</span>
-				<a id="play_u" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			 </div>
-		</li>
-	</ul>
-	<ul class="collection with-header">
-		<li class="collection-header"><h4>', $txt['s_diphto'], '</h4></li>
-		<li class="collection-item">
-			<div>aw [aw]
-				<a id="play_aw" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>ay [aj]
-				<a id="play_ay" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>ew [ɛw]
-				<a id="play_ew" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>ey [ɛj]
-				<a id="play_ey" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-	</ul>
-	<ul class="collection with-header">
-		<li class="collection-header"><h4>', $txt['s_pseudo'], '</h4></li>
-		<li class="collection-item">
-			<div>ll [ḷ]
-				<a id="play_ll" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>rr [r]
-				<a id="play_rr" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-	</ul>
-	<ul class="collection with-header">
-		<li class="collection-header"><h4>', $txt['s_conson'], '</h4></li>
-		<li class="collection-item">
-			<div>\' [&#660;]
-				<a id="play_tihftang" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>f [f]
-				<a id="play_f" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>h [h]
-				<a id="play_h" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>k [k]
-				<a id="play_k" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>kx [&#107;]
-				<a id="play_kx" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>l [l]
-				<a id="play_l" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>m [m]
-				<a id="play_m" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>n [n]
-				<a id="play_n" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>ng [&#331;]
-				<a id="play_ng" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>p [p]
-				<a id="play_p" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>r [&#638;]
-				<a id="play_r" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>s [s]
-				<a id="play_s" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>t [t]
-				<a id="play_t" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>ts [&#678;]
-				<a id="play_ts" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>tx [&#116;]
-				<a id="play_tx" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>v [v]
-				<a id="play_v" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>w [w]
-				<a id="play_w" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>y [j]
-				<a id="play_y" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-		<li class="collection-item">
-			<div>z [z]
-				<a id="play_z" class="secondary-content amber-text">
-					<i class="material-icons">play_circle_filled</i>
-				</a>
-			</div>
-		</li>
-	</ul>
-	<audio id="audio_a">
-	<source src="' . $httproot . 'audio/a.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/a.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_ae">
-	<source src="' . $httproot . 'audio/ae.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/ae.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_e">
-	<source src="' . $httproot . 'audio/e.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/e.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_i">
-	<source src="' . $httproot . 'audio/i.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/i.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_ih">
-	<source src="' . $httproot . 'audio/ih.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/ih.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_o">
-	<source src="' . $httproot . 'audio/o.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/o.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_u">
-	<source src="' . $httproot . 'audio/u.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/u.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_u1">
-	<source src="' . $httproot . 'audio/u1.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/u1.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_aw">
-	<source src="' . $httproot . 'audio/aw.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/aw.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_ay">
-	<source src="' . $httproot . 'audio/ay.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/ay.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_ew">
-	<source src="' . $httproot . 'audio/ew.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/ew.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_ey">
-	<source src="' . $httproot . 'audio/ey.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/ey.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_ll">
-	<source src="' . $httproot . 'audio/ll.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/ll.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_rr">
-	<source src="' . $httproot . 'audio/rr.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/rr.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_tihftang">
-	<source src="' . $httproot . 'audio/tihftang.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/tihftang.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_f">
-	<source src="' . $httproot . 'audio/f.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/f.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_h">
-	<source src="' . $httproot . 'audio/h.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/h.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_k">
-	<source src="' . $httproot . 'audio/k.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/k.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_kx">
-	<source src="' . $httproot . 'audio/kx.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/kx.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_l">
-	<source src="' . $httproot . 'audio/l.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/l.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_m">
-	<source src="' . $httproot . 'audio/m.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/m.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_n">
-	<source src="' . $httproot . 'audio/n.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/n.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_ng">
-	<source src="' . $httproot . 'audio/ng.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/ng.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_p">
-	<source src="' . $httproot . 'audio/p.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/p.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_px">
-	<source src="' . $httproot . 'audio/px.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/px.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_r">
-	<source src="' . $httproot . 'audio/r.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/r.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_s">
-	<source src="' . $httproot . 'audio/s.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/s.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_t">
-	<source src="' . $httproot . 'audio/t.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/t.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_ts">
-<source src="' . $httproot . 'audio/ts.ogg" type="audio/ogg"/>
-<source src="' . $httproot . 'audio/ts.mp3" type="audio/mpeg"/>
-', $txt['no_audio'], '
-<audio id="audio_tx">
-	<source src="' . $httproot . 'audio/tx.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/tx.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_v">
-	<source src="' . $httproot . 'audio/v.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/v.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_w">
-	<source src="' . $httproot . 'audio/w.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/w.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_y">
-	<source src="' . $httproot . 'audio/y.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/y.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>
-<audio id="audio_z">
-	<source src="' . $httproot . 'audio/z.ogg" type="audio/ogg"/>
-	<source src="' . $httproot . 'audio/z.mp3" type="audio/mpeg"/>
-	', $txt['no_audio'], '
-</audio>';
+			<p>', $txt['s_intro'], '</p>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['s_vowels'], '</h4></li>
+				<li class="collection-item">
+					<div>a [a]
+						<a id="play_a" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>ä [æ]
+						<a id="play_ae" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>e [ɛ]
+						<a id="play_e" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>i [i]
+						<a id="play_i" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>ì [ɪ]
+						<a id="play_ih" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>o [o]
+						<a id="play_o" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>u [u] / [ʊ]
+						<a id="play_u1" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+						<span class="secondary-content black-text">&nbsp; / &nbsp;</span>
+						<a id="play_u" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					 </div>
+				</li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['s_diphto'], '</h4></li>
+				<li class="collection-item">
+					<div>aw [aw]
+						<a id="play_aw" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>ay [aj]
+						<a id="play_ay" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>ew [ɛw]
+						<a id="play_ew" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>ey [ɛj]
+						<a id="play_ey" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['s_pseudo'], '</h4></li>
+				<li class="collection-item">
+					<div>ll [ḷ]
+						<a id="play_ll" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>rr [r]
+						<a id="play_rr" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['s_conson'], '</h4></li>
+				<li class="collection-item">
+					<div>\' [&#660;]
+						<a id="play_tihftang" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>f [f]
+						<a id="play_f" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>h [h]
+						<a id="play_h" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>k [k]
+						<a id="play_k" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>kx [&#107;]
+						<a id="play_kx" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>l [l]
+						<a id="play_l" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>m [m]
+						<a id="play_m" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>n [n]
+						<a id="play_n" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>ng [&#331;]
+						<a id="play_ng" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>p [p]
+						<a id="play_p" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>r [&#638;]
+						<a id="play_r" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>s [s]
+						<a id="play_s" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>t [t]
+						<a id="play_t" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>ts [&#678;]
+						<a id="play_ts" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>tx [&#116;]
+						<a id="play_tx" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>v [v]
+						<a id="play_v" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>w [w]
+						<a id="play_w" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>y [j]
+						<a id="play_y" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+				<li class="collection-item">
+					<div>z [z]
+						<a id="play_z" class="secondary-content amber-text">
+							<i class="material-icons">play_circle_filled</i>
+						</a>
+					</div>
+				</li>
+			</ul>
+			<audio id="audio_a">
+				<source src="' . $httproot . 'audio/a.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/a.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_ae">
+				<source src="' . $httproot . 'audio/ae.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/ae.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_e">
+				<source src="' . $httproot . 'audio/e.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/e.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_i">
+				<source src="' . $httproot . 'audio/i.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/i.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_ih">
+				<source src="' . $httproot . 'audio/ih.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/ih.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_o">
+				<source src="' . $httproot . 'audio/o.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/o.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_u">
+				<source src="' . $httproot . 'audio/u.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/u.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_u1">
+				<source src="' . $httproot . 'audio/u1.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/u1.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_aw">
+				<source src="' . $httproot . 'audio/aw.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/aw.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_ay">
+				<source src="' . $httproot . 'audio/ay.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/ay.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_ew">
+				<source src="' . $httproot . 'audio/ew.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/ew.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_ey">
+				<source src="' . $httproot . 'audio/ey.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/ey.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_ll">
+				<source src="' . $httproot . 'audio/ll.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/ll.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_rr">
+				<source src="' . $httproot . 'audio/rr.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/rr.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_tihftang">
+				<source src="' . $httproot . 'audio/tihftang.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/tihftang.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_f">
+				<source src="' . $httproot . 'audio/f.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/f.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_h">
+				<source src="' . $httproot . 'audio/h.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/h.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_k">
+				<source src="' . $httproot . 'audio/k.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/k.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_kx">
+				<source src="' . $httproot . 'audio/kx.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/kx.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_l">
+				<source src="' . $httproot . 'audio/l.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/l.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_m">
+				<source src="' . $httproot . 'audio/m.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/m.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_n">
+				<source src="' . $httproot . 'audio/n.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/n.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_ng">
+				<source src="' . $httproot . 'audio/ng.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/ng.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_p">
+				<source src="' . $httproot . 'audio/p.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/p.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_px">
+				<source src="' . $httproot . 'audio/px.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/px.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_r">
+				<source src="' . $httproot . 'audio/r.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/r.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_s">
+				<source src="' . $httproot . 'audio/s.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/s.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_t">
+				<source src="' . $httproot . 'audio/t.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/t.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_ts">
+				<source src="' . $httproot . 'audio/ts.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/ts.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_tx">
+				<source src="' . $httproot . 'audio/tx.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/tx.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_v">
+				<source src="' . $httproot . 'audio/v.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/v.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_w">
+				<source src="' . $httproot . 'audio/w.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/w.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_y">
+				<source src="' . $httproot . 'audio/y.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/y.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>
+			<audio id="audio_z">
+				<source src="' . $httproot . 'audio/z.ogg" type="audio/ogg"/>
+				<source src="' . $httproot . 'audio/z.mp3" type="audio/mpeg"/>
+				', $txt['no_audio'], '
+			</audio>';
 }
 
 // The link page
