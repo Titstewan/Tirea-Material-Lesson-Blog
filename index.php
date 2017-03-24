@@ -51,11 +51,6 @@ if (isset($_GET['lang']))
 	$lang = $_GET['lang'];
 }
 
-// The dropdown fields
-$dropdown = '<li><a href="' . $httproot . 'language/index.php?lang=english">English</a></li>
-<li><a href="' . $httproot . 'language/index.php?lang=german">Deutsch</a></li>
-<li><a href="' . $httproot . 'language/index.php?lang=esperanto">Esperanto</a></li>';
-
 // Let's require the source file!
 require_once(dirname(__FILE__) . '/settings.php');
 require_once($sourcedir . '/source.php');
