@@ -33,14 +33,6 @@ if (!headers_sent())
 	header('X-Content-Type-Options: nosniff');
 }
 
-// Since tirea.learnnavi.org is a sub domain of learnnavi.org, it should support https, if Mark enable it fir tirea.learnnavi.org
-//if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] == 'off')
-//{
-//	$redirect = 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-//	header('Location: ' . $redirect);
-//	exit();
-//}
-
 // Which languages shall we load?
 if (!isset($_COOKIE['lang']))
 {
