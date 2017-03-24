@@ -46,9 +46,9 @@ function html_header()
 	<header>
 		<!-- Dropdown Structure -->
 		<ul id="dropdown1" class="dropdown-content">
-			<li><a href="', $httproot, 'language/index.php?lang=english">English</a></li>
-			<li><a href="', $httproot, 'language/index.php?lang=german">Deutsch</a></li>
-			<li><a href="', $httproot, 'language/index.php?lang=esperanto">Esperanto</a></li>
+			<li><a href="', $weblink, '?lang=english">English</a></li>
+			<li><a href="', $weblink, '?lang=german">Deutsch</a></li>
+			<li><a href="', $weblink, '?lang=esperanto">Esperanto</a></li>
 		</ul>
 		<nav>
 			<div class="nav-wrapper">
@@ -71,9 +71,9 @@ function html_header()
 							<li><a class="collapsible-header waves-effect waves-amber">', $txt['m_language'], '</a>
 								<div class="collapsible-body">
 									<ul>
-										<li><a href="', $httproot, 'language/index.php?lang=english">English</a></li>
-										<li><a href="', $httproot, 'language/index.php?lang=german">Deutsch</a></li>
-										<li><a href="', $httproot, 'language/index.php?lang=esperanto">Esperanto</a></li>
+										<li><a href="', $weblink, '?lang=english">English</a></li>
+										<li><a href="', $weblink, '?lang=german">Deutsch</a></li>
+										<li><a href="', $weblink, '?lang=esperanto">Esperanto</a></li>
 									</ul>
 								</div>
 							</li>
