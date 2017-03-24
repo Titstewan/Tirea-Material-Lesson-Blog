@@ -28,6 +28,7 @@ if (!defined('TLB')) die('No direct access...');
 function html_header()
 {
 	global $httproot, $weblink, $txt;
+
 	echo '<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
@@ -134,6 +135,7 @@ function html_bottom()
 function home()
 {
 	global $weblink, $txt;
+
 	echo '
 			<div class="tooltip" id="index-tt">
 				<div class="titlename"><span>Zola&#39;u N&igrave;prrte&#39;</span></div>
@@ -310,7 +312,7 @@ function navi_download()
 // The Na'vi lessons
 function navi_lesson($lnum)
 {
-	global $lessondir, $txt, $lang;
+	global $lessondir, $txt, $lang, $weblink;
 
 	// Something (Hopefully lesson) was requested in l= URL var
 	if ($lnum != '')
@@ -331,11 +333,11 @@ function navi_lesson($lnum)
 			<br><br>
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>
-				<li class="collection-item"><a class="collection-link" href="index.php?p=lessons&l=01c-', $lang, '">', $txt['n_01c'], '</a></li>
+				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=01c-', $lang, '">', $txt['n_01c'], '</a></li>
 			</ul>
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>
-				<li class="collection-item"><a class="collection-link" href="index.php?p=lessons&l=01g-', $lang, '">', $txt['n_01g'], '</a></li>
+				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=01g-', $lang, '">', $txt['n_01g'], '</a></li>
 			</ul>';
 	}
 }
