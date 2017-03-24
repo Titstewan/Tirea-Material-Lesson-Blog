@@ -66,100 +66,100 @@ Analizo:
 - **ngaru** estas alia formo de _vi_ kiu signifas _al vi_.
 - **lu** estas la verbo _esti_.
 - **fpom** estas _paco/bonfarto_.
-- **srak** estas vorto kiu transformas deklaron en malferman demandon (jes/ne). Oni metas tiun vorton en la fino de la frazo aŭ en ties komenco kiel **srake**
+- **srak** estas vorto kiu transformas deklaron en decidan demandon (jes/ne). Oni metas tiun vorton en la fino de la frazo aŭ en ties komenco kiel **srake**
 
 <span id="3">
 </span>
 
 ## Mi fartas bone / malbone / plimalpli bone
 
-Since _How are you_ in Na'vi is actually a yes/no question, its answers include the following:
+Ĉar la frazo _Kiel vi fartas_ en la Na'via estas fakte decida demando (jes/ne), siaj respondoj estas:
 
-- **Srane.** _Yes._
-- **Kehe.** _No._
-- **Tam ke tam.** A phrase that basically means _meh_ or _so-so_.
+- **Srane.** _Jes._
+- **Kehe.** _Ne._
+- **Tam ke tam.** Frazo kiu signifas _plimalpli bone_.
 
-To ask the question back to whoever asked you first, you have two options:
+Por demandi la fartecon de via interparolanto, estas du opcioj:
 
 - **ngaru lu fpom srak?**
-- _Do you have well-being?_
+- _Ĉu vi havas bonfarton_
 
-or
+aŭ
 
 - **ngaru tut?**
-- _How about you? / What about you?_
+- _Kaj vi?_
 
 <span id="4">
 </span>
 
-## My name is / I am
+## Mi nomiĝas
 
-Although in Na'vi you _could_ say literally,
+Kvankam vi _povus_ diri laŭvorte
 
 - **Oeyä tstxo lu ____.**
-- _My name is ____._
+- _Mia nomo estas ____._
 
-It's much more Na'vi-like to say it like this:
+Estas pli nature en la Na'via diri:
 
 - **Oeru fko syaw ____.**
-- _One calls me ____._
-- Literally: "To me one calls ____."
+- _Oni nomas min ____._
+- Laŭvorte: "Al mi oni vokas ____."
 
-Since the Na'vi language has flexible word order, if the above sentence gives you any trouble, you can change the word order. Perhaps to something like this:
+Ĉar la Na'via lingvo havas liberan vortordon, se la supra frazo estas problema al vi, vi povas ŝanĝo la vortordon por:
 
 - **Oeru syaw fko ____.**
-- or
+- aŭ
 - **Fko oeru syaw ____.**
 
 <span id="5">
 </span>
 
-## What's your name?
+## Kiel vi nomiĝas?
 
-This question is very similar to its reply, which is found in the previous section. _What's your name?_ in Na'vi is more like _How are you called?_ and is typically worded like this:
+La demando estas tre simila al la respondo, kiun vi trovas en la antaŭa sekcio. _Kiel vi nomiĝas?_ signifas _Kiel oni vokas vin?_ kaj ĝenerale estas skribita tial:
 
 - **Fyape fko syaw ngar?**
-- _How are you called?_
-- Literally: "How one calls to you?"
+- _Kiel oni vokas vin?_
+- Laŭvorte: "Kiel oni vokas al vi?"
 
-or:
+aŭ:
 
 - **Pefya syaw fko ngaru?**
-- _How are you called?_
-- Literally: "How calls one to you?"
+- _(Samsignife)_
+- Laŭvorte: "Kiel vokas oni al vi?"
 
-Note that **Fyape/Pefya** are two forms of the same word, and **ngar/ngaru** are also two forms of the same word.
+Notu ke **Fyape/Pefya** estas du versioj de la sama vorto, kaj **ngar/ngaru** estas ankaŭ du formoj de la sama vorto.
 
-- _Nice to meet you_ in Na'vi translates to **Smon nìprrte'.**
-- Literally: "[you are] familiar [to me] pleasurably"
+- _Agrablas renkonti vin_ iĝas en la Na'via lingvo **Smon nìprrte'.**
+- Laŭvorte: "[vi estas] kutima [al mi] kun plezuro"
 
 <span id="6">
 </span>
 
-## Goodbye
+## Ĝis la revido!
 
-Here are some popular Na'vi goodbyes:
+Jen kelkaj popularaj adiaŭoj:
 
 - **Kiyevame / Kìyevame**
-- _See you again soon_
+- _Ĝis ni komprenvidos baldaŭ_
 
-Either version is fine; Some use the version with i because it's easier, some use the version with ì because it looks cooler.
+Ajna version estas korenkta; Iuj uzas la version kun i ĉar estas pli facila, iuj uzas la version kun ì ĉar ĝi ŝajnas pli mojosa.
 
 - **Eywa ngahu**
-- _May Eywa be with you_
-- Literally: Eywa you-with
+- _Eywa estu kun vi_
+- Laŭvorte: Eywa vi-kun
 
-And another one you may often see:
+Kaj alia frazio kiun vi povas vidi:
 
 - **Hayalovay**
-- _Until next time_
+- _Ĝis la sekvanto fojo_
 
 <span id="d">
 </span>
 
-## Dialogue
+## Dialogo
 
-### Na'vi Transcript
+### Na'vilingva Transskribo
 
 - A: **Kaltxì! Ngaru lu fpom srak?**
 - B: **Kaltxì! Srane, ngaru tut?**
@@ -171,46 +171,46 @@ And another one you may often see:
 - B: **Kiyevame ulte Eywa ngahu!**
 - A: **Hayalovay. Eywa ngahu!**
 
-### English Translation
+### Esperanta Transskribo
 
-- A: _Hello! Do you have peace?_
-- B: _Hello! Yes, how about you?_
-- A: _I have peace._
-- B: _How are you called?_
-- A: _I'm called (----) How are you called?_
-- B: _Nice to meet you. I'm (----)._
-- A: _Nice to meet you too._
-- B: _Goodbye and may Eywa be with you!_
-- A: _Until next time. May Eywa be with you!_
+- A: _Saluton! Ĉu vi havas pacon?_
+- B: _Saluton! Jes, kaj vi?_
+- A: _Mi havas pacon._
+- B: _Kiel oni vokas vin?_
+- A: _Oni vokas min (----) Kiel oni vokas vin?_
+- B: _Agrablas renkonti vin. Mi nomiĝas (----)._
+- A: _Agrablas renkonti vin ankaŭ._
+- B: _Ĝis la revido kaj Eywa estu kun vi!_
+- A: _Ĝis la sekvanta fojo. Eywa estu kun vi!_
 
 <span id="v">
 </span>
 
-## Vocabulary Learned
+## Vortareto
 
-Na'vi                   | English
+Na'vi                   | Esperanto
 ----------------------- | -----------------------------------------------------------------------
-**kaltxì**              | _hello_
-**oel**                 | _I_
-**ngati**               | _you_
-**kameie**              | _See (deeply, spiritually)_
-**ma**                  | _(word put before names or titles when addressing the person directly)_
-**sempul**              | _father_
-**ngaru**               | _to you_
-**lu**                  | _is/am/are/be_
-**fpom**                | _peace/well-being_
-**srak / srake**        | _(word that creates yes/no questions)_
-**srane**               | _yes_
-**kehe**                | _no_
-**tam ke tam**          | _so-so, meh_
-**(----) tut?**         | _what about (----)?_
-**oeyä**                | _my_
-**tstxo**               | _name_
-**fko**                 | _one, unspecified person_
-**syaw**                | _call_
-**fyape / pefya**       | _how_
-**kiyevame / kìyevame** | _See you again soon_
-**Eywa ngahu**          | _Eywa be with you_
-**hayalovay**           | _until next time_
+**kaltxì**              | _Saluton_
+**oel**                 | _mi_
+**ngati**               | _vin_
+**kameie**              | _komprenvidi (vidi profunde, spirite)_
+**ma**                  | _(vorto lokita antaŭ nomoj aŭ titoloj por direkte alparoli personon)_
+**sempul**              | _patro_
+**ngaru**               | _al vi_
+**lu**                  | _esti/estas_
+**fpom**                | _paco/bonfarto_
+**srak / srake**        | _(vorto kiu kreas decidajn demandojn [jes/ne])_
+**srane**               | _jes_
+**kehe**                | _ne_
+**tam ke tam**          | _plimalpli bone_
+**(----) tut?**         | _kaj (----)?_
+**oeyä**                | _mia_
+**tstxo**               | _nomo_
+**fko**                 | _oni_
+**syaw**                | _voki_
+**fyape / pefya**       | _kiel_
+**kiyevame / kìyevame** | _Ĝis ni komprenvidos baldaŭ_
+**Eywa ngahu**          | _Eywa estu kun vi_
+**hayalovay**           | _Ĝis la sekvanta fojo_
 **nìteng**              | _too, as well_
-**ulte**                | _and_
+**ulte**                | _kaj (por kunigi frazojn)_
