@@ -212,5 +212,5 @@ Na'vi                   | Esperanto
 **kiyevame / kìyevame** | _Ĝis ni komprenvidos baldaŭ_
 **Eywa ngahu**          | _Eywa estu kun vi_
 **hayalovay**           | _Ĝis la sekvanta fojo_
-**nìteng**              | _too, as well_
+**nìteng**              | _ankaŭ, krome_
 **ulte**                | _kaj (por kunigi frazojn)_
