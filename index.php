@@ -42,16 +42,20 @@ if (!headers_sent())
 //}
 
 // Which languages shall we load?
-if(!isset($_COOKIE["lang"])){
-	setcookie("lang","english",time() + (86400 * 30),"/");
-	$lang = "english";
-} else {
-	$lang = $_COOKIE["lang"];
+if (!isset($_COOKIE['lang']))
+{
+	setcookie('lang', 'english', time() + (86400 * 30), '/', 'tirea.learnnavi.org');
+	$lang = 'english';
+}
+else
+{
+	$lang = $_COOKIE['lang'];
 }
 
-if(isset($_GET["lang"])){
-	setcookie("lang",$_GET["lang"],time() + (86400 * 30),"/");
-	$lang = $_GET["lang"];
+if (isset($_GET['lang']))
+{
+	setcookie('lang', $_GET['lang'], time() + (86400 * 30), '/', 'tirea.learnnavi.org');
+	$lang = $_GET['lang'];
 }
 
 // Let's require the source file!
