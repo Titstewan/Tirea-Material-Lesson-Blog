@@ -27,7 +27,7 @@ if (!defined('TLB')) die('No direct access...');
 // ...html header (<html><body>)...
 function html_header()
 {
-	global $httproot, $weblink, $txt;
+	global $httproot, $weblink, $txt, $dropdown;
 
 	echo '<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -46,11 +46,7 @@ function html_header()
 	</head>
 	<header>
 		<!-- Dropdown Structure -->
-		<ul id="dropdown1" class="dropdown-content">
-			<li><a href="', $httproot, 'language/index.php?lang=english">English</a></li>
-			<li><a href="', $httproot, 'language/index.php?lang=german">Deutsch</a></li>
-			<li><a href="', $httproot, 'language/index.php?lang=esperanto">Esperanto</a></li>
-		</ul>
+		<ul id="dropdown1" class="dropdown-content">', $dropdown, '</ul>
 		<nav>
 			<div class="nav-wrapper">
 				<a href="', $weblink, '" class="brand-logo">Tirea Na&apos;vi</a>
@@ -71,11 +67,7 @@ function html_header()
 						<ul class="collapsible collapsible-accordion">
 							<li><a class="collapsible-header waves-effect waves-amber">', $txt['m_language'], '</a>
 								<div class="collapsible-body">
-									<ul>
-										<li><a href="', $httproot, 'language/index.php?lang=english">English</a></li>
-										<li><a href="', $httproot, 'language/index.php?lang=german">Deutsch</a></li>
-										<li><a href="', $httproot, 'language/index.php?lang=esperanto">Esperanto</a></li>
-									</ul>
+									<ul>', $dropdown, '</ul>
 								</div>
 							</li>
 						</ul>
