@@ -31,4 +31,9 @@ $langdir = dirname(__FILE__) . '/language';
 // define the weblink
 $weblink = $httproot . 'index.php';
 
+// the root link
+$rootlink = 'http://localhost';
+
+// domain of the page
+$domain = 'tirea.learnnavi.org';
 ?>
