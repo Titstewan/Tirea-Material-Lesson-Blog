@@ -4,6 +4,8 @@ Hello, and welcome to the first of a new series of Na'vi Language lessons! If yo
 you check out the audio clips on the [Sounds](http://localhost/material/?p=sounds) page to get a solid feel for how the language is
 pronounced. Here are some of the classic building blocks of getting started with conversation in Na'vi.
 
+Ahoj a Vítej na první ze série lekcí o jazyky Na'vi! 
+
 ## Topics
 
 ### [Saying Hello](#1)
