@@ -1,6 +1,6 @@
 # Greetings & Introductions
 
-Hello, and welcome to the first of a new series of Na'vi Language lessons! If you haven't already, I highly recommend that you check out the audio clips on the [Sounds](http://localhost/material/?p=sounds) page to get a solid feel for how the language is pronounced. Here are some of the classic building blocks of getting started with conversation in Na'vi.
+Hallo, und willkommen bei der ersten einer neuen Serie von Na'vi Sprachunterricht! Wenn du noch nicht schon hast, I highly recommend that you check out the audio clips on the [Sounds](http://localhost/material/?p=sounds) page to get a solid feel for how the language is pronounced. Here are some of the classic building blocks of getting started with conversation in Na'vi.
 
 ## Topics
 
