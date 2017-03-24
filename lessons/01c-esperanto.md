@@ -1,77 +1,77 @@
-# Greetings & Introductions
+# Salutoj kaj Prezentoj
 
-Hello, and welcome to the first of a new series of Na'vi Language lessons! If you haven't already, I highly recommend that you check out the audio clips on the [Sounds](http://localhost/material/?p=sounds) page to get a solid feel for how the language is pronounced. Here are some of the classic building blocks of getting started with conversation in Na'vi.
+Saluton, kaj bonvenon al la unua el pluraj novaj lecionoj pri la Na'via lingvo! Se vi ne ankoraŭ faris tion, mi forte rekomendas ke vi aŭskultu la aŭdajn registraĵojn en la paĝo pri [Sonoj](http://localhost/material/?p=sounds) por koni la prononcon de la vortoj. Jen kelka bazo por komenci konversacion en la Na'via.
 
-## Topics
+## Temoj
 
-### [Saying Hello](#1)
+### [Saluti](#1)
 
-### [How are you?](#2)
+### [Kiel vi fartas?](#2)
 
-### [I'm well / not well / so-so](#3)
+### [Mi fartas bone / malbone / plimalpli bone](#3)
 
-### [My name is / I am](#4)
+### [Mi nomiĝas](#4)
 
-### [What's your name?](#5)
+### [Kiel vi nomiĝas?](#5)
 
-### [Goodbye](#6)
+### [Ĝis la revido!](#6)
 
-### [Dialogue](#d)
+### [Dialogo](#d)
 
-### [Vocabulary Learned](#v)
+### [Vortareto](#v)
 
 <span id="1">
 </span>
 
-## Saying Hello
+## Saluti
 
-The Na'vi word for _hello_ is **kaltxì**.
+Por saluti personon, _Saluton_ tradukiĝas **kaltxì**.
 
-Another popular greeting you may remember from the film is
+Estas alia saluto populara, kiun vi aŭdis en la filmo:
 
 - **Oel ngati kameie.**
-- _I see you_
+- _Mi komprenvidas vin_
 
-A breakdown:
+Jen analizo:
 
-- **oel** is a form of _I_.
-- **ngati** is a form of _you_.
-- **kameie** is a form of the verb _to See [in a deep spiritual sense]_.
+- **oel** estas derivo de _mi_.
+- **ngati** signifas _vin_.
+- **kameie** estas formo de la verbo _komprenvidi [vidi spirite]_.
 
-You may be asking, "Doesn't that say, _'I you See'_?" And you'd be correct; it does say that. In the Na'vi language, the word order is much more flexible than that of English. More about that later. For now, we will keep it simple.
+Eble vi demandas, "Ĉu tio signifas _'Mi vin komprenvidas'_?" kaj vi pravas; tio estas la vera signifo. En la Na'via lingvo, la vortordo estas pli libera ol tiu de la angla. Mi detalos tion pli malfrue. Ĉi-momente, tio restas simpla.
 
-When you want to address someone directly by their name or title, the word **ma** must be used just before the name. For example:
+Se vi volas alparoli iun per sia nomo aŭ sia titolo, oni devas uzi la vorton **ma** antaŭ la nomo. Ekzemple:
 
 - **Kaltxì ma Neytiri!**
-- _Hello, Neytiri!_
+- _Saluton Neytiri!_
 
-And one from the film:
+Kaj ekzemplo el la filmo:
 
 - **Ma sempul, oel ngati kameie.**
-- _Father, I see you._
+- _Patro, mi komprenvidas vin._
 
 <span id="2">
 </span>
 
-## How are you?
+## Kiel vi fartas?
 
-The Na'vi do not really ask, "_How are you?_", but rather something more like "_Do you have peace/well-being?_" Here's how it works:
+La Na'vioj ne demandas, "_Kiel vi fartas?_", sed pli precize "_Ĉu vi havas bonfarton?_" Jen kiel tio funkcias:
 
 - **Ngaru lu fpom srak?**
-- _Do you have peace/well-being?_
-- Literally: "To you is peace/well-being (yes/no)?"
+- _Ĉu vi havas bonfarton?_
+- Literally: "Al vi estas paco/bonfarto (jes/ne)?"
 
-A breakdown:
+Analizo:
 
-- **ngaru** is another form of _you_ that means _to you_.
-- **lu** is the verb _am/are/is/be_.
-- **fpom** is _peace/well-being_.
-- **srak** is a word that changes a statement into a yes/no question. It goes at the end of the sentence, or at the very beginning as **srake**
+- **ngaru** estas alia formo de _vi_ kiu signifas _al vi_.
+- **lu** estas la verbo _esti_.
+- **fpom** estas _paco/bonfarto_.
+- **srak** estas vorto kiu transformas deklaron en malferman demandon (jes/ne). Oni metas tiun vorton en la fino de la frazo aŭ en ties komenco kiel **srake**
 
 <span id="3">
 </span>
 
-## I'm well / not well / so-so
+## Mi fartas bone / malbone / plimalpli bone
 
 Since _How are you_ in Na'vi is actually a yes/no question, its answers include the following:
 
