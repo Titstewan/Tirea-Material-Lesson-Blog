@@ -23,7 +23,7 @@ $sourcedir = dirname(__FILE__) . '/res';
 // define HTTP Document root for use by Apache
 // because soon it will change from this to just "/"
 // and now, that change will be very easy by edit one line affects all pages
-$httproot = '/material/';
+$httproot = $rootlink . '/material/';
 
 // path to the lesson dir
 $lessondir = dirname(__FILE__) . '/lessons';
@@ -32,7 +32,7 @@ $lessondir = dirname(__FILE__) . '/lessons';
 $langdir = dirname(__FILE__) . '/language';
 
 // define the weblink
-$weblink = $rootlink . $httproot . 'index.php';
+$weblink = $httproot . 'index.php';
 
 // domain of the page
 $domain = 'tirea.learnnavi.org';
