@@ -44,7 +44,7 @@ if (!headers_sent())
 // Which languages shall we load?
 if (!isset($_COOKIE['lang']))
 {
-	setcookie('lang', 'english', time() + (86400 * 30), '/', 'tirea.learnnavi.org');
+	setcookie('lang', 'english', time() + (86400 * 30), '/', $domain);
 	$lang = 'english';
 }
 else
@@ -52,9 +52,10 @@ else
 	$lang = $_COOKIE['lang'];
 }
 
+// get the langs
 if (isset($_GET['lang']))
 {
-	setcookie('lang', $_GET['lang'], time() + (86400 * 30), '/', 'tirea.learnnavi.org');
+	setcookie('lang', $_GET['lang'], time() + (86400 * 30), '/', $domain);
 	$lang = $_GET['lang'];
 }
 
