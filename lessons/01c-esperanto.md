@@ -59,7 +59,7 @@ La Na'vioj ne demandas, "_Kiel vi fartas?_", sed pli precize "_Ĉu vi havas bonf
 
 - **Ngaru lu fpom srak?**
 - _Ĉu vi havas bonfarton?_
-- Literally: "Al vi estas paco/bonfarto (jes/ne)?"
+- Laŭvorte: "Al vi estas paco/bonfarto (jes/ne)?"
 
 Analizo:
 
