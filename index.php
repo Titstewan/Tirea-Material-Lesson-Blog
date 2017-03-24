@@ -46,7 +46,17 @@ require_once(dirname(__FILE__) . '/settings.php');
 require_once($sourcedir . '/source.php');
 
 // Which languages shall we load?
-$lang = 'english';
+if(!isset($_COOKIE["lang"])){
+	setcookie("lang","english",time() + (86400 * 30),"/");
+	$lang = "english";
+} else {
+	$lang = $_COOKIE["lang"];
+}
+
+if(isset($_GET["lang"])){
+	setcookie("lang",$_GET["lang"],time() + (86400 * 30),"/");
+	$lang = $_GET["lang"];
+}
 
 // require the languages file
 require_once($langdir . '/' . $lang . '.php');
