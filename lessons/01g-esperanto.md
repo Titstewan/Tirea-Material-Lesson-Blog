@@ -92,7 +92,7 @@ Jen memorinda ekzemplo de tiu tipo de strukturo de frazo:
 
 - **Oel ngati kame.**
 - Oe-l nga-ti kame.
-- _Mi Vidas je vi._
+- _Mi vin komprenvidas._
 
 La vortordo de tipo "Subjekto Objekto Verbo" (SOV) estas ofte uzata. Ankaŭ, oni vidas alian version de la kazoj **-ìl** kaj **-it**, kiu estas **-l** kaj **-ti**. (Estas tria version de la objekta kazo **-it** / **-ti**, nome **-t**). Oni uzas tiujn alternajn versiojn por faciligi la prononcon de la vortoj.
 
