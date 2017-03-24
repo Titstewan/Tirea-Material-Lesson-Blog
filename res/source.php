@@ -331,7 +331,7 @@ function navi_lesson($lnum)
 			<br><br>
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>
-				<li class="collection-item"><a class="collection-link" href="#">', $txt['n_01c'], '</a></li>
+				<li class="collection-item"><a class="collection-link" href="index.php?p=lessons&l=01c-', $lang, '">', $txt['n_01c'], '</a></li>
 			</ul>
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>
