@@ -14,6 +14,9 @@ tirea-learnnavi.org
 if (!defined('TLB'))
 	die('No direct access...');
 
+// the root link
+$rootlink = 'http://localhost';
+
 // define the server dir for use by PHP
 $sourcedir = dirname(__FILE__) . '/res';
 
@@ -29,10 +32,7 @@ $lessondir = dirname(__FILE__) . '/lessons';
 $langdir = dirname(__FILE__) . '/language';
 
 // define the weblink
-$weblink = $httproot . 'index.php';
-
-// the root link
-$rootlink = 'http://localhost';
+$weblink = $rootlink . $httproot . 'index.php';
 
 // domain of the page
 $domain = 'tirea.learnnavi.org';
