@@ -35,7 +35,7 @@ $txt['m_rss'] = 'RSS-fluo';
 $txt['h_welcome'] = 'Bonvenon';
 $txt['h_title'] = 'Facilaj Lecionoj de Gramatiko';
 $txt['h_welcome_txt'] = 'Bonvenon al Tirea Na\'vi! Tiu ĉi retejo ekzistas por intrui la Na\'vian
-                  Lingvon al ĉiuj kun maniero facile komprenebla. Al vi ĉiuj kiuj 
+                  Lingvon al ĉiuj kun maniero facile komprenebla. Al vi ĉiuj kiuj
                   amas la filmon Avatar kaj ne estas spertuloj de lingvistiko, mi esperas
                   ke mi helpu vin iĝi la sekvanta parolanto de tiu mirinda lingvo.
                   -- Tirea Aean (Blua Spirito)';
@@ -64,8 +64,9 @@ $txt['d_images'] = 'imaĝoj';
 // lessons
 $txt['n_lesson'] = 'Lecionoj de la Na\'via Lingvo';
 $txt['n_basic'] = 'Conversational Lessons: Beginners\' Basics';
-$txt['n_kaltxi'] = 'Salutoj &amp; Prezentoj';
+$txt['n_01c'] = 'Salutoj &amp; Prezentoj';
 $txt['n_intro'] = 'Simpligitaj Lecionoj de Gramatiko: Enkonduko de la Na\'via lingvo';
+$txt['n_01g'] = 'Ordo de Vortoj kaj Simplaj Frazoj';
 // name generator
 $txt['g_n_try'] = 'Almenaŭ vi klopodis. ;D';
 $txt['g_first_name'] = 'Antaŭnomo # de Silaboj';

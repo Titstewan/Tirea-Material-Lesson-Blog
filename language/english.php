@@ -64,8 +64,9 @@ $txt['d_images'] = 'images folder';
 // lessons
 $txt['n_lesson'] = 'Na\'vi Language Lessons';
 $txt['n_basic'] = 'Conversational Lessons: Beginners\' Basics';
-$txt['n_kaltxi'] = 'Greetings &amp; Introductions';
+$txt['n_01c'] = 'Greetings &amp; Introductions';
 $txt['n_intro'] = 'Simplified Grammar Lessons: Intro to Na\'vi Grammar';
+$txt['n_01g'] = 'Word Order &amp; Simple Sentences';
 // name generator
 $txt['g_n_try'] = 'Nice try. ;D';
 $txt['g_first_name'] = 'First Name # of Syllables';

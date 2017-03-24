@@ -60,8 +60,9 @@ $txt['d_images'] = 'Bilderordner';
 // lessons
 $txt['n_lesson'] = 'Na\'vi Sprachunterricht';
 $txt['n_basic'] = 'Konversationsunterricht: Anfänger Grundlagen';
-$txt['n_kaltxi'] = 'Grüße &amp; Vorstellung';
+$txt['n_01c'] = 'Grüße &amp; Vorstellung';
 $txt['n_intro'] = 'Vereinfachter Grammatik-Unterricht: Einführung der Na\'vi Grammatik';
+$txt['n_01g'] = 'Wortordnung &amp; einfache Sätze';
 // name generator
 $txt['g_n_try'] = 'Netter Versuch. ;D';
 $txt['g_first_name'] = 'Vorname # der Silben';

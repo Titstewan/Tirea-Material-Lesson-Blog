@@ -41,10 +41,6 @@ if (!headers_sent())
 //	exit();
 //}
 
-// Let's require the source file!
-require_once(dirname(__FILE__) . '/settings.php');
-require_once($sourcedir . '/source.php');
-
 // Which languages shall we load?
 if(!isset($_COOKIE["lang"])){
 	setcookie("lang","english",time() + (86400 * 30),"/");
@@ -57,6 +53,10 @@ if(isset($_GET["lang"])){
 	setcookie("lang",$_GET["lang"],time() + (86400 * 30),"/");
 	$lang = $_GET["lang"];
 }
+
+// Let's require the source file!
+require_once(dirname(__FILE__) . '/settings.php');
+require_once($sourcedir . '/source.php');
 
 // require the languages file
 require_once($langdir . '/' . $lang . '.php');
