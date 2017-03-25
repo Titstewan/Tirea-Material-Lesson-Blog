@@ -4,25 +4,45 @@ Hello, and welcome to the first of a new series of Na'vi Language lessons! If yo
 you check out the audio clips on the [Sounds](http://localhost/material/?p=sounds) page to get a solid feel for how the language is
 pronounced. Here are some of the classic building blocks of getting started with conversation in Na'vi.
 
-Ahoj a Vítej na první ze série lekcí o jazyky Na'vi! 
+Ahoj a Vítej na první ze série lekcí o jazyky Na'vi! Pokud jste tak ještě neučinili, tak rozhodně doporučuji navštívit stránku se 
+zvukovými nahrávkami na stránce se [Zvuky](http://localhost/material/?p=sounds), abyste získali ucelený obrázek o tom, jak jazyk zní.
+Níže jsou klasické začátky 
 
 ## Topics
 
+## Témata
+
 ### [Saying Hello](#1)
+
+### [Pozdrav](#1)
 
 ### [How are you?](#2)
 
+### [Jak se máš?](#2)
+
 ### [I'm well / not well / so-so](#3)
 
+### [Mám se dobře / špatně / nic moc](#3)
+
 ### [My name is / I am](#4)
+
+### [Moje jméno je / Já jsem](#4)
+
+### [Jak se jmenuješ?](#5)
 
 ### [What's your name?](#5)
 
 ### [Goodbye](#6)
 
+### [Rozloučení](#6)
+
 ### [Dialogue](#d)
 
+### [Rozhovor](#d)
+
 ### [Vocabulary Learned](#v)
+//Vocabulary Learned -> new words
+### [Nová slovní zásoba](#v)
 
 <span id="1">
 </span>
