@@ -8,59 +8,44 @@ Ahoj a Vítej na první ze série lekcí o jazyky Na'vi! Pokud jste tak ještě 
 zvukovými nahrávkami na stránce se [Zvuky](http://localhost/material/?p=sounds), abyste získali ucelený obrázek o tom, jak jazyk zní.
 Níže jsou klasické začátky 
 
-## Topics
-
 ## Témata
-
-### [Saying Hello](#1)
 
 ### [Pozdrav](#1)
 
-### [How are you?](#2)
-
 ### [Jak se máš?](#2)
 
-### [I'm well / not well / so-so](#3)
-
 ### [Mám se dobře / špatně / nic moc](#3)
-
-### [My name is / I am](#4)
 
 ### [Moje jméno je / Já jsem](#4)
 
 ### [Jak se jmenuješ?](#5)
 
-### [What's your name?](#5)
-
-### [Goodbye](#6)
-
 ### [Rozloučení](#6)
-
-### [Dialogue](#d)
 
 ### [Rozhovor](#d)
 
-### [Vocabulary Learned](#v)
 //Vocabulary Learned -> new words
 ### [Nová slovní zásoba](#v)
 
 <span id="1">
 </span>
 
-## Saying Hello
+## Pozdrav
 
-The Na'vi word for _hello_ is **kaltxì**.
+Na'vi mají slov **kaltxì** pro české _ahoj_.
 
-Another popular greeting you may remember from the film is
-
+Další popularní pozdrav, který si můžete pamatovat z filmu je
 - **Oel ngati kameie.**
-- _I see you_
+- _Zřím tě_
 
-A breakdown:
+Rozbor:
 
 - **oel** is a form of _I_.
+- **oel** je forma osobního zájmena _já_ v 1. pádě (Ergativ).
 - **ngati** is a form of _you_.
+- **ngati** je forma osobního zájmena _ty_ ve 4. pádě.
 - **kameie** is a form of the verb _to See [in a deep spiritual sense]_.
+- **kameie** je forma slovesa _vidět_, _zřít_ [ve spirituální významu].
 
 You may be asking, "Doesn't that say, _'I you See'_?" And you'd be correct; it does say that. In the Na'vi language, the word order is much more flexible than that of English. More about that later. For now, we will keep it simple.
 
@@ -68,28 +53,37 @@ When you want to address someone directly by their name or title, the word **ma*
 
 - **Kaltxì ma Neytiri!**
 - _Hello, Neytiri!_
+- _Ahoj Neytiri!_
 
 And one from the film:
+A další z filmu:
 
 - **Ma sempul, oel ngati kameie.**
 - _Father, I see you._
+- _Otče, zřím tě._
 
 <span id="2">
 </span>
 
-## How are you?
+## Jak se máš?
 
 The Na'vi do not really ask, "_How are you?_", but rather something more like "_Do you have peace/well-being?_" Here's how it works:
 
 - **Ngaru lu fpom srak?**
 - _Do you have peace/well-being?_
+- _Máš se dobře?_
 - Literally: "To you is peace/well-being (yes/no)?"
+- Doslovně: "Tobě je dobré bytí (ano/ne)?"
 
-A breakdown:
+Rozbor:
 
 - **ngaru** is another form of _you_ that means _to you_.
+- **ngaru** is another form of _you_ that means _to you_.
+- **lu** is the verb _am/are/is/be_.
 - **lu** is the verb _am/are/is/be_.
 - **fpom** is _peace/well-being_.
+- **fpom** is _peace/well-being_.
+- **srak** is a word that changes a statement into a yes/no question. It goes at the end of the sentence, or at the very beginning as **srake**
 - **srak** is a word that changes a statement into a yes/no question. It goes at the end of the sentence, or at the very beginning as **srake**
 
 <span id="3">
@@ -117,6 +111,7 @@ or
 </span>
 
 ## My name is / I am
+## Moje jméno je / Já jsem
 
 Although in Na'vi you _could_ say literally,
 
@@ -139,6 +134,7 @@ Since the Na'vi language has flexible word order, if the above sentence gives yo
 </span>
 
 ## What's your name?
+## Jak se jmenuješ?
 
 This question is very similar to its reply, which is found in the previous section. _What's your name?_ in Na'vi is more like _How are you called?_ and is typically worded like this:
 
@@ -160,7 +156,7 @@ Note that **Fyape/Pefya** are two forms of the same word, and **ngar/ngaru** are
 <span id="6">
 </span>
 
-## Goodbye
+## Rozloučení
 
 Here are some popular Na'vi goodbyes:
 
@@ -181,9 +177,10 @@ And another one you may often see:
 <span id="d">
 </span>
 
-## Dialogue
+## Rozhovor
 
 ### Na'vi Transcript
+### Na'vijský opis
 
 - A: **Kaltxì! Ngaru lu fpom srak?**
 - B: **Kaltxì! Srane, ngaru tut?**
@@ -195,7 +192,7 @@ And another one you may often see:
 - B: **Kiyevame ulte Eywa ngahu!**
 - A: **Hayalovay. Eywa ngahu!**
 
-### English Translation
+### Český překlad
 
 - A: _Hello! Do you have peace?_
 - B: _Hello! Yes, how about you?_
@@ -212,29 +209,29 @@ And another one you may often see:
 
 ## Vocabulary Learned
 
-Na'vi                   | English
+Na'vi                   | čestina
 ----------------------- | -----------------------------------------------------------------------
-**kaltxì**              | _hello_
-**oel**                 | _I_
-**ngati**               | _you_
-**kameie**              | _See (deeply, spiritually)_
-**ma**                  | _(word put before names or titles when addressing the person directly)_
-**sempul**              | _father_
-**ngaru**               | _to you_
-**lu**                  | _is/am/are/be_
-**fpom**                | _peace/well-being_
+**kaltxì**              | _Hello_ - _ahoj_ 
+**oel**                 | _I_ - _já_
+**ngati**               | _you_ - _ty_
+**kameie**              | _See (deeply, spiritually)_ - _vidět, zřít (spirituálně) _ 
+**ma**                  | _částice ma, která se dává před osobu, tkerou chceme přímo adresovat (funkce podobná 5. pádu v češtině)_
+**sempul**              | _father_ - _otec_
+**ngaru**               | _to you_ - _ti/tobě (dativ zájmena ty)_
+**lu**                  | _is/am/are/be_ - _sloveso být_
+**fpom**                | _peace/well-being_ - _mír/zdraví/dobré bytí_
 **srak / srake**        | _(word that creates yes/no questions)_
-**srane**               | _yes_
-**kehe**                | _no_
-**tam ke tam**          | _so-so, meh_
+**srane**               | _yes_ - _ano_
+**kehe**                | _no_ - _ne_
+**tam ke tam**          | _so-so, meh_ - _nic moc_
 **(----) tut?**         | _what about (----)?_
-**oeyä**                | _my_
-**tstxo**               | _name_
-**fko**                 | _one, unspecified person_
-**syaw**                | _call_
-**fyape / pefya**       | _how_
-**kiyevame / kìyevame** | _See you again soon_
-**Eywa ngahu**          | _Eywa be with you_
-**hayalovay**           | _until next time_
-**nìteng**              | _too, as well_
-**ulte**                | _and_
+**oeyä**                | _my_ _moje/mé (genitiv zájmena já)_
+**tstxo**               | _name_ - _jméno_
+**fko**                 | _one, unspecified person_ - _jeden, ono_
+**syaw**                | _call_ - _volat, nazývat_
+**fyape / pefya**       | _how_ - _jak, jakým způdobem_
+**kiyevame / kìyevame** | _See you again soon_ - _brzy naviděnou / brzy se uvidíme_
+**Eywa ngahu**          | _Eywa be with you_ - _Ať je Eywa s tebou_
+**hayalovay**           | _until next time_ - _tak příště / do příště_
+**nìteng**              | _too, as well_ - _také_
+**ulte**                | _and_ - _a (spojka a pouze mezi větami)_
