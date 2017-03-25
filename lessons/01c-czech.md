@@ -6,7 +6,7 @@ pronounced. Here are some of the classic building blocks of getting started with
 
 Ahoj a Vítej na první ze série lekcí o jazyky Na'vi! Pokud jste tak ještě neučinili, tak rozhodně doporučuji navštívit stránku se 
 zvukovými nahrávkami na stránce se [Zvuky](http://localhost/material/?p=sounds), abyste získali ucelený obrázek o tom, jak jazyk zní.
-Níže jsou klasické začátky 
+Níže jsou klasické začátky s konverzac9 v jazyce Na'vi.
 
 ## Témata
 
@@ -94,18 +94,24 @@ Rozbor:
 Since _How are you_ in Na'vi is actually a yes/no question, its answers include the following:
 
 - **Srane.** _Yes._
+- **Srane.** _Ano._
 - **Kehe.** _No._
+- **Kehe.** _Ne._
 - **Tam ke tam.** A phrase that basically means _meh_ or _so-so_.
+- **Tam ke tam.** Fráze, která znamená _nic moc_ nebo _jde to_.
 
 To ask the question back to whoever asked you first, you have two options:
 
 - **ngaru lu fpom srak?**
 - _Do you have well-being?_
+- _Máš se dobře?_
 
 or
+nebo
 
 - **ngaru tut?**
 - _How about you? / What about you?_
+- _A ty? / A jak ty?_
 
 <span id="4">
 </span>
@@ -117,12 +123,15 @@ Although in Na'vi you _could_ say literally,
 
 - **Oeyä tstxo lu ____.**
 - _My name is ____._
+- _Moje jméno je ____._
 
 It's much more Na'vi-like to say it like this:
 
 - **Oeru fko syaw ____.**
 - _One calls me ____._
+- _Říkají mi ____._
 - Literally: "To me one calls ____."
+- Doslova: "Mě oni říkají ____."
 
 Since the Na'vi language has flexible word order, if the above sentence gives you any trouble, you can change the word order. Perhaps to something like this:
 
@@ -159,20 +168,27 @@ Note that **Fyape/Pefya** are two forms of the same word, and **ngar/ngaru** are
 ## Rozloučení
 
 Here are some popular Na'vi goodbyes:
+Zde je pár oblíbených možností, jak se Na'vi loučí.
 
 - **Kiyevame / Kìyevame**
 - _See you again soon_
+- _Brzy na viděnou_
 
 Either version is fine; Some use the version with i because it's easier, some use the version with ì because it looks cooler.
+Obě verze jsou správné. Někteří používají verzi s i, protože se píše jednodušeji, některí poučívají verzi s ì, protože je víc cool. 
 
 - **Eywa ngahu**
 - _May Eywa be with you_
+- _Ať je Eywa s tebou_
 - Literally: Eywa you-with
+- Doslova: Eywa tebou-s
 
 And another one you may often see:
+A ještě jedno, které můžete často vidět:
 
 - **Hayalovay**
 - _Until next time_
+- _někdy příště, tak příště_
 
 <span id="d">
 </span>
@@ -195,43 +211,53 @@ And another one you may often see:
 ### Český překlad
 
 - A: _Hello! Do you have peace?_
+- A: _Ahoj! Máš dobré bytí?_
 - B: _Hello! Yes, how about you?_
+- B: Ahoj! Ano, a co ty?_
 - A: _I have peace._
+- A: _Mám se dobře._
 - B: _How are you called?_
-- A: _I'm called (----) How are you called?_
+- B: _Jak ti říkají?_
+- A: _I'm called (----). How are you called?_
+- A: _Mě říkají (----). Jak se jmenuješ ty?_
 - B: _Nice to meet you. I'm (----)._
+- B: _Rád tě poznávám. Já jsem (----)._
 - A: _Nice to meet you too._
+- A: _Rád tě poznávám též._
 - B: _Goodbye and may Eywa be with you!_
+- B: _Nashledavnou a Eywa s tebou!_
 - A: _Until next time. May Eywa be with you!_
+- A: _Někdy příště. Sbohem!_
 
 <span id="v">
 </span>
 
 ## Vocabulary Learned
+## Nová slovní zásoba
 
 Na'vi                   | čestina
 ----------------------- | -----------------------------------------------------------------------
-**kaltxì**              | _Hello_ - _ahoj_ 
-**oel**                 | _I_ - _já_
-**ngati**               | _you_ - _ty_
-**kameie**              | _See (deeply, spiritually)_ - _vidět, zřít (spirituálně) _ 
+**kaltxì**              | _ahoj_ 
+**oel**                 | _já_
+**ngati**               | _ty_
+**kameie**              | _vidět, zřít (spirituálně) _ 
 **ma**                  | _částice ma, která se dává před osobu, tkerou chceme přímo adresovat (funkce podobná 5. pádu v češtině)_
-**sempul**              | _father_ - _otec_
-**ngaru**               | _to you_ - _ti/tobě (dativ zájmena ty)_
-**lu**                  | _is/am/are/be_ - _sloveso být_
-**fpom**                | _peace/well-being_ - _mír/zdraví/dobré bytí_
-**srak / srake**        | _(word that creates yes/no questions)_
-**srane**               | _yes_ - _ano_
-**kehe**                | _no_ - _ne_
-**tam ke tam**          | _so-so, meh_ - _nic moc_
-**(----) tut?**         | _what about (----)?_
-**oeyä**                | _my_ _moje/mé (genitiv zájmena já)_
-**tstxo**               | _name_ - _jméno_
-**fko**                 | _one, unspecified person_ - _jeden, ono_
-**syaw**                | _call_ - _volat, nazývat_
-**fyape / pefya**       | _how_ - _jak, jakým způdobem_
-**kiyevame / kìyevame** | _See you again soon_ - _brzy naviděnou / brzy se uvidíme_
-**Eywa ngahu**          | _Eywa be with you_ - _Ať je Eywa s tebou_
-**hayalovay**           | _until next time_ - _tak příště / do příště_
-**nìteng**              | _too, as well_ - _také_
-**ulte**                | _and_ - _a (spojka a pouze mezi větami)_
+**sempul**              | _otec_
+**ngaru**               | _ti/tobě (dativ zájmena ty)_
+**lu**                  | _sloveso být_
+**fpom**                | _mír/zdraví/dobré bytí_
+**srak / srake**        | _slovo pro vytvoření zjišťovací otázky_
+**srane**               | _ano_
+**kehe**                | _ne_
+**tam ke tam**          | _nic moc_
+**(----) tut?**         | _ pokračovací částice - a (---)?_
+**oeyä**                | _moje/mé (genitiv zájmena já)_
+**tstxo**               | _jméno_
+**fko**                 | _obecný podmět, "ono"_
+**syaw**                | _volat, zavolat_
+**fyape / pefya**       | _jak, jakým způdobem_
+**kiyevame / kìyevame** | _brzy naviděnou / brzy se uvidíme_
+**Eywa ngahu**          | _Ať je Eywa s tebou_
+**hayalovay**           | _tak příště / do příště_
+**nìteng**              | _také_
+**ulte**                | _a (spojka a, pouze mezi větami)_
