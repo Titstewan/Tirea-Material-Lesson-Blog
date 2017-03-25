@@ -323,8 +323,8 @@ function navi_lesson($lnum)
 		// Parse the file and echo it as HTML, or echo not found.
 		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) : "File Not Found: " . htmlspecialchars($f);
 	}
-	// No lesson was requested, all we do is show Lesson index.
 
+	// No lesson was requested, all we do is show Lesson index.
 	else
 	{
 		// we need to define the directory
