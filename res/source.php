@@ -309,34 +309,57 @@ function navi_download()
 // The Na'vi lessons
 function navi_lesson($lnum)
 {
-	global $lessondir, $txt, $lang, $weblink;
+	global $lessondir, $txt, $lang, $weblink, $num;
 
 	// Something (Hopefully lesson) was requested in l= URL var
 	if ($lnum != '')
 	{
+		$l = substr_replace($lnum, $lang, 4);
 		// Fire up the Markdown Parser
 		require_once 'Parsedown.php';
 		$Parsedown = new Parsedown();
 		// Ready the Markdown Lesson File
-		$f = $lessondir . '/' . $lnum . '.md';
+		$f = $lessondir . '/' . $l . '.md';
 		// Parse the file and echo it as HTML, or echo not found.
 		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) : "File Not Found: " . htmlspecialchars($f);
 	}
 	// No lesson was requested, all we do is show Lesson index.
+
 	else
 	{
-		echo '
+		// we need to define the directory
+		$dir = $lessondir . '/';
+
+		// Open a directory, and read its content
+		if (is_dir($dir))
+		{
+			if ($dh = opendir($dir))
+			{
+				echo '
 			<div class="titlename">', $txt['n_lesson'], '</div>
-			<br><br>
+			<br><br>';
+				while (($file = readdir($dh)) !== false)
+				{
+					$num = substr($file, 0, 2);
+
+					// echo stuff only if a part of the file name is numric
+					if (preg_match('/^\d+$/', $num) && stripos($file, 'c-') && stripos($file, $lang))
+							echo '
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>
-				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=01c-', $lang, '">', $txt['n_01c'], '</a></li>
-			</ul>
+				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', $txt['n_01c'], '</a></li>
+			</ul>';
+					// echo stuff only if a part of the file name is numric
+					if (preg_match('/^\d+$/', $num) && stripos($file, 'g-') && stripos($file, $lang))
+							echo '
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>
-				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=01g-', $lang, '">', $txt['n_01g'], '</a></li>
+				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'g-', $lang, '">', $txt['n_01g'], '</a></li>
 			</ul>';
+				}
+				closedir($dh);
+			}
+		}
 	}
 }
-
 ?>
