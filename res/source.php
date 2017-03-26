@@ -341,7 +341,7 @@ function about()
 				<li class="collection-item"><strong>Tìtstewan & Tirea Aean</strong></li>
 			</ul>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>,' $txt['a_thanks'],'</h4></li>
+				<li class="collection-header"><h4>', $txt['a_thanks'], '</h4></li>
 				<li class="collection-item"><strong>Vawmataw, Hahaw[hhvhhvcz], Genaral Anubis,', $txt['a_others'], '</strong></li>
 			</ul>
 			<ul class="collection with-header">

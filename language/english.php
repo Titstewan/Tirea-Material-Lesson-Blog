@@ -20,7 +20,7 @@ $txt['about'] = 'About';
 $txt['no_audio'] = 'Your browser does not support the audio element.';
 $txt['tlb_exp'] = 'EXPERIMENTAL SITE UNDER CONSTRUCTION! :D';
 $txt['foot_admin'] = 'Website Admin/Designer';
-$txt['foot_softdev'] = 'Software development'
+$txt['foot_softdev'] = 'Software development';
 $txt['foot_disc'] = 'This site was created by members of the <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
 This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
 Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their

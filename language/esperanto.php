@@ -14,7 +14,7 @@ tirea-learnnavi.org
 $txt['no_audio'] = 'Via retumilo ne subtenas la Audio elemento.';
 $txt['tlb_exp'] = 'EKSPERIMENTA RETEJO SUB KONSTRUADO! :D';
 $txt['foot_admin'] = 'Website Admin/Designer';
-$txt['foot_softdev'] = 'Software development'
+$txt['foot_softdev'] = 'Software development';
 $txt['foot_disc'] = 'This site was created by members of the <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
 This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
 Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
