@@ -37,10 +37,11 @@ function html_header()
 	global $httproot, $weblink, $txt, $dropdown;
 
 // The dropdown fields
-$dropdown = '<li><a href="' . $httproot . 'language/switch.php?lang=english">English</a></li>
-<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
-<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
-<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>';
+$dropdown = '
+			<li><a href="' . $httproot . 'language/switch.php?lang=english">English</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>';
 
 	echo '<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -320,9 +321,11 @@ function navi_download()
 // The About page
 function about()
 {
-	global $weblink, $txt;
+	global $txt;
+
 	echo '
-			<div class="titlename">', $txt['about'], '</div>';
+			<div class="titlename">', $txt['about'], '</div>
+			<br /><br />', $txt['credits'], '<br />';
 }
 
 // The Na'vi lessons
