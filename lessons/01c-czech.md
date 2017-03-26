@@ -36,7 +36,7 @@ Rozbor:
 
 - **oel** je forma osobního zájmena _já_ v 1. pádě (Ergativ).
 - **ngati** je forma osobního zájmena _ty_ ve 4. pádě.
-- **kameie** je forma slovesa _vidět_, _zřít_ [ve spirituální významu + infix dobré nálady (vysvětelo v dalších lekcích)].
+- **kameie** je forma slovesa _vidět_, _zřít_ [ve spirituální významu + infix dobré nálady (vysvětleno v dalších lekcích)].
 
 Možná si říkáte: "Neznamená to náhodou _'Já tě zřím'_?", a měli byste pravdu, protože v na'vijštině je pořádek slov velmi flexibilní podobně jako timu je v čestině. Více o syntaxi, tedy pořádku slov později. Pro zatím jen zjednodušeně.
 
