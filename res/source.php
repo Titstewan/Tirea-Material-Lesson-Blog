@@ -22,7 +22,8 @@ tirea-learnnavi.org
 ----------------------------*/
 
 // Some php functions for generating the site
-if (!defined('TLB')) die('No direct access...');
+if (!defined('TLB'))
+	die('No direct access...');
 
 // ...html header (<html><body>)...
 function html_header()
@@ -115,6 +116,8 @@ function html_bottom()
 		</ul>
 	</div>
 	<div class="foot">', $txt['foot_disc'], '</div>
+	<br /><br />
+	<a href="', $weblink, '?p=about">', $txt['about'], '</a> - Tirea Na\'vi Web software: <a href="', $weblink, '">', $software_vers, '<br />
 	<script src="' . $httproot . 'res/jquery.min.js"></script>
 	<script src="' . $httproot . 'res/materialize.min.js"></script>
 	<script src="' . $httproot . 'res/play.js"></script>
