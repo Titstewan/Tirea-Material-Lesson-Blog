@@ -92,6 +92,7 @@ function hp_main()
 		'links' => array('source.php', 'aysaheylu'),
 		'downloads' => array('source.php', 'navi_download'),
 		'lessons' => array('source.php', 'navi_lesson'),
+		'about' => array('source.php', 'about'),
 	);
 
 	// Get the function and file to include - if it's not there, do the index.
