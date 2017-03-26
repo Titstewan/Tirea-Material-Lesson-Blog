@@ -362,34 +362,36 @@ function navi_lesson($lnum)
 				sort($files);
 
 				echo '
-				<ul class="collection with-header">
-					<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>';
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>';
 
 				foreach ($files as $f)
 				{
 					$num = substr($f, 0, 2);
 					if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, $lang))
 					{
-		    		echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>';
+		    				echo '
+				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>';
 					}
 				}
 
-				echo '</ul>';
-
 				echo '
-				<ul class="collection with-header">
-					<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>';
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>';
 
 				foreach ($files as $f)
 				{
 					$num = substr($f, 0, 2);
 					if (preg_match('/^\d+$/', $num) && stripos($f, 'g-') && stripos($f, $lang))
 					{
-						echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'g-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'g'] : ''), '</a></li>';
+						echo '
+				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'g-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'g'] : ''), '</a></li>';
 					}
 				}
 
-				echo '</ul>';
+				echo '
+			</ul>';
 
 				closedir($dh);
 			}
