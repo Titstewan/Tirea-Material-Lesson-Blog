@@ -347,14 +347,14 @@ function navi_lesson($lnum)
 							echo '
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>
-				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', $txt['n_01c'], '</a></li>
+				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>
 			</ul>';
 					// echo stuff only if a part of the file name is numric
 					if (preg_match('/^\d+$/', $num) && stripos($file, 'g-') && stripos($file, $lang))
 							echo '
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>
-				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'g-', $lang, '">', $txt['n_01g'], '</a></li>
+				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'g-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'g'] : ''), '</a></li>
 			</ul>';
 				}
 				closedir($dh);
