@@ -76,14 +76,7 @@ html_header();
 
 // The Homepage
 // What function shall we execute? (done like this for memory's sake.)
-if (isset($_REQUEST['p']) && $_REQUEST['p'] == 'lessons' && isset($_REQUEST['l']))
-{
-	call_user_func(hp_main(), $_REQUEST['l']);
-}
-else
-{
-	call_user_func(hp_main());
-}
+call_user_func(hp_main());
 
 // The main controlling function.
 function hp_main()
