@@ -14,7 +14,7 @@
 
 ### [Dialogo](#d)
 
-### [Vortoj Uzitaj en Tiu Leciono](#v)
+### [Vortareto](#v)
 
 <span id="1">
 </span>
@@ -68,7 +68,7 @@ Paragrafo tie pri **Lì'u leNa'vi** (_Na'via vorto_) kaj ekzemplo:
 - A: **aylì'u**
 - B: **Tì'eyng**
 
-### Traduko en Esperanto
+### Esperanta Transskribo
 
 - A: _aferoj_
 - B: _aferoj aliaj_
@@ -78,11 +78,11 @@ Paragrafo tie pri **Lì'u leNa'vi** (_Na'via vorto_) kaj ekzemplo:
 <span id="v">
 </span>
 
-## Vortoj Uzitaj en Tiu Leciono
+## Vortareto
 
 Na'vi        | Esperanto
 ------------ | ----------
 **tìkenong** | _ekzemplo_
 **fìtseng**  | _tie_
 
-Teksto. [Tie estas una ligilo.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Teksto. [Tie estas ligilo.](https://www.youtube.com/watch?v=phC4CEXolG0)
