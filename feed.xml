@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tirea Na'vi</title>
         <link>http://tirea.learnnavi.org/material</link>
+        <atom:link href="http://tirea.learnnavi.org/material/feed.xml" rel="self" type="application/rss+xml"/>
         <description>Na'vi Language Lessons for Non-linguists</description>
-        <lastBuildDate>Sun, 16 Oct 2016 08:26:05 -0700</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2017 22:37:39 CDT</lastBuildDate>
+        <item>
+            <title>Greetings &amp; Introductions</title>
+            <author>tirea@learnnavi.org (Tirea Aean)</author>
+            <link>
+                <![CDATA[http://tirea.learnnavi.org/material/index.php?p=lessons&l=01c]]>
+            </link>
+            <guid>
+                <![CDATA[http://tirea.learnnavi.org/material/index.php?p=lessons&l=01c]]>
+            </guid>
+            <description>Here are some of the classic building blocks of getting started with conversation in Na'vi. [...]</description>
+        </item>
         <item>
             <title>Word Order &amp; Simple Sentences</title>
             <author>tirea@learnnavi.org (Tirea Aean)</author>
-            <link>http://tirea.learnnavi.org/material/index.php?p=lessons&l=01g</link>
-            <description>Kaltxì! Hello! And welcome to Lesson 1. This lesson will cover basic foundations of the grammar every beginner may want to start with. Makto ko!</description>
+            <link>
+                <![CDATA[http://tirea.learnnavi.org/material/index.php?p=lessons&l=01g]]>
+            </link>
+            <guid>
+                <![CDATA[http://tirea.learnnavi.org/material/index.php?p=lessons&l=01g]]>
+            </guid>
+            <description>Kaltxì! Hello! And welcome to Lesson 1. This lesson will cover basic foundations of the grammar every beginner may want to start with. Makto ko! [...]</description>
         </item>
     </channel>
 </rss>
