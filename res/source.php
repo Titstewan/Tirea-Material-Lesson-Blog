@@ -273,6 +273,7 @@ function abc_sound()
 function aysaheylu()
 {
 	global $weblink, $txt;
+
 	echo '
 			<div class="titlename">', $txt['l_links'], '</div>
 			<ul class="collection with-header">
@@ -304,6 +305,7 @@ function aysaheylu()
 function navi_download()
 {
 	global $weblink, $txt;
+
 	echo '
 			<div class="titlename">', $txt['d_downl'], '</div>
 			<ul class="collection with-header">
@@ -329,9 +331,12 @@ function about()
 }
 
 // The Na'vi lessons
-function navi_lesson($lnum)
+function navi_lesson()
 {
-	global $lessondir, $txt, $lang, $weblink, $num;
+	global $lessondir, $txt, $lang, $weblink;
+
+	// call the lessons! :D
+	$lnum = $_REQUEST['l'];
 
 	// Something (Hopefully lesson) was requested in l= URL var
 	if ($lnum != '')
