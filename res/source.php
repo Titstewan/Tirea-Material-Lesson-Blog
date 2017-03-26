@@ -310,6 +310,14 @@ function navi_download()
 			</ul>';
 }
 
+// The About page
+function about()
+{
+	global $weblink, $txt;
+	echo '
+			<div class="titlename">', $txt['about'], '</div>';
+}
+
 // The Na'vi lessons
 function navi_lesson($lnum)
 {
