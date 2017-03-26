@@ -11,6 +11,7 @@ tirea-learnnavi.org
 ----------------------------*/
 // $txt[''] = '';
 // general stuff
+$txt['about'] = 'About';
 $txt['no_audio'] = 'Your browser does not support the audio element.';
 $txt['tlb_exp'] = 'EXPERIMENTAL SITE UNDER CONSTRUCTION! :D';
 $txt['foot_disc'] = 'Website Admin/Designer: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
