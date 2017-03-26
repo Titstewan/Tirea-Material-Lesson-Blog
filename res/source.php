@@ -115,9 +115,10 @@ function html_bottom()
 			<li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
 		</ul>
 	</div>
-	<div class="foot">', $txt['foot_disc'], '</div>
+	<div class="foot">', $txt['foot_disc'], '
 	<br /><br />
-	<a href="', $weblink, '?p=about">', $txt['about'], '</a> - Tirea Na\'vi Web software: <a href="', $weblink, '">', $software_vers, '<br />
+		<a href="', $weblink, '?p=about">', $txt['about'], '</a> - Tirea Na\'vi Web software: <a href="', $weblink, '">', $software_vers, '<br />
+	</div>
 	<script src="' . $httproot . 'res/jquery.min.js"></script>
 	<script src="' . $httproot . 'res/materialize.min.js"></script>
 	<script src="' . $httproot . 'res/play.js"></script>
