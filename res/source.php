@@ -20,6 +20,11 @@ Author: Tìtstewan
 titstewan-learnnavi.org
 Co-Author: Tirea Aean
 tirea-learnnavi.org
+
+Tirea Na'vi Lesson Blog - Easy Lesson Blog
+Copyright (C) 2017  Tìtstewan & Tirea Aean
+GNU GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
 ----------------------------*/
 
 // Some php functions for generating the site
