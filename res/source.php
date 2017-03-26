@@ -351,25 +351,46 @@ function navi_lesson($lnum)
 				echo '
 			<div class="titlename">', $txt['n_lesson'], '</div>
 			<br><br>';
+
+				$files = array();
+
 				while (($file = readdir($dh)) !== false)
 				{
-					$num = substr($file, 0, 2);
-
-					// echo stuff only if a part of the file name is numric
-					if (preg_match('/^\d+$/', $num) && stripos($file, 'c-') && stripos($file, $lang))
-							echo '
-			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>
-				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>
-			</ul>';
-					// echo stuff only if a part of the file name is numric
-					if (preg_match('/^\d+$/', $num) && stripos($file, 'g-') && stripos($file, $lang))
-							echo '
-			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>
-				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'g-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'g'] : ''), '</a></li>
-			</ul>';
+					$files[] = $file;
 				}
+
+				sort($files);
+
+				echo '
+				<ul class="collection with-header">
+					<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>';
+
+				foreach ($files as $f)
+				{
+					$num = substr($f, 0, 2);
+					if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, $lang))
+					{
+		    		echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>';
+					}
+				}
+
+				echo '</ul>';
+
+				echo '
+				<ul class="collection with-header">
+					<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>';
+
+				foreach ($files as $f)
+				{
+					$num = substr($f, 0, 2);
+					if (preg_match('/^\d+$/', $num) && stripos($f, 'g-') && stripos($f, $lang))
+					{
+						echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'g-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'g'] : ''), '</a></li>';
+					}
+				}
+
+				echo '</ul>';
+
 				closedir($dh);
 			}
 		}
