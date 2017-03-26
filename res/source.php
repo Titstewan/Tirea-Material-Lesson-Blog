@@ -122,7 +122,12 @@ function html_bottom()
 			<li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
 		</ul>
 	</div>
-	<div class="foot">', $txt['foot_disc'], '
+	<div class="foot">', $txt['foot_admin'] , ': <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
+		<span title="PHP: Hypertext Preprocessor">', $txt['foot_softdev'] , '</span>:
+		<a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> &amp;
+		<a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
+	    | ', $txt['foot_disc'] , '<br />
+	    <b>\'Ivong Na\'vi!</b>
 	<br /><br />
 		<a href="', $weblink, '?p=about">', $txt['about'], '</a> - Tirea Na\'vi Web software: <a href="', $weblink, '">', $software_vers, '<br />
 	</div>
@@ -327,7 +332,26 @@ function about()
 
 	echo '
 			<div class="titlename">', $txt['about'], '</div>
-			<br /><br />', $txt['credits'], '<br />';
+			<br /><br /><ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['a_creator'], '</h4></li>
+				<li class="collection-item"><strong>Paul Frommer</strong></li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['a_developers'], '</h4></li>
+				<li class="collection-item"><strong>Tìtstewan & Tirea Aean</strong></li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>,' $txt['a_thanks'],'</h4></li>
+				<li class="collection-item"><strong>Vawmataw, Hahaw[hhvhhvcz], Genaral Anubis,', $txt['a_others'], '</strong></li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['a_3rdparty'] ,'</h4></li>
+				<li class="collection-item">Parsedown - http://parsedown.org | Copyright (c) 2013 Emanuil Rusev, erusev.com | ', $txt['a_mit'] , '</li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>GNU General Public License</h4></li>
+				<li class="collection-item">Copyright (c) 2017 Tìtstewan & Tirea Aean | <a class="collection-link" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0</a></li>
+			</ul><br />';
 }
 
 // The Na'vi lessons

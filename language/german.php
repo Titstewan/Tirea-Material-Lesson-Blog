@@ -19,35 +19,12 @@ https://www.gnu.org/licenses/gpl-3.0.en.html
 $txt['about'] = 'Über';
 $txt['no_audio'] = 'Dein Browser unterstützt das Audioelement nicht.';
 $txt['tlb_exp'] = 'EXPERIMENTELLE SEITE IM AUFBAU! :D';
-$txt['foot_disc'] = 'Webseiten Administrator/Designer: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
-	<span title="PHP: Hypertext Preprocessor">Software Entwicklung</span>:
-	<a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> und
-	<a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
-    | Diese Seite wurde von den Mitgliedern des <a href="http://learnnavi.org/">LearnNa\'vi.org</a> Forums erstellt. <br />
-    Diese Seite ist nicht zugehöring zur offiziellen Avatar Webseite, James Cameron, Lightstorm Entertainment oder Twentieth Century Fox Film Corporation.
-	Alle Schutzmarken und Servicemarken sind Eigentum ihrer jeweiligen Besitzer.<br />
-    <b>\'Ivong Na\'vi!</b>';
-$txt['credits'] = '
-			<ul class="collection with-header">
-				<li class="collection-header"><h4>Schöpfer der Sprache</h4></li>
-				<li class="collection-item"><strong>Paul Frommer</strong></li>
-			</ul>
-			<ul class="collection with-header">
-				<li class="collection-header"><h4>Tirea Na\'vi Lesson Blog Entwickler</h4></li>
-				<li class="collection-item"><strong>Tìtstewan & Tirea Aean</strong></li>
-			</ul>
-			<ul class="collection with-header">
-				<li class="collection-header"><h4>Besonderen Dank</h4></li>
-				<li class="collection-item"><strong>Vawmataw, Hahaw[hhvhhvcz], Genaral Anubis, und Andere!</strong></li>
-			</ul>
-			<ul class="collection with-header">
-				<li class="collection-header"><h4>Drittanbietersoftware</h4></li>
-				<li class="collection-item">Parsedown - http://parsedown.org | Copyright (c) 2013 Emanuil Rusev, erusev.com | Lizensiert unter The MIT License (MIT)</li>
-			</ul>
-			<ul class="collection with-header">
-				<li class="collection-header"><h4>GNU General Public License</h4></li>
-				<li class="collection-item">Copyright (c) 2017 Tìtstewan & Tirea Aean | <a class="collection-link" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0</a></li>
-			</ul>';
+$txt['foot_admin'] = 'Website Admin/Designer';
+$txt['foot_softdev'] = 'Software development'
+$txt['foot_disc'] = 'This site was created by members of the <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
+This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
+Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
+respective owners.';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons
 // menu
 $txt['m_language'] = 'Sprache';
@@ -100,4 +77,11 @@ $txt['g_credits'] = '<a href="http://forum.learnnavi.org/index.php?msg=566249">
       Web-basierender Na\'vi Namen Generator!
     </a> von Uniltìrantokx te Skxawng';
 $txt['g_generate'] = 'Generiere!';
+// about
+$txt['a_creator'] = 'Schöpfer der Sprache';
+$txt['a_developers'] = 'Tirea Na\'vi Lesson Blog Entwickler';
+$txt['a_thanks'] = 'Besonderen Dank';
+$txt['a_others'] = 'und Andere!';
+$txt['a_3rdparty'] = 'Drittanbietersoftware';
+$txt['a_mit'] = 'Lizensiert unter The MIT License (MIT)';
 ?>
