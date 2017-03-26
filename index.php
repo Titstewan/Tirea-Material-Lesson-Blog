@@ -55,8 +55,15 @@ if (isset($_GET['lang']))
 require_once(dirname(__FILE__) . '/settings.php');
 require_once($sourcedir . '/source.php');
 
-// require the languages file
-require_once($langdir . '/' . $lang . '.php');
+// require the languages file: check if cookie was set, if not use english as default else continue normal
+if (!isset($_COOKIE['lang']))
+{
+	require_once($langdir . '/english.php');
+}
+else
+{
+	require_once($langdir . '/' . $lang . '.php');
+}
 
 // Call the main functions, woo!
 // The <html> start tag and the buttors for Na'vigation
@@ -85,6 +92,7 @@ function hp_main()
 		'links' => array('source.php', 'aysaheylu'),
 		'downloads' => array('source.php', 'navi_download'),
 		'lessons' => array('source.php', 'navi_lesson'),
+		'about' => array('source.php', 'about'),
 	);
 
 	// Get the function and file to include - if it's not there, do the index.

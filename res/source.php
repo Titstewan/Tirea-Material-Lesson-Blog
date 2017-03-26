@@ -13,6 +13,7 @@ home()
 abc_sound()
 aysaheylu()
 navi_download()
+about()
 navi_lesson()
 
 Author: Tìtstewan
@@ -22,7 +23,8 @@ tirea-learnnavi.org
 ----------------------------*/
 
 // Some php functions for generating the site
-if (!defined('TLB')) die('No direct access...');
+if (!defined('TLB'))
+	die('No direct access...');
 
 // ...html header (<html><body>)...
 function html_header()
@@ -30,9 +32,10 @@ function html_header()
 	global $httproot, $weblink, $txt, $dropdown;
 
 // The dropdown fields
-$dropdown = '<li><a href="' . $httproot . 'language/index.php?lang=english">English</a></li>
-<li><a href="' . $httproot . 'language/index.php?lang=german">Deutsch</a></li>
-<li><a href="' . $httproot . 'language/index.php?lang=esperanto">Esperanto</a></li>';
+$dropdown = '<li><a href="' . $httproot . 'language/switch.php?lang=english">English</a></li>
+<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
+<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
+<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>';
 
 	echo '<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -96,7 +99,7 @@ $dropdown = '<li><a href="' . $httproot . 'language/index.php?lang=english">Engl
 // ...end of an html page (</body></html>)... AND Disclaimer
 function html_bottom()
 {
-	global $txt;
+	global $software_vers, $txt, $weblink;
 
 	echo '
 		</div> <!-- #page-content-div -->
@@ -113,7 +116,10 @@ function html_bottom()
 			<li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
 		</ul>
 	</div>
-	<div class="foot">', $txt['foot_disc'], '</div>
+	<div class="foot">', $txt['foot_disc'], '
+	<br /><br />
+		<a href="', $weblink, '?p=about">', $txt['about'], '</a> - Tirea Na\'vi Web software: <a href="', $weblink, '">', $software_vers, '<br />
+	</div>
 	<script src="' . $httproot . 'res/jquery.min.js"></script>
 	<script src="' . $httproot . 'res/materialize.min.js"></script>
 	<script src="' . $httproot . 'res/play.js"></script>
@@ -306,37 +312,91 @@ function navi_download()
 			</ul>';
 }
 
+// The About page
+function about()
+{
+	global $weblink, $txt;
+	echo '
+			<div class="titlename">', $txt['about'], '</div>';
+}
+
 // The Na'vi lessons
 function navi_lesson($lnum)
 {
-	global $lessondir, $txt, $lang, $weblink;
+	global $lessondir, $txt, $lang, $weblink, $num;
 
 	// Something (Hopefully lesson) was requested in l= URL var
 	if ($lnum != '')
 	{
+		$l = substr_replace($lnum, $lang, 4);
 		// Fire up the Markdown Parser
 		require_once 'Parsedown.php';
 		$Parsedown = new Parsedown();
 		// Ready the Markdown Lesson File
-		$f = $lessondir . '/' . $lnum . '.md';
+		$f = $lessondir . '/' . $l . '.md';
 		// Parse the file and echo it as HTML, or echo not found.
-		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) : "File Not Found: " . htmlspecialchars($f);
+		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) :  header('Location: ' . $weblink);
 	}
+
 	// No lesson was requested, all we do is show Lesson index.
 	else
 	{
-		echo '
+		// we need to define the directory
+		$dir = $lessondir . '/';
+
+		// Open a directory, and read its content
+		if (is_dir($dir))
+		{
+			if ($dh = opendir($dir))
+			{
+				echo '
 			<div class="titlename">', $txt['n_lesson'], '</div>
-			<br><br>
+			<br><br>';
+
+				$files = array();
+
+				while (($file = readdir($dh)) !== false)
+				{
+					$files[] = $file;
+				}
+
+				sort($files);
+
+				echo '
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>
-				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=01c-', $lang, '">', $txt['n_01c'], '</a></li>
+				<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>';
+
+				foreach ($files as $f)
+				{
+					$num = substr($f, 0, 2);
+					if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, $lang))
+					{
+		    				echo '
+				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>';
+					}
+				}
+
+				echo '
 			</ul>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>
-				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=01g-', $lang, '">', $txt['n_01g'], '</a></li>
+				<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>';
+
+				foreach ($files as $f)
+				{
+					$num = substr($f, 0, 2);
+					if (preg_match('/^\d+$/', $num) && stripos($f, 'g-') && stripos($f, $lang))
+					{
+						echo '
+				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'g-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'g'] : ''), '</a></li>';
+					}
+				}
+
+				echo '
 			</ul>';
+
+				closedir($dh);
+			}
+		}
 	}
 }
-
 ?>

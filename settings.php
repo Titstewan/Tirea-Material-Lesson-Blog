@@ -14,6 +14,9 @@ tirea-learnnavi.org
 if (!defined('TLB'))
 	die('No direct access...');
 
+// the software version
+$software_vers = 'RC 1 - 1.0.0';
+
 // the root link
 $rootlink = 'http://localhost';
 
@@ -34,6 +37,6 @@ $langdir = dirname(__FILE__) . '/language';
 // define the weblink
 $weblink = $httproot . 'index.php';
 
-// domain of the page
-$domain = 'tirea.learnnavi.org';
+// domain of the page - tirea.learnnavi.org
+$domain = 'localhost';
 ?>
