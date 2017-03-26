@@ -71,7 +71,7 @@ $dropdown = '
   					<li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">',$txt['m_language'],'<i class="material-icons right">arrow_drop_down</i></a></li>
 					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
 					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
-					<li><a href="', $weblink, '?p=lessons&l">', $txt['m_lessons'], '</a></li>
+					<li><a href="', $weblink, '?p=lessons">', $txt['m_lessons'], '</a></li>
 					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
 					<li><a href="', $weblink, '?p=downloads">', $txt['m_downloads'], '</a></li>
 					<li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li>
@@ -88,7 +88,7 @@ $dropdown = '
 					</li>
 					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
 					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
-					<li><a href="', $weblink, '?p=lessons&l">', $txt['m_lessons'], '</a></li>
+					<li><a href="', $weblink, '?p=lessons">', $txt['m_lessons'], '</a></li>
 					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
 					<li><a href="', $weblink, '?p=downloads">', $txt['m_downloads'], '</a></li>
 					<li><a href="feed.xml">', $txt['m_rss'], '</a></li>
@@ -163,7 +163,7 @@ function home()
 								<p>', $txt['h_welcome_txt'], '</p>
 							</div>
 							<div class="card-action">
-								<a class="amber-text accent-2" href="', $weblink, '?p=lessons&l">', $txt['h_get_st'], '</a>
+								<a class="amber-text accent-2" href="', $weblink, '?p=lessons">', $txt['h_get_st'], '</a>
 							</div>
 						</div>
 					</div>
