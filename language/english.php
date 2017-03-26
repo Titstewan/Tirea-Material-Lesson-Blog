@@ -28,6 +28,27 @@ $txt['foot_disc'] = 'Website Admin/Designer: <a href="http://forum.learnnavi.org
     Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
     respective owners.<br />
     <b>\'Ivong Na\'vi!</b>';
+$txt['credits'] = '
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>Creator of the language</h4></li>
+				<li class="collection-item"><strong>Paul Frommer</strong></li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>Tirea Na\'vi Lesson Blog Developers</h4></li>
+				<li class="collection-item"><strong>Tìtstewan & Tirea Aean</strong></li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>Special Thanks</h4></li>
+				<li class="collection-item"><strong>Vawmataw, Hahaw[hhvhhvcz], Genaral Anubis, and others!</strong></li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>Third Party Software</h4></li>
+				<li class="collection-item">Parsedown - http://parsedown.org | Copyright (c) 2013 Emanuil Rusev, erusev.com | Licensed under The MIT License (MIT)</li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>GNU General Public License</h4></li>
+				<li class="collection-item">Copyright (c) 2017 Tìtstewan & Tirea Aean | <a class="collection-link" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0</a></li>
+			</ul>';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons
 // menu
 $txt['m_language'] = 'Language';
