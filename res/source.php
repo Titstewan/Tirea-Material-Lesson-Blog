@@ -334,7 +334,7 @@ function navi_lesson($lnum)
 		// Ready the Markdown Lesson File
 		$f = $lessondir . '/' . $l . '.md';
 		// Parse the file and echo it as HTML, or echo not found.
-		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) : "File Not Found: " . htmlspecialchars($f);
+		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) :  header('Location: ' . $weblink);
 	}
 
 	// No lesson was requested, all we do is show Lesson index.
