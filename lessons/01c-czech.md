@@ -1,12 +1,7 @@
 # Greetings & Introductions
 
-Hello, and welcome to the first of a new series of Na'vi Language lessons! If you haven't already, I highly recommend that
-you check out the audio clips on the [Sounds](http://localhost/material/?p=sounds) page to get a solid feel for how the language is
-pronounced. Here are some of the classic building blocks of getting started with conversation in Na'vi.
-
 Ahoj a Vítej na první ze série lekcí o jazyky Na'vi! Pokud jste tak ještě neučinili, tak rozhodně doporučuji navštívit stránku se 
-zvukovými nahrávkami na stránce se [Zvuky](http://localhost/material/?p=sounds), abyste získali ucelený obrázek o tom, jak jazyk zní.
-Níže jsou klasické začátky s konverzac9 v jazyce Na'vi.
+zvukovými nahrávkami na stránce se [Zvuky](http://localhost/material/?p=sounds), abyste získali ucelený obrázek o tom, jak jazyk zní. Níže jsou klasické začátky s konverzací v jazyce Na'vi.
 
 ## Témata
 
@@ -24,7 +19,6 @@ Níže jsou klasické začátky s konverzac9 v jazyce Na'vi.
 
 ### [Rozhovor](#d)
 
-//Vocabulary Learned -> new words
 ### [Nová slovní zásoba](#v)
 
 <span id="1">
@@ -32,7 +26,7 @@ Níže jsou klasické začátky s konverzac9 v jazyce Na'vi.
 
 ## Pozdrav
 
-Na'vi mají slov **kaltxì** pro české _ahoj_.
+Na'vi mají slovo **kaltxì** pro české _ahoj_.
 
 Další popularní pozdrav, který si můžete pamatovat z filmu je
 - **Oel ngati kameie.**
@@ -40,26 +34,22 @@ Další popularní pozdrav, který si můžete pamatovat z filmu je
 
 Rozbor:
 
-- **oel** is a form of _I_.
 - **oel** je forma osobního zájmena _já_ v 1. pádě (Ergativ).
-- **ngati** is a form of _you_.
 - **ngati** je forma osobního zájmena _ty_ ve 4. pádě.
-- **kameie** is a form of the verb _to See [in a deep spiritual sense]_.
-- **kameie** je forma slovesa _vidět_, _zřít_ [ve spirituální významu].
+- **kameie** je forma slovesa _vidět_, _zřít_ [ve spirituální významu + infix dobré nálady (vysvětelo v dalších lekcích)].
 
 You may be asking, "Doesn't that say, _'I you See'_?" And you'd be correct; it does say that. In the Na'vi language, the word order is much more flexible than that of English. More about that later. For now, we will keep it simple.
+Možná si říkáte: "Neznamená to náhodou _'Já tebe zřím'_?", a měli byste pravdu, protože v na'vijštině je pořádek slov velmi flexibilní podobně jako timu je v čestině. Více o syntaxi, tedy pořádku slov později. Pro zatím jen zjednodušeně.
 
 When you want to address someone directly by their name or title, the word **ma** must be used just before the name. For example:
+Když chcete k někomu mluvit přímo pomocí jejich jména nebo titulu, musí se použít částice **ma** před jménem nebo titulem: 
 
 - **Kaltxì ma Neytiri!**
-- _Hello, Neytiri!_
 - _Ahoj Neytiri!_
 
-And one from the film:
 A další z filmu:
 
 - **Ma sempul, oel ngati kameie.**
-- _Father, I see you._
 - _Otče, zřím tě._
 
 <span id="2">
@@ -68,6 +58,7 @@ A další z filmu:
 ## Jak se máš?
 
 The Na'vi do not really ask, "_How are you?_", but rather something more like "_Do you have peace/well-being?_" Here's how it works:
+Na'vi se neptájíé přímo: "_Jak se máš?_", ale spíše ve smyslu: "_Máš dobré bytí?_". Názorná ukázka toho, jak to funguje:
 
 - **Ngaru lu fpom srak?**
 - _Do you have peace/well-being?_
@@ -78,20 +69,22 @@ The Na'vi do not really ask, "_How are you?_", but rather something more like "_
 Rozbor:
 
 - **ngaru** is another form of _you_ that means _to you_.
-- **ngaru** is another form of _you_ that means _to you_.
+- **ngaru** je forma osobního zájmena _ty_ ve 3.pádě (dativ), tedy _ti_/_tobě_.
 - **lu** is the verb _am/are/is/be_.
-- **lu** is the verb _am/are/is/be_.
+- **lu** je obyčejné sloveso _být_.
 - **fpom** is _peace/well-being_.
-- **fpom** is _peace/well-being_.
+- **fpom** znamená _dobré bytí_/_mír_/_klid_/_příjemno_.
 - **srak** is a word that changes a statement into a yes/no question. It goes at the end of the sentence, or at the very beginning as **srake**
-- **srak** is a word that changes a statement into a yes/no question. It goes at the end of the sentence, or at the very beginning as **srake**
+- **srak** je částice, která se využívá, pokud chce změnit větu na zjišťovácí otázku. **Srak** se používá na konci věty, kdežto **srake** se používá na začátku větu. 
 
 <span id="3">
 </span>
 
 ## I'm well / not well / so-so
+## Mám se dobře / špatně / nic moc
 
 Since _How are you_ in Na'vi is actually a yes/no question, its answers include the following:
+Jelikož _Jak se máš?_ je zjišťovací a ne doplňovací otázka, možné odpovědi jsou následující:
 
 - **Srane.** _Yes._
 - **Srane.** _Ano._
@@ -101,31 +94,29 @@ Since _How are you_ in Na'vi is actually a yes/no question, its answers include 
 - **Tam ke tam.** Fráze, která znamená _nic moc_ nebo _jde to_.
 
 To ask the question back to whoever asked you first, you have two options:
+K tomu, abyste se mohli zeptat toho, kdo se vás zeptal nazpátek, máme dvě možnosti:
 
 - **ngaru lu fpom srak?**
-- _Do you have well-being?_
 - _Máš se dobře?_
 
-or
 nebo
 
 - **ngaru tut?**
-- _How about you? / What about you?_
 - _A ty? / A jak ty?_
 
 <span id="4">
 </span>
 
-## My name is / I am
 ## Moje jméno je / Já jsem
 
 Although in Na'vi you _could_ say literally,
+Přestože _můžeme_ v na'vijštině doslovně říct,
 
 - **Oeyä tstxo lu ____.**
-- _My name is ____._
 - _Moje jméno je ____._
 
 It's much more Na'vi-like to say it like this:
+Je mnohem lepší, abyste zněli víc jako Na'vi, řict něco jako:
 
 - **Oeru fko syaw ____.**
 - _One calls me ____._
@@ -134,33 +125,42 @@ It's much more Na'vi-like to say it like this:
 - Doslova: "Mě oni říkají ____."
 
 Since the Na'vi language has flexible word order, if the above sentence gives you any trouble, you can change the word order. Perhaps to something like this:
+Jelikož má jazyk Na'vi volný pořádek slov, pokud by vám věta výše dělala problém, můžete si změnit pořadí slov podle potřeby. Třeba na například tohle:
 
 - **Oeru syaw fko ____.**
-- or
+- nebo
 - **Fko oeru syaw ____.**
 
 <span id="5">
 </span>
 
-## What's your name?
 ## Jak se jmenuješ?
 
 This question is very similar to its reply, which is found in the previous section. _What's your name?_ in Na'vi is more like _How are you called?_ and is typically worded like this:
+Tahle otázka je velmi podobná její odpovdi, která se nachází v předcházející sekci. Otázka _Jak se jmenuješ?_ zní v na'vijšině spíše jako _Jak ti říkají?_ a je typicky formulována takto: 
 
 - **Fyape fko syaw ngar?**
 - _How are you called?_
+- _Jak ti říkají?_
 - Literally: "How one calls to you?"
+- Doslova: "Jak ono říká ti?"
 
 or:
+nebo:
 
 - **Pefya syaw fko ngaru?**
 - _How are you called?_
+- _Jak ti říkají?_
 - Literally: "How calls one to you?"
+- Doslova: "Jak říka ono ti?"
 
 Note that **Fyape/Pefya** are two forms of the same word, and **ngar/ngaru** are also two forms of the same word.
+Všimněte s, že **Fyape/Pefya** jsou dvě formy jednoho slova a **ngar/ngaru** jsou taktéž dvě formy stejného slova.
 
 - _Nice to meet you_ in Na'vi translates to **Smon nìprrte'.**
+- _Rád vás poznávám_ se do na'vijštiny překládá jako **Smon nìprrte'.**
 - Literally: "[you are] familiar [to me] pleasurably"
+- Doslova: "[ty]jsi známý [mě] s potěšením"
 
 <span id="6">
 </span>
@@ -232,10 +232,9 @@ A ještě jedno, které můžete často vidět:
 <span id="v">
 </span>
 
-## Vocabulary Learned
 ## Nová slovní zásoba
 
-Na'vi                   | čestina
+na'vijština                  | čestina
 ----------------------- | -----------------------------------------------------------------------
 **kaltxì**              | _ahoj_ 
 **oel**                 | _já_
