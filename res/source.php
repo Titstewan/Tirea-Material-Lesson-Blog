@@ -98,7 +98,7 @@ $dropdown = '<li><a href="' . $httproot . 'language/index.php?lang=english">Engl
 // ...end of an html page (</body></html>)... AND Disclaimer
 function html_bottom()
 {
-	global $txt;
+	global $software_vers, $txt;
 
 	echo '
 		</div> <!-- #page-content-div -->
