@@ -22,7 +22,8 @@ tirea-learnnavi.org
 ----------------------------*/
 
 // Some php functions for generating the site
-if (!defined('TLB')) die('No direct access...');
+if (!defined('TLB'))
+	die('No direct access...');
 
 // ...html header (<html><body>)...
 function html_header()
@@ -97,7 +98,7 @@ $dropdown = '<li><a href="' . $httproot . 'language/index.php?lang=english">Engl
 // ...end of an html page (</body></html>)... AND Disclaimer
 function html_bottom()
 {
-	global $txt;
+	global $software_vers, $txt, $weblink;
 
 	echo '
 		</div> <!-- #page-content-div -->
@@ -114,7 +115,10 @@ function html_bottom()
 			<li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
 		</ul>
 	</div>
-	<div class="foot">', $txt['foot_disc'], '</div>
+	<div class="foot">', $txt['foot_disc'], '
+	<br /><br />
+		<a href="', $weblink, '?p=about">', $txt['about'], '</a> - Tirea Na\'vi Web software: <a href="', $weblink, '">', $software_vers, '<br />
+	</div>
 	<script src="' . $httproot . 'res/jquery.min.js"></script>
 	<script src="' . $httproot . 'res/materialize.min.js"></script>
 	<script src="' . $httproot . 'res/play.js"></script>
@@ -305,6 +309,14 @@ function navi_download()
 				<li class="collection-item"><a class="collection-link" href="download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br />KXWERTY keyboard layout for Windows / Mac</li>
 				<!-- <li class="collection-item"><a class="collection-link" href="/material/img">', $txt['d_images'], '</a><br />', $txt['d_hrhgif'], '</li> -->
 			</ul>';
+}
+
+// The About page
+function about()
+{
+	global $weblink, $txt;
+	echo '
+			<div class="titlename">', $txt['about'], '</div>';
 }
 
 // The Na'vi lessons
