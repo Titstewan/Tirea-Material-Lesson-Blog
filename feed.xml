@@ -7,7 +7,9 @@
         <description>Na'vi Language Lessons for Non-linguists</description>
         <lastBuildDate>Sat, 25 Mar 2017 22:37:39 CDT</lastBuildDate>
         <item>
-            <title>Greetings &amp; Introductions</title>
+            <title>
+                <![CDATA[Greetings & Introductions]]>
+            </title>
             <author>tirea@learnnavi.org (Tirea Aean)</author>
             <link>
                 <![CDATA[http://tirea.learnnavi.org/material/index.php?p=lessons&l=01c]]>
@@ -18,7 +20,9 @@
             <description>Here are some of the classic building blocks of getting started with conversation in Na'vi. [...]</description>
         </item>
         <item>
-            <title>Word Order &amp; Simple Sentences</title>
+            <title>
+                <![CDATA[Word Order & Simple Sentences]]>
+            </title>
             <author>tirea@learnnavi.org (Tirea Aean)</author>
             <link>
                 <![CDATA[http://tirea.learnnavi.org/material/index.php?p=lessons&l=01g]]>
