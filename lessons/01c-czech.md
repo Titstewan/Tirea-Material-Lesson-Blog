@@ -173,23 +173,14 @@ A ještě jedno, které můžete často vidět:
 
 ### Český překlad
 
-- A: _Hello! Do you have peace?_
 - A: _Ahoj! Máš dobré bytí?_
-- B: _Hello! Yes, how about you?_
 - B: Ahoj! Ano, a co ty?_
-- A: _I have peace._
 - A: _Mám se dobře._
-- B: _How are you called?_
 - B: _Jak ti říkají?_
-- A: _I'm called (----). How are you called?_
 - A: _Mě říkají (----). Jak se jmenuješ ty?_
-- B: _Nice to meet you. I'm (----)._
 - B: _Rád tě poznávám. Já jsem (----)._
-- A: _Nice to meet you too._
-- A: _Rád tě poznávám též._
-- B: _Goodbye and may Eywa be with you!_
+- A: _Taky tě rád poznávám._
 - B: _Nashledavnou a Eywa s tebou!_
-- A: _Until next time. May Eywa be with you!_
 - A: _Někdy příště. Sbohem!_
 
 <span id="v">
