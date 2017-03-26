@@ -32,7 +32,8 @@ function html_header()
 // The dropdown fields
 $dropdown = '<li><a href="' . $httproot . 'language/index.php?lang=english">English</a></li>
 <li><a href="' . $httproot . 'language/index.php?lang=german">Deutsch</a></li>
-<li><a href="' . $httproot . 'language/index.php?lang=esperanto">Esperanto</a></li>';
+<li><a href="' . $httproot . 'language/index.php?lang=esperanto">Esperanto</a></li>
+<li><a href="' . $httproot . 'language/index.php?lang=czech">Česky</a></li>';
 
 	echo '<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
