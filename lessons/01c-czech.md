@@ -97,12 +97,12 @@ nebo
 Přestože _můžeme_ v na'vijštině doslova říct,
 
 - **Oeyä tstxo lu ____.**
-- _Moje jméno je ____._
+- _Moje jméno je ____. _
 
 Je mnohem lepší, abyste zněli víc jako Na'vi, řict něco jako:
 
 - **Oeru fko syaw ____.**
-- _Říkají mi ____._
+- _Říkají mi ____. _
 - Doslova: "Mě ono říká ____."
 
 Jelikož má jazyk Na'vi volný pořádek slov, pokud by vám věta výše dělala problém, můžete si změnit pořadí slov podle potřeby. Například:
@@ -146,13 +146,12 @@ Obě verze jsou správné. Někteří používají verzi s i, protože se píše
 
 - **Eywa ngahu**
 - _Ať je Eywa s tebou_
-- Literally: Eywa you-with
 - Doslova: Eywa tebou-s
 
 A ještě jedno, které můžete často vidět:
 
 - **Hayalovay**
-- _někdy příště, tak příště_
+- _Někdy příště, tak příště_
 
 <span id="d">
 </span>
