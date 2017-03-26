@@ -20,6 +20,11 @@ Author: Tìtstewan
 titstewan-learnnavi.org
 Co-Author: Tirea Aean
 tirea-learnnavi.org
+
+Tirea Na'vi Lesson Blog - Easy Lesson Blog
+Copyright (C) 2017  Tìtstewan & Tirea Aean
+GNU GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
 ----------------------------*/
 
 // Some php functions for generating the site
@@ -32,10 +37,11 @@ function html_header()
 	global $httproot, $weblink, $txt, $dropdown;
 
 // The dropdown fields
-$dropdown = '<li><a href="' . $httproot . 'language/switch.php?lang=english">English</a></li>
-<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
-<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
-<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>';
+$dropdown = '
+			<li><a href="' . $httproot . 'language/switch.php?lang=english">English</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>';
 
 	echo '<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -65,7 +71,7 @@ $dropdown = '<li><a href="' . $httproot . 'language/switch.php?lang=english">Eng
   					<li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">',$txt['m_language'],'<i class="material-icons right">arrow_drop_down</i></a></li>
 					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
 					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
-					<li><a href="', $weblink, '?p=lessons&l">', $txt['m_lessons'], '</a></li>
+					<li><a href="', $weblink, '?p=lessons">', $txt['m_lessons'], '</a></li>
 					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
 					<li><a href="', $weblink, '?p=downloads">', $txt['m_downloads'], '</a></li>
 					<li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li>
@@ -82,7 +88,7 @@ $dropdown = '<li><a href="' . $httproot . 'language/switch.php?lang=english">Eng
 					</li>
 					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
 					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
-					<li><a href="', $weblink, '?p=lessons&l">', $txt['m_lessons'], '</a></li>
+					<li><a href="', $weblink, '?p=lessons">', $txt['m_lessons'], '</a></li>
 					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
 					<li><a href="', $weblink, '?p=downloads">', $txt['m_downloads'], '</a></li>
 					<li><a href="feed.xml">', $txt['m_rss'], '</a></li>
@@ -116,7 +122,12 @@ function html_bottom()
 			<li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
 		</ul>
 	</div>
-	<div class="foot">', $txt['foot_disc'], '
+	<div class="foot">', $txt['foot_admin'] , ': <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
+		<span title="PHP: Hypertext Preprocessor">', $txt['foot_softdev'] , '</span>:
+		<a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> &amp;
+		<a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
+	    | ', $txt['foot_disc'] , '<br />
+	    <b>\'Ivong Na\'vi!</b>
 	<br /><br />
 		<a href="', $weblink, '?p=about">', $txt['about'], '</a> - Tirea Na\'vi Web software: <a href="', $weblink, '">', $software_vers, '<br />
 	</div>
@@ -157,7 +168,7 @@ function home()
 								<p>', $txt['h_welcome_txt'], '</p>
 							</div>
 							<div class="card-action">
-								<a class="amber-text accent-2" href="', $weblink, '?p=lessons&l">', $txt['h_get_st'], '</a>
+								<a class="amber-text accent-2" href="', $weblink, '?p=lessons">', $txt['h_get_st'], '</a>
 							</div>
 						</div>
 					</div>
@@ -267,6 +278,7 @@ function abc_sound()
 function aysaheylu()
 {
 	global $weblink, $txt;
+
 	echo '
 			<div class="titlename">', $txt['l_links'], '</div>
 			<ul class="collection with-header">
@@ -298,6 +310,7 @@ function aysaheylu()
 function navi_download()
 {
 	global $weblink, $txt;
+
 	echo '
 			<div class="titlename">', $txt['d_downl'], '</div>
 			<ul class="collection with-header">
@@ -315,15 +328,39 @@ function navi_download()
 // The About page
 function about()
 {
-	global $weblink, $txt;
+	global $txt;
+
 	echo '
-			<div class="titlename">', $txt['about'], '</div>';
+			<div class="titlename">', $txt['about'], '</div>
+			<br /><br /><ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['a_creator'], '</h4></li>
+				<li class="collection-item"><strong>Paul Frommer</strong></li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['a_developers'], '</h4></li>
+				<li class="collection-item"><strong>Tìtstewan & Tirea Aean</strong></li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['a_thanks'], '</h4></li>
+				<li class="collection-item"><strong>Vawmataw, Hahaw[hhvhhvcz], Genaral Anubis,', $txt['a_others'], '</strong></li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['a_3rdparty'] ,'</h4></li>
+				<li class="collection-item">Parsedown - http://parsedown.org | Copyright (c) 2013 Emanuil Rusev, erusev.com | ', $txt['a_mit'] , '</li>
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>GNU General Public License</h4></li>
+				<li class="collection-item">Copyright (c) 2017 Tìtstewan & Tirea Aean | <a class="collection-link" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0</a></li>
+			</ul><br />';
 }
 
 // The Na'vi lessons
-function navi_lesson($lnum)
+function navi_lesson()
 {
-	global $lessondir, $txt, $lang, $weblink, $num;
+	global $lessondir, $txt, $lang, $weblink;
+
+	// call the lessons! :D
+	$lnum = $_REQUEST['l'];
 
 	// Something (Hopefully lesson) was requested in l= URL var
 	if ($lnum != '')
@@ -335,7 +372,7 @@ function navi_lesson($lnum)
 		// Ready the Markdown Lesson File
 		$f = $lessondir . '/' . $l . '.md';
 		// Parse the file and echo it as HTML, or echo not found.
-		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) :  header('Location: ' . $weblink);
+		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) :  header('Location: ' . $weblink . '?p=lessons');
 	}
 
 	// No lesson was requested, all we do is show Lesson index.

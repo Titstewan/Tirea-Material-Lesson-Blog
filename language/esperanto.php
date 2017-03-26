@@ -13,15 +13,12 @@ tirea-learnnavi.org
 // general stuff
 $txt['no_audio'] = 'Via retumilo ne subtenas la Audio elemento.';
 $txt['tlb_exp'] = 'EKSPERIMENTA RETEJO SUB KONSTRUADO! :D';
-$txt['foot_disc'] = 'Administranto/Dezajnisto: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
-	<span title="PHP: Hypertext Preprocessor">Programara Disvolviĝo</span>:
-	<a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> and
-	<a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
-    | Tiu ĉi retejo estis kreita de uzantoj de la forumo je <a href="http://learnnavi.org/">LearnNa\'vi.org</a>. <br />
-    Tiu ĉi retejo ne filiiĝas al la oficiala retejo de Avatar, James Cameron, Lightstorm Entertainment aŭ la
-    Twentieth Century Fox Film Corporation. Ĉiuj la registritaj markoj kaj la servicmarkoj estas
-    proprietaĵoj de siaj respektivaj proprietuloj.<br /><br />
-    <b>\'Ivong Na\'vi!</b>';
+$txt['foot_admin'] = 'Website Admin/Designer';
+$txt['foot_softdev'] = 'Software development';
+$txt['foot_disc'] = 'This site was created by members of the <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
+This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
+Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
+respective owners.';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons
 // menu
 $txt['m_language'] = 'Lingvo';
@@ -77,4 +74,11 @@ $txt['g_credits'] = '<a href="http://forum.learnnavi.org/index.php?msg=566249">
       TTT-a generanto de Na\'viaj Nomoj!
     </a> de Uniltìrantokx te Skxawng';
 $txt['g_generate'] = 'Kreu!';
+// about
+$txt['a_creator'] = 'Creator of the language';
+$txt['a_developers'] = 'Tirea Na\'vi Lesson Blog Developers';
+$txt['a_thanks'] = 'Special Thanks';
+$txt['a_others'] = 'and others!';
+$txt['a_3rdparty'] = 'Third Party Software';
+$txt['a_mit'] = 'Licensed under The MIT License (MIT)';
 ?>

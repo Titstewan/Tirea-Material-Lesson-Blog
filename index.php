@@ -13,6 +13,11 @@ Author: Tìtstewan
 titstewan-learnnavi.org
 Co-Author: Tirea Aean
 tirea-learnnavi.org
+
+Tirea Na'vi Lesson Blog - Easy Lesson Blog
+Copyright (C) 2017  Tìtstewan & Tirea Aean
+GNU GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
 ----------------------------*/
 
 // For some reasons, we will have to set up a memory limit to keep the server happy
@@ -71,14 +76,7 @@ html_header();
 
 // The Homepage
 // What function shall we execute? (done like this for memory's sake.)
-if (isset($_REQUEST['p']) && $_REQUEST['p'] == 'lessons' && isset($_REQUEST['l']))
-{
-	call_user_func(hp_main(), $_REQUEST['l']);
-}
-else
-{
-	call_user_func(hp_main());
-}
+call_user_func(hp_main());
 
 // The main controlling function.
 function hp_main()
