@@ -1,6 +1,6 @@
 # Word Order & Simple Sentences
 
-**Kaltxì**! Hello! And welcome to The first installment of the Intro to Na'vi Grammar section of the Simplified Grammar Lessons Series.
+**Kaltxì**! Hello! And welcome to The first installment of the Simplified Grammar Lessons Series.
 
 This lesson will cover some very basic foundations of the grammar every beginner may want to start with in order to start making sentences.
 

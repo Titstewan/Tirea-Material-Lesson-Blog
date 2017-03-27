@@ -1,7 +1,6 @@
-# Greetings & Introductions
+# Pozdravy & Úvod
 
-Ahoj a Vítej na první ze série lekcí o jazyky Na'vi! Pokud jste tak ještě neučinili, tak rozhodně doporučuji navštívit stránku se 
-zvukovými nahrávkami na stránce se [Zvuky](http://localhost/material/?p=sounds), abyste získali ucelený obrázek o tom, jak jazyk zní. Níže jsou klasické začátky s konverzací v jazyce Na'vi.
+Ahoj a Vítej na první ze série nových konverzačních lekcí jazyka Na'vi! Pokud jste tak ještě neučinili, tak rozhodně doporučuji navštívit stránku se zvukovými nahrávkami na stránce se [Zvuky](http://localhost/material/?p=sounds), abyste získali ucelený obrázek o tom, jak jazyk zní. Níže jsou klasické začátky s konverzací v jazyce Na'vi.
 
 ## Témata
 
