@@ -3,18 +3,18 @@
 This is a new custom home page for Tirea Tean's Lesson Blog.
 
 This is the main source file for the new index.php.
-This file contains some important variables as well as the main functions to generated the pages.
+This file performs the main functions for generating the website.
 
 Following functions are in use:
 
-html_header()
-html_bottom()
-home()
-abc_sound()
-aysaheylu()
-navi_download()
-about()
-navi_lesson()
+html_header() - generates the HTML header ad the menu bar
+html_bottom() - generates the HTML bottom and contain the disclaimer
+home() - obviously, the main home page magic
+abc_sound() - creates the sound page and load the tracks
+aysaheylu() - renders the link pages
+navi_download() - the download page is doneby this
+about() - contains credits, authors and copyright blah
+navi_lesson() - this vrrtep creates the main lesson page, loads and parses the Na'vi lesson
 
 Author: Tìtstewan
 titstewan-learnnavi.org
@@ -309,7 +309,7 @@ function aysaheylu()
 // The download page
 function navi_download()
 {
-	global $weblink, $txt;
+	global $txt;
 
 	echo '
 			<div class="titlename">', $txt['d_downl'], '</div>
@@ -342,7 +342,7 @@ function about()
 			</ul>
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['a_thanks'], '</h4></li>
-				<li class="collection-item"><strong>Vawmataw, Hahaw[hhvhhvcz], Genaral Anubis,', $txt['a_others'], '</strong></li>
+				<li class="collection-item"><strong>Vawmataw, Hahaw[hhvhhvcz], Genaral Anubis, ', $txt['a_others'], '</strong></li>
 			</ul>
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['a_3rdparty'] ,'</h4></li>
@@ -359,7 +359,7 @@ function navi_lesson()
 {
 	global $lessondir, $txt, $lang, $weblink;
 
-	// call the lessons! :D
+	// load the lessons! :D
 	$lnum = $_REQUEST['l'];
 
 	// Something (Hopefully lesson) was requested in l= URL var
@@ -372,7 +372,7 @@ function navi_lesson()
 		// Ready the Markdown Lesson File
 		$f = $lessondir . '/' . $l . '.md';
 		// Parse the file and echo it as HTML, or echo not found.
-		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) :  header('Location: ' . $weblink . '?p=lessons');
+		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) : header('Location: ' . $weblink . '?p=lessons');
 	}
 
 	// No lesson was requested, all we do is show Lesson index.
@@ -381,17 +381,20 @@ function navi_lesson()
 		// we need to define the directory
 		$dir = $lessondir . '/';
 
-		// Open a directory, and read its content
+		// Just to check if the thing we want is a dir
 		if (is_dir($dir))
 		{
+			// Open the dir
 			if ($dh = opendir($dir))
 			{
 				echo '
 			<div class="titlename">', $txt['n_lesson'], '</div>
 			<br><br>';
 
+				// We need an empty array first
 				$files = array();
 
+				// read the files and store them in an array
 				while (($file = readdir($dh)) !== false)
 				{
 					$files[] = $file;
@@ -403,6 +406,7 @@ function navi_lesson()
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>';
 
+				// load and echo the c lessons
 				foreach ($files as $f)
 				{
 					$num = substr($f, 0, 2);
@@ -418,6 +422,7 @@ function navi_lesson()
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>';
 
+				// load and echo the g lessons
 				foreach ($files as $f)
 				{
 					$num = substr($f, 0, 2);
@@ -431,7 +436,8 @@ function navi_lesson()
 				echo '
 			</ul>';
 
-				closedir($dh);
+			// fin!
+			closedir($dh);
 			}
 		}
 	}

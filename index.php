@@ -2,12 +2,11 @@
 /*----------------------------
 This is a new custom home page for Tirea Tean's Lesson Blog.
 
-This is the main index.php.
-This is the "mother page" :P
+This is the main index.php - the "mother page" :P
 
 Following functions are in use:
 
-hp_main()
+hp_main() - generates the homepages AND manages all the other pages
 
 Author: Tìtstewan
 titstewan-learnnavi.org
@@ -38,12 +37,13 @@ if (!headers_sent())
 	header('X-Content-Type-Options: nosniff');
 }
 
-// Which languages shall we load?
+// Which languages shall we load? First let's check if the cookie was set.
 if (!isset($_COOKIE['lang']))
 {
 	setcookie('lang', 'english', time() + (86400 * 30), '/', $domain);
 	$lang = 'english';
 }
+// It was already set? Cooless.
 else
 {
 	$lang = $_COOKIE['lang'];
@@ -56,29 +56,30 @@ if (isset($_GET['lang']))
 	$lang = $_GET['lang'];
 }
 
-// Let's require the source file!
+// Let's require the source and settings file!
 require_once(dirname(__FILE__) . '/settings.php');
 require_once($sourcedir . '/source.php');
 
-// require the languages file: check if cookie was set, if not use english as default else continue normal
+// require the languages file: check if cookie was set if not use english as default...
 if (!isset($_COOKIE['lang']))
 {
 	require_once($langdir . '/english.php');
 }
+// ...else continue
 else
 {
 	require_once($langdir . '/' . $lang . '.php');
 }
 
 // Call the main functions, woo!
-// The <html> start tag and the buttors for Na'vigation
+// The <html> start tag and the buttons for Na'vigation (Oel tse'a kemit a soli.png)
 html_header();
 
 // The Homepage
 // What function shall we execute? (done like this for memory's sake.)
 call_user_func(hp_main());
 
-// The main controlling function.
+// The main controlling function: Load all the stuff!
 function hp_main()
 {
 	global $sourcedir;
