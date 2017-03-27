@@ -44,7 +44,7 @@ $txt['s_intro'] = '<span class="navi">Kaltxì</span> ma frapo! Tato stránka obs
     jazyka tak, abyste si mohli procvičit vaší výslovnost,
     klikněte na tlačítko přehrát a pak poslouchejte, poté se je pokuste zopakovat.';
 $txt['s_vowels'] = 'Samohlásky';
-$txt['s_pseudo'] = 'Slabikotvorn0 souhlásky';
+$txt['s_pseudo'] = 'Slabikotvorné souhlásky';
 $txt['s_conson'] = 'Souhlásky';
 $txt['s_diphto'] = 'Dvojhlásky';
 // links
