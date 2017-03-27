@@ -342,7 +342,7 @@ function about()
 			</ul>
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['a_thanks'], '</h4></li>
-				<li class="collection-item"><strong>Vawmataw, Hahaw[hhvhhvcz], Genaral Anubis,', $txt['a_others'], '</strong></li>
+				<li class="collection-item"><strong>Vawmataw, Hahaw[hhvhhvcz], Genaral Anubis, ', $txt['a_others'], '</strong></li>
 			</ul>
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['a_3rdparty'] ,'</h4></li>
