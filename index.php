@@ -60,19 +60,19 @@ if (isset($_GET['lang']))
 require_once(dirname(__FILE__) . '/settings.php');
 require_once($sourcedir . '/source.php');
 
-// require the languages file: check if cookie was set...
+// require the languages file: check if cookie was set if not use english as default...
 if (!isset($_COOKIE['lang']))
 {
 	require_once($langdir . '/english.php');
 }
-// ...if not use english as default else continue
+// ...else continue
 else
 {
 	require_once($langdir . '/' . $lang . '.php');
 }
 
 // Call the main functions, woo!
-// The <html> start tag and the buttors for Na'vigation (Oel tse'a kemit a soli.png)
+// The <html> start tag and the buttons for Na'vigation (Oel tse'a kemit a soli.png)
 html_header();
 
 // The Homepage
