@@ -31,20 +31,20 @@ $txt['m_rss'] = 'RSS Kanál';
 // home
 $txt['h_welcome'] = 'Vítejte';
 $txt['h_title'] = 'Jednoduché lekce z gramatiky';
-$txt['h_welcome_txt'] = 'Welcome to Tirea Na\'vi! This site exists to teach the Na\'vi
-                  Language to everyone in an easy to understand way. For all you
-                  non-linguist Avatar fans out there, I hope to help you on your
-                  way to becoming the next speaker of this amazing language.
+$txt['h_welcome_txt'] = 'Vítejte na Tirea Na\'vi! Tato stránka existuje za účelem vysvětlit
+                  jazyk Na\'vi v jednoduché a dobře pochopitelné podobě. Pro všechny z vás
+                  bez hlubších znalostí lingvistiky, doufám, že pomohu vám na vaší cestě
+                  za tím stát se dalším mluvčím tohoto úžasného jazyka.
                   -- Tirea Aean';
-$txt['h_get_st'] = 'Get started';
+$txt['h_get_st'] = 'Začátek';
 // sounds
-$txt['s_sound'] = 'Na&#39;vi Sounds';
-$txt['s_intro'] = '<span class="navi">Kaltxì</span> ma frapo! This page contains the letters,
-    the corresponding International Phonetics Alphabet (IPA) characters and recordings
-    of the sounds of the Na&#39;vi language. So to practice your pronunciation,
-    click the play button and listen, then try to go along and such.';
+$txt['s_sound'] = 'Na&#39;vijské zvuky';
+$txt['s_intro'] = '<span class="navi">Kaltxì</span> ma frapo! Tato stránka obsahuje písmena,
+    odpovídají znaky v mezinárdoní fonetické abecedě (IPA) a nahrávky zvuků Na&#39;viského 
+    jazyka tak, abyste si mohli procvičit vaší výslovnost,
+    klikněte na tlačítko přehrát a pak poslouchejte, poté se je pokuste zopakovat.';
 $txt['s_vowels'] = 'Samohlásky';
-$txt['s_pseudo'] = 'Slabikotvorná souhláska';
+$txt['s_pseudo'] = 'Slabikotvorn0 souhlásky';
 $txt['s_conson'] = 'Souhlásky';
 $txt['s_diphto'] = 'Dvojhlásky';
 // links
@@ -55,23 +55,23 @@ $txt['l_navi_gen'] = 'Generátor Na\'vijských jmen';
 $txt['l_valid_gen'] = 'Generuje platné jména';
 // downloads
 $txt['d_downl'] = 'Ke stažení';
-$txt['d_thing'] = 'Other Things Hosted On This Site';
+$txt['d_thing'] = 'Jiné věci, které hostuji na stránce';
 $txt['d_hrhgif'] = 'Kolecke starých memes a komixů';
 $txt['d_images'] = 'složka s obrázky ';
 // lessons
-$txt['n_lesson'] = 'Na\'viské jazykové lekce';
-$txt['n_basic'] = 'Conversational Lessons: Beginners\' Basics';
-$txt['n_01c'] = 'Greetings &amp; Introductions';
-$txt['n_intro'] = 'Simplified Grammar Lessons: Intro to Na\'vi Grammar';
-$txt['n_01g'] = 'Word Order &amp; Simple Sentences';
+$txt['n_lesson'] = 'Lekce z jazyka Na\'vi';
+$txt['n_basic'] = 'Lekce konverzace: Základy pro začátečníky';
+$txt['n_01c'] = 'Pozdravy & Úvod';
+$txt['n_intro'] = 'Zjednodušené lekce z gramatiky: Úvod do Na\'vijské gramatiky';
+$txt['n_01g'] = 'Pořádek slov a jednoduché fráze';
 // name generator
 $txt['g_n_try'] = 'Dobrý pokus. ;D';
 $txt['g_first_name'] = 'Křestní jméno o počtu # slabik';
 $txt['g_family_name'] = 'Příjmení o počtu # slabik';
-$txt['g_parent_name'] = 'Parent&apos;s Name # of slabik';
-$txt['g_number_of_name'] = 'Number of Names to Generate';
+$txt['g_parent_name'] = 'Jméno rodiče o počtu # slabik';
+$txt['g_number_of_name'] = 'Počet jmen k vygenerování';
 $txt['g_credits'] = '<a href="http://forum.learnnavi.org/index.php?msg=566249">
-      Web-based Na\'vi Name Generator!
+      Webový generátor Na\'viských jmen!
     </a> by Uniltìrantokx te Skxawng';
 $txt['g_generate'] = 'Generate!';
 // about
