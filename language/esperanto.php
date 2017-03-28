@@ -75,10 +75,10 @@ $txt['g_credits'] = '<a href="http://forum.learnnavi.org/index.php?msg=566249">
     </a> de Uniltìrantokx te Skxawng';
 $txt['g_generate'] = 'Kreu!';
 // about
-$txt['a_creator'] = 'Creator of the language';
-$txt['a_developers'] = 'Tirea Na\'vi Lesson Blog Developers';
-$txt['a_thanks'] = 'Special Thanks';
-$txt['a_others'] = 'and others!';
-$txt['a_3rdparty'] = 'Third Party Software';
-$txt['a_mit'] = 'Licensed under The MIT License (MIT)';
+$txt['a_creator'] = 'Kreinto de la lingvo';
+$txt['a_developers'] = 'Programisto de la blogo de lecionoj Tirea Na\'vi';
+$txt['a_thanks'] = 'Dankon';
+$txt['a_others'] = 'kaj aliuloj!';
+$txt['a_3rdparty'] = 'Krompersona Programaro';
+$txt['a_mit'] = 'Sub la licenco MIT';
 ?>
