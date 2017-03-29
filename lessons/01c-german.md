@@ -1,12 +1,12 @@
 # Greetings & Introductions
 
-Hallo, und willkommen bei der ersten einer neuen Serie von Na'vi Sprachunterricht! Wenn du noch nicht schon hast, I highly recommend that you check out the audio clips on the [Sounds](http://localhost/material/?p=sounds) page to get a solid feel for how the language is pronounced. Here are some of the classic building blocks of getting started with conversation in Na'vi.
+Hallo, und willkommen bei der ersten einer neuen Serie von Na'vi Sprachunterricht! Wenn du's nicht schon getan hast, kann ich dir empfehlen die Audioclips auf der [Sounds](http://localhost/material/?p=sounds) Seite anzuhören, um ein Gefühl dafür zu bekommen, wie die Sprache gesprochen klingt. Hier sind einige der klassischen Bausteine für die ersten Schritte für Konversationen auf Na'vi.
 
-## Topics
+## Themen
 
-### [Saying Hello](#1)
+### [Hallo sagen](#1)
 
-### [How are you?](#2)
+### [Wie geht's dir?](#2)
 
 ### [I'm well / not well / so-so](#3)
 
@@ -14,7 +14,7 @@ Hallo, und willkommen bei der ersten einer neuen Serie von Na'vi Sprachunterrich
 
 ### [What's your name?](#5)
 
-### [Goodbye](#6)
+### [Tchüss](#6)
 
 ### [Dialogue](#d)
 
@@ -23,7 +23,7 @@ Hallo, und willkommen bei der ersten einer neuen Serie von Na'vi Sprachunterrich
 <span id="1">
 </span>
 
-## Saying Hello
+## Hallo sagen
 
 The Na'vi word for _hello_ is **kaltxì**.
 
@@ -53,7 +53,7 @@ And one from the film:
 <span id="2">
 </span>
 
-## How are you?
+## Wie geht's dir?
 
 The Na'vi do not really ask, "_How are you?_", but rather something more like "_Do you have peace/well-being?_" Here's how it works:
 
