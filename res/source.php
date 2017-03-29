@@ -67,16 +67,23 @@ $dropdown = '
 				<!-- <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a> -->
 				<a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a>
 				<ul class="right hide-on-med-and-down" id="regnav">
-				<!-- Dropdown Trigger -->
-  					<li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">',$txt['m_language'],'<i class="material-icons right">arrow_drop_down</i></a></li>
 					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
+					<li><a href="', $weblink, '">', $txt['about'], '</a></li>
 					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
 					<li><a href="', $weblink, '?p=lessons">', $txt['m_lessons'], '</a></li>
 					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
 					<li><a href="', $weblink, '?p=downloads">', $txt['m_downloads'], '</a></li>
+					<!-- Dropdown Trigger -->
+                    <li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">',$txt['m_language'],'<i class="material-icons right">arrow_drop_down</i></a></li>
 					<li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li>
 				</ul>
 				<ul class="side-nav" id="mobilenav">
+					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
+					<li><a href="', $weblink, '">', $txt['about'], '</a></li>
+					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
+					<li><a href="', $weblink, '?p=lessons">', $txt['m_lessons'], '</a></li>
+					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
+					<li><a href="', $weblink, '?p=downloads">', $txt['m_downloads'], '</a></li>
 					<li>
 						<ul class="collapsible collapsible-accordion">
 							<li><a class="collapsible-header waves-effect waves-amber">', $txt['m_language'], '</a>
@@ -86,11 +93,6 @@ $dropdown = '
 							</li>
 						</ul>
 					</li>
-					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
-					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
-					<li><a href="', $weblink, '?p=lessons">', $txt['m_lessons'], '</a></li>
-					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
-					<li><a href="', $weblink, '?p=downloads">', $txt['m_downloads'], '</a></li>
 					<li><a href="feed.xml">', $txt['m_rss'], '</a></li>
 				</ul>
 			</div>
@@ -129,7 +131,7 @@ function html_bottom()
 	    | ', $txt['foot_disc'] , '<br />
 	    <b>\'Ivong Na\'vi!</b>
 	<br /><br />
-		<a href="', $weblink, '?p=about">', $txt['about'], '</a> - Tirea Na\'vi Web software: <a href="', $weblink, '">', $software_vers, '<br />
+		<a href="', $weblink, '?p=about">', $txt['about'], '</a> - Tirea Na\'vi Web software: <a href="https://github.com/Titstewan/Tirea-Material-Lesson-Blog">', $software_vers, '</a><br />
 	</div>
 	<script src="' . $httproot . 'res/jquery.min.js"></script>
 	<script src="' . $httproot . 'res/materialize.min.js"></script>
