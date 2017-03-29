@@ -14,7 +14,7 @@ tirea-learnnavi.org
 $txt['no_audio'] = 'Váš prohlížeč nepodporuje zvukový součást.';
 $txt['tlb_exp'] = 'Experimentální stránka ve výrobě! :D';
 $txt['foot_admin'] = 'Webový Administrátor/Návrhář';
-$txt['foot_softdev'] = 'Vývoj softwaru'
+$txt['foot_softdev'] = 'Vývoj softwaru';
 $txt['foot_disc'] = 'Tato stránka byla vytvořena členy <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
 Tato stránka není nijak spojena s oficiální stránkou Avatar, Jamesem Cameronem, Lightstorm Entertainment nebo the
 Twentieth Century Fox Film Corporation. Všechny obchodní značky a servisní značky jsou majetkem
