@@ -20,12 +20,12 @@ https://www.gnu.org/licenses/gpl-3.0.en.html
 $txt['about'] = 'About';
 $txt['no_audio'] = 'Via retumilo ne subtenas la Audio elemento.';
 $txt['tlb_exp'] = 'EKSPERIMENTA RETEJO SUB KONSTRUADO! :D';
-$txt['foot_admin'] = 'Website Admin/Designer';
-$txt['foot_softdev'] = 'Software development';
-$txt['foot_disc'] = 'This site was created by members of the <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
-This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
-Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
-respective owners.';
+$txt['foot_admin'] = 'Administranto/Dezajnisto';
+$txt['foot_softdev'] = 'Evoluigo de la programaro';
+$txt['foot_disc'] = 'Tiu ĉi retejo estis kreita de uzantoj de la forumo je <a href="http://learnnavi.org/">LearnNa\'vi.org</a>. <br />
+    Tiu ĉi retejo ne filiiĝas al la oficiala retejo de Avatar, James Cameron, Lightstorm Entertainment aŭ la
+    Twentieth Century Fox Film Corporation. Ĉiuj la registritaj markoj kaj la servicmarkoj estas
+    proprietaĵoj de siaj respektivaj proprietuloj.';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons
 // menu
 $txt['m_language'] = 'Lingvo';
