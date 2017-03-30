@@ -34,7 +34,7 @@ if (!defined('TLB'))
 // ...html header (<html><body>)...
 function html_header()
 {
-	global $httproot, $weblink, $txt, $dropdown, $menu;
+	global $httproot, $weblink, $txt;
 
 // The dropdown fields
 $dropdown = '
