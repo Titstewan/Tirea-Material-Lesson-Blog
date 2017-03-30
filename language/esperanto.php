@@ -17,11 +17,11 @@ https://www.gnu.org/licenses/gpl-3.0.en.html
 ----------------------------*/
 // $txt[''] = '';
 // general stuff
-$txt['about'] = 'About';
+$txt['about'] = 'Pri la retejo';
 $txt['no_audio'] = 'Via retumilo ne subtenas la Audio elemento.';
 $txt['tlb_exp'] = 'EKSPERIMENTA RETEJO SUB KONSTRUADO! :D';
 $txt['foot_admin'] = 'Administranto/Dezajnisto';
-$txt['foot_softdev'] = 'Evoluigo de la programaro';
+$txt['foot_softdev'] = 'Programistoj';
 $txt['foot_disc'] = 'Tiu ĉi retejo estis kreita de uzantoj de la forumo je <a href="http://learnnavi.org/">LearnNa\'vi.org</a>. <br />
     Tiu ĉi retejo ne filiiĝas al la oficiala retejo de Avatar, James Cameron, Lightstorm Entertainment aŭ la
     Twentieth Century Fox Film Corporation. Ĉiuj la registritaj markoj kaj la servicmarkoj estas
@@ -83,7 +83,7 @@ $txt['g_credits'] = '<a href="http://forum.learnnavi.org/index.php?msg=566249">
 $txt['g_generate'] = 'Kreu!';
 // about
 $txt['a_creator'] = 'Kreinto de la lingvo';
-$txt['a_developers'] = 'Programisto de la blogo de lecionoj Tirea Na\'vi';
+$txt['a_developers'] = 'Programistoj de la blogo de lecionoj Tirea Na\'vi';
 $txt['a_thanks'] = 'Dankon';
 $txt['a_others'] = 'kaj aliuloj!';
 $txt['a_3rdparty'] = 'Krompersona Programaro';
