@@ -68,7 +68,7 @@ $dropdown = '
 				<a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a>
 				<ul class="right hide-on-med-and-down" id="regnav">
 					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
-					<li><a href="', $weblink, '">', $txt['about'], '</a></li>
+					<li><a href="', $weblink, '?p=about">', $txt['about'], '</a></li>
 					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
 					<li><a href="', $weblink, '?p=lessons">', $txt['m_lessons'], '</a></li>
 					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
@@ -79,7 +79,7 @@ $dropdown = '
 				</ul>
 				<ul class="side-nav" id="mobilenav">
 					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
-					<li><a href="', $weblink, '">', $txt['about'], '</a></li>
+					<li><a href="', $weblink, '?p=about">', $txt['about'], '</a></li>
 					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
 					<li><a href="', $weblink, '?p=lessons">', $txt['m_lessons'], '</a></li>
 					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
