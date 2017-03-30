@@ -164,20 +164,27 @@ function getCoda() {
 	return $result;
 }
 
-/* Validate the input vars from the URL - No ridiculousness this time
- * 1 <= [$a, $b, $c] <= 4
+/* Validate the input vars from the URL - No ridiculousness this time -- at all. :P
+ * Acceptable Ranges:
+ * 1 ≤ $a, $b, $c ≤ 4
+ * 1 ≤ $k ≤ 100
  */
-function valid($a, $b, $c) {
-	/* a, b, c not set, usually a fresh referal from index.php
-	 * Requiring at lesat index.php?page=generator&a=1&b=1&c=1 is so lame. So having unset abc is valid
+function valid($a, $b, $c, $k) {
+	/* a, b, c, k not set, usually a fresh referal from index.php
+	 * Requiring at least index.php?page=generator&a=1&b=1&c=1&k=1 is so lame. So having unset abck is valid
 	 * Also happens if any or all elements in form are not selected and submitted. Should also be valid
 	 */
-	if (!isset($a) || !isset($b) || !isset($c)) {
+	if (!isset($a) || !isset($b) || !isset($c) || !isset($k)) {
 		return true;
+	}
+	
+	// disallow generating HRH.gif amounts of names
+	if ($k > 100) {
+		return false;
 	}
 
 	// lolwut, zero syllables? Negative syllables?
-	if ($a < 1 || $b < 1 || $c < 1) {
+	if ($a < 1 || $b < 1 || $c < 1 || $k < 1) {
 			return false;
 
 	// Probably Vawmataw or someone trying to be funny by generating HRH.gif amounts of syllables
@@ -204,9 +211,10 @@ function name_gen()
 	$a = $_REQUEST["a"]; // number of syllables in the First name
 	$b = $_REQUEST["b"]; // number of syllables in the Family name
 	$c = $_REQUEST["c"]; // number of syllables in the Parent's name
+    $k = $_REQUEST["k"]; // number of names to be generated
 
 	// No funny business, y'all. :P
-	if (!valid($a, $b, $c)) {
+	if (!valid($a, $b, $c, $k)) {
 		echo $txt['g_n_try'], ' </h2>';
 		return;
 	}
