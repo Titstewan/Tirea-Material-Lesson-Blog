@@ -43,12 +43,12 @@ $dropdown = '
 			<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>';
 $menu = '
-					<li><a href="', $weblink, '">' . $txt['m_home'] . '</a></li>
-					<li><a href="', $weblink, '?p=sounds">' . $txt['m_sounds'] . '</a></li>
-					<li><a href="', $weblink, '?p=lessons">' . $txt['m_lessons'] . '</a></li>
-					<li><a href="', $weblink, '?p=links">' . $txt['m_links'] . '</a></li>
-					<li><a href="', $weblink, '?p=downloads">' . $txt['m_downloads'] . '</a></li>
-					<li><a href="', $weblink, '?p=about">' . $txt['about'] . '</a></li>';
+					<li><a href="' . $weblink . '">' . $txt['m_home'] . '</a></li>
+					<li><a href="' . $weblink . '?p=sounds">' . $txt['m_sounds'] . '</a></li>
+					<li><a href="' . $weblink . '?p=lessons">' . $txt['m_lessons'] . '</a></li>
+					<li><a href="' . $weblink . '?p=links">' . $txt['m_links'] . '</a></li>
+					<li><a href="' . $weblink . '?p=downloads">' . $txt['m_downloads'] . '</a></li>
+					<li><a href="' . $weblink . '?p=about">' . $txt['about'] . '</a></li>';
 
 	echo '<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
