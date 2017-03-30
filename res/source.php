@@ -42,6 +42,7 @@ $dropdown = '
 			<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>';
+// The menu links
 $menu = '
 					<li><a href="' . $weblink . '">' . $txt['m_home'] . '</a></li>
 					<li><a href="' . $weblink . '?p=sounds">' . $txt['m_sounds'] . '</a></li>
