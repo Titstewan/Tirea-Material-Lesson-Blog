@@ -74,14 +74,12 @@ $menu = '
 				<a href="', $weblink, '" class="brand-logo">Tirea Na&apos;vi</a>
 				<!-- <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a> -->
 				<a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a>
-				<ul class="right hide-on-med-and-down" id="regnav">
-					', $menu, '
+				<ul class="right hide-on-med-and-down" id="regnav">', $menu, '
 					<!-- Dropdown Trigger -->
 					<li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">', $txt['m_language'], '<i class="material-icons right">arrow_drop_down</i></a></li>
 					<li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li>
 				</ul>
-				<ul class="side-nav" id="mobilenav">
-					', $menu, '
+				<ul class="side-nav" id="mobilenav">', $menu, '
 					<li>
 						<ul class="collapsible collapsible-accordion">
 							<li><a class="collapsible-header waves-effect waves-amber">', $txt['m_language'], '</a>
