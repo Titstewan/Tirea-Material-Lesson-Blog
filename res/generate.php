@@ -211,15 +211,14 @@ function name_gen()
 	$a = $_REQUEST["a"]; // number of syllables in the First name
 	$b = $_REQUEST["b"]; // number of syllables in the Family name
 	$c = $_REQUEST["c"]; // number of syllables in the Parent's name
-    $k = $_REQUEST["k"]; // number of names to be generated
+    $k = 0; // counter for number of names to be generated
 
 	// No funny business, y'all. :P
-	if (!valid($a, $b, $c, $k)) {
+	if (!valid($a, $b, $c, $k + 1)) {
 		echo $txt['g_n_try'], ' </h2>';
 		return;
 	}
 
-	$k;
 	while ($k <= $_REQUEST["k"] -1) { // Do entire generator process k times
 		$i=0;
 
