@@ -34,7 +34,7 @@ if (!defined('TLB'))
 // ...html header (<html><body>)...
 function html_header()
 {
-	global $httproot, $weblink, $txt, $dropdown;
+	global $httproot, $weblink, $txt, $dropdown, $menu;
 
 // The dropdown fields
 $dropdown = '
@@ -42,6 +42,13 @@ $dropdown = '
 			<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>';
+$menu = '
+					<li><a href="', $weblink, '">' . $txt['m_home'] . '</a></li>
+					<li><a href="', $weblink, '?p=sounds">' . $txt['m_sounds'] . '</a></li>
+					<li><a href="', $weblink, '?p=lessons">' . $txt['m_lessons'] . '</a></li>
+					<li><a href="', $weblink, '?p=links">' . $txt['m_links'] . '</a></li>
+					<li><a href="', $weblink, '?p=downloads">' . $txt['m_downloads'] . '</a></li>
+					<li><a href="', $weblink, '?p=about">' . $txt['about'] . '</a></li>';
 
 	echo '<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -67,23 +74,13 @@ $dropdown = '
 				<!-- <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a> -->
 				<a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a>
 				<ul class="right hide-on-med-and-down" id="regnav">
-					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
-					<li><a href="', $weblink, '?p=about">', $txt['about'], '</a></li>
-					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
-					<li><a href="', $weblink, '?p=lessons">', $txt['m_lessons'], '</a></li>
-					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
-					<li><a href="', $weblink, '?p=downloads">', $txt['m_downloads'], '</a></li>
+					', $menu, '
 					<!-- Dropdown Trigger -->
-                    <li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">',$txt['m_language'],'<i class="material-icons right">arrow_drop_down</i></a></li>
+					<li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">', $txt['m_language'], '<i class="material-icons right">arrow_drop_down</i></a></li>
 					<li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li>
 				</ul>
 				<ul class="side-nav" id="mobilenav">
-					<li><a href="', $weblink, '">', $txt['m_home'], '</a></li>
-					<li><a href="', $weblink, '?p=about">', $txt['about'], '</a></li>
-					<li><a href="', $weblink, '?p=sounds">', $txt['m_sounds'], '</a></li>
-					<li><a href="', $weblink, '?p=lessons">', $txt['m_lessons'], '</a></li>
-					<li><a href="', $weblink, '?p=links">', $txt['m_links'], '</a></li>
-					<li><a href="', $weblink, '?p=downloads">', $txt['m_downloads'], '</a></li>
+					', $menu, '
 					<li>
 						<ul class="collapsible collapsible-accordion">
 							<li><a class="collapsible-header waves-effect waves-amber">', $txt['m_language'], '</a>
