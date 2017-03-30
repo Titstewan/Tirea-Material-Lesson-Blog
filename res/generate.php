@@ -214,7 +214,7 @@ function name_gen()
     $k = 0; // counter for number of names to be generated
 
 	// No funny business, y'all. :P
-	if (!valid($a, $b, $c, $k + 1)) {
+	if (!valid($a, $b, $c, $_REQUEST["k"])) {
 		echo $txt['g_n_try'], ' </h2>';
 		return;
 	}
