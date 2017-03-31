@@ -15,6 +15,7 @@ aysaheylu() - renders the link pages
 navi_download() - the download page is doneby this
 about() - contains credits, authors and copyright blah
 navi_lesson() - this vrrtep creates the main lesson page, loads and parses the Na'vi lesson
+rss_feed() - generates the RSS XML code of all the lessons
 
 Author: Tìtstewan
 titstewan-learnnavi.org
@@ -41,7 +42,8 @@ $dropdown = '
 			<li><a href="' . $httproot . 'language/switch.php?lang=english">English</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>';
+			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=dutch">Nederlands</a></li>';
 // The menu links
 $menu = '
 					<li><a href="' . $weblink . '">' . $txt['m_home'] . '</a></li>
@@ -439,5 +441,71 @@ function navi_lesson()
 			}
 		}
 	}
+}
+
+// Generate the RSS feed
+function rss_feed()
+{
+	global $lessondir, $weblink;
+	
+	//header stuff
+    echo '<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Tirea Na\'vi</title>
+<link>http://tirea.learnnavi.org/material</link>
+<atom:link href="http://tirea.learnnavi.org/material/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Na\'vi Language Lessons for Non-linguists</description>
+<lastBuildDate>Sat, 31 Mar 2017 18:56:39 CDT</lastBuildDate>';
+	
+	//items
+	// we need to define the directory
+	$dir = $lessondir . '/';
+
+	// Just to check if the thing we want is a dir
+	if (is_dir($dir))
+	{
+		// Open the dir
+		if ($dh = opendir($dir))
+		{
+			// We need an empty array first
+			$files = array();
+
+			// read the files and store them in an array
+			while (($file = readdir($dh)) !== false)
+			{
+				$files[] = $file;
+			}
+
+			sort($files);
+
+			// load and echo the c lessons
+			foreach ($files as $f)
+			{
+				$num = substr($f, 0, 2);
+				if (preg_match('/^\d+$/', $num)
+				{
+					//get $filename
+					//read file
+					//get $title
+					//get $content
+					
+					echo '<item>';
+					//echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>';
+					echo '<title><![CDATA[' . $title . ']]></title>';
+					echo '<author>tirea@learnnavi.org (Tirea Aean)</author>';
+					echo '<link><![CDATA[see line 494 above]]></link>';
+					echo '<guid><![CDATA[same exact thing as line 497 just above]]></guid>';
+					echo '<description>' . $content . '</description>';
+					echo '</item>';
+				}
+			}
+		// fin!
+		closedir($dh);
+		}
+	}
+
+    // closing tags
+    echo '</channel></rss>';        
 }
 ?>
