@@ -67,10 +67,7 @@ $txt['d_hrhgif'] = 'Multaj malnovaj memeoj, komikoj ktp, rilate la Na&#39;via li
 $txt['d_images'] = 'imaĝoj';
 // lessons
 $txt['n_lesson'] = 'Lecionoj de la Na\'via Lingvo';
-$txt['n_basic'] = 'Konversaciaj Lecionoj: Bazo por la komencantoj';
-$txt['n_01c'] = 'Salutoj &amp; Prezentoj';
 $txt['n_intro'] = 'Simpligitaj Lecionoj de Gramatiko: Enkonduko de la Na\'via lingvo';
-$txt['n_01g'] = 'Ordo de Vortoj kaj Simplaj Frazoj';
 // name generator
 $txt['g_n_try'] = 'Almenaŭ vi klopodis. ;D';
 $txt['g_first_name'] = 'Antaŭnomo # de Silaboj';
