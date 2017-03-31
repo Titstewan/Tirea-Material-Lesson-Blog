@@ -483,7 +483,7 @@ function rss_feed()
 			foreach ($files as $f)
 			{
 				$num = substr($f, 0, 2);
-				if (preg_match('/^\d+$/', $num)
+				if (preg_match('/^\d+$/', $num))
 				{
 					//get $filename
 					//read file
