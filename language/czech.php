@@ -8,13 +8,20 @@ Author: Tìtstewan
 titstewan-learnnavi.org
 Co-Author: Tirea Aean
 tirea-learnnavi.org
+Translator: Hahaw[hhvhhvcz]
+
+Tirea Na'vi Lesson Blog - Easy Lesson Blog
+Copyright (C) 2017  Tìtstewan & Tirea Aean
+GNU GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
 ----------------------------*/
 // $txt[''] = '';
 // general stuff
+$txt['about'] = 'About';
 $txt['no_audio'] = 'Váš prohlížeč nepodporuje zvukový součást.';
 $txt['tlb_exp'] = 'Experimentální stránka ve výrobě! :D';
 $txt['foot_admin'] = 'Webový Administrátor/Návrhář';
-$txt['foot_softdev'] = 'Vývoj softwaru'
+$txt['foot_softdev'] = 'Vývoj softwaru';
 $txt['foot_disc'] = 'Tato stránka byla vytvořena členy <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
 Tato stránka není nijak spojena s oficiální stránkou Avatar, Jamesem Cameronem, Lightstorm Entertainment nebo the
 Twentieth Century Fox Film Corporation. Všechny obchodní značky a servisní značky jsou majetkem

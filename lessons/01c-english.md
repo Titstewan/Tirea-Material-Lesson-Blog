@@ -193,7 +193,7 @@ Na'vi                   | English
 **kaltxì**              | _hello_
 **oel**                 | _I_
 **ngati**               | _you_
-**kameie**              | _See (deeply, spiritually)_
+**kameie**              | _to See (deeply, spiritually)_
 **ma**                  | _(word put before names or titles when addressing the person directly)_
 **sempul**              | _father_
 **ngaru**               | _to you_
@@ -207,7 +207,7 @@ Na'vi                   | English
 **oeyä**                | _my_
 **tstxo**               | _name_
 **fko**                 | _one, unspecified person_
-**syaw**                | _call_
+**syaw**                | _to call_
 **fyape / pefya**       | _how_
 **kiyevame / kìyevame** | _See you again soon_
 **Eywa ngahu**          | _Eywa be with you_

@@ -8,17 +8,24 @@ Author: Tìtstewan
 titstewan-learnnavi.org
 Co-Author: Tirea Aean
 tirea-learnnavi.org
+Translator: Vawmataw
+
+Tirea Na'vi Lesson Blog - Easy Lesson Blog
+Copyright (C) 2017  Tìtstewan & Tirea Aean
+GNU GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
 ----------------------------*/
 // $txt[''] = '';
 // general stuff
+$txt['about'] = 'Pri la retejo';
 $txt['no_audio'] = 'Via retumilo ne subtenas la Audio elemento.';
 $txt['tlb_exp'] = 'EKSPERIMENTA RETEJO SUB KONSTRUADO! :D';
-$txt['foot_admin'] = 'Website Admin/Designer';
-$txt['foot_softdev'] = 'Software development';
-$txt['foot_disc'] = 'This site was created by members of the <a href="http://learnnavi.org/">LearnNa\'vi.org</a> forum. <br />
-This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
-Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
-respective owners.';
+$txt['foot_admin'] = 'Administranto/Dezajnisto';
+$txt['foot_softdev'] = 'Programistoj';
+$txt['foot_disc'] = 'Tiu ĉi retejo estis kreita de uzantoj de la forumo je <a href="http://learnnavi.org/">LearnNa\'vi.org</a>. <br />
+    Tiu ĉi retejo ne filiiĝas al la oficiala retejo de Avatar, James Cameron, Lightstorm Entertainment aŭ la
+    Twentieth Century Fox Film Corporation. Ĉiuj la registritaj markoj kaj la servicmarkoj estas
+    proprietaĵoj de siaj respektivaj proprietuloj.';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons
 // menu
 $txt['m_language'] = 'Lingvo';
@@ -60,10 +67,7 @@ $txt['d_hrhgif'] = 'Multaj malnovaj memeoj, komikoj ktp, rilate la Na&#39;via li
 $txt['d_images'] = 'imaĝoj';
 // lessons
 $txt['n_lesson'] = 'Lecionoj de la Na\'via Lingvo';
-$txt['n_basic'] = 'Konversaciaj Lecionoj: Bazo por la komencantoj';
-$txt['n_01c'] = 'Salutoj &amp; Prezentoj';
 $txt['n_intro'] = 'Simpligitaj Lecionoj de Gramatiko: Enkonduko de la Na\'via lingvo';
-$txt['n_01g'] = 'Ordo de Vortoj kaj Simplaj Frazoj';
 // name generator
 $txt['g_n_try'] = 'Almenaŭ vi klopodis. ;D';
 $txt['g_first_name'] = 'Antaŭnomo # de Silaboj';
@@ -75,10 +79,10 @@ $txt['g_credits'] = '<a href="http://forum.learnnavi.org/index.php?msg=566249">
     </a> de Uniltìrantokx te Skxawng';
 $txt['g_generate'] = 'Kreu!';
 // about
-$txt['a_creator'] = 'Creator of the language';
-$txt['a_developers'] = 'Tirea Na\'vi Lesson Blog Developers';
-$txt['a_thanks'] = 'Special Thanks';
-$txt['a_others'] = 'and others!';
-$txt['a_3rdparty'] = 'Third Party Software';
-$txt['a_mit'] = 'Licensed under The MIT License (MIT)';
+$txt['a_creator'] = 'Kreinto de la lingvo';
+$txt['a_developers'] = 'Programistoj de la blogo de lecionoj Tirea Na\'vi';
+$txt['a_thanks'] = 'Dankon';
+$txt['a_others'] = 'kaj aliuloj!';
+$txt['a_3rdparty'] = 'Krompersona Programaro';
+$txt['a_mit'] = 'Sub la licenco MIT';
 ?>
