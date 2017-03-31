@@ -1,4 +1,4 @@
-# Word Order & Simple Sentences
+# Pořádek slov a jednoduché fráze
 
 **Kaltxì**! Hello! And welcome to The first installment of the Simplified Grammar Lessons Series.
 
