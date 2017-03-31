@@ -1,15 +1,12 @@
 <?php
 /*----------------------------
 This is a new custom home page for Tirea Tean's Lesson Blog.
-
 The main Text Strings for translation.
-
 Author: Tìtstewan
 titstewan-learnnavi.org
 Co-Author: Tirea Aean
 tirea-learnnavi.org
 Translator: Vawmataw
-
 Tirea Na'vi Lesson Blog - Easy Lesson Blog
 Copyright (C) 2017  Tìtstewan & Tirea Aean
 GNU GPLv3
@@ -67,7 +64,10 @@ $txt['d_hrhgif'] = 'Multaj malnovaj memeoj, komikoj ktp, rilate la Na&#39;via li
 $txt['d_images'] = 'imaĝoj';
 // lessons
 $txt['n_lesson'] = 'Lecionoj de la Na\'via Lingvo';
-$txt['n_intro'] = 'Simpligitaj Lecionoj de Gramatiko: Enkonduko de la Na\'via lingvo';
+$txt['n_basic'] = 'Konversaciaj Lecionoj';
+$txt['n_01c'] = 'Salutoj &amp; Prezentoj';
+$txt['n_intro'] = 'Simpligitaj Lecionoj de Gramatiko';
+$txt['n_01g'] = 'Ordo de Vortoj kaj Simplaj Frazoj';
 // name generator
 $txt['g_n_try'] = 'Almenaŭ vi klopodis. ;D';
 $txt['g_first_name'] = 'Antaŭnomo # de Silaboj';
