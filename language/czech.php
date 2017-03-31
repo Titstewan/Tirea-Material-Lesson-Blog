@@ -17,7 +17,7 @@ https://www.gnu.org/licenses/gpl-3.0.en.html
 ----------------------------*/
 // $txt[''] = '';
 // general stuff
-$txt['about'] = 'About';
+$txt['about'] = 'O Stránce';
 $txt['no_audio'] = 'Váš prohlížeč nepodporuje zvukový součást.';
 $txt['tlb_exp'] = 'Experimentální stránka ve výrobě! :D';
 $txt['foot_admin'] = 'Webový Administrátor/Návrhář';
@@ -29,11 +29,11 @@ příslušných vlastníků.';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons
 // menu
 $txt['m_language'] = 'Jazyk';
-$txt['m_home'] = 'Domov';
-$txt['m_sounds'] = 'Zvuk';
+$txt['m_home'] = 'Domů';
+$txt['m_sounds'] = 'Zvuky';
 $txt['m_lessons'] = 'Lekce';
 $txt['m_links'] = 'Odkazy';
-$txt['m_downloads'] = 'Ke stažení';
+$txt['m_downloads'] = 'Ke Stažení';
 $txt['m_rss'] = 'RSS Kanál';
 // home
 $txt['h_welcome'] = 'Vítejte';
@@ -67,9 +67,9 @@ $txt['d_hrhgif'] = 'Kolecke starých memes a komixů';
 $txt['d_images'] = 'složka s obrázky ';
 // lessons
 $txt['n_lesson'] = 'Lekce z jazyka Na\'vi';
-$txt['n_basic'] = 'Lekce konverzace: Základy pro začátečníky';
+$txt['n_basic'] = 'Konverzace';
 $txt['n_01c'] = 'Pozdravy & Úvod';
-$txt['n_intro'] = 'Zjednodušené lekce z gramatiky: Úvod do Na\'vijské gramatiky';
+$txt['n_intro'] = 'Zjednodušené Na\'vijská gramatika';
 $txt['n_01g'] = 'Pořádek slov a jednoduché fráze';
 // name generator
 $txt['g_n_try'] = 'Dobrý pokus. ;D';
