@@ -143,13 +143,13 @@ Jen kelkaj popularaj adiaŭoj:
 - **Kiyevame / Kìyevame**
 - _Ĝis ni komprenvidos baldaŭ_
 
-Ajna version estas korenkta; Iuj uzas la version kun i ĉar estas pli facila, iuj uzas la version kun ì ĉar ĝi ŝajnas pli mojosa.
+Ajna versio estas korekta; Iuj uzas la versio kun i ĉar estas pli facila, iuj uzas la versio kun ì ĉar ĝi ŝajnas pli mojosa.
 
 - **Eywa ngahu**
 - _Eywa estu kun vi_
 - Laŭvorte: Eywa vi-kun
 
-Kaj alia frazio kiun vi povas vidi:
+Kaj alia frazo kiun vi povas vidi:
 
 - **Hayalovay**
 - _Ĝis la sekvanto fojo_
