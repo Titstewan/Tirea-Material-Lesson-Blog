@@ -44,7 +44,7 @@ $txt['h_welcome_txt'] = "Zola'u nìprrte' ne Tirea Na'vi! Fìtseng fkeytok fte k
 $txt['h_get_st'] = 'Get started';
 // sounds
 $txt['s_sound'] = 'leNa&#39;via Fam';
-$txt['s_intro'] = "<span class="navi">Kaltxì</span> ma frapo! Fìtsengìl nga' famrelvit,
+$txt['s_intro'] = "<span class=\"navi\">Kaltxì</span> ma frapo! Fìtsengìl nga' famrelvit,
   feyä lì'upamit fa pamrelvi Snapamrelviä Lì'upamä Aylì'fyayä sì lì'upamit
   lì'fyayä leNa&#39;vi fa mokri. Ha fte tsan'ivul ngeyä lì'upam,
   kä'ivärìp yo'kot ulte tivìng mikyun, tsakrr fmivi pivlltxe tsapamit.";
