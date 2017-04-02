@@ -38,7 +38,7 @@ $txt['m_rss'] = 'Flux RSS';
 $txt['h_welcome'] = 'Bienvenue';
 $txt['h_title'] = 'Leçons faciles de grammaire';
 $txt['h_welcome_txt'] = 'Bienvenue sur Tirea Na\'vi! Ce site existe pour enseigner la langue
-                  Na\'vi à tout le monde d\'une manière simple à comprendre. À tous les fans
+                  Na\'vi à tout le monde d\'une manière facile à comprendre. À tous les fans
                   d\'Avatar qui ne sont pas des linguistes, j\'espère vous aider dans votre
                   parcours afin que vous deveniez les prochains locuteurs de cette superbe langue.
                   -- Tirea Aean';
