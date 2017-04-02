@@ -46,9 +46,9 @@ $txt['h_welcome_txt'] = 'Vítejte na Tirea Na\'vi! Tato stránka existuje za ú�
 $txt['h_get_st'] = 'Začátek';
 // sounds
 $txt['s_sound'] = 'Na&#39;vijské zvuky';
-$txt['s_intro'] = '<span class="navi">Kaltxì</span> ma frapo! Tato stránka obsahuje písmena,
-    odpovídají znaky v mezinárdoní fonetické abecedě (IPA) a nahrávky zvuků Na&#39;viského 
-    jazyka tak, abyste si mohli procvičit vaší výslovnost,
+$txt['s_intro'] = '<span class="navi">Kaltxì</span> ma frapo! Tato stránka obsahuje písmena,jejich
+    odpovídají znaky v mezinárdoní fonetické abecedě (IPA) a nahrávky,jak zní v jazyce Na&#39;vi
+    tak, abyste si mohli procvičit vaší výslovnost,
     klikněte na tlačítko přehrát a pak poslouchejte, poté se je pokuste zopakovat.';
 $txt['s_vowels'] = 'Samohlásky';
 $txt['s_pseudo'] = 'Slabikotvorné souhlásky';
