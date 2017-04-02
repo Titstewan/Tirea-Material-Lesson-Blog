@@ -17,12 +17,12 @@ https://www.gnu.org/licenses/gpl-3.0.en.html
 // $txt[''] = '';
 // general stuff
 $txt['about'] = 'À propos';
-$txt['no_audio'] = 'Votre navigateur ne supporte pas l'élément audio.';
+$txt['no_audio'] = 'Votre navigateur ne supporte pas l'\élément audio.';
 $txt['tlb_exp'] = 'SITE EXPÉRIMENTAL EN CONSTUCTION! :D';
 $txt['foot_admin'] = 'Administrateur/Designer';
 $txt['foot_softdev'] = 'Développeurs';
-$txt['foot_disc'] = 'Ce site a été créé par des membres do forum <a href="http://learnnavi.org/">LearnNa\'vi.org</a>. <br />
-Ce site n'est pas affilié au site officiel d'Avatar, James Cameron, Lightstorm Entertainment ou la
+$txt['foot_disc'] = 'Ce site a été créé par des membres du forum <a href="http://learnnavi.org/">LearnNa\'vi.org</a>. <br />
+Ce site n'\est pas affilié au site officiel d'Avatar, James Cameron, Lightstorm Entertainment ou la
 Twentieth Century Fox Film Corporation. Toutes les marques de commerce et de service sont les propriétés de leurs
 propriétaires respectives.';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons, a_ = about
@@ -38,17 +38,17 @@ $txt['m_rss'] = 'Flux RSS';
 $txt['h_welcome'] = 'Bienvenue';
 $txt['h_title'] = 'Leçons faciles de grammar';
 $txt['h_welcome_txt'] = 'Bienvenue sur Tirea Na\'vi! Ce site existe pour enseigner la langue
-                  Na\'vi à tout le monde d'une manière simple à comprendre. À tous les fans
-                  d'Avatar qui ne sont pas des linguistes, j'espère vous aider dans votre
+                  Na\'vi à tout le monde d'\une manière simple à comprendre. À tous les fans
+                  d'\Avatar qui ne sont pas des linguistes, j'\espère vous aider dans votre
                   parcours afin que vous deveniez les prochains locuteurs de cette superbe langue.
                   -- Tirea Aean';
 $txt['h_get_st'] = 'Commençons';
 // sounds
 $txt['s_sound'] = 'Prononciation du Na&#39;vi';
 $txt['s_intro'] = '<span class="navi">Kaltxì</span> ma frapo! Cette page contient les lettres,
-    leur transcription phonétique dans l'Alphabet Phonétique International (API) et des
+    leur transcription phonétique dans l'\Alphabet Phonétique International (API) et des
     enregistrements sonores des sons du Na&#39;vi. Pour pratiquer votre prononciation,
-    cliquez le bouton play et écoutez, puis essayez et tout cela.';
+    cliquez sur le bouton play et écoutez, puis essayez et tout cela.';
 $txt['s_vowels'] = 'Voyelles';
 $txt['s_pseudo'] = 'Pseudovoyelles';
 $txt['s_conson'] = 'Consonnes';
