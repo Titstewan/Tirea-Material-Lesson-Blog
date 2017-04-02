@@ -34,11 +34,11 @@ Voici une autre salutation populaire que l'on retrouve dans film:
 
 Mot pour mot:
 
-- **oel** veut sire _je_.
+- **oel** veut dire _je_.
 - **ngati** veut dire _te/toi_ (_tu_).
 - **kameie** est une forme du verbe _Voir [spirituellement parlant]_.
 
-Vous vous demandez peut-être: "Ça ne veut pas plutôt dire, _'Je toi Vois'_?" And vous avez raison; ça veut dire cela. En Na'vi, l'ordre des mots est beaucoup plus libre qu'en français. J'en parlerai plus. Pour l'instant, ça restera simple.
+Vous vous demandez peut-être: "Ça ne veut pas plutôt dire, _'Je toi Vois'_?" And vous avez raison; ça veut dire cela. En Na'vi, l'ordre des mots est beaucoup plus libre qu'en français. J'en parlerai plus tard. Pour l'instant, ça restera simple.
 
 Lorsque vous voulez vous adresser directement à quelqu'un en disant son nom ou son titre, vous devez placer le mot **ma** just avant le nom. Par exemple:
 
@@ -66,7 +66,7 @@ Petite analyse:
 - **ngaru** est une autre forme du pronom _tu_ qui signifie _à toi_.
 - **lu** est le verbe _être_ et sa forme à l'indicatif présent.
 - **fpom** veut dire _paix/bien-être_.
-- **srak** est un mot qui transforme une déclaration en question fermée (oui/non). Ça va à la toute fin de la phrase ou au tout début sous la forme de **srake**
+- **srak** est un mot qui transforme une déclaration en une question fermée (oui/non). Ça va à la toute fin de la phrase ou au tout début sous la forme de **srake**
 
 <span id="3">
 </span>
@@ -82,7 +82,7 @@ Puisque _Comment ça va_ est une question fermée en Na'vi, les réponses possib
 Pour renvoyer la question à celui qui vous l'a posée, vous avez deux choix:
 
 - **ngaru lu fpom srak?**
-- _As-tu du bonheur?_
+- _As-tu du bien-être?_
 
 ou
 
@@ -116,7 +116,7 @@ Puisque le Na'vi a une syntaxe flexible, si la phrase ci-haut vous pose problèm
 
 ## Comment t'appelles-tu?
 
-La question est très semble à la réponse que vous trouvez dans la section précédente. _Comment t'appelles-tu?_ en Na'vi se dit plutôt _Comment es-tu appelé?_ et s'écrit généralement ainsi:
+La question est très semblable à la réponse que vous trouvez dans la section précédente. _Comment t'appelles-tu?_ en Na'vi se dit plutôt _Comment es-tu appelé?_ et s'écrit généralement ainsi:
 
 - **Fyape fko syaw ngar?**
 - _Comment es-tu appelé?_
@@ -128,7 +128,7 @@ ou:
 - _Comment es-tu appelé?_
 - Mot pour mot: "Comment appelle-t-on à toi?"
 
-Notez que **Fyape/Pefya** est le même mot mais écrit différemment. Même chose la même chose s'applique pour **ngar/ngaru**.
+Notez que **Fyape/Pefya** est le même mot mais écrit différemment. La même chose s'applique pour **ngar/ngaru**.
 
 - _Enchanté(e) de te rencontrer_ se traduit en Na'vi **Smon nìprrte'.**
 - Mot pour mot: "[tu es] familier [à moi] avec plaisir"
@@ -143,7 +143,7 @@ Voici quelques salutations populaires en Na'vi lorsque deux personnes quittent:
 - **Kiyevame / Kìyevame**
 - _À bientôt/On se reverra bientôt_
 
-Les deux versions sont correctes; certains utilisent la version avec le i parce que c'est plus facile, d'autres utilisent la version avec le ì parce que ça paraît cool.
+Les deux versions sont correctes; certains utilisent la version avec le i parce que c'est plus facile, tandis que d'autres utilisent la version avec le ì parce que ça paraît cool.
 
 - **Eywa ngahu**
 - _Qu'Eywa soit avec toi_
