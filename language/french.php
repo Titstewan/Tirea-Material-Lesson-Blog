@@ -56,7 +56,7 @@ $txt['s_diphto'] = 'Diphthongues';
 // links
 $txt['l_links'] = 'Liens';
 $txt['l_cool'] = 'Trucs que je trouve sympas';
-$txt['l_blogs'] = 'Des blogs Na\'vi que j\'ai lus';
+$txt['l_blogs'] = 'Des blogs Na\'vi que je lis';
 $txt['l_navi_gen'] = 'Générateur de noms Na\'vi';
 $txt['l_valid_gen'] = 'Genère des noms valides';
 // downloads
