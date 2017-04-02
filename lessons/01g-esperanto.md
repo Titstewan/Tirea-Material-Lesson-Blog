@@ -60,7 +60,7 @@ Notu ke la lasta vorto de la frazo havas la plej grandan emfazon.
 
 ## L kaj T Sufiksoj
 
-En la antaŭaj frazoj, estis nur unu substantivo kaj unu verbo, sen iu ŝanĝo. Sed kio okazas kiam estas du aŭ pluraj substantivoj implicitaj en la ago de la verbo?
+En la antaŭaj frazoj, estis nur unu substantivo kaj unu verbo, sen iu ŝanĝo. Sed kio okazas kiam estas du aŭ pluraj substantivoj implicintaj en la ago de la verbo?
 
 En la angla, la ordo de la vortoj en la frazo indikas la funkcion/rolon de la personoj aŭ aferoj partoprenantaj. Ekzemple, komparu tiujn ĉi du frazojn:
 
@@ -94,9 +94,9 @@ Jen memorinda ekzemplo de tiu tipo de strukturo de frazo:
 - Oe-l nga-ti kame.
 - _Mi vin komprenvidas._
 
-La vortordo de tipo "Subjekto Objekto Verbo" (SOV) estas ofte uzata. Ankaŭ, oni vidas alian version de la kazoj **-ìl** kaj **-it**, kiu estas **-l** kaj **-ti**. (Estas tria version de la objekta kazo **-it** / **-ti**, nome **-t**). Oni uzas tiujn alternajn versiojn por faciligi la prononcon de la vortoj.
+La vortordo de tipo "Subjekto Objekto Verbo" (SOV) estas ofte uzata. Ankaŭ, oni vidas alian version de la kazoj **-ìl** kaj **-it**, kiuj estas **-l** kaj **-ti**. (Estas tria versio de la objekta kazo **-it** / **-ti**, nome **-t**). Oni uzas tiujn alternajn versiojn por faciligi la prononcon de la vortoj.
 
-Por skribi tiu tipo de frazo, nur sekvu ĉi tiuj etapojn:
+Por skribi tiu tipo de frazo, nur sekvu ĉi tiujn etapojn:
 
 1. Serĉu la verbon kiun vi volas uzi. **Ĝi DEVAS havi la markon _vtr._ aŭ _vtrm._** Aliokaze, vi ne povas uzi la kazojn -l and -t.
 2. Serĉu la substantivon kiu estos la subjekto faranta la verbon kaj aldonu la finaĵon **-l** aŭ **-ìl**. (**-ìl** se konsonanto finas ĝin, **-l** se vokalo finas ĝin)
