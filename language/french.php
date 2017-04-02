@@ -24,7 +24,7 @@ $txt['foot_softdev'] = 'Développeurs';
 $txt['foot_disc'] = 'Ce site a été créé par des membres du forum <a href="http://learnnavi.org/">LearnNa\'vi.org</a>. <br />
 Ce site n\'est pas affilié au site officiel d\'Avatar, James Cameron, Lightstorm Entertainment ou la
 Twentieth Century Fox Film Corporation. Toutes les marques de commerce et de service sont les propriétés de leurs
-propriétaires respectives.';
+propriétaires respectifs.';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons, a_ = about
 // menu
 $txt['m_language'] = 'Langue';
@@ -46,7 +46,7 @@ $txt['h_get_st'] = 'Commençons';
 // sounds
 $txt['s_sound'] = 'Prononciation du Na&#39;vi';
 $txt['s_intro'] = '<span class="navi">Kaltxì</span> ma frapo! Cette page contient les lettres,
-    leur transcription phonétique dans l\'Alphabet Phonétique International (API) et des
+    leur transcription phonétique dans l\'Alphabet Phonétique International (API) et les
     enregistrements sonores des sons du Na&#39;vi. Pour pratiquer votre prononciation,
     cliquez sur le bouton play et écoutez, puis essayez et tout cela.';
 $txt['s_vowels'] = 'Voyelles';
@@ -54,7 +54,7 @@ $txt['s_pseudo'] = 'Pseudovoyelles';
 $txt['s_conson'] = 'Consonnes';
 $txt['s_diphto'] = 'Diphthongues';
 // links
-$txt['l_links'] = 'Lens';
+$txt['l_links'] = 'Liens';
 $txt['l_cool'] = 'Trucs que je trouve sympas';
 $txt['l_blogs'] = 'Des blogs Na\'vi que j\'ai lus';
 $txt['l_navi_gen'] = 'Générateur de noms Na\'vi';
@@ -62,14 +62,14 @@ $txt['l_valid_gen'] = 'Genère des noms valides';
 // downloads
 $txt['d_downl'] = 'Téléchargements';
 $txt['d_thing'] = 'D\'autres documents hébergés sur ce site';
-$txt['d_hrhgif'] = 'Gallerie de vieux mèmes et autrest, certains par rapport au Na&#39;vi';
+$txt['d_hrhgif'] = 'Galerie de vieux mèmes et autres, certains en lien avec le Na&#39;vi';
 $txt['d_images'] = 'dossier d\'images';
 // lessons
 $txt['n_lesson'] = 'Leçons sur la langue Na\'vi';
 $txt['n_basic'] = 'Leçons en mode dialogue';
 $txt['n_01c'] = 'Salutations &amp; Présentations';
 $txt['n_02c'] = 'Leçon test 2 C';
-$txt['n_intro'] = 'Leçons simplifiés sur la grammaire';
+$txt['n_intro'] = 'Leçons simplifiées sur la grammaire';
 $txt['n_01g'] = 'Ordre des mots &amp; Phrases simples';
 $txt['n_02g'] = 'Leçon test 2 G';
 // name generator
