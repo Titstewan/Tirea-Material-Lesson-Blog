@@ -2,7 +2,7 @@
 
 **Kaltxì**! Et bienvenue à la première des leçons de grammaire simplifiées.
 
-Cette leçon traitera des premières bases de la grammaire avec lesquelles tout débutant commencer afin de commencer à créer des phrases.
+Cette leçon traitera des premières bases de la grammaire avec lesquelles tout débutant pourrait vouloir commencer à créer des phrases.
 
 **Makto ko!**
 
@@ -21,13 +21,13 @@ Cette leçon traitera des premières bases de la grammaire avec lesquelles tout 
 
 ## Ordre des mots
 
-En français, les mots suivent sensiblement le même ordre Sujet-Verbe-Complément. Dans les phrases les plus simples, c'est toujours la même chose: Le _sujet_ vient en premiet, puis le _verbe_ s'ensuit. S'il y a un complément _Object_, alors il va après le verbe (ordre SVO). Par exemple:
+En français, les mots suivent sensiblement le même ordre Sujet-Verbe-Complément. Dans les phrases les plus simples, c'est toujours la même chose: Le _sujet_ vient en premier, puis le _verbe_ s'ensuit. S'il y a un complément _Object_, alors il va après le verbe (ordre SVO). Par exemple:
 
 > Elle court. (_Sujet + Verbe._)
 
 > Il cuit de la nourriture. (_Sujet + Verbe + Complément_.)
 
-Cepedant, en Na'vi, l'ordre des mots est plus flexible contrairement à la syntaxe française. Par exemple:
+Cependant, en Na'vi, l'ordre des mots est plus flexible contrairement à la syntaxe française. Par exemple:
 
 - **Poe tul.**
 - _Elle court._
@@ -42,10 +42,10 @@ aurait la même signification que:
 
 ## Phrases les plus simples
 
-Les phrases les plus simples et les plus faciles de la langue Na'vi contiennent seulement deux mots, comme dans l'exemple prédécent. Tout ce que vous devez faire pour écrire une phrase de genre, c'est de suivre des deux étapes simples:
+Les phrases les plus simples et les plus faciles de la langue Na'vi contiennent seulement deux mots, comme dans l'exemple prédécent. Tout ce que vous devez faire pour écrire une phrase de genre, c'est de suivre ces deux étapes simples:
 
 1. Trouver dans le dictionnaire un mot à utiliser comme sujet. (les noms communs sont marqués avec _n._ et les pronoms, _pn._)
-2. Trouver dans la dictionary un verbe. (les verbs sont marqués avec _v._, _vin._, _svin._, _vim._, _vtr._, ou _vtrm._)
+2. Trouver dans le dictionnaire un verbe. (les verbes sont marqués avec _v._, _vin._, _svin._, _vim._, _vtr._, ou _vtrm._)
 
 Ces deux mots peuvent apparaître dans n'importe quel ordre, comme dans l'exemple suivant:
 
@@ -70,7 +70,7 @@ En français, l'ordre des mots d'une phrase établit les rôles des personnes ou
 
 > Peyral chasse un animal. (_le sujet est Peyral, le complément est animal_)
 
-> Un animal chasse Peyral. (_le sujet est is animal, le complément est Peyral_)
+> Un animal chasse Peyral. (_le sujet est animal, le complément est Peyral_)
 
 Comme vous pouvez voir, les rôles sont inversés en changeant le mot qui va avant le verbe et celui qui vient après.
 
