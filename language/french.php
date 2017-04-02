@@ -41,7 +41,7 @@ $txt['h_welcome_txt'] = 'Bienvenue sur Tirea Na\'vi! Ce site existe pour enseign
                   Na\'vi à tout le monde d\'une manière facile à comprendre. À tous les fans
                   d\'Avatar qui ne sont pas des linguistes, j\'espère vous aider dans votre
                   parcours afin que vous deveniez les prochains locuteurs de cette superbe langue.
-                  -- Tirea Aean';
+                  -- Esprit Bleu (Tirea Aean)';
 $txt['h_get_st'] = 'Commençons';
 // sounds
 $txt['s_sound'] = 'Prononciation du Na&#39;vi';
