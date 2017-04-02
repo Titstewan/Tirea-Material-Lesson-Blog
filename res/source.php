@@ -39,12 +39,13 @@ function html_header()
 
 // The dropdown fields
 $dropdown = '
-			<li><a href="' . $httproot . 'language/switch.php?lang=english">English</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=dutch">Nederlands</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=navi">Na\'vi</a></li>';
+			<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=english">English</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=french">Français</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=navi">Na\'vi</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=dutch">Nederlands</a></li>';
 // The menu links
 $menu = '
 					<li><a href="' . $weblink . '">' . $txt['m_home'] . '</a></li>
