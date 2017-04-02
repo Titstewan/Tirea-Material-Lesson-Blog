@@ -43,7 +43,8 @@ $dropdown = '
 			<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=dutch">Nederlands</a></li>';
+			<li><a href="' . $httproot . 'language/switch.php?lang=dutch">Nederlands</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=navi">Na\'vi</a></li>';
 // The menu links
 $menu = '
 					<li><a href="' . $weblink . '">' . $txt['m_home'] . '</a></li>
@@ -447,7 +448,7 @@ function navi_lesson()
 function rss_feed()
 {
 	global $lessondir, $weblink;
-	
+
 	//header stuff
     echo '<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -457,7 +458,7 @@ function rss_feed()
 <atom:link href="http://tirea.learnnavi.org/material/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Na\'vi Language Lessons for Non-linguists</description>
 <lastBuildDate>Sat, 31 Mar 2017 18:56:39 CDT</lastBuildDate>';
-	
+
 	//items
 	// we need to define the directory
 	$dir = $lessondir . '/';
@@ -489,7 +490,7 @@ function rss_feed()
 					//read file
 					//get $title
 					//get $content
-					
+
 					echo '<item>';
 					//echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>';
 					echo '<title><![CDATA[' . $title . ']]></title>';
@@ -506,6 +507,6 @@ function rss_feed()
 	}
 
     // closing tags
-    echo '</channel></rss>';        
+    echo '</channel></rss>';
 }
 ?>
