@@ -6,41 +6,41 @@ This lesson will cover some very basic foundations of the grammar every beginner
 
 **Makto ko!**
 
-## Topics
+## Témata
 
-### [Word Order](#1)
+### [Pořádek slov](#1)
 
-### [Simplest Sentences](#2)
+### [Nejjednoduší věty](#2)
 
-### [L and T Endings](#3)
+### [Koncovky L & T](#3)
 
-### [Vocabulary Learned](#v)
+### [Slovní zásoba](#v)
 
 <span id="1">
 </span>
 
-## Word Order
+## Pořádek slov
 
 The word order of English is very specific. In the simplest of sentences, it is always the same: The _Subject_ comes first, then the _Verb_. If there is an _Object_, then it comes after the verb (SVO order). For example:
 
-> She runs. (_Subject Verb._)
+> Ona běží. (_Podmět Sloveso._)
 
-> He cooks food. (_Subject Verb Object_.)
+> On vaří jídlo. (_Podmět Sloveso Předmět_.)
 
 Word order in the Na'vi language, however, is very flexible unlike the rigid word order in English. For example:
 
 - **Poe tul.**
-- _She runs._
+- _Ona běží._
 
 would mean the same thing as:
 
 - **Tul poe.**
-- _She runs._
+- _Ona běží._
 
 <span id="2">
 </span>
 
-## Simplest Sentences
+## Nejjednoduší věty
 
 The simplest and easiest sentences in the Na'vi language are the two-word sentences, just like that one in the example above. All you need to do to make a sentence like this is follow these two simple steps:
 
@@ -62,7 +62,7 @@ Note that whatever word comes last in the sentence is the one that carries the m
 <span id="3">
 </span>
 
-## L and T Endings
+## Koncovky L & T
 
 In all the previous sentences, there was only one noun and one verb, and no modifications. But what happens when there are two (or more) nouns involved in the action of the verb?
 
@@ -107,17 +107,17 @@ These three words can be in any order. Again, note that whatever word comes last
 <span id="v">
 </span>
 
-## Vocabulary Learned
+## Slovní zásoba
 
 Na'vi       | English
 ----------- | ---------------------------------
-**poe**     | pn. _she_
-**tul**     | vin. _run_
-**payoang** | n. _fish_
+**poe**     | zájm. _one_
+**tul**     | vin _běžet_
+**payoang** | pod.jm. _ryba_
 **slele**   | vin. _swim_
-**Peyral**  | prop. n. (_A female Na'vi name_)
-**taron**   | vtr. _hunt_
-**ioang**   | n. _animal_
-**oe**      | pn. _I_
-**nga**     | pn. _you_
-**kame**    | vtr. _See (deep spiritual sense)_
+**Peyral**  | jm. (_Na'vijské ženské jméno )
+**taron**   | vtr. _lovit_
+**ioang**   | pod.jm. _zvíře_
+**oe**      | zájm. _já_
+**nga**     | zájm. _ty_
+**kame**    | vtr. _vidět, zřít (spirituálně)_
