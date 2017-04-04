@@ -373,7 +373,7 @@ function navi_lesson()
 		$Parsedown = new Parsedown();
 		// Ready the Markdown Lesson File
 		$f = $lessondir . '/' . $l . '.md';
-		// Parse the file and echo it as HTML, or echo not found.
+		// Parse the file and echo it as HTML, or redirect back to index page
 		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) : header('Location: ' . $weblink . '?p=lessons');
 	}
 
@@ -449,16 +449,19 @@ function navi_lesson()
 function rss_feed()
 {
 	global $lessondir, $weblink;
+	
+	header("Content-Type: application/rss+xml; charset=UTF-8");
+	
+	$rssfeed = "";
 
 	//header stuff
-    echo '<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title>Tirea Na\'vi</title>
-<link>http://tirea.learnnavi.org/material</link>
-<atom:link href="http://tirea.learnnavi.org/material/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Na\'vi Language Lessons for Non-linguists</description>
-<lastBuildDate>Sat, 31 Mar 2017 18:56:39 CDT</lastBuildDate>';
+    $rssfeed .= '<?xml version="1.0" encoding="UTF-8" ?>';
+	$rssfeed .= '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">';
+	$rssfeed .= '<channel>';
+	$rssfeed .= '<title>Tirea Na\'vi</title>';
+	$rssfeed .= '<link>http://tirea.learnnavi.org/material</link>';
+	$rssfeed .= '<atom:link href="http://tirea.learnnavi.org/material/feed.xml" rel="self" type="application/rss+xml"/>';
+	$rssfeed .= '<description>Na\'vi Language Lessons for Non-linguists</description>';
 
 	//items
 	// we need to define the directory
@@ -485,38 +488,46 @@ function rss_feed()
 			{
 				$num = substr($f, 0, 2);
 				// load and echo the c lessons
-				if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') stripos($f, 'english'))
+				if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, 'english'))
 				{
-					//filename is $f
-					//read file
-					//get $title
-					//get $content
+					//read file $f and get $title
+					$title = fgets(fopen($dir . $f, 'r'));
+					
+					//get $content -- will need the parser
+					// Fire up the Markdown Parser
+					require_once 'Parsedown.php';
+					$Parsedown = new Parsedown();
+					// Parse the file and echo it as HTML
+					$rssfeed .= '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
 
-					echo '<item>';
-					//echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>';
-					echo '<title><![CDATA[' . $title . ']]></title>';
-					echo '<author>tirea@learnnavi.org (Tirea Aean)</author>';
-					echo '<link><![CDATA[see line 496 above]]></link>';
-					echo '<guid><![CDATA[same exact thing as line 499 just above]]></guid>';
-					echo '<description>' . $content . '</description>';
-					echo '</item>';
+					$rssfeed .= '<item>';
+					$rssfeed .= '<title><![CDATA[' . $title . ']]></title>';
+					$rssfeed .= '<author>tirea@learnnavi.org (Tirea Aean)</author>';
+					$rssfeed .= '<link><![CDATA[see line 496 above]]></link>';
+					$rssfeed .= '<guid><![CDATA[same exact thing as line 499 just above]]></guid>';
+					$rssfeed .= '<description>' . $content . '</description>';
+					$rssfeed .= '</item>';
 				}
 				// load and echo the g lessons
-				else if (preg_match('/^\d+$/', $num) && stripos($f, 'g-') stripos($f, 'english'))
+				else if (preg_match('/^\d+$/', $num) && stripos($f, 'g-') && stripos($f, 'english'))
 				{
-					//filename is $f
-					//read file
-					//get $title
-					//get $content
+					//read file $f and get $title
+					$title = fgets(fopen($dir . $f, 'r'));
+					
+					//get $content -- will need the parser
+					// Fire up the Markdown Parser
+					require_once 'Parsedown.php';
+					$Parsedown = new Parsedown();
+					// Parse the file and echo it as HTML
+					$rssfeed .= '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
 
-					echo '<item>';
-					//echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>';
-					echo '<title><![CDATA[' . $title . ']]></title>';
-					echo '<author>tirea@learnnavi.org (Tirea Aean)</author>';
-					echo '<link><![CDATA[see line 513 above]]></link>';
-					echo '<guid><![CDATA[same exact thing as line 516 just above]]></guid>';
-					echo '<description>' . $content . '</description>';
-					echo '</item>';
+					$rssfeed .= '<item>';
+					$rssfeed .= '<title><![CDATA[' . $title . ']]></title>';
+					$rssfeed .= '<author>tirea@learnnavi.org (Tirea Aean)</author>';
+					$rssfeed .= '<link><![CDATA[see line 513 above]]></link>';
+					$rssfeed .= '<guid><![CDATA[same exact thing as line 516 just above]]></guid>';
+					$rssfeed .= '<description>' . $content . '</description>';
+					$rssfeed .= '</item>';
 				}
 			}
 		// fin!
@@ -525,6 +536,9 @@ function rss_feed()
 	}
 
     // closing tags
-    echo '</channel></rss>';
+    $rssfeed .= '</channel>';
+	$rssfeed .= '</rss>';
+    
+    echo $rssfeed;
 }
 ?>
