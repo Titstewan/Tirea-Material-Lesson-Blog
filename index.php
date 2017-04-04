@@ -73,7 +73,7 @@ else
 
 // Call the main functions, woo!
 // The <html> start tag and the buttons for Na'vigation (Oel tse'a kemit a soli.png)
-html_header();
+if ($_REQUEST['p'] != "rss") { html_header(); }
 
 // The Homepage
 // What function shall we execute? (done like this for memory's sake.)
@@ -92,6 +92,7 @@ function hp_main()
 		'downloads' => array('source.php', 'navi_download'),
 		'lessons' => array('source.php', 'navi_lesson'),
 		'about' => array('source.php', 'about'),
+		'rss' => array('source.php', 'rss_feed'),
 	);
 
 	// Get the function and file to include - if it's not there, do the index.
@@ -108,5 +109,5 @@ function hp_main()
 }
 
 // HTML end </html> plus the disclaimer
-html_bottom();
+if ($_REQUEST['p'] != "rss") { html_bottom(); }
 ?>
