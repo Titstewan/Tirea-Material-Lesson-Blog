@@ -481,13 +481,13 @@ function rss_feed()
 
 			sort($files);
 
-			// load and echo the c lessons
 			foreach ($files as $f)
 			{
 				$num = substr($f, 0, 2);
-				if (preg_match('/^\d+$/', $num))
+				// load and echo the c lessons
+				if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') stripos($f, 'english'))
 				{
-					//get $filename
+					//filename is $f
 					//read file
 					//get $title
 					//get $content
@@ -496,8 +496,25 @@ function rss_feed()
 					//echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>';
 					echo '<title><![CDATA[' . $title . ']]></title>';
 					echo '<author>tirea@learnnavi.org (Tirea Aean)</author>';
-					echo '<link><![CDATA[see line 494 above]]></link>';
-					echo '<guid><![CDATA[same exact thing as line 497 just above]]></guid>';
+					echo '<link><![CDATA[see line 496 above]]></link>';
+					echo '<guid><![CDATA[same exact thing as line 499 just above]]></guid>';
+					echo '<description>' . $content . '</description>';
+					echo '</item>';
+				}
+				// load and echo the g lessons
+				else if (preg_match('/^\d+$/', $num) && stripos($f, 'g-') stripos($f, 'english'))
+				{
+					//filename is $f
+					//read file
+					//get $title
+					//get $content
+
+					echo '<item>';
+					//echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>';
+					echo '<title><![CDATA[' . $title . ']]></title>';
+					echo '<author>tirea@learnnavi.org (Tirea Aean)</author>';
+					echo '<link><![CDATA[see line 513 above]]></link>';
+					echo '<guid><![CDATA[same exact thing as line 516 just above]]></guid>';
 					echo '<description>' . $content . '</description>';
 					echo '</item>';
 				}
