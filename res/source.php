@@ -498,7 +498,7 @@ function rss_feed()
 					require_once 'Parsedown.php';
 					$Parsedown = new Parsedown();
 					// Parse the file and echo it as HTML
-					$rssfeed .= '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
+					$content = '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
 
 					$rssfeed .= '<item>';
 					$rssfeed .= '<title><![CDATA[' . $title . ']]></title>';
@@ -519,7 +519,7 @@ function rss_feed()
 					require_once 'Parsedown.php';
 					$Parsedown = new Parsedown();
 					// Parse the file and echo it as HTML
-					$rssfeed .= '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
+					$content = '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
 
 					$rssfeed .= '<item>';
 					$rssfeed .= '<title><![CDATA[' . $title . ']]></title>';
