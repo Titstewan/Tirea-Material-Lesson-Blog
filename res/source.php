@@ -35,7 +35,7 @@ if (!defined('TLB'))
 // ...html header (<html><body>)...
 function html_header()
 {
-	global $httproot, $weblink, $txt;
+	global $httproot, $weblink, $txt, $lang;
 
 // The dropdown fields
 $dropdown = '
@@ -81,7 +81,7 @@ $menu = '
 				<ul class="right hide-on-med-and-down" id="regnav">', $menu, '
 					<!-- Dropdown Trigger -->
 					<li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">', $txt['m_language'], '<i class="material-icons right">arrow_drop_down</i></a></li>
-					<li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li>
+					<li id="rss-nav-item"><a id="rss-link" href="', $weblink, '?p=rss&lang=', $lang, '"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li>
 				</ul>
 				<ul class="side-nav" id="mobilenav">', $menu, '
 					<li>
@@ -93,7 +93,7 @@ $menu = '
 							</li>
 						</ul>
 					</li>
-					<li><a href="feed.xml">', $txt['m_rss'], '</a></li>
+					<li><a href="', $weblink , '?p=rss&lang=', $lang, '">', $txt['m_rss'], '</a></li>
 				</ul>
 			</div>
 		</nav>
@@ -453,6 +453,14 @@ function rss_feed()
 	header("Content-Type: application/rss+xml; charset=UTF-8");
 	
 	$rssfeed = "";
+	if (!isset($_REQUESR['lang']))
+	{
+		$language = 'english';
+	}
+	else
+	{
+		$language = $_REQUEST['lang'];
+	}
 
 	//header stuff
     $rssfeed .= '<?xml version="1.0" encoding="UTF-8" ?>';
@@ -488,7 +496,7 @@ function rss_feed()
 			{
 				$num = substr($f, 0, 2);
 				// load and echo the c lessons
-				if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, 'english'))
+				if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, $language))
 				{
 					//read file $f and get $title
 					$title = fgets(fopen($dir . $f, 'r'));
@@ -499,17 +507,20 @@ function rss_feed()
 					$Parsedown = new Parsedown();
 					// Parse the file and echo it as HTML
 					$content = '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
+					
+					
+					$lname = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
 
 					$rssfeed .= '<item>';
 					$rssfeed .= '<title><![CDATA[' . $title . ']]></title>';
 					$rssfeed .= '<author>tirea@learnnavi.org (Tirea Aean)</author>';
-					$rssfeed .= '<link><![CDATA[see line 496 above]]></link>';
-					$rssfeed .= '<guid><![CDATA[same exact thing as line 499 just above]]></guid>';
+					$rssfeed .= '<link><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></link>';
+					$rssfeed .= '<guid><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></guid>';
 					$rssfeed .= '<description>' . $content . '</description>';
 					$rssfeed .= '</item>';
 				}
 				// load and echo the g lessons
-				else if (preg_match('/^\d+$/', $num) && stripos($f, 'g-') && stripos($f, 'english'))
+				else if (preg_match('/^\d+$/', $num) && stripos($f, 'g-') && stripos($f, $language))
 				{
 					//read file $f and get $title
 					$title = fgets(fopen($dir . $f, 'r'));
@@ -521,11 +532,13 @@ function rss_feed()
 					// Parse the file and echo it as HTML
 					$content = '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
 
+					$lname = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
+
 					$rssfeed .= '<item>';
 					$rssfeed .= '<title><![CDATA[' . $title . ']]></title>';
 					$rssfeed .= '<author>tirea@learnnavi.org (Tirea Aean)</author>';
-					$rssfeed .= '<link><![CDATA[see line 513 above]]></link>';
-					$rssfeed .= '<guid><![CDATA[same exact thing as line 516 just above]]></guid>';
+					$rssfeed .= '<link><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></link>';
+					$rssfeed .= '<guid><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></guid>';
 					$rssfeed .= '<description>' . $content . '</description>';
 					$rssfeed .= '</item>';
 				}
