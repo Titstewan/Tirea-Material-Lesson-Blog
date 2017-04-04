@@ -453,7 +453,7 @@ function rss_feed()
 	header("Content-Type: application/rss+xml; charset=UTF-8");
 	
 	$rssfeed = "";
-	if (!isset($_REQUESR['lang']))
+	if (!isset($_REQUEST['lang']))
 	{
 		$language = 'english';
 	}
