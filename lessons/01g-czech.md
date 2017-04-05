@@ -1,8 +1,8 @@
 # Pořádek slov a jednoduché fráze
 
-**Kaltxì**! Hello! And welcome to The first installment of the Simplified Grammar Lessons Series.
+**Kaltxì**! Ahoj a vítejte u první části ze serie o Na\'vijské gramatice!
 
-This lesson will cover some very basic foundations of the grammar every beginner may want to start with in order to start making sentences.
+Tato lekce pokryje několik základích částí gramatiky, se kterým by měl každý nováček začít, aby mohl vytvořit jednoduchou větu. 
 
 **Makto ko!**
 
@@ -10,7 +10,7 @@ This lesson will cover some very basic foundations of the grammar every beginner
 
 ### [Pořádek slov](#1)
 
-### [Nejjednoduší věty](#2)
+### [Nejjednodušší věty](#2)
 
 ### [Koncovky L & T](#3)
 
@@ -21,18 +21,17 @@ This lesson will cover some very basic foundations of the grammar every beginner
 
 ## Pořádek slov
 
-The word order of English is very specific. In the simplest of sentences, it is always the same: The _Subject_ comes first, then the _Verb_. If there is an _Object_, then it comes after the verb (SVO order). For example:
+Pořádek slov v češtině není tak striktní jako v angličtině nebo němčině, ale většinou je velmi podobný. První je _podmět_, poté _přísudek_. Pokud je ve větě _předmět_, příjde za sloveso (SVO syntax). Například:
 
 > Ona běží. (_Podmět Sloveso._)
 
 > On vaří jídlo. (_Podmět Sloveso Předmět_.)
 
-Word order in the Na'vi language, however, is very flexible unlike the rigid word order in English. For example:
-
+Nicméně pořádek slov v Na'vijštině je velice flexibilní, dokonce více než v čestině. Například:
 - **Poe tul.**
 - _Ona běží._
 
-would mean the same thing as:
+by znamenalo to samé jako:
 
 - **Tul poe.**
 - _Ona běží._
@@ -40,59 +39,61 @@ would mean the same thing as:
 <span id="2">
 </span>
 
-## Nejjednoduší věty
+## Nejjednodušší věty
 
 The simplest and easiest sentences in the Na'vi language are the two-word sentences, just like that one in the example above. All you need to do to make a sentence like this is follow these two simple steps:
+Nejlehčí a nejjednodušší věta v na'vijštině je složená z _podmětu_ a _přísudku_, stejně jako příklad výše.
 
-1. Find a noun in the dictionary to use as the subject. (nouns are marked _n._ and pronouns are marked _pn._)
-2. Find a verb in the dictionary to use. (verbs are marked _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._)
+1. Najděte podstatné jméno ve slovníku, které chcete použít jako podmět. (podstatná jména jsou označena jako _pod.jm._ nebo _n._ v anglickém slovníku a zájmena jako _zájm._ nebo _pn._ v ang. slovníku.)
+2. Najděte sloveso ve slovníku, které chcete použít. (slovesa jsou značena v českém slovníku stejně jako v anglickém, tedy _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._)
 
-These two words can be in either order, like the following example:
+Dvě slova mohou být seřazena buď takto:
 
 - **Payoang slele.**
-- _The fish swims._
+- _Ryba plave._
 
-or
+nebo takto:
 
 - **Slele payoang.**
-- _The fish swims._
+- _Ryba plave._
 
-Note that whatever word comes last in the sentence is the one that carries the most emphasis in the sentence.
+Povšimněte si, že poslední slovo ve větě je to, které na sobě nese největší důraz.
 
 <span id="3">
 </span>
 
 ## Koncovky L & T
 
-In all the previous sentences, there was only one noun and one verb, and no modifications. But what happens when there are two (or more) nouns involved in the action of the verb?
+Ve všech předchozých příkladech bylo jenom jedno pod. jména a jedno sloveso bez žadné úpravy. Co se ale stave pokud jsou dvě (nebo více) pod. jmen zapojeno v činnosti, které sloveso vykonává?
 
-In English, the word order of a sentence establishes the roles of the people or things involved. For example, compare these two sentences:
+V češtině, pořadí slov ve větě určuje větné členy ve věte, tedy, které pod. jméno je předmět a, které podmět. Porovnejte tyto dvě věto pro příklad:
 
-> Peyral hunts an animal. (_subject is Peyral, object is animal_)
+> Peyral loví zvíře. (_podmět je Peyral, předmět je zvíře_)
 
-> An animal hunts Peyral. (_subject is animal, object is Peyral_)
+> Zvíře loví Peyral. (_podmět je zvíře, předmět je Peyral_)
 
-As you see, the roles are switched by changing which one comes before the verb and which one comes after the verb.
+Jak můžete vidět, podmět a předmět se prohodil v závislosti na postavení slov ve větě a celá věta dostala úplně nový význam.
 
-In Na'vi, however, since the word order in a sentence like this one is entirely flexible, word order itself tells us nothing about the roles. Instead, the Na'vi use what are called Cases, which are small changes to the _words_ to keep track of their roles. The above sentences would translate to the following:
+Nicméně, v na'vijštině nám pořadí slov ve jako je ta výše neřekne vůbec nic, protože narozdíl od češtiny je pořádek slov úplně volný. Místo toho má na'vijština _tripartitní systém_, tedy staré dobré pády, které zde jsou reprezentovány jako koncovky slov. Věta výše by se přeložila následovně:
 
 - **Peyralìl taron ioangit.**
 - Peyral-ìl taron ioang-it.
-- _Peyral hunts an animal._
+- _Peyral loví zvíře._
 
-As you see here above, the **-ìl** case ending marks **Peyral** as the _subject_ and the **-it** case ending marks **ioang** as the _object_.
+Jak můžete vidět, koncovaka **-ìl** označuje **Peyral** jako _podmět_ a **-it** označuje **ioang** jako _podmět_.
 
 - **Peyralit taron ioangìl.**
 - Peyral-it taron ioang-ìl.
-- _An animal hunts Peyral._
+- _Zvíře loví Peyral._
 
-Notice how the word order here stayed the same yet the roles were reversed simply by swapping the **-ìl** and **-it** case endings.
+Povšimněte si, jak se postavení slov nezměnilo, ale jen se změnil význam prohozením koncovek **-ìl** a **-it**. 
 
 A famous example of this kind of sentence structure to remember is:
+Velmi známý příklad větu tohoto typu dobrý pro zapamatování je:
 
 - **Oel ngati kame.**
 - Oe-l nga-ti kame.
-- _I See you._
+- _Zřím tě._
 
 This word order of "Subject object verb" (SOV) is quite commonly used. Also, here, we see other forms of **-ìl** and **-it** cases which are **-l** and **-ti**. (**-it** / **-ti** also has one last form, which is **-t**) These alternative forms exists for the sake of making nouns easier to pronounce when using these case endings.
 
