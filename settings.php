@@ -23,7 +23,7 @@ if (!defined('TLB'))
 $software_vers = 'RC 1 - 1.0.0';
 
 // the root link
-$rootlink = 'http://localhost';
+$rootlink = 'http://localhost:8080';
 
 // define the server dir for use by PHP
 $sourcedir = dirname(__FILE__) . '/res';

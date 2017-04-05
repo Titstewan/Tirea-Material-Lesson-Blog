@@ -509,7 +509,7 @@ function rss_feed()
 					require_once 'Parsedown.php';
 					$Parsedown = new Parsedown();
 					// Parse the file and echo it as HTML
-					$content = '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
+					$content .= '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
 
 					// Lesson filename minus extension for the URL
 					$lname = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
@@ -536,7 +536,7 @@ function rss_feed()
 					require_once 'Parsedown.php';
 					$Parsedown = new Parsedown();
 					// Parse the file and echo it as HTML
-					$content = '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
+					$content .= '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
 
 					// Lesson filename minus extension for the URL
 					$lname = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
