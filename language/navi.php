@@ -66,9 +66,9 @@ $txt['d_images'] = 'images folder';
 // lessons
 $txt['n_lesson'] = 'Sänume Lì\'fyayä';
 $txt['n_basic'] = 'Aysänumvi a kar fya\'ot a pängkxo';
-$txt['n_01c'] = 'Kaltxì si ulte peng tstxot';
-$txt['n_intro'] = 'Fyina Aysänumvi Ve\'oä leLì\'fya';
-$txt['n_01g'] = 'Ve\'o aylì\'uä &amp; Fyina aysäplltxe';
+$txt['n_01c'] = 'Kaltxì si &amp; Peng Tstxot';
+$txt['n_intro'] = 'Fyina Aysänumvi Ayhorenä leLì\'fya';
+$txt['n_01g'] = 'Ve\'o aylì\'uä &amp; Fyina Aysäplltxe';
 // name generator
 $txt['g_n_try'] = 'Sìltana säfmi. ;D';
 $txt['g_first_name'] = '\'Awvea Tstxo # pamä lepay';
