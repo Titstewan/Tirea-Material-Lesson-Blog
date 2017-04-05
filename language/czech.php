@@ -69,7 +69,7 @@ $txt['d_images'] = 'složka s obrázky ';
 $txt['n_lesson'] = 'Lekce z jazyka Na\'vi';
 $txt['n_basic'] = 'Konverzace';
 $txt['n_01c'] = 'Pozdravy & Úvod';
-$txt['n_intro'] = 'Zjednodušené Na\'vijská gramatika';
+$txt['n_intro'] = 'Zjednodušená Na\'vijská gramatika';
 $txt['n_01g'] = 'Pořádek slov a jednoduché fráze';
 // name generator
 $txt['g_n_try'] = 'Dobrý pokus. ;D';
