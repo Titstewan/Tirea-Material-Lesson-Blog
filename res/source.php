@@ -501,14 +501,17 @@ function rss_feed()
 					//read file $f and get $title
 					$title = fgets(fopen($dir . $f, 'r'));
 					
-					//get $content -- will need the parser
+					// Style for the content
+					$content = '<style>ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
+					
+					// Get $content
 					// Fire up the Markdown Parser
 					require_once 'Parsedown.php';
 					$Parsedown = new Parsedown();
 					// Parse the file and echo it as HTML
 					$content = '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
-					
-					
+
+					// Lesson filename minus extension for the URL
 					$lname = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
 
 					$rssfeed .= '<item>';
@@ -525,6 +528,9 @@ function rss_feed()
 					//read file $f and get $title
 					$title = fgets(fopen($dir . $f, 'r'));
 					
+					// Style for the content
+					$content = '<style>ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
+					
 					//get $content -- will need the parser
 					// Fire up the Markdown Parser
 					require_once 'Parsedown.php';
@@ -532,6 +538,7 @@ function rss_feed()
 					// Parse the file and echo it as HTML
 					$content = '<![CDATA[' . $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
 
+					// Lesson filename minus extension for the URL
 					$lname = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
 
 					$rssfeed .= '<item>';
