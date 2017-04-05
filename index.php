@@ -73,7 +73,7 @@ else
 
 // Call the main functions, woo!
 // The <html> start tag and the buttons for Na'vigation (Oel tse'a kemit a soli.png)
-if ($_REQUEST['p'] != "rss") { html_header(); }
+if (!isset($_REQUEST['p']) || $_REQUEST['p'] != "rss") { html_header(); }
 
 // The Homepage
 // What function shall we execute? (done like this for memory's sake.)
@@ -109,5 +109,5 @@ function hp_main()
 }
 
 // HTML end </html> plus the disclaimer
-if ($_REQUEST['p'] != "rss") { html_bottom(); }
+if (!isset($_REQUEST['p']) || $_REQUEST['p'] != "rss") { html_bottom(); }
 ?>
