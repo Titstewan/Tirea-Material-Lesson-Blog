@@ -1,6 +1,6 @@
-# Greetings & Introductions
+# Kaltxì si & Peng Tstxot
 
-Hello, and welcome to the first of a new series of Conversational Na'vi Language lessons! If you haven't already, I highly recommend that you check out the audio clips on the [Sounds](http://localhost/material/?p=sounds) page to get a solid feel for how the language is pronounced. Here are some of the classic building blocks of getting started with conversation in Na'vi.
+Kaltxì ulte zola'u nìprrte'! Fì'u lu 'awvea sänumvi a oeyktìng fya'ot a pängkxo nìNa'vi. Txo nga ke li ke stolawm frapamti leNa'vi tsakrr oel mok ngaru futa fivrrfen tsatsengit a syaw fkor [Ayfam](http://localhost/material/?p=sounds). Ngaru ayfì'u alu fyina ayhapxìo lì'fyayä leNa'vi, fte tsivun nga sngivä'i pivängkxo.
 
 ## Topics
 
