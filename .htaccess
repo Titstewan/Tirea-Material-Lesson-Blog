@@ -1,0 +1,6 @@
+AddCharset UTF-8 .html
+AddCharset UTF-8 .php
+AddCharset UTF-8 .txt
+AddCharset UTF-8 .tsv
+AddCharset UTF-8 .xml
+
