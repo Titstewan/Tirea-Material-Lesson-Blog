@@ -41,8 +41,7 @@ by znamenalo to samé jako:
 
 ## Nejjednodušší věty
 
-The simplest and easiest sentences in the Na'vi language are the two-word sentences, just like that one in the example above. All you need to do to make a sentence like this is follow these two simple steps:
-Nejlehčí a nejjednodušší věta v na'vijštině je složená z _podmětu_ a _přísudku_, stejně jako příklad výše.
+Nejlehčí a nejjednodušší věta v na'vijštině je složená z _podmětu_ a _přísudku_, stejně jako příklad výše. Abyste mohly vytvořit podobnou větu jako v příkladu, stačí následovat jednoduché dva kroky:
 
 1. Najděte podstatné jméno ve slovníku, které chcete použít jako podmět. (podstatná jména jsou označena jako _pod.jm._ nebo _n._ v anglickém slovníku a zájmena jako _zájm._ nebo _pn._ v ang. slovníku.)
 2. Najděte sloveso ve slovníku, které chcete použít. (slovesa jsou značena v českém slovníku stejně jako v anglickém, tedy _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._)
@@ -88,22 +87,23 @@ Jak můžete vidět, koncovaka **-ìl** označuje **Peyral** jako _podmět_ a **
 
 Povšimněte si, jak se postavení slov nezměnilo, ale jen se změnil význam prohozením koncovek **-ìl** a **-it**. 
 
-A famous example of this kind of sentence structure to remember is:
-Velmi známý příklad větu tohoto typu dobrý pro zapamatování je:
+
+Velmi známý příklad věty tohoto typu a dobrý pro zapamatování je:
 
 - **Oel ngati kame.**
 - Oe-l nga-ti kame.
 - _Zřím tě._
 
-This word order of "Subject object verb" (SOV) is quite commonly used. Also, here, we see other forms of **-ìl** and **-it** cases which are **-l** and **-ti**. (**-it** / **-ti** also has one last form, which is **-t**) These alternative forms exists for the sake of making nouns easier to pronounce when using these case endings.
+Tento pořádek slove (SOV - podmět, přísudek, předmět) se bežně používá. Také zde můžeme vidět další formy koncovek **-ìl** a **-it**, které jsou **-l** and **-ti**. (**-it** / **-ti** má ještě zkrácenou formu na pouhé písmeno **-t**) Alternativní formy koncovek existují za účelem lepší výslovnosti slov ve větě a zlepšení tónu celé věty.
 
 In order to make any sentence of this type, just follow these steps:
+Pro vytvoření jakékoli věty s přechodým slovesem, stačí následovat tyto kroky:
 
-1. Look up the verb you want to use. **make sure it is marked as _vtr._ or _vtrm._** (If it's not, then you can't use -l and -t cases on the nouns)
-2. Look up the noun you want to use as the subject doing the action and add **-l** or **-ìl** onto the end of it. (**-ìl** if the noun ends with a consonant, **-l** if it ends with a vowel)
-3. Look up the noun you want to use as the object receiving the action and add **-t** or **-it** or **-ti** onto the end of it.(**-t** if the noun ends with a vowel, **-it** if it ends with consonant, **-ti** always works)
+1. Najděte si sloveso, které chcete použít. Ujistěte se, že je označeno jako **přechodné** (transitive), tedy _vtr._ nebo _vtrm._ Pokud nebude, není možné ho použít přechodně. (více o přechodnosti v dalších kapitolách)
+2. Najděte si podstatné jméno nebo zájmeno, které chce použít jako podmět ve větě a přidejte koncovku **-l** neob **-ìl**. (**-ìl** pokud slovo končí na souhlásku, **-l** pokud slovo končí na samohlásku)
+3. Najděte si  podstatné jméno nebo zájmeno, které chce použít jako předmět ve věte a přidejte koncovku **-t** nebo **-it**, případně **-ti**. (**-t** pokud slovo končí na samohlásku, **-it** pokud slovo končí na souhlásku, **-ti** funguje vždy)
 
-These three words can be in any order. Again, note that whatever word comes last in the sentence is the one that carries the most emphasis.
+Slova můžete poskládat ve větě podle uvážení, nicméně preferováné je anglické SVO (podmět, sloveso, předmět) nebo _více na'vijské_ SOV. (podmět, předmět, sloveso) Opět je důraz na posledním slově věty.
 
 <span id="v">
 </span>
