@@ -115,8 +115,8 @@ Na'vi       | English
 **poe**     | zájm. _one_
 **tul**     | vin _běžet_
 **payoang** | pod.jm. _ryba_
-**slele**   | vin. _swim_
-**Peyral**  | jm. (_Na'vijské ženské jméno )
+**slele**   | vin. _plavat_
+**Peyral**  | jm. _Peyral_ (_Na'vijské ženské jméno )
 **taron**   | vtr. _lovit_
 **ioang**   | pod.jm. _zvíře_
 **oe**      | zájm. _já_
