@@ -18,7 +18,7 @@ Ahoj a Vítej na první ze série nových konverzačních lekcí jazyka Na'vi! P
 
 ### [Rozhovor](#d)
 
-### [Nová slovní zásoba](#v)
+### [Slovní zásoba](#v)
 
 <span id="1">
 </span>
@@ -184,7 +184,7 @@ A ještě jedno, které můžete často vidět:
 <span id="v">
 </span>
 
-## Nová slovní zásoba
+## Slovní zásoba
 
 na'vijština                  | čestina
 ----------------------- | -----------------------------------------------------------------------
