@@ -63,9 +63,9 @@ Povšimněte si, že poslední slovo ve větě je to, které na sobě nese nejv�
 
 ## Koncovky L & T
 
-Ve všech předchozých příkladech bylo jenom jedno pod. jména a jedno sloveso bez žadné úpravy. Co se ale stave pokud jsou dvě (nebo více) pod. jmen zapojeno v činnosti, které sloveso vykonává?
+Ve všech předchozých příkladech bylo jenom jedno podstané jména a jedno sloveso (většinou nepřechodné _vin._) bez žadné úpravy. Co se ale stave pokud jsou dvě (nebo více) pod. jmen zapojeno v činnosti, které sloveso vykonává?
 
-V češtině, pořadí slov ve větě určuje větné členy ve věte, tedy, které pod. jméno je předmět a, které podmět. Porovnejte tyto dvě věto pro příklad:
+V češtině, pořadí slov ve větě určuje větné členy ve věte, tedy, které pod. jméno je předmět a které podmět. Porovnejte tyto dvě věto pro příklad:
 
 > Peyral loví zvíře. (_podmět je Peyral, předmět je zvíře_)
 
@@ -73,7 +73,7 @@ V češtině, pořadí slov ve větě určuje větné členy ve věte, tedy, kte
 
 Jak můžete vidět, podmět a předmět se prohodil v závislosti na postavení slov ve větě a celá věta dostala úplně nový význam.
 
-Nicméně, v na'vijštině nám pořadí slov ve jako je ta výše neřekne vůbec nic, protože narozdíl od češtiny je pořádek slov úplně volný. Místo toho má na'vijština _tripartitní systém_, tedy staré dobré pády, které zde jsou reprezentovány jako koncovky slov. Věta výše by se přeložila následovně:
+Nicméně, v na'vijštině nám pořadí slov ve jako je ta výše neřekne vůbec nic, protože narozdíl od češtiny je pořádek slov úplně volný. Místo toho má na'vijština _tripartitní systém_, tedy staré dobré pády, které zde jsou reprezentovány jako koncovky slov a tento typ věty má většinou sloveso přechodné _vtr._ Věta výše by se přeložila následovně:
 
 - **Peyralìl taron ioangit.**
 - Peyral-ìl taron ioang-it.
@@ -88,7 +88,7 @@ Jak můžete vidět, koncovaka **-ìl** označuje **Peyral** jako _podmět_ a **
 Povšimněte si, jak se postavení slov nezměnilo, ale jen se změnil význam prohozením koncovek **-ìl** a **-it**. 
 
 
-Velmi známý příklad věty tohoto typu a dobrý pro zapamatování je:
+Velmi známý příklad věty s přechodným slovesem, užitečná pro zapamatování pravidel je:
 
 - **Oel ngati kame.**
 - Oe-l nga-ti kame.
