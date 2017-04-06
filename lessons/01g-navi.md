@@ -41,7 +41,7 @@ Kop, fìmesäplltxeyä ral lu teng:
 Ftuea säplltxe afyin frato lu pum a tsaru lu lu melì'u nì'aw, na pum a faylì'uio. Fte ngivop säplltxet anafì'u, nì'aw zene nivong fìmesìnvit aftue:
 
 1. Run mì lì'upuk tstxolì'ut a slivu tute/'u a kem si. (aystxolì'u lu _n._ fu _pn_ lì'upukmì)
-2. Run mì lì'upuk kemlì'ut. (ayhemlì'uvi lu _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._ lì'upukmì)
+2. Run mì lì'upuk kemlì'ut. (ayhemlì'u lu _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._ lì'upukmì)
 
 Ftxey lu 'awve kemlì'u ftxey lu 'awve tstxolì'u ke tsranten.
 
@@ -54,7 +54,7 @@ Tsiveri rutxe futa säplltxeri ketstana lì'u a lu syen lu pum a lu txur frato.
 
 Frasäplltxeri aham lu nì'aw tstxolì'u a'aw sì kemlì'u a'aw ulte fkol ke'ut ke leykolatem. Slä fkol sar kemlì'uhu tstxolì'ut amune a krr liven pehem?
 
-Tsafnesäplltxeri nìNa'vi ve'or aylì'uä tsun livu pxaya srey. Tafral, ve'ol aylì'uä ke tìng kea säomum teri teynga pesu kem si fu kemit tel. Tup tsaw, Na'vil sar hì'ia lì'utsyìpit ro sì'i'a stxolì'uä, alu, leykatem _aylì'ut_ fte tslivam teynga pumpe kem si fu tel kemit. Natkenong:
+Tsafnesäplltxeri nìNa'vi ve'or aylì'uä tsun livu pxaya srey. Tafral, ve'ol aylì'uä ke tìng kea säomumit teri teynga pesu kem si fu kemit tel. Tup tsaw, Na'vil sar hì'ia lì'utsyìpit ro sì'i'a stxolì'uä, alu, leykatem _aylì'uti_ fte tslivam teynga pumpe kem si fu tel kemit. Natkenong:
 
 > **Peyralìl taron ioangit.**
 
@@ -70,13 +70,13 @@ Txanro'a tìkenong a za'u relta arusikx alu Uniltìrantokx lu fìpum a sweylu tx
 
 Letrrtrr nìtxan lu fìfnesrey a tsari 'avwe lu tstxolì'u a kem si ulte muve lu tstxolì'u a kemit tel ulte syen lu kemlì'u. Kop fìtseng tsun fko tsive'a lahea mesreyti hapxìä alu **-ìl** sì **-it**. Nìpxi, mefì'u alu **-l** sì **-ti** (Syena srey fì'uä alu **-it** / **-ti** lu fìpum alu **-t**). Faysrey aketeng fkeytok fpi ftuea lì'upam lì'uä.
 
-Fte ngivop fìfnesäplltxe aketsran, nì'aw ftua fìpxetìnvit nivong:
+Fte ngivop fìfnesäplltxe aketsran, nì'aw ftuea fìpxesìnvit nivong:
 
-1. Run kemlì'ut ananwnew lì'upukmì. **law zene livu fwa kemlì'uru lu fnel alu _vtr._ fu _vtrm.** (Txokefyaw ke tsun sivar hì'ia mehapxìti alu **-l** sì **-t**)
-2. Look up the noun you want to use as the subject doing the action and add **-l** or **-ìl** onto the end of it. (**-ìl** if the noun ends with a consonant, **-l** if it ends with a vowel)
-3. Look up the noun you want to use as the object receiving the action and add **-t** or **-it** or **-ti** onto the end of it.(**-t** if the noun ends with a vowel, **-it** if it ends with consonant, **-ti** always works)
+1. Run lì'upukmì kemlì'ut ananwnew. **law zene livu fwa kemlì'uru lu fnel alu _vtr._ fu _vtrm.** (Txokefyaw ke tsun sivar hì'ia mehapxìti alu **-l** sì **-t**)
+2. Run lì'upukmì nawnewa tstxolì'ut a slivu pum a kem si tsakrr tsaru sung hapxìti alu **-l** fu **-ìl** tì'i'aro. (**-ìl** txo tstxolì'uä tì'i'a li lolu pam a na tskxe ulte **-l** txo tseyä tì'i'a lolu li pam lepay).
+3. Run lì'upukmì nawnewa tstxolì'u a slivu pum a kemit tel ulte tsaru tì'i'aro sivung **-t** fu **-it** fu **-ti**. (**-t** txo tì'i'a li lolu pam lepay, **-it** txo tì'i'a lolu li pam a na tskxe. **-ti** zo frakrr).
 
-These three words can be in any order. Again, note that whatever word comes last in the sentence is the one that carries the most emphasis.
+Ve'o fìpxelì'uä ke tsranten. Nìmun, tsiveri futa ketsrana lì'u a lu syen lu pum atxur frato.
 
 <span id="v">
 </span>
