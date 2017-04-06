@@ -63,7 +63,7 @@ $menu = '
 		<link rel="shortcut icon" href="' . $httproot . 'res/favicon.png">
 		<link rel="apple-touch-icon" href="' . $httproot . 'res/favicon.png">
 		<link rel="icon" type="image/png" href="' . $httproot . 'res/favicon.png">
-		<link rel="alternate" type="application/rss+xml" title="Tirea Na\'vi" href="' . $httproot . 'feed.xml">
+		<link rel="alternate" type="application/rss+xml" title="Tirea Na\'vi" href="' . $weblink . '?p=rss&lang=' . $lang . '">
 		<link rel="stylesheet" href="' . $httproot . 'res/icons.css">
 		<link rel="stylesheet" href="' . $httproot . 'res/materialize.min.css">
 		<link rel="stylesheet" href="' . $httproot . 'res/tirea.css">
