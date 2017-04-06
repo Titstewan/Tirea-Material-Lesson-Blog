@@ -2,7 +2,7 @@
 
 **Kaltxì**! Ulte zola'u nìprrte' ne 'awvea sänumvi a teri horen lì'fyayä leNa'vi.
 
-Fìsänumvimì fkol livawk horenot afyin nìtxan a tsari franumeyu amip nivew nivume nì'awve fte sngivä'i aysäplltxeti ngivop.
+Fìsänumvimì oel livawk fyina horenot a tsari franumeyu amip nivew nivume nì'awve fte sngivä'i aysäplltxeti ngivop.
 
 **Makto ko!**
 
@@ -41,7 +41,6 @@ Kop, fìmesäplltxeyä ral lu teng:
 Ftuea säplltxe afyin frato lu pum a tsaru lu lu melì'u nì'aw, na pum a faylì'uio. Fte ngivop säplltxet anafì'u, nì'aw zene nivong fìmesìnvit aftue:
 
 1. Run mì lì'upuk tstxolì'ut a slivu tute/'u a kem si. (aystxolì'u lu _n._ fu _pn_ lì'upukmì)
-
 2. Run mì lì'upuk kemlì'ut. (ayhemlì'uvi lu _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._ lì'upukmì)
 
 Ftxey lu 'awve kemlì'u ftxey lu 'awve tstxolì'u ke tsranten.
@@ -55,31 +54,25 @@ Tsiveri rutxe futa säplltxeri ketstana lì'u a lu syen lu pum a lu txur frato.
 
 Frasäplltxeri aham lu nì'aw tstxolì'u a'aw sì kemlì'u a'aw ulte fkol ke'ut ke leykolatem. Slä fkol sar kemlì'uhu tstxolì'ut amune a krr liven pehem?
 
-In Na'vi, since the word order in a sentence like this one is entirely flexible, word order itself tells us nothing about the roles. Instead, the Na'vi use what are called Cases, which are small changes to the _words_ to keep track of their roles. The above sentences would translate to the following:
+Tsafnesäplltxeri nìNa'vi ve'or aylì'uä tsun livu pxaya srey. Tafral, ve'ol aylì'uä ke tìng kea säomum teri teynga pesu kem si fu kemit tel. Tup tsaw, Na'vil sar hì'ia lì'utsyìpit ro sì'i'a stxolì'uä, alu, leykatem _aylì'ut_ fte tslivam teynga pumpe kem si fu tel kemit. Natkenong:
 
-- **Peyralìl taron ioangit.**
-- Peyral-ìl taron ioang-it.
-- _Peyral hunts an animal._
+> **Peyralìl taron ioangit.**
 
-As you see here above, the **-ìl** case ending marks **Peyral** as the _subject_ and the **-it** case ending marks **ioang** as the _object_.
+Fìlì'fyavimì, tì'i'aro tstxoä alu Peyral, lu hapxì ahì'i alu **-ìl**. Tsal peng teyngta pesu kem si. Ro sì'i'a tstxolì'u alu **ioang** lu hì'ia hapxì alu **-it**. Tsal peng teyngta pesul tel kemit.
 
-- **Peyralit taron ioangìl.**
-- Peyral-it taron ioang-ìl.
-- _An animal hunts Peyral._
+> **Peyralit taron ioangìl.**
 
-Notice how the word order here stayed the same yet the roles were reversed simply by swapping the **-ìl** and **-it** case endings.
+Tsiveri fya'ot a ve'o pxelì'uä fìmelì'fyavi ke lolatem slä mi ral lu keteng nìwotx taluna tseng a tok mehapxìl alu **-ìl** sì **-it** lolatem.
 
-A famous example of this kind of sentence structure to remember is:
+Txanro'a tìkenong a za'u relta arusikx alu Uniltìrantokx lu fìpum a sweylu txo fko ziverok:
 
 - **Oel ngati kame.**
-- Oe-l nga-ti kame.
-- _I See you._
 
-This word order of "Subject object verb" (SOV) is quite commonly used. Also, here, we see other forms of **-ìl** and **-it** cases which are **-l** and **-ti**. (**-it** / **-ti** also has one last form, which is **-t**) These alternative forms exists for the sake of making nouns easier to pronounce when using these case endings.
+Letrrtrr nìtxan lu fìfnesrey a tsari 'avwe lu tstxolì'u a kem si ulte muve lu tstxolì'u a kemit tel ulte syen lu kemlì'u. Kop fìtseng tsun fko tsive'a lahea mesreyti hapxìä alu **-ìl** sì **-it**. Nìpxi, mefì'u alu **-l** sì **-ti** (Syena srey fì'uä alu **-it** / **-ti** lu fìpum alu **-t**). Faysrey aketeng fkeytok fpi ftuea lì'upam lì'uä.
 
-In order to make any sentence of this type, just follow these steps:
+Fte ngivop fìfnesäplltxe aketsran, nì'aw ftua fìpxetìnvit nivong:
 
-1. Look up the verb you want to use. **make sure it is marked as _vtr._ or _vtrm._** (If it's not, then you can't use -l and -t cases on the nouns)
+1. Run kemlì'ut ananwnew lì'upukmì. **law zene livu fwa kemlì'uru lu fnel alu _vtr._ fu _vtrm.** (Txokefyaw ke tsun sivar hì'ia mehapxìti alu **-l** sì **-t**)
 2. Look up the noun you want to use as the subject doing the action and add **-l** or **-ìl** onto the end of it. (**-ìl** if the noun ends with a consonant, **-l** if it ends with a vowel)
 3. Look up the noun you want to use as the object receiving the action and add **-t** or **-it** or **-ti** onto the end of it.(**-t** if the noun ends with a vowel, **-it** if it ends with consonant, **-ti** always works)
 
@@ -90,15 +83,15 @@ These three words can be in any order. Again, note that whatever word comes last
 
 ## Aylì'u Amip
 
-Na'vi       | English
------------ | ---------------------------------
-**poe**     | pn. _she_
-**tul**     | vin. _run_
-**payoang** | n. _fish_
-**slele**   | vin. _swim_
-**Peyral**  | prop. n. (_A female Na'vi name_)
-**taron**   | vtr. _hunt_
-**ioang**   | n. _animal_
-**oe**      | pn. _I_
-**nga**     | pn. _you_
-**kame**    | vtr. _See (deep spiritual sense)_
+Lì'u        | Tìsla'tsu
+----------- | ----------------------------------------------------------------
+**poe**     | pn. _hì'ia lì'u a vll tutéoä tstxot a li poltxe fu li fkol omum_
+**tul**     | vin. _tìran nìwin nìtxan; kä nìwin tsengone fa mevenu_
+**payoang** | n. _fneswirä a kelku si paymì_
+**slele**   | vin. _sweya fya'o a sivop paymì luke uran_
+**Peyral**  | prop. n. (_tstxo tutéyä leNa'vi; taronyu Omatikayaä_)
+**taron**   | vtr. _tspang ioangti hu tìkan a tsat yivom_
+**ioang**   | n. _swirä a ke lu tute_
+**oe**      | pn. _tute a perlltxe_
+**nga**     | pn. _tute a terìng mikyun tuteru a perlltxe_
+**kame**    | vtr. _tse'a, tslam, 'efu, omum vitrat sì tireat tuteoä_
