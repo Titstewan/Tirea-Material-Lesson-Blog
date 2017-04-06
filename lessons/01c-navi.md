@@ -1,51 +1,51 @@
 # Kaltxì si & Peng Tstxot
 
-Kaltxì ulte zola'u nìprrte'! Fì'u lu 'awvea sänumvi a oeyktìng fya'ot a pängkxo nìNa'vi. Txo nga ke li ke stolawm frapamti leNa'vi tsakrr oel mok ngaru futa fivrrfen tsatsengit a syaw fkor [Ayfam](http://localhost/material/?p=sounds). Ngaru ayfì'u alu fyina ayhapxìo lì'fyayä leNa'vi, fte tsivun nga sngivä'i pivängkxo.
+Kaltxì ulte zola'u nìprrte'! Fì'u lu 'awvea sänumvi a oeyktìng fya'ot a pängkxo nìNa'vi. Txo nga ke li ke stolawm frapamti leNa'vi tsakrr oel mok ngaru futa fivrrfen tsatsengit a syaw fko [Ayfam](http://localhost/material/?p=sounds). Ngaru ayfì'u alu fyina ayhapxìo lì'fyayä leNa'vi, fte tsivun nga sngivä'i pivängkxo.
 
-## Topics
+## Tele
 
-### [Saying Hello](#1)
+### [Kaltxì si](#1)
 
-### [How are you?](#2)
+### [Vin tì'efut tuteyä](#2)
 
-### [I'm well / not well / so-so](#3)
+### [Fpom lu / kea fpom ke lu / tam ke tam](#3)
 
-### [My name is / I am](#4)
+### [Peng tstxot](#4)
 
-### [What's your name?](#5)
+### [Vin tstxot tuteyä](#5)
 
 ### [Goodbye](#6)
 
-### [Dialogue](#d)
+### [Tìpängkxo](#d)
 
-### [Vocabulary Learned](#v)
+### [Aylì'u Amip](#v)
 
 <span id="1">
 </span>
 
-## Saying Hello
+## Kaltxì si
 
-The Na'vi word for _hello_ is **kaltxì**.
+NìNa'vi _hello_ slu **kaltxì**.
 
-Another popular greeting you may remember from the film is
+Mì rel arusikx, lu lahea fya'o a kaltxì si fko:
 
 - **Oel ngati kameie.**
 - _I see you_
 
-A breakdown:
+Nìno:
 
-- **oel** is a form of _I_.
-- **ngati** is a form of _you_.
-- **kameie** is a form of the verb _to See [in a deep spiritual sense]_.
+- **oel** lu srey lì'uä alu _oe_.
+- **ngati** lu srey lì'uä alu _nga_.
+- **kameie** lu srey kemlì'uä alu _kame [tse'a fkot fa tirea]_.
 
-You may be asking, "Doesn't that say, _'I you See'_?" And you'd be correct; it does say that. In the Na'vi language, the word order is much more flexible than that of English. More about that later. For now, we will keep it simple.
+Kxawm ngal pawm fayluta "Srake ral slu nì'Ìnglìsì _'I you See'_?" Ulte ngaru lu tìyawr; ral slu tsaw. Lì'fyari leNa'vi, ve'o aylì'uä ke tsranten nìtxan. Slä fìswawìri säomumvi lu fyin.
 
-When you want to address someone directly by their name or title, the word **ma** must be used just before the name. For example:
+Krra nga plltxe tuteru nìyey fu syaw tsatuteru, nga zene sivar lì'uti alu **ma** eo peyä tstxo. Natkenong:
 
 - **Kaltxì ma Neytiri!**
 - _Hello, Neytiri!_
 
-And one from the film:
+Tìkenong ta rel arusikx:
 
 - **Ma sempul, oel ngati kameie.**
 - _Father, I see you._
@@ -53,38 +53,37 @@ And one from the film:
 <span id="2">
 </span>
 
-## How are you?
+## Vin tì'efut tuteyä
 
-The Na'vi do not really ask, "_How are you?_", but rather something more like "_Do you have peace/well-being?_" Here's how it works:
+Na'vil ke pawm tuteru fayluta "_Pefya lu nga_". Tup tsaylì'u, fko plltxe san:
 
 - **Ngaru lu fpom srak?**
 - _Do you have peace/well-being?_
-- Literally: "To you is peace/well-being (yes/no)?"
+- Tìralpeng fa aylì'u: "To you is peace/well-being (yes/no)?"
 
-A breakdown:
+Nìno:
 
-- **ngaru** is another form of _you_ that means _to you_.
-- **lu** is the verb _am/are/is/be_.
-- **fpom** is _peace/well-being_.
-- **srak** is a word that changes a statement into a yes/no question. It goes at the end of the sentence, or at the very beginning as **srake**
+- **ngaru** lu srey lì'uä alu _nga_. Nì'Ìnglìsì slu _to you_.
+- **lu** lu kemlì'u a sla'tsu tìfkeytokit fu syonit.
+- **fpom** lu tstxolì'u a ral slu _peace/well-being_.
+- **srak** lu lì'u azey. Krra fko sar tsalì'ut säplltxe slu ne tìpawm a tì'eyng lu srane fu kehe. Fkol yem tsat mì sì'i'a lì'fyaviä fu mì sngä'itseng sko **srake**
 
 <span id="3">
 </span>
 
-## I'm well / not well / so-so
+## Fpom lu / kea fpom ke lu / tam ke tam
 
-Since _How are you_ in Na'vi is actually a yes/no question, its answers include the following:
+Taluna _Ngaru lu fpom srak_ lu tìpawm a tì'eyng lu srane fu kehe, fkeytok pxesì'eyng:
 
-- **Srane.** _Yes._
-- **Kehe.** _No._
-- **Tam ke tam.** A phrase that basically means _meh_ or _so-so_.
+- **Srane.** 
+- **Kehe.** 
+- **Tam ke tam.** Lì'fyavi a slu nì'Ìnglìsì _meh_ fu _so-so_.
 
-To ask the question back to whoever asked you first, you have two options:
+Fte ngeyä pängkxoyuru pivawm tìpawmit nì'eyng, ngaru lu mesìftxey alu:
 
 - **ngaru lu fpom srak?**
-- _Do you have well-being?_
 
-or
+fu
 
 - **ngaru tut?**
 - _How about you? / What about you?_
@@ -92,45 +91,44 @@ or
 <span id="4">
 </span>
 
-## My name is / I am
+## Peng tstxot
 
-Although in Na'vi you _could_ say literally,
+Huwfa nga _tsun_ pivlltxe fayluta:
 
 - **Oeyä tstxo lu ____.**
 - _My name is ____._
 
-It's much more Na'vi-like to say it like this:
+Lu fya'o leNa'vi fwa peng fayluta:
 
 - **Oeru fko syaw ____.**
 - _One calls me ____._
-- Literally: "To me one calls ____."
+- Tìralpeng fa aylì'u: "To me one calls ____."
 
-Since the Na'vi language has flexible word order, if the above sentence gives you any trouble, you can change the word order. Perhaps to something like this:
+Taluna aylì'uä ve'o lì'fyayä leNa'vi stum ke tsranten, txo ngaru lu tìngäzìk, nga tsun leykivatem ve'ot aylì'uä. Natkenong:
 
 - **Oeru syaw fko ____.**
-- or
+- fu
 - **Fko oeru syaw ____.**
 
 <span id="5">
 </span>
 
-## What's your name?
+## Vin tstxot tuteyä
 
-This question is very similar to its reply, which is found in the previous section. _What's your name?_ in Na'vi is more like _How are you called?_ and is typically worded like this:
+Tì'eyng sì tìpawm a mì hama hapxì lu steng. _What's your name?_ in Na'vi is more like _How are you called?_ ulte slu nìNa'vi:
 
 - **Fyape fko syaw ngar?**
 - _How are you called?_
-- Literally: "How one calls to you?"
+- Tìralpeng fa aylì'u: "How one calls to you?"
 
-or:
+fu
 
 - **Pefya syaw fko ngaru?**
-- _How are you called?_
-- Literally: "How calls one to you?"
 
-Note that **Fyape/Pefya** are two forms of the same word, and **ngar/ngaru** are also two forms of the same word.
+Rutxe tsiveri futa **Fyape/Pefya** lu mesrey lì'uä ateng ulte **ngar/ngaru** bìteng lu mesrey lì'uä ateng.
 
-- _Nice to meet you_ in Na'vi translates to **Smon nìprrte'.**
+- Txo nga ultxa sivi hu tute, tsunslu lì'fyavi alu **Smon nìprrte'.**
+- Ralpeng fa ral: _Nice to meet you_
 - Literally: "[you are] familiar [to me] pleasurably"
 
 <span id="6">
@@ -157,9 +155,9 @@ And another one you may often see:
 <span id="d">
 </span>
 
-## Dialogue
+## Tìpängkxo
 
-### Na'vi Transcript
+### Aylì'u leNa'vi
 
 - A: **Kaltxì! Ngaru lu fpom srak?**
 - B: **Kaltxì! Srane, ngaru tut?**
@@ -171,7 +169,7 @@ And another one you may often see:
 - B: **Kiyevame ulte Eywa ngahu!**
 - A: **Hayalovay. Eywa ngahu!**
 
-### English Translation
+### Tìralpeng
 
 - A: _Hello! Do you have peace?_
 - B: _Hello! Yes, how about you?_
@@ -186,9 +184,9 @@ And another one you may often see:
 <span id="v">
 </span>
 
-## Vocabulary Learned
+## Aylì'u Amip
 
-Na'vi                   | English
+Na'vi                   | 'Ìnglìsì
 ----------------------- | -----------------------------------------------------------------------
 **kaltxì**              | _hello_
 **oel**                 | _I_
