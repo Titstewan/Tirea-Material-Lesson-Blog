@@ -40,7 +40,7 @@ Nìno:
 
 Kxawm ngal pawm fayluta "Srake ral slu nì'Ìnglìsì _'I you See'_?" Ulte ngaru lu tìyawr; ral slu tsaw. Lì'fyari leNa'vi, ve'o aylì'uä ke tsranten nìtxan. Slä fìswawìri säomumvi lu fyin.
 
-Krra nga plltxe tuteru nìyey fu syaw tsatuteru, nga zene sivar lì'uti alu **ma** sre peyä tstxo. Natkenong:
+Krra nga plltxe tuteru nìyey fu syaw tsatuteru, nga zene sivar lì'uti alu **ma** eo peyä tstxo. Natkenong:
 
 - **Kaltxì ma Neytiri!**
 - _Hello, Neytiri!_
@@ -59,7 +59,7 @@ Na'vil ke pawm tuteru fayluta "_Pefya lu nga_". Tup tsaylì'u, fko plltxe san:
 
 - **Ngaru lu fpom srak?**
 - _Do you have peace/well-being?_
-- Literally: "To you is peace/well-being (yes/no)?"
+- Tìralpeng fa aylì'u: "To you is peace/well-being (yes/no)?"
 
 Nìno:
 
@@ -73,18 +73,17 @@ Nìno:
 
 ## Fpom lu / kea fpom ke lu / tam ke tam
 
-Since _How are you_ in Na'vi is actually a yes/no question, its answers include the following:
+Taluna _Ngaru lu fpom srak_ lu tìpawm a tì'eyng lu srane fu kehe, fkeytok pxesì'eyng:
 
-- **Srane.** _Yes._
-- **Kehe.** _No._
-- **Tam ke tam.** A phrase that basically means _meh_ or _so-so_.
+- **Srane.** 
+- **Kehe.** 
+- **Tam ke tam.** Lì'fyavi a slu nì'Ìnglìsì _meh_ fu _so-so_.
 
-To ask the question back to whoever asked you first, you have two options:
+Fte ngeyä pängkxoyuru pivawm tìpawmit nì'eyng, ngaru lu mesìftxey alu:
 
 - **ngaru lu fpom srak?**
-- _Do you have well-being?_
 
-or
+fu
 
 - **ngaru tut?**
 - _How about you? / What about you?_
@@ -92,45 +91,44 @@ or
 <span id="4">
 </span>
 
-## My name is / I am
+## Peng tstxot
 
-Although in Na'vi you _could_ say literally,
+Huwfa nga _tsun_ pivlltxe fayluta:
 
 - **Oeyä tstxo lu ____.**
 - _My name is ____._
 
-It's much more Na'vi-like to say it like this:
+Lu fya'o leNa'vi fwa peng fayluta:
 
 - **Oeru fko syaw ____.**
 - _One calls me ____._
-- Literally: "To me one calls ____."
+- Tìralpeng fa aylì'u: "To me one calls ____."
 
-Since the Na'vi language has flexible word order, if the above sentence gives you any trouble, you can change the word order. Perhaps to something like this:
+Taluna aylì'uä ve'o lì'fyayä leNa'vi stum ke tsranten, txo ngaru lu tìngäzìk, nga tsun leykivatem ve'ot aylì'uä. Natkenong:
 
 - **Oeru syaw fko ____.**
-- or
+- fu
 - **Fko oeru syaw ____.**
 
 <span id="5">
 </span>
 
-## What's your name?
+## Vin tstxot tuteyä
 
-This question is very similar to its reply, which is found in the previous section. _What's your name?_ in Na'vi is more like _How are you called?_ and is typically worded like this:
+Tì'eyng sì tìpawm a mì hama hapxì lu steng. _What's your name?_ in Na'vi is more like _How are you called?_ ulte slu nìNa'vi:
 
 - **Fyape fko syaw ngar?**
 - _How are you called?_
-- Literally: "How one calls to you?"
+- Tìralpeng fa aylì'u: "How one calls to you?"
 
-or:
+fu
 
 - **Pefya syaw fko ngaru?**
-- _How are you called?_
-- Literally: "How calls one to you?"
 
-Note that **Fyape/Pefya** are two forms of the same word, and **ngar/ngaru** are also two forms of the same word.
+Rutxe tsiveri futa **Fyape/Pefya** lu mesrey lì'uä ateng ulte **ngar/ngaru** bìteng lu mesrey lì'uä ateng.
 
-- _Nice to meet you_ in Na'vi translates to **Smon nìprrte'.**
+- Txo nga ultxa sivi hu tute, tsunslu lì'fyavi alu **Smon nìprrte'.**
+- Ralpeng fa ral: _Nice to meet you_
 - Literally: "[you are] familiar [to me] pleasurably"
 
 <span id="6">
@@ -157,9 +155,9 @@ And another one you may often see:
 <span id="d">
 </span>
 
-## Dialogue
+## Tìpängkxo
 
-### Na'vi Transcript
+### Aylì'u leNa'vi
 
 - A: **Kaltxì! Ngaru lu fpom srak?**
 - B: **Kaltxì! Srane, ngaru tut?**
@@ -171,7 +169,7 @@ And another one you may often see:
 - B: **Kiyevame ulte Eywa ngahu!**
 - A: **Hayalovay. Eywa ngahu!**
 
-### English Translation
+### Tìralpeng
 
 - A: _Hello! Do you have peace?_
 - B: _Hello! Yes, how about you?_
@@ -186,9 +184,9 @@ And another one you may often see:
 <span id="v">
 </span>
 
-## Vocabulary Learned
+## Aylì'u Amip
 
-Na'vi                   | English
+Na'vi                   | 'Ìnglìsì
 ----------------------- | -----------------------------------------------------------------------
 **kaltxì**              | _hello_
 **oel**                 | _I_
