@@ -1,80 +1,61 @@
-# Word Order & Simple Sentences
+# Ve'o Aylì'uä & Fyina Aysäplltxe
 
-**Kaltxì**! Hello! And welcome to The first installment of the Simplified Grammar Lessons Series.
+**Kaltxì**! Ulte zola'u nìprrte' ne 'awvea sänumvi a teri horen lì'fyayä leNa'vi.
 
-This lesson will cover some very basic foundations of the grammar every beginner may want to start with in order to start making sentences.
+Fìsänumvimì fkol livawk horenot afyin nìtxan a tsari franumeyu amip nivew nivume nì'awve fte sngivä'i aysäplltxeti ngivop.
 
 **Makto ko!**
 
-## Topics
+## Aytele
 
-### [Word Order](#1)
+### [Ve'o Lì'uä](#1)
 
-### [Simplest Sentences](#2)
+### [Aysäplltxe Afyin Frato](#2)
 
-### [L and T Endings](#3)
+### [Stxolì'ufpi a Mesì'i'a alu LeL sì TeT](#3)
 
-### [Vocabulary Learned](#v)
+### [Aylì'u Amip](#v)
 
 <span id="1">
 </span>
 
-## Word Order
+## Ve'o Lì'uä
 
-The word order of English is very specific. In the simplest of sentences, it is always the same: The _Subject_ comes first, then the _Verb_. If there is an _Object_, then it comes after the verb (SVO order). For example:
+Lì'fyari leNa'vi nìtrrtrr ral ke latem ìlä ve'o aylì'uä. Tsapo fu tsa'u a kem si, kem, sì tsapo fu tsa'u a kemti tel tsun ziva'u ne tseng aketsran. Natkenong, ral fìmesäplltxeyä lu teng:
 
-> She runs. (_Subject Verb._)
+> **Poe tul.** (_tute a kem si, tsakrr kem_)
 
-> He cooks food. (_Subject Verb Object_.)
+> **Tul poe.** (_kem, tsakrr tute a kem si_)
 
-Word order in the Na'vi language, however, is very flexible unlike the rigid word order in English. For example:
+Kop, fìmesäplltxeyä ral lu teng:
 
-- **Poe tul.**
-- _She runs._
+> **Oel ngati kameie.** (_tute a kem si, tute a kemit tel, tsakrr kem_)
 
-would mean the same thing as:
-
-- **Tul poe.**
-- _She runs._
+> **Ngati oel kameie.** (_tute a kemit tel, tute a kem si, tsakrr kem_)
 
 <span id="2">
 </span>
 
-## Simplest Sentences
+## Aysäplltxevi Afyin Frato
 
-The simplest and easiest sentences in the Na'vi language are the two-word sentences, just like that one in the example above. All you need to do to make a sentence like this is follow these two simple steps:
+Ftuea säplltxe afyin frato lu pum a tsaru lu lu melì'u nì'aw, na pum a faylì'uio. Fte ngivop säplltxet anafì'u, nì'aw zene nivong fìmesìnvit aftue:
 
-1. Find a noun in the dictionary to use as the subject. (nouns are marked _n._ and pronouns are marked _pn._)
-2. Find a verb in the dictionary to use. (verbs are marked _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._)
+1. Run mì lì'upuk tstxolì'ut a slivu tute/'u a kem si. (aystxolì'u lu _n._ fu _pn_ lì'upukmì)
 
-These two words can be in either order, like the following example:
+2. Run mì lì'upuk kemlì'ut. (ayhemlì'uvi lu _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._ lì'upukmì)
 
-- **Payoang slele.**
-- _The fish swims._
+Ftxey lu 'awve kemlì'u ftxey lu 'awve tstxolì'u ke tsranten.
 
-or
-
-- **Slele payoang.**
-- _The fish swims._
-
-Note that whatever word comes last in the sentence is the one that carries the most emphasis in the sentence.
+Tsiveri rutxe futa säplltxeri ketstana lì'u a lu syen lu pum a lu txur frato.
 
 <span id="3">
 </span>
 
-## L and T Endings
+## Stxolì'ufpi a Mesì'i'a alu LeL sì TeT
 
-In all the previous sentences, there was only one noun and one verb, and no modifications. But what happens when there are two (or more) nouns involved in the action of the verb?
+Frasäplltxeri aham lu nì'aw tstxolì'u a'aw sì kemlì'u a'aw ulte fkol ke'ut ke leykolatem. Slä fkol sar kemlì'uhu tstxolì'ut amune a krr liven pehem?
 
-In English, the word order of a sentence establishes the roles of the people or things involved. For example, compare these two sentences:
-
-> Peyral hunts an animal. (_subject is Peyral, object is animal_)
-
-> An animal hunts Peyral. (_subject is animal, object is Peyral_)
-
-As you see, the roles are switched by changing which one comes before the verb and which one comes after the verb.
-
-In Na'vi, however, since the word order in a sentence like this one is entirely flexible, word order itself tells us nothing about the roles. Instead, the Na'vi use what are called Cases, which are small changes to the _words_ to keep track of their roles. The above sentences would translate to the following:
+In Na'vi, since the word order in a sentence like this one is entirely flexible, word order itself tells us nothing about the roles. Instead, the Na'vi use what are called Cases, which are small changes to the _words_ to keep track of their roles. The above sentences would translate to the following:
 
 - **Peyralìl taron ioangit.**
 - Peyral-ìl taron ioang-it.
@@ -107,7 +88,7 @@ These three words can be in any order. Again, note that whatever word comes last
 <span id="v">
 </span>
 
-## Vocabulary Learned
+## Aylì'u Amip
 
 Na'vi       | English
 ----------- | ---------------------------------
