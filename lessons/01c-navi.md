@@ -2,7 +2,9 @@
 
 Kaltxì ulte zola'u nìprrte'! Fì'u lu 'awvea sänumvi a oeyktìng fya'ot a pängkxo nìNa'vi. Txo nga ke li ke stolawm frapamti leNa'vi tsakrr oel mok ngaru futa fivrrfen tsatsengit a syaw fko [Ayfam](http://localhost/material/?p=sounds). Ngaru ayfì'u alu fyina ayhapxìo lì'fyayä leNa'vi, fte tsivun nga sngivä'i pivängkxo.
 
-## Tele
+**Makto ko!**
+
+## Aytele
 
 ### [Kaltxì si](#1)
 
@@ -14,7 +16,7 @@ Kaltxì ulte zola'u nìprrte'! Fì'u lu 'awvea sänumvi a oeyktìng fya'ot a pä
 
 ### [Vin tstxot tuteyä](#5)
 
-### [Goodbye](#6)
+### [Kìyevame](#6)
 
 ### [Tìpängkxo](#d)
 
@@ -25,48 +27,43 @@ Kaltxì ulte zola'u nìprrte'! Fì'u lu 'awvea sänumvi a oeyktìng fya'ot a pä
 
 ## Kaltxì si
 
-NìNa'vi _hello_ slu **kaltxì**.
+Nìawnomum Na'vi pxìm plltxe san **kaltxì** sìk krra ultxarun tuteot fte kaltxì sivi, nìpxi krra tsapo ke smon.
 
 Mì rel arusikx, lu lahea fya'o a kaltxì si fko:
 
-- **Oel ngati kameie.**
-- _I see you_
+> **Oel ngati kameie.**
 
 Nìno:
 
-- **oel** lu srey lì'uä alu _oe_.
-- **ngati** lu srey lì'uä alu _nga_.
-- **kameie** lu srey kemlì'uä alu _kame [tse'a fkot fa tirea]_.
+- **oel** lu srey lì'uä alu _oe_ alu tute a perlltxe.
+- **ngati** lu srey lì'uä alu _nga_ alu tute a terìng mikyun tuteru a plltxe.
+- **kameie** lu srey kemlì'uä alu _kame [tse'a fkot fa vitra tup menari]_.
 
-Kxawm ngal pawm fayluta "Srake ral slu nì'Ìnglìsì _'I you See'_?" Ulte ngaru lu tìyawr; ral slu tsaw. Lì'fyari leNa'vi, ve'o aylì'uä ke tsranten nìtxan. Slä fìswawìri säomumvi lu fyin.
+Kxawm ngal pawm fayluta "Srake ral latem ìlä seynga pesengit tok fìpxelì'ul?" Ulte tì'eyng lu kehe; ral lu teng ulte ralìri ke tsranten teynga pesengit tok aylì'ul a mì lì'fyavio. Lì'fyari leNa'vi, ve'o aylì'uä ke tsranten nìtxan. Slä fìswawìri säomumvi lu fyin.
 
-Krra nga plltxe tuteru nìyey fu syaw tsatuteru, nga zene sivar lì'uti alu **ma** eo peyä tstxo. Natkenong:
+Krra fko plltxe tuteru nìyey fu syaw tsatuteru, nga zene sivar lì'uti alu **ma** eo peyä tstxo. Natkenong:
 
-- **Kaltxì ma Neytiri!**
-- _Hello, Neytiri!_
+> **Kaltxì ma Neytiri!**
 
-Tìkenong ta rel arusikx:
+Tìkenong a ta rel arusikx:
 
-- **Ma sempul, oel ngati kameie.**
-- _Father, I see you._
+> **Ma sempul, oel ngati kameie.**
 
 <span id="2">
 </span>
 
 ## Vin tì'efut tuteyä
 
-Na'vil ke pawm tuteru fayluta "_Pefya lu nga_". Tup tsaylì'u, fko plltxe san:
+Na'vil ke pawm tuteru san _Pefya lu nga_ sìk. Tup tsaylì'u, fko pawm nìtrrtrr san:
 
-- **Ngaru lu fpom srak?**
-- _Do you have peace/well-being?_
-- Tìralpeng fa aylì'u: "To you is peace/well-being (yes/no)?"
+> **Ngaru lu fpom srak?**
 
 Nìno:
 
-- **ngaru** lu srey lì'uä alu _nga_. Nì'Ìnglìsì slu _to you_.
+- **ngaru** lu srey lì'uä alu _nga_.
 - **lu** lu kemlì'u a sla'tsu tìfkeytokit fu syonit.
-- **fpom** lu tstxolì'u a ral slu _peace/well-being_.
-- **srak** lu lì'u azey. Krra fko sar tsalì'ut säplltxe slu ne tìpawm a tì'eyng lu srane fu kehe. Fkol yem tsat mì sì'i'a lì'fyaviä fu mì sngä'itseng sko **srake**
+- **fpom** lu tstxolì'u a tseyä ral lu fwa fra'u lu sìltsan: tuteyä fpomtokx, tì'efu, tìfkeytok, saylahe.
+- **srak** lu lì'u azey. Krra fko sar tsalì'ut, säplltxe slu tìpawm a tseyä tì'eyng lu srane fu kehe. Fkol yem tsat mì sì'i'a lì'fyaviä fu mì sngä'itseng sko **srake**
 
 <span id="3">
 </span>
@@ -75,18 +72,15 @@ Nìno:
 
 Taluna _Ngaru lu fpom srak_ lu tìpawm a tì'eyng lu srane fu kehe, fkeytok pxesì'eyng:
 
-- **Srane.** 
-- **Kehe.** 
-- **Tam ke tam.** Lì'fyavi a slu nì'Ìnglìsì _meh_ fu _so-so_.
+- **Srane.**
+- **Kehe.**
+- **Tam ke tam.** Alu, hìmtxan fpomä tam slä kop ke tam.
 
-Fte ngeyä pängkxoyuru pivawm tìpawmit nì'eyng, ngaru lu mesìftxey alu:
+Fte ngeyä pängkxoyuru pivawm nìmun nì'eyng, ngaru lu mesìftxey alu:
 
 - **ngaru lu fpom srak?**
-
-fu
-
+- fu
 - **ngaru tut?**
-- _How about you? / What about you?_
 
 <span id="4">
 </span>
@@ -95,14 +89,11 @@ fu
 
 Huwfa nga _tsun_ pivlltxe fayluta:
 
-- **Oeyä tstxo lu ____.**
-- _My name is ____._
+> **Oeyä tstxo lu ____.**
 
-Lu fya'o leNa'vi fwa peng fayluta:
+Lu fya'o leNa'vi fwa plltxe fayluta:
 
 - **Oeru fko syaw ____.**
-- _One calls me ____._
-- Tìralpeng fa aylì'u: "To me one calls ____."
 
 Taluna aylì'uä ve'o lì'fyayä leNa'vi stum ke tsranten, txo ngaru lu tìngäzìk, nga tsun leykivatem ve'ot aylì'uä. Natkenong:
 
@@ -115,42 +106,32 @@ Taluna aylì'uä ve'o lì'fyayä leNa'vi stum ke tsranten, txo ngaru lu tìngäz
 
 ## Vin tstxot tuteyä
 
-Tì'eyng sì tìpawm a mì hama hapxì lu steng. _What's your name?_ in Na'vi is more like _How are you called?_ ulte slu nìNa'vi:
+Tì'eyng sì tìpawm a mì hama hapxì lu steng ulte slu nìNa'vi:
 
 - **Fyape fko syaw ngar?**
-- _How are you called?_
-- Tìralpeng fa aylì'u: "How one calls to you?"
-
-fu
-
+- fu
 - **Pefya syaw fko ngaru?**
 
-Rutxe tsiveri futa **Fyape/Pefya** lu mesrey lì'uä ateng ulte **ngar/ngaru** bìteng lu mesrey lì'uä ateng.
+Rutxe tsiveri futa **Fyape/Pefya** lu mesrey lì'uä ateng ulte **ngar/ngaru** nìteng lu mesrey lì'uä ateng.
 
-- Txo nga ultxa sivi hu tute, tsunslu lì'fyavi alu **Smon nìprrte'.**
-- Ralpeng fa ral: _Nice to meet you_
-- Literally: "[you are] familiar [to me] pleasurably"
+> Txo alo a'awve nga ultxa sivi hu tuteo, nìtrrtrr plltxe fko san **Smon nìprrte'** sìk.
 
 <span id="6">
 </span>
 
-## Goodbye
+## Kìyevame
 
-Here are some popular Na'vi goodbyes:
+Ngaru letrrtrra aylì'fyavit leNa'vi a fko plltxe krra herum:
 
-- **Kiyevame / Kìyevame**
-- _See you again soon_
+> **Kiyevame / Kìyevame**
 
-Either version is fine; Some use the version with i because it's easier, some use the version with ì because it looks cooler.
+Ftxey i ftxey ì ke tsranten; Pxaya tute plltxe san kiyevame sìk taluna tsakem lu ftue nì'ul ulte pxaya tuter alahe sunu fwa sivar sreyti a hu ì talun 'ur fkan lor nì'ul tì'efumì feyä.
 
-- **Eywa ngahu**
-- _May Eywa be with you_
-- Literally: Eywa you-with
+> **Eywa ngahu**
 
-And another one you may often see:
+Ulte lahea pum a pxìm tsiyeve'atsa:
 
 - **Hayalovay**
-- _Until next time_
 
 <span id="d">
 </span>
@@ -169,46 +150,34 @@ And another one you may often see:
 - B: **Kiyevame ulte Eywa ngahu!**
 - A: **Hayalovay. Eywa ngahu!**
 
-### Tìralpeng
-
-- A: _Hello! Do you have peace?_
-- B: _Hello! Yes, how about you?_
-- A: _I have peace._
-- B: _How are you called?_
-- A: _I'm called (----) How are you called?_
-- B: _Nice to meet you. I'm (----)._
-- A: _Nice to meet you too._
-- B: _Goodbye and may Eywa be with you!_
-- A: _Until next time. May Eywa be with you!_
-
 <span id="v">
 </span>
 
 ## Aylì'u Amip
 
-Na'vi                   | 'Ìnglìsì
------------------------ | -----------------------------------------------------------------------
-**kaltxì**              | _hello_
-**oel**                 | _I_
-**ngati**               | _you_
-**kameie**              | _to See (deeply, spiritually)_
-**ma**                  | _(word put before names or titles when addressing the person directly)_
-**sempul**              | _father_
-**ngaru**               | _to you_
-**lu**                  | _is/am/are/be_
-**fpom**                | _peace/well-being_
-**srak / srake**        | _(word that creates yes/no questions)_
-**srane**               | _yes_
-**kehe**                | _no_
-**tam ke tam**          | _so-so, meh_
-**(----) tut?**         | _what about (----)?_
-**oeyä**                | _my_
-**tstxo**               | _name_
-**fko**                 | _one, unspecified person_
-**syaw**                | _to call_
-**fyape / pefya**       | _how_
-**kiyevame / kìyevame** | _See you again soon_
-**Eywa ngahu**          | _Eywa be with you_
-**hayalovay**           | _until next time_
-**nìteng**              | _too, as well_
-**ulte**                | _and_
+Lì'u                    | Tìsla'tsu
+----------------------- | --------------------------------------------------------------------------------------------------------
+**kaltxì**              | _letrrtrra lì'u a plltxe fko krra ultxarun tuteot nìpxi alo a'avwe_
+**oel**                 | _tute a perlltxe_
+**ngati**               | _tute a terìng mikyun tuteru a plltxe; tute a kemti tel_
+**kameie**              | _tse'a, tslam, 'efu, omum vitrat sì tireat tuteoä_
+**ma**                  | _zeya lì'u a fkol sar sre tstxo tuteyä krra tsatuteru perlltxe_
+**sempul**              | _tutan a srung soli sa'nokur fte ngivop prrnenti_
+**ngaru**               | _tute a terìng mikyun tuteru aplltxe; lahea tute a tare kemti_
+**lu**                  | _kemlì'u a sla'tsu tìfkeytokit fu syonit_
+**fpom**                | _**fpom** lu tstxolì'u a tseyä ral lu fwa fra'u lu sìltsan: tuteyä fpomtokx, tì'efu, tìfkeytok, saylahe_
+**srak / srake**        | _zeya lì'u a fkol sar krra perawm tìpawmit a tseyä tì'eyng lu srane fu kehe. Syena lì'u säplltxeyä_
+**srane**               | _lì'u a fkol sar krra tuteoä 'en lu eyawr_
+**kehe**                | _lì'u a fkol sar krra tuteoä 'en ke lu eyawr_
+**tam ke tam**          | _teyngria ngaru lu fpom srak, fìlì'fyavil peng fayluta hìmtxan fpomä tam slä kop ke tam_
+**(----) tut?**         | _zeya lì'u a fkol sar krra new futa pivawm tenga tìpawmit nì'eng luke fwa liveyn tsatìpawmit nìwotx_
+**oeyä**                | _sla'tsu 'uo a lu tuteru a perlltxe_
+**tstxo**               | _fya'o a syaw fko 'uoru fu tuteoru_
+**fko**                 | _kem si a tute aketsran_
+**syaw**                | _tìng fu plltxe tstxot 'uoä fu tuteoä_
+**fyape / pefya**       | _tìpawm a teri fya'o a fko kem si_
+**kiyevame / kìyevame** | _letrrtrra lì'u a fkol sar krra herum_
+**Eywa ngahu**          | _sìlpey tsnì Eywa nivong fu srung sivi fu vivewng tuteoru; letrrtrra lì'u a fkol sar krra herum_
+**hayalovay**           | _lahea lì'u a fkol sar krra herum ulte haya ultxari sreferey_nìprrte'_
+**nìteng**              | _tenga tìfkeytok fu kem len ketenga suteoru_
+**ulte**                | _lì'u a 'awstengyem aysäplltxet_
