@@ -7,12 +7,14 @@ This file performs the main functions for generating the website.
 
 Following functions are in use:
 
-html_header() - generates the HTML header ad the menu bar
+valid_lesson() - validates the l URL variable to prevent teh hax
+valid_language() - validates the lang URL variable to prevent teh hax
+html_header() - generates the HTML header and the menu bar
 html_bottom() - generates the HTML bottom and contain the disclaimer
 home() - obviously, the main home page magic
 abc_sound() - creates the sound page and load the tracks
 aysaheylu() - renders the link pages
-navi_download() - the download page is doneby this
+navi_download() - the download page is done by this
 about() - contains credits, authors and copyright blah
 navi_lesson() - this vrrtep creates the main lesson page, loads and parses the Na'vi lesson
 rss_feed() - generates the RSS XML code of all the lessons
@@ -31,6 +33,75 @@ https://www.gnu.org/licenses/gpl-3.0.en.html
 // Some php functions for generating the site
 if (!defined('TLB'))
 	die('No direct access...');
+
+// validates the l URL variable to prevent teh hax
+function valid_lesson($lname)
+{
+	global $lessondir, $lang;
+	
+	if (!preg_match('/^\d\d[cg]-[a-zA-Z]$/', $lname))
+	{
+		return false;
+	}
+	
+	// we need to define the directory
+	$dir = $lessondir . '/';
+
+	// Just to check if the thing we want is a dir
+	if (is_dir($dir))
+	{
+		// Open the dir
+		if ($dh = opendir($dir))
+		{
+			// We need an empty array first
+			$files = array();
+
+			// read the files and store them in an array
+			while (($file = readdir($dh)) !== false)
+			{
+				$files[] = $file;
+			}
+
+			sort($files);
+			
+			// see if user looks for a real file
+			foreach($files as $f)
+			{
+				// Lesson filename minus extension for the URL
+				$name = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
+				if ($lname == $name)
+				{
+					return true;
+				}
+			}
+			
+			// sìltsana säfmi ma saryu ;)
+			return false;
+			closedir($dh);
+		}
+	}
+}
+
+// validates the lang URL variable to prevent teh hax
+function valid_language($language)
+{
+	global $languages;
+	
+	if (!preg_match('/^[a-zA-Z]+$/', $lname))
+	{
+		return false;
+	}
+	
+	foreach($languages as $l)
+	{
+		if ($language == $l)
+		{
+			return true;
+		}
+	}
+	
+	return false;
+}
 
 // ...html header (<html><body>)...
 function html_header()
@@ -453,13 +524,21 @@ function rss_feed()
 	header("Content-Type: application/rss+xml; charset=UTF-8");
 	
 	$rssfeed = "";
+	
 	if (!isset($_REQUEST['lang']))
 	{
 		$language = 'english';
 	}
 	else
 	{
-		$language = $_REQUEST['lang'];
+		if (valid_language($_REQUEST['lang']))
+		{
+			$language = $_REQUEST['lang'];
+		}
+		else
+		{
+			$language = 'english';
+		}
 	}
 
 	//header stuff
