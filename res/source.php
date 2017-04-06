@@ -15,6 +15,7 @@ aysaheylu() - renders the link pages
 navi_download() - the download page is doneby this
 about() - contains credits, authors and copyright blah
 navi_lesson() - this vrrtep creates the main lesson page, loads and parses the Na'vi lesson
+rss_feed() - generates the RSS XML code of all the lessons
 
 Author: Tìtstewan
 titstewan-learnnavi.org
@@ -34,14 +35,17 @@ if (!defined('TLB'))
 // ...html header (<html><body>)...
 function html_header()
 {
-	global $httproot, $weblink, $txt;
+	global $httproot, $weblink, $txt, $lang;
 
 // The dropdown fields
 $dropdown = '
-			<li><a href="' . $httproot . 'language/switch.php?lang=english">English</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=english">English</a></li>
 			<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>';
+			<li><a href="' . $httproot . 'language/switch.php?lang=french">Français</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=navi">Na\'vi</a></li>
+			<li><a href="' . $httproot . 'language/switch.php?lang=dutch">Nederlands</a></li>';
 // The menu links
 $menu = '
 					<li><a href="' . $weblink . '">' . $txt['m_home'] . '</a></li>
@@ -59,7 +63,7 @@ $menu = '
 		<link rel="shortcut icon" href="' . $httproot . 'res/favicon.png">
 		<link rel="apple-touch-icon" href="' . $httproot . 'res/favicon.png">
 		<link rel="icon" type="image/png" href="' . $httproot . 'res/favicon.png">
-		<link rel="alternate" type="application/rss+xml" title="Tirea Na\'vi" href="' . $httproot . 'feed.xml">
+		<link rel="alternate" type="application/rss+xml" title="Tirea Na\'vi" href="' . $weblink . '?p=rss&lang=' . $lang . '">
 		<link rel="stylesheet" href="' . $httproot . 'res/icons.css">
 		<link rel="stylesheet" href="' . $httproot . 'res/materialize.min.css">
 		<link rel="stylesheet" href="' . $httproot . 'res/tirea.css">
@@ -77,7 +81,7 @@ $menu = '
 				<ul class="right hide-on-med-and-down" id="regnav">', $menu, '
 					<!-- Dropdown Trigger -->
 					<li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">', $txt['m_language'], '<i class="material-icons right">arrow_drop_down</i></a></li>
-					<li id="rss-nav-item"><a id="rss-link" href="feed.xml"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li>
+					<li id="rss-nav-item"><a id="rss-link" href="', $weblink, '?p=rss&lang=', $lang, '"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li>
 				</ul>
 				<ul class="side-nav" id="mobilenav">', $menu, '
 					<li>
@@ -89,7 +93,7 @@ $menu = '
 							</li>
 						</ul>
 					</li>
-					<li><a href="feed.xml">', $txt['m_rss'], '</a></li>
+					<li><a href="', $weblink , '?p=rss&lang=', $lang, '">', $txt['m_rss'], '</a></li>
 				</ul>
 			</div>
 		</nav>
@@ -369,7 +373,7 @@ function navi_lesson()
 		$Parsedown = new Parsedown();
 		// Ready the Markdown Lesson File
 		$f = $lessondir . '/' . $l . '.md';
-		// Parse the file and echo it as HTML, or echo not found.
+		// Parse the file and echo it as HTML, or redirect back to index page
 		echo is_readable($f) ? $Parsedown->text(file_get_contents($f)) : header('Location: ' . $weblink . '?p=lessons');
 	}
 
@@ -439,5 +443,122 @@ function navi_lesson()
 			}
 		}
 	}
+}
+
+// Generate the RSS feed
+function rss_feed()
+{
+	global $lessondir, $weblink;
+	
+	header("Content-Type: application/rss+xml; charset=UTF-8");
+	
+	$rssfeed = "";
+	if (!isset($_REQUEST['lang']))
+	{
+		$language = 'english';
+	}
+	else
+	{
+		$language = $_REQUEST['lang'];
+	}
+
+	//header stuff
+    $rssfeed .= '<?xml version="1.0" encoding="UTF-8" ?>';
+	$rssfeed .= '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">';
+	$rssfeed .= '<channel>';
+	$rssfeed .= '<title>Tirea Na\'vi</title>';
+	$rssfeed .= '<link>http://tirea.learnnavi.org/material</link>';
+	$rssfeed .= '<atom:link href="http://tirea.learnnavi.org/material/feed.xml" rel="self" type="application/rss+xml"/>';
+	$rssfeed .= '<description>Na\'vi Language Lessons for Non-linguists</description>';
+
+	//items
+	// we need to define the directory
+	$dir = $lessondir . '/';
+
+	// Just to check if the thing we want is a dir
+	if (is_dir($dir))
+	{
+		// Open the dir
+		if ($dh = opendir($dir))
+		{
+			// We need an empty array first
+			$files = array();
+
+			// read the files and store them in an array
+			while (($file = readdir($dh)) !== false)
+			{
+				$files[] = $file;
+			}
+
+			sort($files);
+
+			foreach ($files as $f)
+			{
+				$num = substr($f, 0, 2);
+				// load and echo the c lessons
+				if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, $language))
+				{
+					//read file $f and get $title
+					$title = fgets(fopen($dir . $f, 'r'));
+					
+					// Style for the content
+					$content = '<![CDATA[<style>ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
+					
+					// Get $content
+					// Fire up the Markdown Parser
+					require_once 'Parsedown.php';
+					$Parsedown = new Parsedown();
+					// Parse the file and echo it as HTML
+					$content .= $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
+
+					// Lesson filename minus extension for the URL
+					$lname = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
+
+					$rssfeed .= '<item>';
+					$rssfeed .= '<title><![CDATA[' . $title . ']]></title>';
+					$rssfeed .= '<author>tirea@learnnavi.org (Tirea Aean)</author>';
+					$rssfeed .= '<link><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></link>';
+					$rssfeed .= '<guid><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></guid>';
+					$rssfeed .= '<description>' . $content . '</description>';
+					$rssfeed .= '</item>';
+				}
+				// load and echo the g lessons
+				else if (preg_match('/^\d+$/', $num) && stripos($f, 'g-') && stripos($f, $language))
+				{
+					//read file $f and get $title
+					$title = fgets(fopen($dir . $f, 'r'));
+					
+					// Style for the content
+					$content = '<![CDATA[<style>ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
+					
+					//get $content -- will need the parser
+					// Fire up the Markdown Parser
+					require_once 'Parsedown.php';
+					$Parsedown = new Parsedown();
+					// Parse the file and echo it as HTML
+					$content .= $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
+
+					// Lesson filename minus extension for the URL
+					$lname = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
+
+					$rssfeed .= '<item>';
+					$rssfeed .= '<title><![CDATA[' . $title . ']]></title>';
+					$rssfeed .= '<author>tirea@learnnavi.org (Tirea Aean)</author>';
+					$rssfeed .= '<link><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></link>';
+					$rssfeed .= '<guid><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></guid>';
+					$rssfeed .= '<description>' . $content . '</description>';
+					$rssfeed .= '</item>';
+				}
+			}
+		// fin!
+		closedir($dh);
+		}
+	}
+
+    // closing tags
+    $rssfeed .= '</channel>';
+	$rssfeed .= '</rss>';
+    
+    echo $rssfeed;
 }
 ?>
