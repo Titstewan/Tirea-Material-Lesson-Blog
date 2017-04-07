@@ -37,6 +37,10 @@ if (!headers_sent())
 	header('X-Content-Type-Options: nosniff');
 }
 
+// Let's require the source and settings file!
+require_once(dirname(__FILE__) . '/settings.php');
+require_once($sourcedir . '/source.php');
+
 // Which languages shall we load? First let's check if the cookie was set.
 if (!isset($_COOKIE['lang']))
 {
@@ -49,16 +53,23 @@ else
 	$lang = $_COOKIE['lang'];
 }
 
-// get the langs
+// get the langs (from URL)
+// an optional means to open the site (esp. for the first time) in a specific language
+// instead of switching it to it from default English
 if (isset($_GET['lang']))
 {
-	setcookie('lang', $_GET['lang'], time() + (86400 * 30), '/', $domain);
-	$lang = $_GET['lang'];
+	// validate it to avoid blank page
+	if(valid_language($_GET['lang']))
+	{
+		setcookie('lang', $_GET['lang'], time() + (86400 * 30), '/', $domain);
+		$lang = $_GET['lang'];
+	}
+	else
+	{
+		setcookie('lang', 'english', time() + (86400 * 30), '/', $domain);
+		$lang = 'english';
+	}
 }
-
-// Let's require the source and settings file!
-require_once(dirname(__FILE__) . '/settings.php');
-require_once($sourcedir . '/source.php');
 
 // require the languages file: check if cookie was set if not use english as default...
 if (!isset($_COOKIE['lang']))
