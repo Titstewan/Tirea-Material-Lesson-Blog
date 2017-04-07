@@ -450,9 +450,9 @@ function rss_feed()
 {
 	global $lessondir, $weblink;
 
-	header("Content-Type: application/rss+xml; charset=UTF-8");
+	header('Content-Type: application/rss+xml; charset=UTF-8');
 
-	$rssfeed = "";
+	$rssfeed = '';
 	if (!isset($_REQUEST['lang']))
 	{
 		$language = 'english';
@@ -463,7 +463,7 @@ function rss_feed()
 	}
 
 	//header stuff
-    $rssfeed .= '<?xml version="1.0" encoding="UTF-8" ?>';
+	$rssfeed .= '<?xml version="1.0" encoding="UTF-8" ?>';
 	$rssfeed .= '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">';
 	$rssfeed .= '<channel>';
 	$rssfeed .= '<title>Tirea Na\'vi</title>';
@@ -556,7 +556,7 @@ function rss_feed()
 	}
 
     // closing tags
-    $rssfeed .= '</channel>';
+	$rssfeed .= '</channel>';
 	$rssfeed .= '</rss>';
 
     echo $rssfeed;
