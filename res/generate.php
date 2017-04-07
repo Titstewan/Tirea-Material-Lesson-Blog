@@ -177,7 +177,13 @@ function valid($a, $b, $c, $k) {
 	if (!isset($a) || !isset($b) || !isset($c) || !isset($k)) {
 		return true;
 	}
-	
+
+	// They all need to be integers
+	if (!preg_match('/^\d+$/' , $a . $b . $c . $k))
+	{
+		return false;
+	}
+
 	// disallow generating HRH.gif amounts of names
 	if ($k > 100) {
 		return false;
@@ -205,69 +211,69 @@ function valid($a, $b, $c, $k) {
 function name_gen()
 {
 	global $txt;
-	
+
 	echo '<h2>';
 
-	$a = $_REQUEST["a"]; // number of syllables in the First name
-	$b = $_REQUEST["b"]; // number of syllables in the Family name
-	$c = $_REQUEST["c"]; // number of syllables in the Parent's name
-    $k = 0; // counter for number of names to be generated
+	$a = isset($_REQUEST["a"]) ? $_REQUEST["a"] : 1; // number of syllables in the First name
+	$b = isset($_REQUEST["b"]) ? $_REQUEST["b"] : 1; // number of syllables in the Family name
+	$c = isset($_REQUEST["c"]) ? $_REQUEST["c"] : 1; // number of syllables in the Parent's name
+    $k = isset($_REQUEST["k"]) ? $_REQUEST["k"] : 1; // number of names to be generated
 
 	// No funny business, y'all. :P
 	if (!valid($a, $b, $c, $_REQUEST["k"])) {
 		echo $txt['g_n_try'], ' </h2>';
-		return;
+	} else {
+		$mk=0;
+		while ($mk < $k) { // Do entire generator process k times
+			$i=0;
+
+			// BUILD FIRST NAME
+			echo ucfirst(getInitial().getNucleus()); // echo First syllable: CV
+			while ($i <= $a - 2) {
+				echo getInitial().getNucleus(); // echo some more CV until $a syllables
+				$i++;
+			}
+			echo getCoda(); // Maybe end the syllable with something, maybe not
+
+			$i=0; // reset counter back to 0 for next part of the name
+
+			echo " te ";
+
+			// BUILD FAMILY NAME
+			echo ucfirst(getInitial().getNucleus()); // CV
+			while ($i <= $b - 2) {
+				echo getInitial().getNucleus(); // CV
+				$i++;
+			}
+			echo getCoda(); // C or None
+
+			$i=0; // reset again for last part of name
+
+			echo " ";
+
+			// BUILD PARENT'S NAME
+			echo ucfirst(getInitial().getNucleus());
+			while ($i <= $c - 2) {
+				echo getInitial().getNucleus();
+				$i++;
+			}
+			echo getCoda();$i=0;
+
+			echo "'it";
+
+			// 50/50 chance of male/female name; TODO: Possibly make this something that the user can choose?
+			if (rand(0,1)==0) {
+				echo "an";
+			} else {
+				echo "e";
+			}
+
+			echo "<br />"; // Need this to ensure each name generated is on its own line
+			$mk++; // Increment number of times entire process finished
+		}
+
+		echo '</h2>'; // close h2 tag enclosing generated names
 	}
-
-	while ($k <= $_REQUEST["k"] -1) { // Do entire generator process k times
-		$i=0;
-
-		// BUILD FIRST NAME
-		echo ucfirst(getInitial().getNucleus()); // echo First syllable: CV
-		while ($i <= $a - 2) {
-			echo getInitial().getNucleus(); // echo some more CV until $a syllables
-			$i++;
-		}
-		echo getCoda(); // Maybe end the syllable with something, maybe not
-
-		$i=0; // reset counter back to 0 for next part of the name
-
-		echo " te ";
-
-		// BUILD FAMILY NAME
-		echo ucfirst(getInitial().getNucleus()); // CV
-		while ($i <= $b - 2) {
-			echo getInitial().getNucleus(); // CV
-			$i++;
-		}
-		echo getCoda(); // C or None
-
-		$i=0; // reset again for last part of name
-
-		echo " ";
-
-		// BUILD PARENT'S NAME
-		echo ucfirst(getInitial().getNucleus());
-		while ($i <= $c - 2) {
-			echo getInitial().getNucleus();
-			$i++;
-		}
-		echo getCoda();$i=0;
-
-		echo "'it";
-
-		// 50/50 chance of male/female name; TODO: Possibly make this something that the user can choose?
-		if (rand(0,1)==0) {
-			echo "an";
-		} else {
-			echo "e";
-		}
-
-		echo "<br />"; // Need this to ensure each name generated is on its own line
-		$k++; // Increment number of times entire process finished
-	}
-
-	echo '</h2>'; // close h4 tag enclosing generated names
 
 	// echo the user input form and generator info footer
 	echo '
