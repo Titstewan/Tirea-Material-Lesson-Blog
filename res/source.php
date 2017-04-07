@@ -94,7 +94,7 @@ function valid_language($language)
 	// languages are only spelled with alphabetical characters
 	// therefore no haxxy chars allowed ;)
 	// also, our system only deals with lowercase
-	if (!preg_match('/^[a-z]+$/', $lname))
+	if (!preg_match('/^[a-z]+$/', $language))
 	{
 		return false;
 	}
