@@ -53,24 +53,6 @@ else
 	$lang = $_COOKIE['lang'];
 }
 
-// get the langs (from URL)
-// an optional means to open the site (esp. for the first time) in a specific language
-// instead of switching it to it from default English
-if (isset($_GET['lang']))
-{
-	// validate it to avoid blank page
-	if(valid_language($_GET['lang']))
-	{
-		setcookie('lang', $_GET['lang'], time() + (86400 * 30), '/', $domain);
-		$lang = $_GET['lang'];
-	}
-	else
-	{
-		setcookie('lang', 'english', time() + (86400 * 30), '/', $domain);
-		$lang = 'english';
-	}
-}
-
 // require the languages file: check if cookie was set if not use english as default...
 if (!isset($_COOKIE['lang']))
 {
