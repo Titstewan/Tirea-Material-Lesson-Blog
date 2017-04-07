@@ -3,7 +3,7 @@
 define('TLB', 1);
 
 // this will give $doman a definition, lol.
-global $domain;
+global $domain, $rootlink;
 
 // This file now doubles as a switcher to the language contained within
 setcookie('lang', $_REQUEST['lang'], time() + (86400 * 30), '/', $domain);
