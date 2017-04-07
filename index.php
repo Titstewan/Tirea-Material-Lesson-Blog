@@ -37,9 +37,8 @@ if (!headers_sent())
 	header('X-Content-Type-Options: nosniff');
 }
 
-// Let's require the source and settings file!
+// let's require the settings stuff first, so stuff is actually defined before used! :D
 require_once(dirname(__FILE__) . '/settings.php');
-require_once($sourcedir . '/source.php');
 
 // Which languages shall we load? First let's check if the cookie was set.
 if (!isset($_COOKIE['lang']))
@@ -63,6 +62,9 @@ else
 {
 	require_once($langdir . '/' . $lang . '.php');
 }
+
+// Let's require the source file!
+require_once($sourcedir . '/source.php');
 
 // Call the main functions, woo!
 // The <html> start tag and the buttons for Na'vigation (Oel tse'a kemit a soli.png)
