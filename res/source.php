@@ -38,12 +38,14 @@ if (!defined('TLB'))
 function valid_lesson($lname)
 {
 	global $lessondir, $lang;
-	
+
+	// l URL var needs to look like '01g-english' in order to be valid
+	// anything at all that doesn't follow this form is thrown away, including haxxy chars
 	if (!preg_match('/^\d\d[cg]-[a-zA-Z]$/', $lname))
 	{
 		return false;
 	}
-	
+
 	// we need to define the directory
 	$dir = $lessondir . '/';
 
@@ -56,28 +58,30 @@ function valid_lesson($lname)
 			// We need an empty array first
 			$files = array();
 
-			// read the files and store them in an array
+			// build the array of acceptable values of l URL var
 			while (($file = readdir($dh)) !== false)
 			{
 				$files[] = $file;
 			}
 
-			sort($files);
-			
 			// see if user looks for a real file
 			foreach($files as $f)
 			{
 				// Lesson filename minus extension for the URL
 				$name = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
+
+				// var value is indeed a legitimate lesson filename
 				if ($lname == $name)
 				{
 					return true;
 				}
 			}
-			
-			// sìltsana säfmi ma saryu ;)
-			return false;
 			closedir($dh);
+
+			// sìltsana säfmi ma saryu ;)
+			// user tried to enter a value that has correct form like 01g-english
+			// but file does not exist and isn't legitimate request
+			return false;
 		}
 	}
 }
@@ -86,20 +90,25 @@ function valid_lesson($lname)
 function valid_language($language)
 {
 	global $languages;
-	
-	if (!preg_match('/^[a-zA-Z]+$/', $lname))
+
+	// languages are only spelled with alphabetical characters
+	// therefore no haxxy chars allowed ;)
+	// also, our system only deals with lowercase
+	if (!preg_match('/^[a-z]+$/', $lname))
 	{
 		return false;
 	}
-	
+
 	foreach($languages as $l)
 	{
+		// requested language is actually legitimate cuz it's in our list
 		if ($language == $l)
 		{
 			return true;
 		}
 	}
-	
+
+	// user requested something alphabetical but not a language we support (yet?)
 	return false;
 }
 
@@ -432,9 +441,18 @@ function navi_lesson()
 {
 	global $lessondir, $txt, $lang, $weblink;
 
-	// load the lessons! :D
-	$lnum = $_REQUEST['l'];
+	// validate URL var
+	if (!valid_lesson($_REQUEST['l']))
+	{
+		// sìltsana säfmi ma saryu ;)
+		$lnum = '';
+	}
+	else
+	{
+		$lnum = $_REQUEST['l'];
+	}
 
+	// load the lessons! :D
 	// Something (Hopefully lesson) was requested in l= URL var
 	if ($lnum != '')
 	{
@@ -520,23 +538,27 @@ function navi_lesson()
 function rss_feed()
 {
 	global $lessondir, $weblink;
-	
+
 	header("Content-Type: application/rss+xml; charset=UTF-8");
-	
+
 	$rssfeed = "";
-	
+
+	// default if no url var is present
+	// shouldn't happen unless user deletes l=$lang from URL or something
 	if (!isset($_REQUEST['lang']))
 	{
 		$language = 'english';
 	}
 	else
 	{
+		// validate URL var
 		if (valid_language($_REQUEST['lang']))
 		{
 			$language = $_REQUEST['lang'];
 		}
 		else
 		{
+			// default if user tries hax
 			$language = 'english';
 		}
 	}
@@ -579,10 +601,10 @@ function rss_feed()
 				{
 					//read file $f and get $title
 					$title = fgets(fopen($dir . $f, 'r'));
-					
+
 					// Style for the content
 					$content = '<![CDATA[<style>ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
-					
+
 					// Get $content
 					// Fire up the Markdown Parser
 					require_once 'Parsedown.php';
@@ -606,10 +628,10 @@ function rss_feed()
 				{
 					//read file $f and get $title
 					$title = fgets(fopen($dir . $f, 'r'));
-					
+
 					// Style for the content
 					$content = '<![CDATA[<style>ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
-					
+
 					//get $content -- will need the parser
 					// Fire up the Markdown Parser
 					require_once 'Parsedown.php';
@@ -637,7 +659,7 @@ function rss_feed()
     // closing tags
     $rssfeed .= '</channel>';
 	$rssfeed .= '</rss>';
-    
+
     echo $rssfeed;
 }
 ?>
