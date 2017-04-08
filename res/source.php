@@ -448,19 +448,11 @@ function navi_lesson()
 // Generate the RSS feed
 function rss_feed()
 {
-	global $lessondir, $weblink;
+	global $lessondir, $weblink, $lang;
 
 	header('Content-Type: application/rss+xml; charset=UTF-8');
 
 	$rssfeed = '';
-	if (!isset($_REQUEST['lang']))
-	{
-		$language = 'english';
-	}
-	else
-	{
-		$language = $_REQUEST['lang'];
-	}
 
 	//header stuff
 	$rssfeed .= '<?xml version="1.0" encoding="UTF-8" ?>';
@@ -496,7 +488,7 @@ function rss_feed()
 			{
 				$num = substr($f, 0, 2);
 				// load and echo the c lessons
-				if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, $language))
+				if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, $lang)
 				{
 					//read file $f and get $title
 					$title = fgets(fopen($dir . $f, 'r'));
@@ -523,7 +515,7 @@ function rss_feed()
 					$rssfeed .= '</item>';
 				}
 				// load and echo the g lessons
-				else if (preg_match('/^\d+$/', $num) && stripos($f, 'g-') && stripos($f, $language))
+				elseif (preg_match('/^\d+$/', $num) && stripos($f, 'g-') && stripos($f, $lang))
 				{
 					//read file $f and get $title
 					$title = fgets(fopen($dir . $f, 'r'));
