@@ -61,9 +61,9 @@ Na'vil ke pawm tuteru san _Pefya lu nga_ sìk. Tup tsaylì'u, fko pawm nìtrrtrr
 Nìno:
 
 - **ngaru** lu srey lì'uä alu _nga_.
-- **lu** lu kemlì'u a sla'tsu tìfkeytokit fu syonit.
+- **lu** sla'tsu tìfkeytokit fu syonit tstxolì'uoä krra fkol tsahu sar sla'tsulì'uti fu lahea tstxolì'ut.
 - **fpom** lu tstxolì'u a tseyä ral lu fwa fra'u lu sìltsan: tuteyä fpomtokx, tì'efu, tìfkeytok, saylahe.
-- **srak** lu lì'u azey. Krra fko sar tsalì'ut, säplltxe slu tìpawm a tseyä tì'eyng lu srane fu kehe. Fkol yem tsat mì sì'i'a lì'fyaviä fu mì sngä'itseng sko **srake**
+- **srak** lu zeya lì'u a säplltxeta sleyku tìpawmit a tseyä tì'eyng lu srane fu kehe. Fkol yem tsat mì sì'i'a lì'fyaviä fu mì sngä'itseng sko **srake**.
 
 <span id="3">
 </span>
@@ -78,7 +78,7 @@ Taluna _Ngaru lu fpom srak_ lu tìpawm a tì'eyng lu srane fu kehe, fkeytok pxes
 
 Fte ngeyä pängkxoyuru pivawm nìmun nì'eyng, ngaru lu mesìftxey alu:
 
-- **ngaru lu fpom srak?**
+- **ngaru lu fpom srak?** (alu tìpawmit ateng liveyn)
 - fu
 - **ngaru tut?**
 
@@ -100,6 +100,7 @@ Taluna aylì'uä ve'o lì'fyayä leNa'vi stum ke tsranten, txo ngaru lu tìngäz
 - **Oeru syaw fko ____.**
 - fu
 - **Fko oeru syaw ____.**
+- ... saylahe.
 
 <span id="5">
 </span>
