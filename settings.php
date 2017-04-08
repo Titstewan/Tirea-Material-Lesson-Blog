@@ -45,4 +45,6 @@ $weblink = $httproot . 'index.php';
 // domain of the page - tirea.learnnavi.org
 $domain = 'localhost';
 
+// Current supported languages
+$lang_array = array('english', 'german', 'navi', 'french', 'dutch', 'czech', 'esparanto');
 ?>
