@@ -488,7 +488,7 @@ function rss_feed()
 			{
 				$num = substr($f, 0, 2);
 				// load and echo the c lessons
-				if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, $lang)
+				if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, $lang))
 				{
 					//read file $f and get $title
 					$title = fgets(fopen($dir . $f, 'r'));
