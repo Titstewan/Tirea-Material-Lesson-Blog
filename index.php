@@ -37,6 +37,10 @@ if (!headers_sent())
 	header('X-Content-Type-Options: nosniff');
 }
 
+// Let's require the source and settings file!
+require_once(dirname(__FILE__) . '/settings.php');
+require_once($sourcedir . '/source.php');
+
 // Which languages shall we load? First let's check if the cookie was set.
 if (!isset($_COOKIE['lang']))
 {
@@ -46,19 +50,17 @@ if (!isset($_COOKIE['lang']))
 // It was already set? Cooless.
 else
 {
-	$lang = $_COOKIE['lang'];
+	$lang = (in_array($_COOKIE['lang'], $lang_array, true) ? $_COOKIE['lang'] : 'english');
 }
 
 // get the langs
 if (isset($_GET['lang']))
 {
 	setcookie('lang', $_GET['lang'], time() + (86400 * 30), '/', $domain);
-	$lang = $_GET['lang'];
-}
 
-// Let's require the source and settings file!
-require_once(dirname(__FILE__) . '/settings.php');
-require_once($sourcedir . '/source.php');
+	// We need to check if the language in a cookie is valid
+	$lang = (in_array($_GET['lang'], $lang_array, true) ? $_GET['lang'] : 'english');
+}
 
 // require the languages file: check if cookie was set if not use english as default...
 if (!isset($_COOKIE['lang']))
@@ -73,7 +75,10 @@ else
 
 // Call the main functions, woo!
 // The <html> start tag and the buttons for Na'vigation (Oel tse'a kemit a soli.png)
-if (!isset($_REQUEST['p']) || $_REQUEST['p'] != "rss") { html_header(); }
+if (!isset($_REQUEST['p']) || $_REQUEST['p'] != "rss")
+{
+	html_header();
+}
 
 // The Homepage
 // What function shall we execute? (done like this for memory's sake.)
@@ -109,5 +114,8 @@ function hp_main()
 }
 
 // HTML end </html> plus the disclaimer
-if (!isset($_REQUEST['p']) || $_REQUEST['p'] != "rss") { html_bottom(); }
+if (!isset($_REQUEST['p']) || $_REQUEST['p'] != "rss")
+{
+	html_bottom();
+}
 ?>
