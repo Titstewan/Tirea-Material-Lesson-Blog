@@ -191,8 +191,8 @@ En een andere die je vaak zult zien:
 Na'vi                   | Nederlands
 ----------------------- | -----------------------------------------------------------------------
 **kaltxì**              | _hallo_
-**oel**                 | _ik
-**ngati**               | _jij
+**oel**                 | _ik_
+**ngati**               | _jij_
 **kameie**              | _Zien (diep, spiritueel)_
 **ma**                  | _(woord dat je voor namen of titels zet als je iemand aanspreekt)_
 **sempul**              | _vader_
