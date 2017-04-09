@@ -1,4 +1,4 @@
-<?php
+<?php //Nederlands
 /*----------------------------
 This is a new custom home page for Tirea Tean's Lesson Blog.
 

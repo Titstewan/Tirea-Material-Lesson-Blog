@@ -1,4 +1,4 @@
-<?php
+<?php //Esperanto
 /*----------------------------
 This is a new custom home page for Tirea Tean's Lesson Blog.
 The main Text Strings for translation.
