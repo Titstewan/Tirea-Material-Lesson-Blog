@@ -46,5 +46,5 @@ $weblink = $httproot . 'index.php';
 $domain = 'localhost';
 
 // Current supported languages
-$lang_array = array('english', 'german', 'navi', 'french', 'dutch', 'czech', 'esparanto');
+$lang_array = array('english', 'german', 'navi', 'french', 'dutch', 'czech', 'esperanto');
 ?>
