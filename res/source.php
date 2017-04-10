@@ -7,6 +7,7 @@ This file performs the main functions for generating the website.
 
 Following functions are in use:
 
+ls() - returns a sorted array of the filenames of a given dir (called from html_header(), navi_lesson(), rss_feed())
 html_header() - generates the HTML header ad the menu bar
 html_bottom() - generates the HTML bottom and contain the disclaimer
 home() - obviously, the main home page magic
@@ -31,6 +32,34 @@ https://www.gnu.org/licenses/gpl-3.0.en.html
 // Some php functions for generating the site
 if (!defined('TLB'))
 	die('No direct access...');
+
+/* helper function called from html_header(), navi_lesson(), rss_feed()
+ * returns a sorted array of the filenames of a given dir
+ */
+function ls($dir)
+{
+	// Just to check if the thing we want is a dir
+	if (is_dir($dir))
+	{
+		// Open the dir
+		if ($dh = opendir($dir))
+		{
+			// We need an empty array first
+			$files = array();
+
+			// read the files and store them in an array
+			while (($file = readdir($dh)) !== false)
+			{
+				$files[] = $file;
+			}
+
+			sort($files);
+
+			return $files;
+		}
+		closedir($dh);
+	}
+}
 
 // ...html header (<html><body>)...
 function html_header()
@@ -445,10 +474,60 @@ function navi_lesson()
 	}
 }
 
+// Helper function for rss_feed() for items
+// depending on if $type of lesson is 'c-' or 'g-', make the RSS item
+// returns a string of all the RSS items of whatever type of lesson
+function rss_items($type)
+{
+	global $lessondir, $weblink, $lang;
+
+	// we need to define the directory
+	$dir = $lessondir . '/';
+
+	// and get a list of the files in that directory
+	$files = ls($dir);
+
+	$items = '';
+
+	// scan the files in the lesson dir so we can tell people what's there...
+	foreach ($files as $f)
+	{
+		$num = substr($f, 0, 2);
+		// load and echo the lessons of $type 'c-' or 'g-'
+		if (preg_match('/^\d+$/', $num) && stripos($f, $type) && stripos($f, $lang))
+		{
+			//read file $f and get $title
+			$title = trim(substr(fgets(fopen($dir . $f, 'r')), 2));
+
+			// Style for the content
+			$content = '<style>ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
+
+			// Get $content
+			// Fire up the Markdown Parser
+			require_once 'Parsedown.php';
+			$Parsedown = new Parsedown();
+			// Parse the file and echo it as HTML
+			$content .= $Parsedown->text(file_get_contents($dir . $f));
+
+			// Lesson filename minus extension for the URL
+			$lname = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
+
+			$items .= '<item>';
+			$items .= '<title><![CDATA[' . $title . ']]></title>';
+			$items .= '<author>tirea@learnnavi.org (Tirea Aean)</author>';
+			$items .= '<link><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></link>';
+			$items .= '<guid><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></guid>';
+			$items .= '<description><![CDATA[' . $content . ']]></description>';
+			$items .= '</item>';
+		}
+	}
+	return $items;
+}
+
 // Generate the RSS feed
 function rss_feed()
 {
-	global $lessondir, $weblink, $lang;
+	global $weblink, $lang, $txt;
 
 	header('Content-Type: application/rss+xml; charset=UTF-8');
 
@@ -459,93 +538,15 @@ function rss_feed()
 	$rssfeed .= '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">';
 	$rssfeed .= '<channel>';
 	$rssfeed .= '<title>Tirea Na\'vi</title>';
-	$rssfeed .= '<link>http://tirea.learnnavi.org/material</link>';
-	$rssfeed .= '<atom:link href="http://tirea.learnnavi.org/material/feed.xml" rel="self" type="application/rss+xml"/>';
-	$rssfeed .= '<description>Na\'vi Language Lessons for Non-linguists</description>';
+	$rssfeed .= '<link>' . $weblink . '</link>';
+	$rssfeed .= '<atom:link rel="self" type="application/rss+xml" href="' . $weblink . '?p=rss&lang=' . $lang . '"/>';
+	$rssfeed .= '<description>' . $txt['rss_chan_desc']. '></description>';
 
 	//items
-	// we need to define the directory
-	$dir = $lessondir . '/';
-
-	// Just to check if the thing we want is a dir
-	if (is_dir($dir))
-	{
-		// Open the dir
-		if ($dh = opendir($dir))
-		{
-			// We need an empty array first
-			$files = array();
-
-			// read the files and store them in an array
-			while (($file = readdir($dh)) !== false)
-			{
-				$files[] = $file;
-			}
-
-			sort($files);
-
-			foreach ($files as $f)
-			{
-				$num = substr($f, 0, 2);
-				// load and echo the c lessons
-				if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, $lang))
-				{
-					//read file $f and get $title
-					$title = fgets(fopen($dir . $f, 'r'));
-
-					// Style for the content
-					$content = '<![CDATA[<style>ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
-
-					// Get $content
-					// Fire up the Markdown Parser
-					require_once 'Parsedown.php';
-					$Parsedown = new Parsedown();
-					// Parse the file and echo it as HTML
-					$content .= $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
-
-					// Lesson filename minus extension for the URL
-					$lname = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
-
-					$rssfeed .= '<item>';
-					$rssfeed .= '<title><![CDATA[' . $title . ']]></title>';
-					$rssfeed .= '<author>tirea@learnnavi.org (Tirea Aean)</author>';
-					$rssfeed .= '<link><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></link>';
-					$rssfeed .= '<guid><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></guid>';
-					$rssfeed .= '<description>' . $content . '</description>';
-					$rssfeed .= '</item>';
-				}
-				// load and echo the g lessons
-				elseif (preg_match('/^\d+$/', $num) && stripos($f, 'g-') && stripos($f, $lang))
-				{
-					//read file $f and get $title
-					$title = fgets(fopen($dir . $f, 'r'));
-
-					// Style for the content
-					$content = '<![CDATA[<style>ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
-
-					//get $content -- will need the parser
-					// Fire up the Markdown Parser
-					require_once 'Parsedown.php';
-					$Parsedown = new Parsedown();
-					// Parse the file and echo it as HTML
-					$content .= $Parsedown->text(file_get_contents($dir . $f)) . ']]>';
-
-					// Lesson filename minus extension for the URL
-					$lname = preg_replace('/\\.[^.\\s]{2}$/', '', $f);
-
-					$rssfeed .= '<item>';
-					$rssfeed .= '<title><![CDATA[' . $title . ']]></title>';
-					$rssfeed .= '<author>tirea@learnnavi.org (Tirea Aean)</author>';
-					$rssfeed .= '<link><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></link>';
-					$rssfeed .= '<guid><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></guid>';
-					$rssfeed .= '<description>' . $content . '</description>';
-					$rssfeed .= '</item>';
-				}
-			}
-		// fin!
-		closedir($dh);
-		}
-	}
+	// c- items
+	$rssfeed .= rss_items('c-');
+	// g- items
+	$rssfeed .= rss_items('g-');
 
     // closing tags
 	$rssfeed .= '</channel>';
