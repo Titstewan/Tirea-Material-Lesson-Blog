@@ -483,7 +483,7 @@ function rss_items($type)
 			$title = trim(substr(fgets(fopen($dir . $f, 'r')), 2));
 
 			// Style for the content
-			$content = '<style>ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
+			$content = '<style>h1{display:none;}ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
 
 			// Get $content
 			// Fire up the Markdown Parser
