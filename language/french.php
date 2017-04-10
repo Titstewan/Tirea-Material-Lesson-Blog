@@ -89,4 +89,6 @@ $txt['a_thanks'] = 'Un gros merci à';
 $txt['a_others'] = 'et à tous les autres!';
 $txt['a_3rdparty'] = 'Programme de partie tierce';
 $txt['a_mit'] = 'Publié sous la license MIT';
+// rss
+$txt['rss_chan_desc'] = 'Na\'vi Language Lessons for Non-linguists';
 ?>

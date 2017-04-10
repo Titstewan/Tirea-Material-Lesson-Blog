@@ -86,4 +86,6 @@ $txt['a_thanks'] = 'Zeya irayo';
 $txt['a_others'] = 'sì aylahe!';
 $txt['a_3rdparty'] = 'Lahea tìkangkemvi a solar ayngopyul fìtsengä';
 $txt['a_mit'] = 'Tsun nga sivar ìlä MIT License (MIT)';
+// rss
+$txt['rss_chan_desc'] = 'Sänume Lì\'fyayä leNa\'vi Fpi Letrrtrra Tute';
 ?>

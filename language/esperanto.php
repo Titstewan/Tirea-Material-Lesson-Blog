@@ -85,4 +85,6 @@ $txt['a_thanks'] = 'Dankon';
 $txt['a_others'] = 'kaj aliuloj!';
 $txt['a_3rdparty'] = 'Krompersona Programaro';
 $txt['a_mit'] = 'Sub la licenco MIT';
+// rss
+$txt['rss_chan_desc'] = 'Na\'vi Language Lessons for Non-linguists';
 ?>
