@@ -69,14 +69,25 @@ function html_header()
     $dir = $langdir . '/';
 	$files = ls($dir);
 
+	$lang_names = array();
+
 	// The dropdown fields
 	$dropdown = '';
+
+	// Alphabetize the Language Menu
 	foreach($files as $f)
 	{
 		if ($f != 'index.php' && $f != 'switch.php' && $f != '.' && $f != '..')
 		{
-			$dropdown .= '<li><a href="' . $httproot . 'language/switch.php?lang=' . preg_replace('/\\.[^.\\s]{3}$/', '', $f) . '">' . trim(substr(fgets(fopen($dir . $f, 'r')), 8)) . '</a></li>';
+			$lang_names[trim(substr(fgets(fopen($dir . $f, 'r')), 8))] = preg_replace('/\\.[^.\\s]{3}$/', '', $f);
 		}
+	}
+	ksort($lang_names);
+
+	// Assemble the Language Menu items
+	foreach($lang_names as $l => $n) 
+	{
+		$dropdown .= '<li><a href="' . $httproot . 'language/switch.php?lang=' . $n . '">' . $l . '</a></li>';
 	}
 
 	// The menu links
