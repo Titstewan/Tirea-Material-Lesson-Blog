@@ -483,7 +483,7 @@ function rss_items($type)
 			$title = trim(substr(fgets(fopen($dir . $f, 'r')), 2));
 
 			// Style for the content
-			$content = '<style>h1{display:none;}ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
+			$content = '<style>div.icontent h1{display:none;}ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
 
 			// Get $content
 			// Fire up the Markdown Parser
@@ -500,7 +500,7 @@ function rss_items($type)
 			$items .= '<author>tirea@learnnavi.org (Tirea Aean)</author>';
 			$items .= '<link><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></link>';
 			$items .= '<guid><![CDATA[' . $weblink . '?p=lessons&l=' . $lname .']]></guid>';
-			$items .= '<description><![CDATA[' . $content . ']]></description>';
+			$items .= '<description><![CDATA[<div class="icontent">' . $content . '</div>]]></description>';
 			$items .= '</item>';
 		}
 	}
