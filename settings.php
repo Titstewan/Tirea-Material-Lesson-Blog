@@ -45,4 +45,6 @@ $weblink = $httproot . 'index.php';
 // domain of the page - tirea.learnnavi.org
 $domain = 'localhost';
 
+// This is used in a lot of functions...
+$dir = $langdir . '/';
 ?>
