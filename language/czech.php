@@ -89,7 +89,5 @@ $txt['a_others'] = 'a další!';
 $txt['a_3rdparty'] = 'Software třetí strany';
 $txt['a_mit'] = 'License na základě Licence MIT (MIT)';
 // rss
-$txt['rss_chan_desc'] = 'Na\'vi Language Lessons for Non-linguists';
-
 $txt['rss_chan_desc'] = 'Lekce jazyka Na\'vi pro nelingvisty';
 ?>
