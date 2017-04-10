@@ -41,6 +41,19 @@ if (!headers_sent())
 require_once(dirname(__FILE__) . '/settings.php');
 require_once($sourcedir . '/source.php');
 
+// Re-defining the $lang_array ;)
+global $langdir;
+$lang_files = ls($langdir . '/');
+$i = 0;
+foreach($lang_files as $f)
+{
+	if ($f != 'index.php' && $f != 'switch.php' && $f != '.' && $f != '..')
+	{
+		$lang_array[$i] = preg_replace('/\\.[^.\\s]{3}$/', '', $f);
+		$i++;
+	}
+}
+
 // Which languages shall we load? First let's check if the cookie was set.
 if (!isset($_COOKIE['lang']))
 {
