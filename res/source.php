@@ -63,8 +63,10 @@ function ls($dir)
 // ...html header (<html><body>)...
 function html_header()
 {
-	global $httproot, $weblink, $txt, $dir, $lang;
+	global $httproot, $weblink, $txt, $langdir, $lang;
 
+    // dir is ONLY langdir in this function. in rss and lesson functions it's lessondir ;)
+    $dir = $langdir . '/';
 	$files = ls($dir);
 
 	// The dropdown fields
@@ -392,7 +394,7 @@ function about()
 // returns a string of all the RSS items of whatever type of lesson
 function echo_collection_items($type)
 {
-	global $lessondir, $txt, $weblink, $lang, $dir;
+	global $dir, $txt, $weblink, $lang, $dir;
 
 	// and list of files in that directory
 	$files = ls($dir);
@@ -417,6 +419,7 @@ function echo_collection_items($type)
 	// load and echo the $type lesson titles
 	foreach ($files as $f)
 	{
+		//echo '<li class="collection-item"><a class="collection-link" href="">derp</a></li>';
 		$num = substr($f, 0, 2);
 		if (preg_match('/^\d+$/', $num) && stripos($f, $type) && stripos($f, $lang))
 		{
@@ -462,7 +465,7 @@ function navi_lesson()
 // returns a string of all the RSS items of whatever type of lesson
 function rss_items($type)
 {
-	global $lessondir, $weblink, $lang, $dir;
+	global $dir, $weblink, $lang, $dir;
 
 	// and get a list of the files in that directory
 	$files = ls($dir);
