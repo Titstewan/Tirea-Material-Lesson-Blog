@@ -63,23 +63,22 @@ function ls($dir)
 // ...html header (<html><body>)...
 function html_header()
 {
-	global $httproot, $weblink, $txt, $langdir, $lang;
+	global $httproot, $weblink, $txt, $dir, $lang;
 
-	$dir = $langdir . '/';
 	$files = ls($dir);
 
-// The dropdown fields
-$dropdown = '';
-foreach($files as $f)
-{
-	if ($f != 'index.php' && $f != 'switch.php' && $f != '.' && $f != '..')
+	// The dropdown fields
+	$dropdown = '';
+	foreach($files as $f)
 	{
-		$dropdown .= '<li><a href="' . $httproot . 'language/switch.php?lang=' . preg_replace('/\\.[^.\\s]{3}$/', '', $f) . '">' . trim(substr(fgets(fopen($dir . $f, 'r')), 8)) . '</a></li>';
+		if ($f != 'index.php' && $f != 'switch.php' && $f != '.' && $f != '..')
+		{
+			$dropdown .= '<li><a href="' . $httproot . 'language/switch.php?lang=' . preg_replace('/\\.[^.\\s]{3}$/', '', $f) . '">' . trim(substr(fgets(fopen($dir . $f, 'r')), 8)) . '</a></li>';
+		}
 	}
-}
 
-// The menu links
-$menu = '
+	// The menu links
+	$menu = '
 					<li><a href="' . $weblink . '">' . $txt['m_home'] . '</a></li>
 					<li><a href="' . $weblink . '?p=sounds">' . $txt['m_sounds'] . '</a></li>
 					<li><a href="' . $weblink . '?p=lessons">' . $txt['m_lessons'] . '</a></li>
@@ -393,10 +392,8 @@ function about()
 // returns a string of all the RSS items of whatever type of lesson
 function echo_collection_items($type)
 {
-	global $lessondir, $txt, $weblink, $lang;
+	global $lessondir, $txt, $weblink, $lang, $dir;
 
-	// we need to define the directory
-	$dir = $lessondir . '/';
 	// and list of files in that directory
 	$files = ls($dir);
 
@@ -465,10 +462,7 @@ function navi_lesson()
 // returns a string of all the RSS items of whatever type of lesson
 function rss_items($type)
 {
-	global $lessondir, $weblink, $lang;
-
-	// we need to define the directory
-	$dir = $lessondir . '/';
+	global $lessondir, $weblink, $lang, $dir;
 
 	// and get a list of the files in that directory
 	$files = ls($dir);
@@ -534,10 +528,10 @@ function rss_feed()
 	// g- items
 	$rssfeed .= rss_items('g-');
 
-    // closing tags
+	// closing tags
 	$rssfeed .= '</channel>';
 	$rssfeed .= '</rss>';
 
-    echo $rssfeed;
+	echo $rssfeed;
 }
 ?>
