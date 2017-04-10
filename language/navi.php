@@ -1,4 +1,4 @@
-<?php
+<?php //Na'vi
 /*----------------------------
 This is a new custom home page for Tirea Tean's Lesson Blog.
 
@@ -48,8 +48,8 @@ $txt['s_intro'] = "<span class=\"navi\">Kaltxì</span> ma frapo! Fìtsengìl nga
   feyä lì'upamit fa pamrelvi Snapamrelviä Lì'upamä Aylì'fyayä sì lì'upamit
   lì'fyayä leNa&#39;vi fa mokri. Ha fte tsan'ivul ngeyä lì'upam,
   kä'ivärìp yo'kot ulte tivìng mikyun, tsakrr fmivi pivlltxe tsapamit.";
-$txt['s_vowels'] = 'Fam lepay';
-$txt['s_pseudo'] = 'Mefam a fmi livu lepay';
+$txt['s_vowels'] = 'Fam afaoi';
+$txt['s_pseudo'] = 'Mefam a fmi livu faoi';
 $txt['s_conson'] = 'Fam a na tskxe';
 $txt['s_diphto'] = 'Ep\'anga fam lepay';
 // links
@@ -86,4 +86,6 @@ $txt['a_thanks'] = 'Zeya irayo';
 $txt['a_others'] = 'sì aylahe!';
 $txt['a_3rdparty'] = 'Lahea tìkangkemvi a solar ayngopyul fìtsengä';
 $txt['a_mit'] = 'Tsun nga sivar ìlä MIT License (MIT)';
+// rss
+$txt['rss_chan_desc'] = 'Sänume Lì\'fyayä leNa\'vi Fpi Letrrtrra Tute';
 ?>

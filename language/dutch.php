@@ -1,4 +1,4 @@
-<?php
+<?php //Nederlands
 /*----------------------------
 This is a new custom home page for Tirea Tean's Lesson Blog.
 
@@ -89,4 +89,6 @@ $txt['a_thanks'] = 'Met dank aan';
 $txt['a_others'] = 'en anderen!';
 $txt['a_3rdparty'] = 'Software van anderen';
 $txt['a_mit'] = 'Vrijgegeven onder de MIT-licentie (MIT)';
+// rss
+$txt['rss_chan_desc'] = 'Na\'vi Language Lessons for Non-linguists';
 ?>

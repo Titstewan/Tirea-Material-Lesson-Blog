@@ -1,123 +1,123 @@
-# Word Order & Simple Sentences
+# Wortstellung & Einfache Sätze
 
-**Kaltxì**! Hello! And welcome to The first installment of the Intro to Na'vi Grammar section of the Simplified Grammar Lessons Series.
+**Kaltxì**! Hallo! Und willkommen zum ersten Teil des Kurses mit vereinfachten Regeln.
 
-This lesson will cover some very basic foundations of the grammar every beginner may want to start with in order to start making sentences.
+Diese Lektion wird einige sehr einfache Grundlagen der Grammatik abdecken, mit denen jeder Anfänger beginnen kann, um Sätze zu bilden.
 
 **Makto ko!**
 
-## Topics
+## Themen
 
-### [Word Order](#1)
+### [Wortstellung](#1)
 
-### [Simplest Sentences](#2)
+### [Einfachste Sätze](#2)
 
-### [L and T Endings](#3)
+### [L und T Endungen](#3)
 
-### [Vocabulary Learned](#v)
+### [Gelernte Wörter](#v)
 
 <span id="1">
 </span>
 
-## Word Order
+## Wortstellung
 
-The word order of English is very specific. In the simplest of sentences, it is always the same: The _Subject_ comes first, then the _Verb_. If there is an _Object_, then it comes after the verb (SVO order). For example:
+Die Wortstellung im Deutschen ist sehr spezifisch. In ihrer einfachsten Form eines Satzes ist es immer dasselbe: Das _Subjekt_ kommt als erstes, dann das _Verb_. Wenn es ein _Objekt_ gibt, kommt es nach dem Verb (SVO Anordnung). Zum Beispiel:
 
-> She runs. (_Subject Verb._)
+> Sie rennt. (_Subjekt Verb._)
 
-> He cooks food. (_Subject Verb Object_.)
+> Er kocht Essen. (_Subjekt Verb Objekt_.)
 
-Word order in the Na'vi language, however, is very flexible unlike the rigid word order in English. For example:
+Die Worstellung im Na'vi ist allerdings sehr flexibel, anders als die recht starre Worstellung im Deutschen. Zum Beispiel:
 
 - **Poe tul.**
-- _She runs._
+- _Sie rennt._
 
-would mean the same thing as:
+bedeutet dasselbe wie:
 
 - **Tul poe.**
-- _She runs._
+- _Sie rennt._
 
 <span id="2">
 </span>
 
-## Simplest Sentences
+## Einfachste Sätze
 
-The simplest and easiest sentences in the Na'vi language are the two-word sentences, just like that one in the example above. All you need to do to make a sentence like this is follow these two simple steps:
+Die einfachsten und leichtesten Sätze in Na'vi sind die Zweiwortsätze, genau wie das Beispiel oben. Alles, was ihr braucht, um einen Satz wie diesen zu bilden, ist es, folgenden zwei einfachen Schritten zu folgen:
 
-1. Find a noun in the dictionary to use as the subject. (nouns are marked _n._ and pronouns are marked _pn._)
-2. Find a verb in the dictionary to use. (verbs are marked _v._, _vin._, _svin._, _vim._, _vtr._, or _vtrm._)
+1. Findet ein Substantiv im Wörterbuch, um es als Subjekt zu benutzen. (Substantive sind mit einem _n._ (für Nomen) und persönliche Fürwörter sind mit _pn._ (für Pronomen) gekennzeichnet)
+2. Findet ein Verb im Wörterbuch. (Verben sind mit _v._, _vin._, _svin._, _vim._, _vtr._, oder _vtrm._ gekennzeichnet)
 
-These two words can be in either order, like the following example:
+Diese beiden Wörter können in jeder Anordnung wie folgt stehen:
 
 - **Payoang slele.**
-- _The fish swims._
+- _Der Fisch schwimmt._
 
-or
+oder
 
 - **Slele payoang.**
-- _The fish swims._
+- _Der Fisch schwimmt._
 
-Note that whatever word comes last in the sentence is the one that carries the most emphasis in the sentence.
+Beachtet, dass welches Wort auch immer am Ende des Satzes steht, die meiste Gewichtigung erhält.
 
 <span id="3">
 </span>
 
-## L and T Endings
+## L und T Endungen
 
-In all the previous sentences, there was only one noun and one verb, and no modifications. But what happens when there are two (or more) nouns involved in the action of the verb?
+In allen bisherigen Sätzen gab es nur ein Substantiv und ein Verb und keine Modifikationen. Aber was passiert, wenn es zwei (oder mehr) Substantive gibt, die an der Handlung des Verbs beteiligt sind?
 
-In English, the word order of a sentence establishes the roles of the people or things involved. For example, compare these two sentences:
+Im Deutschen macht die Wortstellung (und die Fallendungen an den Artikeln und den Substantiven) die Rolle der Leute oder Dinge deutlich. Vergleicht zum Beispiel diese zwei Sätze:
 
-> Peyral hunts an animal. (_subject is Peyral, object is animal_)
+> Peyral jagt ein Tier. (_Subjekt ist Peyral, Objekt ist Tier_)
 
-> An animal hunts Peyral. (_subject is animal, object is Peyral_)
+> Ein Tier jagt Peyral. (_Subjekt ist Tier, Objekt ist Peyral_)
 
-As you see, the roles are switched by changing which one comes before the verb and which one comes after the verb.
+Wie ihr seht, sind die Rollen vertauscht, indem geändert wird, welches Substantiv vor bzw. nach dem Verb kommt.
 
-In Na'vi, however, since the word order in a sentence like this one is entirely flexible, word order itself tells us nothing about the roles. Instead, the Na'vi use what are called Cases, which are small changes to the _words_ to keep track of their roles. The above sentences would translate to the following:
+In Na'vi sagt uns die Wortstellung allerdings nichts über die Rollen, da die Wortstellung in einem Satz wie diesem vollkommen flexibel ist. Stattdessen nutzen die Na'vi sogenannte Fälle, was (ähnlich wie im Deutschen bei den Artikeln) Änderungen an den _Wörtern_ verursacht, um ihre Rolle im Blick zu behalten. Die obigen Sätze werden dann wie folgt übersetzt:
 
 - **Peyralìl taron ioangit.**
 - Peyral-ìl taron ioang-it.
-- _Peyral hunts an animal._
+- _Peyral jagt ein Tier._
 
-As you see here above, the **-ìl** case ending marks **Peyral** as the _subject_ and the **-it** case ending marks **ioang** as the _object_.
+Wie ihr hier oben seht, markiert die **-ìl** Fallendung **Peyral** als das _Subjekt_ und die **-it** Fallendung markiert **ioang** als das _Objekt_.
 
 - **Peyralit taron ioangìl.**
 - Peyral-it taron ioang-ìl.
-- _An animal hunts Peyral._
+- _Ein Tier jagt Peyral._
 
-Notice how the word order here stayed the same yet the roles were reversed simply by swapping the **-ìl** and **-it** case endings.
+Beachtet, dass die Wortstellung im Na'vi hier gleichgeblieben ist, und dennoch sind die Rollen vertauscht, einfach dadurch, dass die **-ìl** und **-it** Fallendungen getauscht wurden.
 
-A famous example of this kind of sentence structure to remember is:
+Ein bekanntes Beispiel dieser Art Satzstruktur, das ihr euch merken könnnt, ist:
 
 - **Oel ngati kame.**
 - Oe-l nga-ti kame.
-- _I See you._
+- _Ich Sehe dich._
 
-This word order of "Subject object verb" (SOV) is quite commonly used. Also, here, we see other forms of **-ìl** and **-it** cases which are **-l** and **-ti**. (**-it** / **-ti** also has one last form, which is **-t**) These alternative forms exists for the sake of making nouns easier to pronounce when using these case endings.
+Diese Wortstellung von "Subjekt Objekt Verb" (SOV) wird sehr häufig verwendet. Außerdem sehen wir hier andere Formen der **-ìl** und **-it** Fälle, die **-l** und **-ti** sind (**-it** / **-ti** hat außerdem noch eine letzte Form, nämlich **-t**). Diese alternativen Formen existieren, um die Substantive leichter aussprechen zu können, wenn diese Fallendungen benutzt werden.
 
-In order to make any sentence of this type, just follow these steps:
+Um daraus etwas brauchbares zu machen, folgt einfach diesen Schritten:
 
-1. Look up the verb you want to use. **make sure it is marked as _vtr._ or _vtrm._** (If it's not, then you can't use -l and -t cases on the nouns)
-2. Look up the noun you want to use as the subject doing the action and add **-l** or **-ìl** onto the end of it. (**-ìl** if the noun ends with a consonant, **-l** if it ends with a vowel)
-3. Look up the noun you want to use as the object receiving the action and add **-t** or **-it** or **-ti** onto the end of it.(**-t** if the noun ends with a vowel, **-it** if it ends with consonant, **-ti** always works)
+1. Sucht das Verb, das ihr verwenden wollt. **Geht sicher, dass es als _vtr._ oder _vtrm._ markiert ist.** (Falls nicht, könnt ihr nicht -l und -t Fälle an den Substantiven benutzen)
+2. Sucht das Substantiv, das ihr als das Subjekt benutzen wollt, das die Handlung tut, und fügt **-l** oder **-ìl** an dessen Ende. (**-ìl** wenn das Substantiv auf einen Konsonanten endet, **-l** falls es auf einen Vokal endet)
+3. Sucht das Substantiv, das ihr als das Objekt benutzen wollt, das von der Handlung beeinflusst wird, und fügt **-t** oder **-it** oder **-ti** an dessen Ende.(**-t** wenn das Substantiv auf einen Vokal endet, **-it** wenn es auf einen Konsonanten endet, **-ti** passt immer)
 
-These three words can be in any order. Again, note that whatever word comes last in the sentence is the one that carries the most emphasis.
+Diese drei Wörter können dann in jeder Anordnung stehen. Nochmal: beachtet, dass das Wort, das am Ende des Satzes steht, die meiste Gewichtung erhält.
 
 <span id="v">
 </span>
 
-## Vocabulary Learned
+## Gelernte Wörter
 
-Na'vi       | English
------------ | ---------------------------------
-**poe**     | pn. _she_
-**tul**     | vin. _run_
-**payoang** | n. _fish_
-**slele**   | vin. _swim_
-**Peyral**  | prop. n. (_A female Na'vi name_)
-**taron**   | vtr. _hunt_
-**ioang**   | n. _animal_
-**oe**      | pn. _I_
-**nga**     | pn. _you_
-**kame**    | vtr. _See (deep spiritual sense)_
+Na'vi       | Deutsch
+----------- | --------------------------------------
+**poe**     | pn. _sie (singular)_
+**tul**     | vin. _rennen_
+**payoang** | n. _Fisch_
+**slele**   | vin. _schwimmen_
+**Peyral**  | prop. n. (_ein weiblicher Na'vi Name_)
+**taron**   | vtr. _jagen_
+**ioang**   | n. _Tier_
+**oe**      | pn. _ich_
+**nga**     | pn. _du_
+**kame**    | vtr. _Sehen (spirituell)_
