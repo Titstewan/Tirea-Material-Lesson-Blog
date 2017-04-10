@@ -46,5 +46,5 @@ $weblink = $httproot . 'index.php';
 $domain = 'localhost';
 
 // This is used in a lot of functions...
-$dir = $langdir . '/';
+$dir = $lessondir . '/';
 ?>
