@@ -18,7 +18,7 @@ https://www.gnu.org/licenses/gpl-3.0.en.html
 // $txt[''] = '';
 // general stuff
 $txt['about'] = 'O Stránce';
-$txt['no_audio'] = 'Váš prohlížeč nepodporuje zvukový součást.';
+$txt['no_audio'] = 'Váš prohlížeč nepodporuje zvukovou součást.';
 $txt['tlb_exp'] = 'Experimentální stránka ve výrobě! :D';
 $txt['foot_admin'] = 'Webový Administrátor/Návrhář';
 $txt['foot_softdev'] = 'Vývoj softwaru';
@@ -90,4 +90,6 @@ $txt['a_3rdparty'] = 'Software třetí strany';
 $txt['a_mit'] = 'License na základě Licence MIT (MIT)';
 // rss
 $txt['rss_chan_desc'] = 'Na\'vi Language Lessons for Non-linguists';
+
+$txt['rss_chan_desc'] = 'Lekce jazyka Na\'vi pro nelingvisty';
 ?>
