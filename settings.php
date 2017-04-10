@@ -20,7 +20,7 @@ if (!defined('TLB'))
 	die('No direct access...');
 
 // the software version
-$software_vers = 'RC 1 - 1.0.0';
+$software_vers = '1.0.0';
 
 // the root link
 $rootlink = 'http://localhost';
