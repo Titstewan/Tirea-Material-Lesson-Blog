@@ -522,8 +522,8 @@ function rss_feed()
 	$rssfeed .= '<channel>';
 	$rssfeed .= '<title>Tirea Na\'vi</title>';
 	$rssfeed .= '<link>' . $weblink . '</link>';
-	$rssfeed .= '<atom:link rel="self" type="application/rss+xml" href="' . $weblink . '?p=rss&lang=' . $lang . '"/>';
-	$rssfeed .= '<description>' . $txt['rss_chan_desc']. '</description>';
+	//$rssfeed .= '<atom:link rel="self" type="application/rss+xml" href="' . $weblink . '?p=rss&lang=' . $lang . '"/>';
+	$rssfeed .= '<description>' . $txt['rss_chan_desc'] . '</description>';
 
 	//items
 	// c- items
