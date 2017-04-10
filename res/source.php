@@ -54,27 +54,30 @@ function ls($dir)
 			}
 
 			sort($files);
-
+			closedir($dh);
 			return $files;
 		}
-		closedir($dh);
 	}
 }
 
 // ...html header (<html><body>)...
 function html_header()
 {
-	global $httproot, $weblink, $txt, $lang;
+	global $httproot, $weblink, $txt, $langdir, $lang;
+
+	$dir = $langdir . '/';
+	$files = ls($dir);
 
 // The dropdown fields
-$dropdown = '
-			<li><a href="' . $httproot . 'language/switch.php?lang=czech">Česky</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=german">Deutsch</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=english">English</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=esperanto">Esperanto</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=french">Français</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=navi">Na\'vi</a></li>
-			<li><a href="' . $httproot . 'language/switch.php?lang=dutch">Nederlands</a></li>';
+$dropdown = '';
+foreach($files as $f)
+{
+	if ($f != 'index.php' && $f != 'switch.php' && $f != '.' && $f != '..')
+	{
+		$dropdown .= '<li><a href="' . $httproot . 'language/switch.php?lang=' . preg_replace('/\\.[^.\\s]{3}$/', '', $f) . '">' . trim(substr(fgets(fopen($dir . $f, 'r')), 8)) . '</a></li>';
+	}
+}
+
 // The menu links
 $menu = '
 					<li><a href="' . $weblink . '">' . $txt['m_home'] . '</a></li>
@@ -385,6 +388,49 @@ function about()
 			</ul><br />';
 }
 
+// Helper function for navi_lesson() for items
+// depending on if $type of lesson is 'c-' or 'g-', make the RSS item
+// returns a string of all the RSS items of whatever type of lesson
+function echo_collection_items($type)
+{
+	global $lessondir, $txt, $weblink, $lang;
+
+	// we need to define the directory
+	$dir = $lessondir . '/';
+	// and list of files in that directory
+	$files = ls($dir);
+
+	// collection header
+	echo '
+<ul class="collection with-header">
+	<li class="collection-header"><h4>';
+	switch ($type) {
+		case 'c-':
+			echo $txt['n_basic'];
+			break;
+		case 'g-':
+			echo $txt['n_intro'];
+			break;
+		default:
+			echo '';
+			break;
+	}
+	echo '</h4></li>';
+
+	// load and echo the $type lesson titles
+	foreach ($files as $f)
+	{
+		$num = substr($f, 0, 2);
+		if (preg_match('/^\d+$/', $num) && stripos($f, $type) && stripos($f, $lang))
+		{
+			echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, $type, $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . $type[0]] : ''), '</a></li>';
+		}
+	}
+
+	echo '
+</ul>';
+}
+
 // The Na'vi lessons
 function navi_lesson()
 {
@@ -409,68 +455,8 @@ function navi_lesson()
 	// No lesson was requested, all we do is show Lesson index.
 	else
 	{
-		// we need to define the directory
-		$dir = $lessondir . '/';
-
-		// Just to check if the thing we want is a dir
-		if (is_dir($dir))
-		{
-			// Open the dir
-			if ($dh = opendir($dir))
-			{
-				echo '
-			<div class="titlename">', $txt['n_lesson'], '</div>
-			<br><br>';
-
-				// We need an empty array first
-				$files = array();
-
-				// read the files and store them in an array
-				while (($file = readdir($dh)) !== false)
-				{
-					$files[] = $file;
-				}
-
-				sort($files);
-
-				echo '
-			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['n_basic'], '</h4></li>';
-
-				// load and echo the c lessons
-				foreach ($files as $f)
-				{
-					$num = substr($f, 0, 2);
-					if (preg_match('/^\d+$/', $num) && stripos($f, 'c-') && stripos($f, $lang))
-					{
-		    				echo '
-				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'c-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'c'] : ''), '</a></li>';
-					}
-				}
-
-				echo '
-			</ul>
-			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['n_intro'] ,'</h4></li>';
-
-				// load and echo the g lessons
-				foreach ($files as $f)
-				{
-					$num = substr($f, 0, 2);
-					if (preg_match('/^\d+$/', $num) && stripos($f, 'g-') && stripos($f, $lang))
-					{
-						echo '
-				<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, 'g-', $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . 'g'] : ''), '</a></li>';
-					}
-				}
-
-				echo '
-			</ul>';
-
-			// fin!
-			closedir($dh);
-			}
-		}
+		echo_collection_items('c-');
+		echo_collection_items('g-');
 	}
 }
 
