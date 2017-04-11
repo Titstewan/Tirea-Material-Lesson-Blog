@@ -42,7 +42,6 @@ require_once(dirname(__FILE__) . '/settings.php');
 require_once($sourcedir . '/source.php');
 
 // Re-defining the $lang_array ;)
-global $langdir;
 $lang_files = ls($langdir . '/');
 $i = 0;
 foreach($lang_files as $f)
