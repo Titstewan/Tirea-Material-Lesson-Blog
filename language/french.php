@@ -25,7 +25,7 @@ $txt['foot_disc'] = 'Ce site a été créé par des membres du forum <a href="ht
 Ce site n\'est pas affilié au site officiel d\'Avatar, James Cameron, Lightstorm Entertainment ou la
 Twentieth Century Fox Film Corporation. Toutes les marques de commerce et de service sont les propriétés de leurs
 propriétaires respectifs.';
-// Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons, a_ = about
+// Tuto: h_ = accueil, m_ = menu, s_ = prononciation, g_ = générateur de noms, l_ = liens, d_ = téléchargements, n_ = leçons de na'vi, a_ = à propos
 // menu
 $txt['m_language'] = 'Langue';
 $txt['m_home'] = 'Accueil';
@@ -79,8 +79,8 @@ $txt['g_family_name'] = 'Nom de famille # de syllabes';
 $txt['g_parent_name'] = 'Prénom du parent # de syllabes';
 $txt['g_number_of_name'] = 'Nombre de noms à générer';
 $txt['g_credits'] = '<a href="http://forum.learnnavi.org/index.php?msg=566249">
-      Web-based Na\'vi Name Generator!
-    </a> by Uniltìrantokx te Skxawng';
+      Générateur de noms Na\'vi en version web!
+    </a> par Uniltìrantokx te Skxawng';
 $txt['g_generate'] = 'Makto ko!';
 // about
 $txt['a_creator'] = 'Créateur de la langue';
@@ -90,5 +90,5 @@ $txt['a_others'] = 'et à tous les autres!';
 $txt['a_3rdparty'] = 'Programme de partie tierce';
 $txt['a_mit'] = 'Publié sous la license MIT';
 // rss
-$txt['rss_chan_desc'] = 'Na\'vi Language Lessons for Non-linguists';
+$txt['rss_chan_desc'] = 'Leçons de langue Na\'vi pour les gens ordinaires';
 ?>
