@@ -85,5 +85,5 @@ $txt['a_others'] = 'und Andere!';
 $txt['a_3rdparty'] = 'Drittanbietersoftware';
 $txt['a_mit'] = 'Lizensiert unter The MIT License (MIT)';
 // rss
-$txt['rss_chan_desc'] = 'Na\'vi Language Lessons for Non-linguists';
+$txt['rss_chan_desc'] = 'Na\'vi Sprachunterricht für Nicht-Linguisten';
 ?>
