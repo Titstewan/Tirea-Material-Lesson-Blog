@@ -18,13 +18,11 @@ https://www.gnu.org/licenses/gpl-3.0.en.html
 // general stuff
 $txt['about'] = 'Teri';
 $txt['no_audio'] = 'Ngeyä nìnyul ke sar fì\'ut alu &lt;audio&gt;';
-$txt['tlb_exp'] = 'FMETOK FÌTSENGIT MI FKOL A TXERULA! :D ';
+$txt['tlb_exp'] = 'FÌWEPTSENGTI FKO VERAR TXIVULA! :D';
 $txt['foot_admin'] = 'Fìtsengä Eyktan/\'Ongopyu';
 $txt['foot_softdev'] = 'Pongu a fì\'uti txerula';
 $txt['foot_disc'] = 'Fìtsengit ngolop ayhapxìtu lì\'fyaolo\'ä alu <a href="http://learnnavi.org/">LearnNa\'vi.org</a>.<br />
-This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
-Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
-respective owners.';
+Fìweptsengìl ke tare foti a ngolop Uniltìrantokxit sì feyä ayweptsengti. Fayngopyuä aystxo sì ayu alahe lu pum feyä.';
 // Tuto: h_ = home, m_ = menu, s_ = sound page, g_ = the name generator, l_ = links, d_ = downloads, n_ = Na'vi lessons, a_ = about
 // menu
 $txt['m_language'] = 'Lì\'fya';
