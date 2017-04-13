@@ -56,7 +56,7 @@ foreach($lang_files as $f)
 // Which languages shall we load? First let's check if the cookie was set.
 if (!isset($_COOKIE['lang']))
 {
-	setcookie('lang', 'english', time() + (86400 * 30), '/', $domain);
+	setcookie('lang', 'english', time() + (86400 * 30), '/');
 	$lang = 'english';
 }
 // It was already set? Cooless.
@@ -68,7 +68,7 @@ else
 // get the langs
 if (isset($_GET['lang']))
 {
-	setcookie('lang', $_GET['lang'], time() + (86400 * 30), '/', $domain);
+	setcookie('lang', $_GET['lang'], time() + (86400 * 30), '/');
 
 	// We need to check if the language in a cookie is valid
 	$lang = (in_array($_GET['lang'], $lang_array, true) ? $_GET['lang'] : 'english');

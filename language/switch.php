@@ -6,7 +6,7 @@ define('TLB', 1);
 global $domain, $rootlink;
 
 // This file now doubles as a switcher to the language contained within
-setcookie('lang', $_REQUEST['lang'], time() + (86400 * 30), '/', $domain);
+setcookie('lang', $_REQUEST['lang'], time() + (86400 * 30), '/');
 
 // Mooo
 if (isset($_SERVER['HTTP_REFERER']))
