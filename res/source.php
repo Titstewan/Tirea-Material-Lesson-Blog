@@ -65,8 +65,8 @@ function html_header()
 {
 	global $httproot, $weblink, $txt, $langdir, $lang;
 
-    // dir is ONLY langdir in this function. in rss and lesson functions it's lessondir ;)
-    $dir = $langdir . '/';
+	// dir is ONLY langdir in this function. in rss and lesson functions it's lessondir ;)
+	$dir = $langdir . '/';
 	$files = ls($dir);
 
 	$lang_names = array();
