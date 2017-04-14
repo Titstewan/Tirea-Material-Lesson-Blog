@@ -62,6 +62,8 @@ $txt['d_downl'] = 'Dokumentoj';
 $txt['d_thing'] = 'Aliaj aferoj gastigataj en tiu retejo';
 $txt['d_hrhgif'] = 'Multaj malnovaj memeoj, komikoj ktp, rilate la Na&#39;via lingvo/popolo';
 $txt['d_images'] = 'imaĝoj';
+$txt['d_hkbl'] = 'Na\'vi Language support for TeamSpeak 3';
+$txt['d_dict_data'] = 'Na\'vi Dictionary Data Files';
 // lessons
 $txt['n_lesson'] = 'Lecionoj de la Na\'via Lingvo';
 $txt['n_basic'] = 'Konversaciaj Lecionoj';

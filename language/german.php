@@ -61,6 +61,8 @@ $txt['d_downl'] = 'Downloads';
 $txt['d_thing'] = 'Andere Dinge, zur Verfügung gestellt auf dieser Seite';
 $txt['d_hrhgif'] = 'Bunch of old memes and comics and whatnot, some Na&#39;vi-related';
 $txt['d_images'] = 'Bilderordner';
+$txt['d_hkbl'] = 'Na\'vi Language support for TeamSpeak 3';
+$txt['d_dict_data'] = 'Na\'vi Dictionary Data Files';
 // lessons
 $txt['n_lesson'] = 'Na\'vi Sprachunterricht';
 $txt['n_basic'] = 'Konversationsunterricht: Anfänger Grundlagen';

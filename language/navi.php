@@ -60,6 +60,8 @@ $txt['d_downl'] = 'Fuk sì famrel';
 $txt['d_thing'] = 'Lahea ayu a nga tsun rivun';
 $txt['d_hrhgif'] = 'Sästarsìm ayrelä saylahe, hola pumìl Na\'viti tare';
 $txt['d_images'] = 'Ayrel';
+$txt['d_hkbl'] = 'Na\'vi Language support for TeamSpeak 3';
+$txt['d_dict_data'] = 'Na\'vi Dictionary Data Files';
 // lessons
 $txt['n_lesson'] = 'Sänume Lì\'fyayä';
 $txt['n_basic'] = 'Aysänumvi a kar fya\'ot a pängkxo';

@@ -65,6 +65,8 @@ $txt['d_downl'] = 'Ke stažení';
 $txt['d_thing'] = 'Jiné věci, které hostuji na stránce';
 $txt['d_hrhgif'] = 'Kolecke starých memes a komixů';
 $txt['d_images'] = 'složka s obrázky ';
+$txt['d_hkbl'] = 'Na\'vi Language support for TeamSpeak 3';
+$txt['d_dict_data'] = 'Na\'vi Dictionary Data Files';
 // lessons
 $txt['n_lesson'] = 'Lekce z jazyka Na\'vi';
 $txt['n_basic'] = 'Konverzace';
