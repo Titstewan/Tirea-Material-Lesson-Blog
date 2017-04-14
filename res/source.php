@@ -361,13 +361,50 @@ function navi_download()
 			<div class="titlename">', $txt['d_downl'], '</div>
 			<ul class="collection with-header">
 				<li class="collection-header"><h4>', $txt['d_thing'], '</h4></li>
-				<li class="collection-item"><a class="collection-link" href="download/101-Handout-4-WA-2012.pdf">Na\'vi 101 Handout [PDF]</a><br />From AvatarMeet 2012 Seattle, WA</li>
-				<li class="collection-item"><a class="collection-link" href="download/102-Handout-4-DC-2013.pdf">Na\'vi 102 Handout [PDF]</a><br />From AvatarMeet 2013 Washington, DC</li>
-				<li class="collection-item"><a class="collection-link" href="download/103-Handout-4-LA-2014.pdf">Na\'vi 103 Handout [PDF]</a><br />From AvatarMeet 2014 Los Angeles, CA</li>
-				<li class="collection-item"><a class="collection-link" href="download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard Mod [APK Android App]</a><br />KXWERTY keyboard layout for Android</li>
-				<li class="collection-item"><a class="collection-link" href="download/ts3_Client_LN_Sound_Pack-0.2.zip">TS3 Voice Pack [ZIP]</a><br />Na&#39;vi Language support for TeamSpeak 3</li>
-				<li class="collection-item"><a class="collection-link" href="download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br />KXWERTY keyboard layout for Windows / Mac</li>
-				<!-- <li class="collection-item"><a class="collection-link" href="/material/img">', $txt['d_images'], '</a><br />', $txt['d_hrhgif'], '</li> -->
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/101-Handout-4-WA-2012.pdf">Na\'vi 101 Handout [PDF]</a><br />AvatarMeet 2012 Seattle, WA</li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/102-Handout-4-DC-2013.pdf">Na\'vi 102 Handout [PDF]</a><br />AvatarMeet 2013 Washington, DC</li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/103-Handout-4-LA-2014.pdf">Na\'vi 103 Handout [PDF]</a><br />AvatarMeet 2014 Los Angeles, CA</li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard [Android APK]</a><br />Android KXWERTY</li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/ts3_Client_LN_Sound_Pack-0.2.zip">TeamSpeak 3 Voice Pack [ZIP]</a><br />', $txt['d_hkbl'] , '</li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br />Windows / Mac KXWERTY</li>
+				<!-- <li class="collection-item"><a class="collection-link" href="' . $httproot . 'images">', $txt['d_images'], '</a><br />', $txt['d_hrhgif'], '</li> -->
+			</ul>
+			<ul class="collection with-header">
+				<li class="collection-header"><h4>', $txt['d_dict_data'], '</h4></li>
+				<li class="collection-header"><h4>jMemorize</h4></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviDeDictionary.tsv">NaviDeDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviEngDictionary.tsv">NaviEngDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviEstDictionary.tsv">NaviEstDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviHuDictionary.tsv">NaviHuDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviNlDictionary.tsv">NaviNlDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviRuDictionary.tsv">NaviRuDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviSvDictionary.tsv">NaviSvDictionary.tsv</a><br /></li>
+				<li class="collection-header"><h4>Fwew</h4></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/dictversion.txt">dictversion.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/infixes.txt">infixes.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/dictionary.txt">dictionary.txt</a><br /></li>
+				<li class="collection-header"><h4>VrrtepCLI</h4></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/metaWords.txt">metaWords.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/localizedWords.txt">localizedWords.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/de.txt">de.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/eng.txt">eng.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/est.txt">est.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/hu.txt">hu.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/nl.txt">nl.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/ru.txt">ru.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/sv.txt">sv.txt</a><br /></li>
+				<li class="collection-header"><h4>Teach 2000</h4></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/de2k.txt">de2k.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/eng2k.txt">eng2k.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/est2k.txt">est2k.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/hu2k.txt">hu2k.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/nl2k.txt">nl2k.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/ru2k.txt">ru2k.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/sv2k.txt">sv2k.txt</a><br /></li>
+				<li class="collection-header"><h4>Other</h4></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviRhymeDictionary.html">NaviRhymeDictionary.html</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/derivatives.txt">derivatives.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/horen-answers.txt">horen-answers.txt</a><br /></li>
 			</ul>';
 }
 
