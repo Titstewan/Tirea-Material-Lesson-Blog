@@ -64,6 +64,11 @@ elseif (isset($_REQUEST['l']))
 {
 	$lang = (in_array(substr($_REQUEST['l'], 4), $lang_array, true) ? substr($_REQUEST['l'], 4) : 'english');
 }
+// What if we use a request to chenge the cookie language value?
+elseif (isset($_REQUEST['lang']))
+{
+	setcookie('lang', $_REQUEST['lang'], time() + (86400 * 30), '/');
+}
 // It was already set? Cooless.
 else
 {
