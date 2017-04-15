@@ -141,7 +141,7 @@ function html_header()
 				</ul>
 			</div>
 		</nav>
-		<div class="amber black-text" id="warning">', $txt['tlb_exp'], '</div>
+		<!-- <div class="amber black-text" id="warning">', $txt['tlb_exp'], '</div> -->
 	</header>
 	<main>
 	<div class="container">
