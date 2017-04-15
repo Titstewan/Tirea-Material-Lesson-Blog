@@ -59,6 +59,11 @@ if (!isset($_COOKIE['lang']))
 	setcookie('lang', 'english', time() + (86400 * 30), '/');
 	$lang = 'english';
 }
+// What if we have a link to a specific language lession that is not in english or anything else that come frome the cookie value?
+elseif (isset($_REQUEST['l']))
+{
+	$lang = (in_array(substr($_REQUEST['l'], 4), $lang_array, true) ? substr($_REQUEST['l'], 4) : 'english');
+}
 // It was already set? Cooless.
 else
 {
@@ -87,7 +92,7 @@ else
 
 // Call the main functions, woo!
 // The <html> start tag and the buttons for Na'vigation (Oel tse'a kemit a soli.png)
-if (!isset($_REQUEST['p']) || $_REQUEST['p'] != "rss")
+if (!isset($_REQUEST['p']) || $_REQUEST['p'] != 'rss')
 {
 	html_header();
 }
@@ -126,7 +131,7 @@ function hp_main()
 }
 
 // HTML end </html> plus the disclaimer
-if (!isset($_REQUEST['p']) || $_REQUEST['p'] != "rss")
+if (!isset($_REQUEST['p']) || $_REQUEST['p'] != 'rss')
 {
 	html_bottom();
 }
