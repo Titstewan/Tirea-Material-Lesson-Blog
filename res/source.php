@@ -279,7 +279,7 @@ function abc_sound()
 				<li class="collection-item"><div>s [s]<a id="play_s" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>t [t]<a id="play_t" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>ts [&#678;]<a id="play_ts" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>tx [kʼ]<a id="play_tx" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>tx [tʼ]<a id="play_tx" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>v [v]<a id="play_v" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>w [w]<a id="play_w" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>y [j]<a id="play_y" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
