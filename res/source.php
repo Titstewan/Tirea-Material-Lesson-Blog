@@ -268,17 +268,18 @@ function abc_sound()
 				<li class="collection-item"><div>f [f]<a id="play_f" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>h [h]<a id="play_h" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>k [k]<a id="play_k" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>kx [&#107;]<a id="play_kx" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>kx [kʼ]<a id="play_kx" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>l [l]<a id="play_l" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>m [m]<a id="play_m" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>n [n]<a id="play_n" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>ng [&#331;]<a id="play_ng" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>p [p]<a id="play_p" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>p [pʼ]<a id="play_px" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>r [&#638;]<a id="play_r" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>s [s]<a id="play_s" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>t [t]<a id="play_t" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>ts [&#678;]<a id="play_ts" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>tx [&#116;]<a id="play_tx" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>tx [kʼ]<a id="play_tx" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>v [v]<a id="play_v" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>w [w]<a id="play_w" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>y [j]<a id="play_y" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
