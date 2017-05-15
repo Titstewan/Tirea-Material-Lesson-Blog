@@ -274,7 +274,7 @@ function abc_sound()
 				<li class="collection-item"><div>n [n]<a id="play_n" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>ng [&#331;]<a id="play_ng" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>p [p]<a id="play_p" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>p [pʼ]<a id="play_px" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>px [pʼ]<a id="play_px" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>r [&#638;]<a id="play_r" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>s [s]<a id="play_s" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item"><div>t [t]<a id="play_t" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
