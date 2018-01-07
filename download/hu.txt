@@ -51,7 +51,7 @@ kiáll, sikerrel vesz (próbát)
 előtt(e),elől
 helyes, jó (válasz)
 eyaye (pandorai növényfaj)
-vezet (népet)
+vezet 
 vezető, főnök
 val/vel/által (eszközhatározó)
 szag
@@ -117,7 +117,7 @@ szél (szellő)
 elmegy, elhagy
 húros hangszer
 ikran/sikoll (na'vik repülő hátasa) (pandorai állatfaj)
-erdei ikran/sikoll
+erdei ikran / sikoll
 állat, vadállat
 köszönet, köszönöm!
 által(a), révén, keresztül, mentén
@@ -621,7 +621,7 @@ hozzátesz, hozzáad
 csapdába ejt
 (el)veszít
 visszatér
-kiröppen, kivágódik
+lő
 táboroz
 táborhely
 dolgozik
@@ -1141,7 +1141,7 @@ például
 háromszor
 betűzés (helyesírás)
 világossá tesz
-kiegészítés, utóirat (P.S.)
+kiegészítés, utóirat (U.I.)
 ital, innivaló
 térkép
 mint, ugyanúgy (mint) (hasonló cselekedet)
@@ -1829,7 +1829,7 @@ felesleges
 feleslegesen
 szenvedés (érzelmi), depresszió
 ismerős (leendő barát)
-helyettes, megbízott, leendő vezető
+111helyettes, megbízott, leendő vezető
 leendő mester
 leendő tanár
 javul, jobb lesz
@@ -1876,7 +1876,7 @@ milyen szoros, milyen laza
 tej
 tojás
 kincs; ritka és értékes dolog
-ingadob
+111ingadob
 szövet
 gyöngy (dísz)
 színes, tarka
@@ -1946,7 +1946,7 @@ tervező
 avatárok csoportja vagy klánja
 alatt, folyamán, közben
 vonat
-Los Angeles
+111Los Angeles
 kötelesség
 kötelességtudóan, engedelmesen
 parancsol, utasít
@@ -1955,7 +1955,7 @@ parancsolás, utasítás
 felette áll (rangsorban), a főnökének lenni
 parancsnok, főnök
 stb.
-egészség vagy jólét (szellemi)
+111egészség vagy jólét (szellemi)
 egészséges (szellemileg)
 egészségtelen, beteg (szellemileg)
 egészséges (fizikailag)
@@ -2152,8 +2152,19 @@ szükséges
 nem szükséges
 figyelmeztet
 figyelmeztetés
-austrapede (struccszerű pandorai állat)
-turtapede (teknősszerű pandorai állat)
+111austrapede (struccszerű pandorai állat)
+111turtapede (teknősszerű pandorai állat)
 duda, kürt
 koponya
 sikolllovagló napellenző / rostély (a szem fölött viselik)
+gyülekezőhely
+addition, post script
+szagol
+kóstol
+örökség
+biztonság
+átmegy
+árt
+szívni
+dohányzik (sz.sz.: füstöt szív)
+tapsol

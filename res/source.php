@@ -381,7 +381,6 @@ function navi_download()
 				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviRuDictionary.tsv">NaviRuDictionary.tsv</a><br /></li>
 				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviSvDictionary.tsv">NaviSvDictionary.tsv</a><br /></li>
 				<li class="collection-header"><h4>Fwew</h4></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/dictversion.txt">dictversion.txt</a><br /></li>
 				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/infixes.txt">infixes.txt</a><br /></li>
 				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/dictionary.txt">dictionary.txt</a><br /></li>
 				<li class="collection-header"><h4>VrrtepCLI</h4></li>
@@ -394,15 +393,8 @@ function navi_download()
 				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/nl.txt">nl.txt</a><br /></li>
 				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/ru.txt">ru.txt</a><br /></li>
 				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/sv.txt">sv.txt</a><br /></li>
-				<li class="collection-header"><h4>Teach 2000</h4></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/de2k.txt">de2k.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/eng2k.txt">eng2k.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/est2k.txt">est2k.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/hu2k.txt">hu2k.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/nl2k.txt">nl2k.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/ru2k.txt">ru2k.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/sv2k.txt">sv2k.txt</a><br /></li>
 				<li class="collection-header"><h4>Other</h4></li>
+				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/dictversion.txt">dictversion.txt</a><br /></li>
 				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviRhymeDictionary.html">NaviRhymeDictionary.html</a><br /></li>
 				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/derivatives.txt">derivatives.txt</a><br /></li>
 				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/horen-answers.txt">horen-answers.txt</a><br /></li>

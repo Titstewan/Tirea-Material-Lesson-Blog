@@ -1048,7 +1048,7 @@ puffer plant
 mantis
 every night
 second, very short time
-after, afterwards
+after, afterwards, later
 tired
 creator
 slowly
@@ -1350,7 +1350,7 @@ as always
 doubt
 contain
 stop (someone or something) 
-try, sample, evaluate, check out, testdrive
+taste, try, sample, evaluate, check out, testdrive
 win
 lose
 victory, a win
@@ -1813,7 +1813,7 @@ restore oneself (metaphorically)
 yearn for
 yearning
 experience
-hope (abstract idea)
+hope (abstract concept)
 hope (particular instance)
 useless,  in vain
 shelf, ledge, level, step, rung 
@@ -2157,3 +2157,65 @@ turtapede
 horn, wind instrument
 skull
 banshee rider visor
+gathering place
+addition, post script
+smell
+taste
+heritage
+safety
+cross
+harm
+suck
+smoke (lit. to suck smoke)
+clap hands
+sound play
+improper, unfair, wrong, unjustified
+unfairness, injustice
+protest
+protesting, protest (abstract concept)
+protest, instance of protesting
+complain
+complaining
+complaint
+call
+kind
+successful
+exclude, keep out, bar
+falsely
+hard, diligently
+darling, little loved one
+wave (of water)
+wavelike
+good (abstract concept), goodness
+wooden, of wood
+stony, of stone
+clumsy, accidentprone
+clumsiness
+base of operations
+slinger
+ìlu
+wind instrument
+story poem, narrative poem
+frighten
+shoreline, water's edge
+sentence
+phrase
+syllable
+affix
+prefix
+adjective
+adverb
+adposition
+conjunction
+butthole, asshole, dickhead (vulgar)
+cycle
+endless, neverending (in a temporal sense)
+fan, enthusiast
+day of commemoration
+colloquial form of txanso'hayu (fan, enthusiast)
+(yearly) anniversary
+colloquial form of zìsìtsaltrr (yearly anniversary)
+stab
+pierce
+sign, indication, signal
+noun phrase (phrase whose pivotal or central word is a noun)

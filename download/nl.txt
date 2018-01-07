@@ -24,7 +24,7 @@ bloeien
 ding (object, feit)
 welk (ding)
 boodschap, bericht
-oorzaak attribuut markering
+bepaling attributieve markeerder
 klaar
 ver weg zijn
 groot
@@ -38,7 +38,7 @@ wij
 zij
 jullie allen, jullie
 wij (exclusief)
-wij (inclusief)
+wij, ons (inclusief)
 visie (spiritueel)
 onderX
 verzoek
@@ -98,7 +98,7 @@ hartstochtelijk
 kiezen
 of
 dat
-dat (gesubordineerd zinsdeel markering)
+dat (gesubordineerd zinsdeel markeerder)
 pad, wijze, manier
 hoe
 leiden (met het geleidde in datief)
@@ -199,7 +199,7 @@ lachen
 zijn (existentieel)
 reden
 waarom
-aansprekende wijs
+aansprekende wijs markeerder
 rijden
 kalm
 zij, die twee
@@ -262,7 +262,7 @@ leren
 jij
 worm
 waar
-jij (ceremonieel)
+jij, u (ceremonieel)
 lang (fysieke lengte)
 creëeren, maken
 wortel
@@ -288,7 +288,7 @@ insigne
 vragen
 water, vloeistof
 waterplant, dapophet
-vvn. markering
+vvn. markeerder
 beslissen
 hoe
 wat, welke (actie)
@@ -372,8 +372,8 @@ paddenstoel, schimmel
 vangen
 gevangene
 ziek
-indicatie voor ja/nee vraag
-indicatie voor ja/nee vraag
+vvn., markeerder voor ja/nee vragen
+vvn., markeerder voor ja/nee vragen
 ja
 dansen
 hulp, assistentie
@@ -450,7 +450,7 @@ leven
 lied (vocaal)
 ziek zijn, een ziekte hebben
 kracht, sterkte
-vergelijkende markering dan (gedraagt zich als adp.)
+vergelijkingsmarkeerder dan (gedraagt zich als adp.)
 zijn (plaats)
 dokter
 lichaam
@@ -464,7 +464,7 @@ speer
 rennen
 toestaan
 wie
-geeft aan dat iets doorgaat
+voortgangsmarkeerder
 persoon
 vrouw (persoon)
 man (persoon)
@@ -682,7 +682,7 @@ schrijven
 dat
 overal
 dagelijks, elke dag
-overtreffende trap dan alles
+overtreffende trap markeerder dan alles
 morgen
 geen (voor zn.)
 echter
@@ -702,7 +702,7 @@ wat, welk (woord, uiting)
 ontmoeten
 iemand doelbewust ontmoeten (gebruikhu met)
 wensen
-wens (t.o.v. feit, met (im)perfectief subjunctief)
+wens (t.o.v. feit, met (im)perfectief aanvoegende wijs)
 vonk
 blij (voor mensen)
 (op)jagen
@@ -884,7 +884,7 @@ hongerig
 honger
 eten gemaakt van meel
 dierlijk voedsel, vlees
-welke dag (komt van trr dag en pe vvn. markering en ve telwoord markering)
+welke dag (afgeleid van trr dag en pe vvn. markeerder en ve telwoordmarkeerder)
 een moment geleden, nu net
 nu meteen, onmiddellijk
 zo meteen, over een seconde
@@ -1048,7 +1048,7 @@ pufplant
 bidsprinkhaan
 elke nacht
 seconde, korte tijd
-na, achteraf
+na, achteraf, later
 moe
 maker
 langzaamaan
@@ -1085,7 +1085,7 @@ of niet
 enkele, verschillende
 geschiedenis (oud)
 geschiedenis (niet oud)
-datt s, met andere woorden
+dat is, met andere woorden
 laf
 lafaard
 lekker, goed smakend
@@ -1132,7 +1132,7 @@ gezond zijn, goed functioneren, zijn zoals het hoort
 heel, word gezond (ii)
 helen, repareren
 alles is goed
-infix
+tussenvoegsel
 bedanken, dank geven
 huidig
 accent
@@ -1397,7 +1397,7 @@ beenbeschermers (gebruikt in oorlog/strijd)
 schoen
 handschoen
 hoed
-versiering of ceremoniel sieraad
+versiering of ceremonieel sieraad
 uiteraard, vanzelfsprekend, logisch
 kraag / choker
 poncho, cape, sjaal
@@ -1534,7 +1534,7 @@ grapje, leuk verhaal
 woordgrap, woordspel
 krijgen, verschaffen
 iets dat verschaft/verkregen is, een bezitting
-doorgeven van een naar een ander (zelden gebruikt zonder prefix)
+doorgeven van een naar een ander (zelden gebruikt zonder voorvoegsel)
 uitlenen (aan iemand)
 lenen (van iemand)
 (uit)geleend object
@@ -1869,7 +1869,7 @@ falen, fout gaan, niet het beoogde doel behalen
 falend, voor niets, vruchteloos, niet het gewilde of verwachte eind halend
 fiasco (abstract)
 fiasco (specifiek incident)
-zich ontlasten (Op aarde: naar het toilet gaan)
+zich ontlasten (Op Aarde: naar het toilet gaan)
 als (contrafeitelijk gebruik)
 dan (contrafeitelijk gebruik)
 hoe vast, los?
@@ -2092,7 +2092,7 @@ nadelig
 uitzondering
 een uitzondering maken
 vloeiend (in een taal)
-nadeel, verlies
+nadeel, bezwaar, keerzijde
 spreker
 omgeving
 cat (aards dier); let. kleine thanator
@@ -2115,7 +2115,7 @@ weefgetouw
 moederweefgetouw, gigantisch weefgetouw
 sjamaan
 bes
-duizend bessen boom
+grinchboom, duizend bessen boom
 zoet besje (koosnaam)
 toilet (op Aarde)
 toilet (op Aarde)
@@ -2140,7 +2140,7 @@ vettig
 schoonmaken, vuiligheid weghalen
 hoorn van een dier
 nagel, klauw
-braken, vomiteren
+braken
 hond (aards dier); let. kleine nantang
 spugen, uitspugen
 grof, vulgair, sociaal onacceptabel
@@ -2157,3 +2157,54 @@ turtapoot
 hoorn, blaasinstrument
 schedel
 harpijrijder oogkleppen
+verzamelplaats
+toevoeging, post script
+ruiken
+proeven
+erfgoed
+veiligheid
+oversteken, kruisen
+schade toebrengen
+opzuigen
+roken (let. rook opzuigen)
+handen klappen
+klankenspel
+oneerlijk, onjuist, fout, onterecht
+oneerlijkheid, onrecht
+protesteren
+prostest, protesteren (abstract concept)
+protest, een moment van protesteren
+klagen
+klagend
+klacht
+roep
+aardig
+succesvol
+buitensluiten, er uit houden
+foutief
+hard, ijverig
+schatje, kleine geliefde
+golf (water)
+golvend
+goed (abstract concept), goedheid
+houten, van hout
+stenen, van steen
+onhandig, ongelukaantrekkend
+onhandigheid
+hoofdkwartier
+slinger
+ìlu
+blaasinstrument
+verhalend gedicht
+beangstigen
+kustlijn, water grens
+zin
+zinsdeel
+lettergreep
+affix
+prefix
+bijvoeglijk naamwoord
+bijwoord
+adpositie
+voegwoord
+galbak, schobbejak (vulgair)
