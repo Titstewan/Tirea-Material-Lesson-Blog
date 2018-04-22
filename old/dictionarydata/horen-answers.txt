@@ -1,0 +1,154 @@
+//MAROON TEXT FROM HOREN -- QUESTIONS ABOUT NA'VI GRAMMAR AND ANSWERS FOUND ON NA'VITERI.ORG
+//
+// maroon text is prefixed by "====>>> "
+// answers to the text are prefixed by "A = "
+
+2.3.6. Elision. In rapid speech final -e is frequently elided when the following word starts in a
+vowel. Kìyevam̸e ult̸e Eywa ngahu. This is not indicated in writing.
+====>>> But not monosyllables? ke? sre?
+A =
+
+3.2.1. Animacy.
+====>>> Brief outline of animacy hierarchy might be useful here. Is a bug animate? Brief mention and defer to syntax?
+A =
+
+3.2.3.1. For the inclusive first person forms, use separate pronouns, ohe ngengasì (with enclitic
+sì and).
+====>>> In the film we apparently get ohengeyä.
+A =
+
+3.3.1. Fì-. This prenoun is for proximal deixis, this. When it is followed by the plural prefix ay+
+they contract into fay+, these.
+====>>> But we’ve seen fìay- from Frommer at least once, oel foru fìaylì’ut tolìng a krr, kxawm oe harmahängaw, Jan 26.
+A =
+
+3.3.4. Fra-. This prenoun means all, every.
+====>>> When it is followed by the plural prefix ay+ they contract into fray+.
+A =
+
+3.3.7. Combinations. The prenouns may combine on a single word, in this order —
+fì-
+tsa- fra- number marking fne- the noun -pe
+pe+
+Only one from each column may be used, and of course the question affix is only used once.
+====>>> The full details of this ordering are not yet confirmed for fra-.
+A =
+
+3.4.0.2.
+====>>> Plurals for these are a bit funky. Though tsa’u is from tsa- and ’u, the plural is(ay)sa’u. Confirmed, but details might be nice. How to work in tsapo?
+A =
+
+3.4.2. Fì’u and Tsaw in Clause Nominalization. [...]
+====>>> tsala
+A =
+
+4.2. Ordinal Numbers
+4.2.1. Suffix -ve
+4.2.1.1.
+====>>> Can combine freely with nì-?
+A =
+
+4.4.3.1. Kew is zero.
+====>>> Current documentation doesn’t make clear if this idea is native or imported from the Humans.
+A =
+
+5.1.4.1. Tì- ‹us› creates a gerund. [...]
+====>>> What about yomtìng? Yomtìtusìng?
+A =
+
+6.1.2.2.
+====>>> Na’vi is also pragmatically split-ergative. In connected discourse one may drop the subject pronoun if it doesn’t change. The subject may be either subjective or agentive. See some pragmatics section.
+A =
+
+6.2.1. Number.
+====>>> Are the dual and trial collective vs. plural distributive? Or always obligatory?
+A =
+
+6.2.6.3. Sleyku, the causative of slu become, also takes an adjective predicate
+====>>> What about ’eykefu?
+A =
+
+6.4.4.4. The dative of interest limits the scope of an adjective to the judgement
+====>>> or benefit
+of a particular individual
+A =
+
+6.5.22.3.
+====>>> How to explain this: law lu oeru fwa nga mì reltseo nolume nìtxan! Restriction of scope, like mì sìrey?
+A =
+
+6.5.41. Vay. Up to, until. This may be used of both time and space,tsakrrvay, ayngeyä tìmwey- F
+peyri irayo seiyi oe until that time, I thank (you) for your patience.
+====>>> There’s a line from the video game with a local use.
+A =
+
+6.6.8.2.
+====>>> Note about sentence adverbs vs. nìfya’o forms?
+A =
+
+6.7.7. Tense. Na’vi tense, as in Human languages, simply locates an event in time.
+====>>> There are too few examples of complex sentences to be sure about relative tense in subordinate clauses.
+A =
+
+6.8.5. Other Uses. The subjunctive is also used in purpose clauses with fte (§6.17.2), conditional
+sentences (§6.19), with the conjunction tsnì
+====>>> when used with certain verbs (§6.20.7).
+A =
+
+P43 Footnote 11
+====>>> Other candidates: sto refuse, flä succeed, hawl prepare.
+A =
+
+6.17.1. Tense and Aspect in Dependent Subjunctives.
+====>>> Do dependent verbs have TAM-solidarity with their controlling verb?
+A =
+
+6.18.4.3. Clauses may also be nominalized with forms of tsa’u. The difference between fì’u
+and tsa’u is that the tsa’u form can be used when the clause it anchors refers to something old
+in the discourse, something which has been previously discussed. This subtlety is not required,
+however, and forms in fì’u are never wrong.
+====>>> Example conversation using both?
+A =
+
+6.18.5. Nominalized Clauses with Adpositions.
+6.18.5.1.
+====>>> A list of legal ones might be nice. Will sre and maw attach to fwa or krr? Other likely
+candidates: fpi, mìkam, mungwrr, pxel/na, vay?
+A =
+
+6.18.6. Nominalizations as Conjunctions.
+[...]
+because taweyk(a) aweykta from ta oeyk a
+====>>> aweykta
+A =
+
+6.19. Conditional Sentences
+6.19.1. General. General conditions describe situations that are commonly or generally true,
+such as “if it doesn’t rain, plants and animals suffer.” In Na’vi,
+====>>> a general condition takes txo with the subjunctive in the condition and a non-future indicative in the consequent
+A =
+
+6.19.3. Hypothetical.
+====>>> No examples yet.
+A =
+
+6.20.3. Fu. The conjunction fu, or, may be used to combine either noun phrases or verb phrases.
+Ke zasyup lì’Ona ne kxutu a mìfa fu a wrrpa
+The l’Ona will not perish to the enemy within or the enemy without.
+====>>> But no examples of the verb phrase yet...
+A =
+
+6.20.7. Tsnì. The conjunction tsnì that introduces some kinds of report clause which cause the
+verb to take the subjunctive, ätxäle si tsnì livu oheru Uniltaron I respectfully request the Dream
+Hunt, sìlpey oe tsnì fìtìoeyktìng law livu ngaru set I hope that this explanation is clear to you now. F
+====>>> The verb determines the subjunctive, or the construction?
+A =
+
+6.20.7.1.
+====>>> Tsnì seems most often used when intransitive constructions are in the main clause
+A =
+
+6.22.5. Tse. This particle is a marker of conversational hesitation, well.
+====>>> In English “well” relates to felicity conditions in divergent ways.
+A =
+

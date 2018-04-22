@@ -1,0 +1,2160 @@
+4	'ampi	vtr.	touch
+8	'angtsìk	n.	hammerhead
+12	'aw	num.	one
+20	'awkx	n.	cliff
+24	'awpo	pn.	one individual
+28	'awsiteng	adv.	together
+32	'awve	adj.	first (ordinal)
+36	'e'al	adj.	worst
+44	'eko	vtr.	attack
+48	'ekong	n.	beat (rhythmic)
+52	'engeng	adj.	level
+56	'eveng	n.	child
+60	'evi	n.	kid (affectionate form of)
+64	'ewan	adj.	young
+68	'eylan	n.	friend
+76	'ì'awn	vin.	remain, stay
+80	'ìheyu	n.	spiral
+84	'Ìnglìsì	n.	English language
+88	'it	n.	bit, a small amount
+92	'itan	n.	son
+96	'ite	n.	daughter
+100	'ok	n.	remembrance
+104	'ong	v.	unfold, blossom
+108	'u	n.	thing (object, fact, abstraction)
+112	'upe	inter.	what (thing)
+116	'upxare	n.	message
+120	a	part.	clause  level attributive marker
+128	alaksi	adj.	ready
+140	lìm	svin.	be far
+152	apxa	adj.	large
+160	atan	n.	light
+172	atokirina'	n.	seeds of the great tree
+176	atxkxe	n.	land
+180	au	n.	drum (made of skin)
+184	aungia	n.	sign, omen
+188	awaiei	n.	banshee of paradise
+192	awnga	pn.	we
+204	ayfo	pn.	they
+208	aynga	pn.	you all, you (pl.)
+212	ayoe	pn.	we, us (exclusive)
+216	ayoeng	pn.	we, us (inclusive)
+224	äie	n.	vision (spiritual)
+240	äo	adp.	under, below
+244	ätxäle	n.	request
+248	ätxäle si	vin.	request (with tsnì clause for object)
+256	ean	adj.	blue, green
+264	eltu	n.	brain
+268	eltu si	vin.	pay attention, quit goofing off
+272	eltungawng	n.	brainworm
+280	emza'u	vtr.	pass (a test), overcome
+284	eo	adp.	before, in front of (place)
+296	eyawr	adj.	correct, right
+300	eyaye	n.	warbonnet
+304	eyk	vtr.	lead
+308	eyktan	n.	leader
+324	fa	adp.	with, by means of
+328	fahew	n.	smell
+348	fìfya	adv.	this way, like this
+352	fìkem	pn.	this (action)
+356	fìpo	pn.	this one person or thing
+360	fìtxan	adv.	so, to such an extent
+364	fìtseng	adv., n.	here, this place
+365	fìtsenge	adv., n.	here, this place
+368	fì'u	pn.	this (thing)
+372	fkarut	v.	peel
+376	fkew	adj.	mighty
+380	fko	pn.	one, they (singular usage) (unspecified agent)
+384	flä	vin.	succeed
+388	fmawn	n.	news, something to report
+392	fmetok	vtr.	test
+396	fmi	vtrm.	try, attempt
+400	fngap	n.	metal
+404	fngapsutxwll	n.	metalfollowing plant
+408	fnu	vin.	quiet, be quiet
+412	fo	pn.	they
+416	fpak	v.	hold off, suspend action
+420	fpe'	vtr.	send
+424	fpeio	n.	challenge (ceremonial)
+428	fpi	adp.	for the sake of, for the benefit of
+432	fpìl	vtr.	think
+436	fpom	n.	wellbeing, peace, happiness
+440	fpxafaw	n.	medusa
+444	fpxäkìm	vin.	enter
+452	fra'u	pn.	everything
+456	frakrr	adv.	always, all the time
+460	frapo	pn.	everyone
+464	frrfen	vtr.	visit
+468	frrtu	n.	guest, visitor
+472	ftang	vim.	stop
+476	fte	conj.	so that, in order to
+480	fteke	conj.	so that not, lest
+484	ftia	vtr.	study
+488	ftxì	n.	tongue
+492	ftxozä	n.	celebration, happy occasion
+496	ftu	adp.	from (direction)
+500	ftue	adj.	easy, simple
+504	ftxavang	adj.	passionate
+508	ftxey	vtr.	choose
+512	fu	conj.	or
+516	futa	pn., sbd.	that
+520	fwa	pn., sbd.	that (subordinate clause marker)
+528	fya'o	n.	path, way, manner
+532	fyape	inter.	how
+536	fyawìntxu	vin.	guide (with dative of thing guided)
+540	ha	adv.	so, in that case
+544	hahaw	vin.	sleep
+548	hapxì	n.	part
+552	hasey	adj.	done, finished
+556	hawnu	vtr.	protect, shelter
+560	hì'i	adj.	small, little (in size)
+564	hiyìk	adj.	funny, strange
+568	hol	adj.	few
+572	holpxay	n.	number
+576	hrrap	n.	danger
+580	hu	adp.	with (accompaniment)
+584	hufwe	n.	wind
+588	hum	vin.	leave, depart
+592	i'en	n.	stringed instrument
+604	ikran	n.	banshee
+608	ikranay	n.	forest banshee
+612	ioang	n.	animal, beast
+616	irayo	n., intj.	thank you, thanks
+648	ìlä	adp.	by, via, following, according to
+676	ka	adp.	across, covering thoroughly
+680	kä	vin.	go
+684	kali'weya	n.	species of poisonous arachnid
+688	kalin	adj.	sweet to the taste
+692	kaltxì	intj.	hello
+696	kämakto	v.	ride out
+700	kame	vtr.	see, see into, understand, know (spiritual sense)
+704	kan	vtrm., vtr.	aim, to intend; aim, to direct a weapon or other object at a target
+708	kangay	adj.	valid
+712	kar	vtr.	teach
+716	karyu	n.	teacher
+720	kato	n.	rhythm
+728	kawkrr	adv.	never
+732	kawng	adj.	bad, evil
+736	kawtu	pn.	noone
+740	ke	adv.	not
+748	ke'u	pn.	nothing
+752	kehe	part., intj.	no
+756	kelku	n.	home, house
+760	kelku si	vin.	live, dwell
+768	kem	n.	thing (action), deed
+772	kempe	inter.	what (action)
+776	kenong	vin.	model, represent, exemplify (ii)
+780	kerusey	adj.	dead
+784	ketuwong	n.	alien
+788	kewong	adj.	alien
+792	keye'ung	n.	insanity
+800	kifkey	n.	world (physical, solid)
+804	kilvan	n.	river
+808	kìm	vtr.	spin, to spin (something)
+812	kin	vtr.	need
+820	kinam	n.	leg
+824	kinamtil	n.	knee
+828	kìng	n.	thread
+832	kip	adp.	among
+836	kìte'e	n.	service
+848	kllfro'	svin.	be responsible
+852	kllkulat	vtr.	dig up
+856	kllkxem	vin.	stand
+860	kllpxìltu	n.	territory
+864	kllte	n.	ground
+868	ko	part.	solicit agreement
+872	kop	adv.	too, also, additionally
+876	koren	n.	rule, guideline
+880	krr	n.	time
+888	krrnekx	vin.	take/consume time (ii)
+892	krrpe	inter.	when
+896	kunsìp	n.	gunship
+900	kurakx	vtr.	drive out
+904	kxam	n.	middle, midpoint
+908	kxamtseng	n.	center, place in the middle
+912	kxangangang	intj.	boom (onomatopoeic)
+916	kxanì	adj.	forbidden
+920	kxawm	adv.	perhaps, maybe
+924	kxener	n.	smoke
+928	kxetse	n.	tail
+932	kxeyey	n.	error, mistake
+936	kxll	n.	charge, running attack
+952	lahe	adj.	other, else
+956	lam	vin.	seem, appear
+960	lapo	pn.	other one person or thing
+964	latem	vin.	change
+968	law	adj.	clear, certain
+976	lefpom	adj.	happy, peaceful, joyous, pleasant
+980	lertu	n.	colleague
+984	letrr	adj.	daily
+988	letsunslu	adj.	possible
+996	lì'u	n.	word
+1000	lì'fya	n.	language
+1008	lok	vtr.	approach
+1020	lonu	vtr.	release, let go
+1024	lor	adj.	beautiful, pleasant to the senses
+1028	loreyu	n.	helicoradian, beautiful spiral
+1036	lrrtok	n.	smile
+1040	lrrtok si	vin.	smile
+1044	lu	vin., svin.	be, am, is, are
+1048	lun	n.	reason
+1052	lumpe	inter.	why
+1056	ma	part.	O (vocative marker)
+1060	makto	vtr.	ride
+1068	mawey	adj.	calm
+1076	mefo	pn.	they, those two
+1080	menari	n.	eyes (two)
+1084	meoauniaea	n.	harmony, living at one with nature
+1088	meuia	n.	honor
+1092	meyp	adj.	weak
+1096	mi	adv.	yet, still, as before
+1100	mip	adj.	new
+1104	mikyun	n.	ear
+1108	mì	adp.	in, on
+1112	mìn	vin.	turn, rotate on an axis
+1116	mìso	adv.	away (position)
+1120	mllte	vin.	agree
+1132	moe	pn.	we two, us two (exclusive)
+1136	mokri	n.	voice
+1144	muiä	adj.	proper, fair, right, justified
+1148	mun'i	v.	cut
+1152	mune	num.	two
+1156	munge	vtr.	take, bring
+1160	mungwrr	adp.	except
+1164	muntxa	adj.	mated, married
+1168	na	adp.	like, as
+1172	na'rìng	n.	forest
+1176	Na'vi	prop.n.	the People, indigenous Pandoran sentient race
+1180	nang	part.	surprise, exclamation, encouragement (mirative)
+1184	nantang	n.	viperwolf Caniferratus costatus, striped armored wolf
+1188	nari	n.	eye
+1192	nari si	vin.	watch out, be careful
+1196	nawm	adj.	great, noble
+1200	ne	adp.	to, towards (direction)
+1208	ne'ìm	adv.	back (direction)
+1212	nekx	vtr.	burn, consume
+1220	neto	adv.	away (direction)
+1224	new	vtrm.	want
+1232	niä	vtr.	grab
+1244	nì'aw	adv.	only
+1248	nìawnomum	adv.	as you know, as is known (casual speech [naw.no.mum])
+1252	nì'awtu	adv.	alone (as one person)
+1256	nì'awve	adv.	first
+1260	nì'it	adv.	a bit, a small amount (abstract)
+1264	nì'ul	adv.	more
+1268	nìayoeng	adv.	like us, as we do (casual speech [naj.wEN])
+1272	nìftue	adv.	easily
+1276	nìftxavang	adv.	passionately, with all heart
+1280	nìhawng	adv.	too, excessively
+1284	nìltsan	adv.	well
+1288	nìmun	adv.	again
+1292	nìn	vtr.	look at
+1296	nìngay	adv.	truly
+1300	nìtam	adv.	enough
+1304	nìteng	adv.	too, also, as well, likewise
+1308	nìtut	adv.	continually
+1312	nìtxan	adv.	much (abstract), very
+1316	nìwin	adv.	fast,  quickly
+1320	nìwotx	adv.	all (of), in toto, completely
+1332	nulkrr	adv.	longer (time)
+1336	nulnew	vtrm.	prefer (ii)
+1340	nume	vin.	learn
+1348	nga	pn.	you
+1352	ngawng	n.	worm
+1356	ngay	adj.	true
+1360	ngenga	pn.	you (honorific form)
+1364	ngim	adj.	long (physical length)
+1368	ngop	vtr.	create
+1372	ngrr	n.	root
+1376	nguway	n.	howl, viperwolf cry
+1380	oe	pn.	I, me
+1384	oeng	pn.	we two, us two (dual inclusive), you and I
+1388	oeyk	n.	cause
+1392	ohe	pn.	I (deferential or ceremonial form)
+1404	olo'	n.	clan
+1408	olo'eyktan	n.	clan leader
+1420	omum	vtr.	know
+1428	ontu	n.	nose
+1432	pähem	vin.	arrive
+1436	pak	part.	disparagement
+1440	pa'li	n.	direhorse
+1444	palulukan	n.	thanator
+1448	pam	n.	sound
+1452	pamtseo	n.	music
+1456	pamtseowll	n.	cat ear, music plant
+1460	pängkxo	vin.	chat, converse, have a conversation
+1468	pänutìng	vtr.	promise (a thing to someone) (ii)
+1472	pätsì	n.	badge
+1476	pawm	v.	ask
+1480	pay	n.	water, liquid
+1484	paywll	n.	water plant, dapophet
+1488	pe	affix	inter. marker
+1492	pe'un	vtr.	decide
+1496	pefya	inter.	how
+1500	pehem	inter.	what (action)
+1504	pehrr	inter.	when
+1508	pelun	inter.	why
+1512	peng	vtr.	tell
+1516	penghrrap	n.	binary sunshine, fringed lamp
+1520	peseng	inter.	where
+1524	pesu	inter.	who
+1528	peu	inter.	what (thing)
+1532	pey	vin.	wait, wait for
+1540	pizayu	n.	ancestor
+1544	plltxe	v.	speak
+1548	po	pn.	he, she
+1552	poan	pn.	he (no plural form: use (ay)fo)
+1556	poe	pn.	she (no plural form: use (ay)fo)
+1560	pongu	n.	a group or party of people
+1564	prrnen	n.	infant, baby
+1568	prrnesyul	n.	bud
+1572	prrte'	adj.	pleasurable (of an activity)
+1580	pxan	adj.	worthy
+1584	pxasìk	intj.	screw that!, no way! (vulgar)
+1588	pxasul	adj.	fresh, appealing as food
+1592	pxay	adj.	many
+1604	pxey	num.	three
+1608	pxi	adj.	sharp (as a point)
+1612	pxìm	adv.	often
+1616	pxiut	n.	razor palm, sharp tree
+1620	pxorna'	n.	episoth, exploding seed
+1624	pxun	n.	arm
+1628	pxuntil	n.	elbow
+1632	rä'ä	part.	do not (for negative imperatives, commands only)
+1640	ral	n.	meaning
+1644	ralpeng	vtr.	interpret (ii)
+1656	rawke	intj.	alarm cry, call to defense
+1660	rel	n.	image, picture
+1664	reltseo	n.	visual art
+1668	reltseotu	n.	artist (visual) 
+1672	renu	n.	pattern
+1676	rey	vin.	live
+1684	rikx	vin.	move, shift position
+1688	rim	adj.	yellow
+1692	rina'	n.	seed
+1696	riti	n.	stingbat
+1700	rol	v.	sing
+1708	ronsem	n.	mind
+1716	rum	n.	ball
+1720	rumut	n.	ball tree
+1724	run	vtr.	find, discover
+1728	rutxe	intj.	please
+1736	sa'nok	n.	mother
+1740	sa'nu	n.	mum, mommy (affectionate form of)
+1748	san	adv.	saying, quote
+1752	sänume	n.	teaching, instruction
+1756	säspxin	n.	disease, sickness, illness
+1760	sempu	n.	daddy (affectionate form of)
+1764	sempul	n.	father
+1768	set	adv.	now
+1772	sevin	adj.	pretty
+1776	seyri	n.	lip
+1784	seze	n.	blue flower
+1788	si		auxiliary verb, postpositional nonbound verb do, make
+1792	sì	conj.	and (connects two things, can be attached as sì: for clauses use)
+1796	sìk	adv.	unquote
+1800	sìlpey	vin.	hope (with tsnì for thing hoped, unless in independent clause) (ii)
+1804	sìlronsem	adj.	clever, smart (thing)
+1808	sìltsan	adj.	good (of its kind), well done
+1820	ska'a	vtr.	destroy
+1824	skxawng	n.	moron, idiot
+1828	slä	conj.	but
+1832	slu	vin.	become (noun predicate with ne in ambiguous constructions)
+1836	sngä'i	vim.	begin, start
+1840	sngä'ikrr	n.	beginning, starting time
+1844	sngel	n.	garbage, trash, rubbish
+1848	sngeltseng	n.	rubbish place, garbage dump
+1852	snumìna	adj.	dim
+1856	som	adj.	hot
+1860	somtìlor	n.	popsicle, hot beauty
+1864	spaw	vtr.	believe
+1868	spxam	n.	mushroom, fungus
+1872	spe'e	vtr.	capture
+1876	spe'etu	n.	captive
+1880	spxin	adj.	sick
+1884	srak	part.	inter. marker for yes or no questions
+1885	srake	part.	inter. marker for yes or no questions
+1888	srane	part., intj.	yes
+1892	srew	vin.	dance
+1896	srung	n.	help, assistance
+1900	stawm	vtr.	hear
+1904	steftxaw	vtr.	examine, check
+1908	stum	adv.	almost
+1912	sutx	vtr.	track, follow
+1916	swaw	n.	moment
+1920	swey	adj.	best
+1924	swirä	n.	creature
+1928	swizaw	n.	arrow
+1932	swok	adj.	sacred
+1936	swotu	n.	sacred place
+1944	syaw	vin.	call
+1948	syulang	n.	flower
+1956	ta	adp.	from (locative), from (temporal sense with other time words)
+1960	ta'em	adv.	from above
+1964	tafral	adv.	therefore, because of that
+1968	täftxu	vtr.	weave
+1972	täftxuyu	n.	weaver
+1976	takuk	vtr.	strike, beat, slap
+1980	talioang	n.	sturmbeest
+1984	talun	conj.	because, from the reason
+1985	taluna	conj.	because, from the reason
+1988	tam	vin., intj.	that will suffice, that will do, OK
+1992	tam tam	intj.	calm, be content, there there
+1996	tangek	n.	trunk (of a tree)
+2000	tanhì	n.	star, bioluminescent freckle
+2004	taron	vtr.	hunt
+2008	taronyu	n.	hunter
+2016	tautral	n.	sky tree
+2020	taw	n.	sky
+2024	taweyk	conj.	because, based on the cause
+2025	taweyka	conj.	because, based on the cause
+2032	tawsìp	n.	skyship
+2036	tawng	vin.	duck, dive
+2040	tawtsngal	n.	panopyra, sky cup
+2044	Tawtute	prop.n.	Skyperson, human
+2048	te	part.	used in full names
+2056	tel	vtr.	receive
+2060	telem	n.	cord
+2064	teng	adj.	same, equal
+2068	tengfya	conj.	as, same way as (situational similarity)
+2072	tengkrr	conj.	while, same time as
+2080	teri	adp.	about, concerning
+2084	terkup	vin.	die
+2088	teswotìng	vtr.	grant (ii)
+2092	teya	adj.	full
+2096	teylu	n.	beetle larva
+2100	tewti	intj.	wow, expression of surprise and pleasure
+2108	til	n.	joint, hinge
+2116	tirea	n.	spirit
+2120	tireafya'o	n.	spirit path
+2124	tireaioang	n.	spirit animal
+2128	tireapängkxo	v.	commune
+2136	tì'eyng	n.	answer, response
+2140	tìfmetok	n.	test
+2144	tìftang	n.	stopping, the glottal stop
+2148	tìfyawìntxu	n.	guidance
+2152	tìhawnu	n.	protection
+2156	tìkangkem	n.	work
+2160	tìkawng	n.	evil
+2164	tìkenong	n.	example
+2168	tìkin	n.	need
+2172	tìlor	n.	beauty
+2176	tìng	vtr.	give
+2180	tìng mikyun	vin.	listen
+2184	tìng nari	vin.	look
+2188	tìngay	n.	truth
+2192	tìpawm	n.	question
+2196	tìran	vin.	walk
+2200	tìyawn	n.	love
+2204	tìrey	n.	life
+2208	tìrol	n.	song (vocal)
+2212	tìspxin	n.	the state of being ill, sickness
+2220	tìtxur	n.	strength, power
+2224	to	part.	comparative marker than (behaves like an adp.)
+2232	tok	vtr.	be at, occupy a space
+2236	toktor	n.	doctor
+2240	tokx	n.	body
+2244	tompa	n.	rain
+2248	toruk	n.	great leonopteryx, last shadow
+2252	toruk makto	n.	toruk rider
+2256	torukspxam	n.	octoshroom, great leonopteryx fungus
+2260	trr	n.	day
+2264	trram	adv.	yesterday
+2276	tukru	n.	spear
+2280	tul	vin.	run
+2284	tung	vtr.	allow
+2288	tupe	inter.	who
+2292	tut	part.	continuation marker
+2296	tute	n.	person
+2300	tuté	n.	female (person)
+2304	tutan	n.	male (person)
+2316	tsa'u	dem.	that (thing)
+2320	tsaheylu	n.	bond (neural connection)
+2328	tsakem	dem.	that (action)
+2332	tsakrr	adv.	then, at that time, that time
+2336	tsam	n.	war
+2340	tsampongu	n.	war party
+2344	tsamsiyu	n.	warrior
+2348	tsap'alute	n.	apology
+2352	tsatseng	dem., n.	there, that place
+2356	tsatu	dem.	that person
+2360	tsawke	n.	sun
+2364	tsawl	adj.	big (in size), tall
+2368	tsawlapxangrr	n.	unidelta tree, lit. tall large root
+2376	tse'a	vtr.	see (physical sense)
+2380	tseng	n.	place
+2381	tsenge	n.	place
+2384	tsengpe	inter.	where
+2388	tseo	n.	art
+2404	tskalep	n.	crossbow
+2408	tsko	n.	bow (weapon)
+2412	tsko swizaw	n.	bow and arrow
+2416	tskxe	n.	rock, stone
+2420	tskxekeng	n.	training, exercise
+2424	tslam	vtr.	understand
+2428	tsleng	adj.	false
+2432	tslolam	intj.	get it, I understand
+2436	tsmuk	n.	sibling
+2440	tsmuktu	n.	sibling
+2444	tsmukan	n.	brother
+2448	tsmuke	n.	sister
+2452	tsnì	sbd.	that (function word)
+2456	tsngal	n.	cup
+2460	tspang	vtr.	kill
+2464	tsranten	vin.	matter, be of importance
+2468	tstew	adj.	brave
+2472	tstxo	n.	name
+2476	tsun	vim.	can, be able
+2484	tswayon	vin.	fly
+2488	tsyal	n.	wing
+2492	tsyo	n.	flour
+2496	tsyorina'wll	n.	cycad, flour seed plant
+2500	txan	adj.	much
+2504	txantsan	adj.	excellent
+2508	txantslusam	adj.	wise
+2512	txe'lan	n.	heart
+2516	txele	n.	matter (subject)
+2520	txen	adj.	awake
+2524	txep	n.	fire
+2528	txewk	n.	club (weapon)
+2532	txey	v.	halt
+2536	txìm	n.	butt, rear end, ass
+2540	txìng	vtr.	leave, abandon
+2544	txll'u	n.	hookagourd
+2548	txo	conj.	if
+2552	txoa	n.	forgiveness
+2556	txokefyaw	conj.	if not, or else, otherwise
+2560	txon	n.	night
+2564	txopu	n.	fear
+2568	txula	vtr.	build, construct
+2572	txum	n.	poison
+2576	txumpaywll	n.	scorpion thistle, poison water plant
+2580	txumtsä'wll	n.	Baja tickler, poisonsquirting plant
+2584	txur	adj.	strong (physically)
+2592	ulte	conj.	and (clausal conjunction)
+2596	ultxa	n.	meeting
+2600	unil	n.	dream
+2608	uniltìrantokx	n.	avatar, dreamwalker body
+2612	uniltìranyu	n.	dreamwalker
+2628	utral	n.	tree
+2644	uvan	n.	game
+2648	uvan si	vin.	play (a game)
+2656	vay	adp.	up to
+2660	virä	v.	spread, proliferate
+2684	vrrtep	n.	demon
+2688	vul	n.	branch (of a tree)
+2692	way	n.	song (ancient, ceremonial)
+2696	waytelem	n.	song cord
+2700	win	adj.	fast
+2704	wìntxu	vtr.	show
+2708	'ewll	n.	plant
+2716	wrrpa	n., adv.	outside
+2720	wutso	n.	dinner, served meal
+2724	ya	n.	air
+2732	yawne	adj.	beloved
+2736	ye'rìn	adv.	soon
+2744	yerik	n.	hexapede
+2748	yey	adj.	straight
+2752	yìm	vtr.	bind
+2756	yol	adj.	short (of time)
+2760	yom	vtr.	eat
+2764	yomhì'ang	n.	small animal/insect eater, dakteron
+2768	yomioang	n.	chalice plant
+2772	yomtìng	vin.	feed (with dative object) (ii)
+2780	yur	vtr.	wash
+2788	za'ärìp	vtr.	pull
+2792	za'u	vin.	come
+2800	zamunge	vtr.	bring
+2804	zawng	vin.	scream
+2808	zekwä	n.	finger
+2812	zene	vim.	must
+2816	zìsìt	n.	year
+2820	zong	vtr.	save, defend
+2824	zongtseng	n.	safe place, refuge
+2828	zoplo	n.	offence, insult
+2832	zusawkrr	n.	future
+3064	Jakesully	n.	moron, toruk maktoyu
+3664	'ärìp	vtr.	move
+3668	'awstengyem	vtr.	bind / bring two or more things together (ii)
+3672	'efu	vtr.	feel, sense, perceive
+3676	'em	vtr.	cook
+3680	'eyng	v.	answer, respond
+3684	'i'a	vin.	end, conclude
+3688	'ia	vin.	lose oneself (spiritual sense)
+3696	fkxake	v.	itch
+3700	fmal	vtr.	sustain
+3704	frìp	vtr.	bite
+3708	ftem	vtr.	pass by (something)
+3712	fwew	vtr.	look for, seek, search
+3716	hangham	vin.	laugh
+3720	vaykrr	conj.	until
+3740	sngap	vtr.	sting
+3744	hawl	vtr.	prepare
+3748	kä'ärìp	vtr.	push
+3752	kavuk si	vin.	betray
+3756	kllkä	vin.	go down, descend
+3760	latsi	v.	keep up with someone
+3764	lek	vtr.	heed, obey
+3768	len	vin.	happen, occur
+3772	lew si	vin.	cover
+3776	muntxa si	vin.	mate (with someone), marry
+3780	näk	vtr.	drink
+3784	nong	vtr.	follow, proceed after
+3788	oeyktìng	vtr.	explain (why) (ii)
+3792	pate	v.	get to a place, arrive
+3796	piak si	vin.	open
+3800	pom	vtr.	kiss
+3804	pxor	vin.	explode
+3808	salew	v.	proceed, go
+3812	sar	vtr.	use
+3816	sim	svin.	be near
+3820	sleyku	vtr.	produce
+3824	sop	vin.	travel
+3828	spä	v.	jump
+3832	speng	vtr.	restore
+3836	spule	vtr.	propel
+3840	srese'a	vtr.	prophetize, prophesize, prophesy, predict
+3844	steyki	vtr.	anger, make someone angry
+3848	sti	vin.	anger (intransitive), be angry
+3852	sto	vtrm.	refuse (to do something)
+3856	sung	vtr.	add
+3860	syep	vtr.	trap
+3864	tatep	vtr.	lose track, lose awareness of something
+3868	tätxaw	vin.	return
+3872	tem	vin.	shoot
+3876	tì'awm si	vin.	camp
+3880	tì'awm	n.	camping
+3884	tìkangkem si	vin.	work
+3888	tìng tseng	vin.	back down, give ground
+3892	tìsraw seyki	vtr.	hurt (someone or something)
+3896	tìsraw	n.	pain
+3900	tìsraw si	vin.	hurt, be painful
+3904	toltem	vtr.	shoot
+3908	tsä'	v.	squirt
+3912	tsaheyl si	vin.	bond with, establish a neural connection
+3916	tsap'alute si	vin.	apologise (apologize)
+3920	tsawl slu	vin.	grow
+3924	tsngawvìk	vin.	cry, weep
+3928	tsre'i	vtr.	throw
+3932	tstu si	vin.	close
+3936	tsunslu	vin.	may, be possible
+3940	tsurokx	vin.	rest
+3944	tungzup	vtr.	drop
+3948	wem	vin.	fight
+3952	win säpi	vin.	hurry
+3956	win si	vin.	rush something, make something fast
+3960	yän	vtr.	fasten, tie down
+3964	yem	vtr.	put, place
+3968	zenke	vim.	must not (ii)
+3972	zup	vin.	fall
+3976	nekll	adv.	down (direction)
+3980	srung si	vin.	help
+3984	txopu si	vin.	be afraid
+4008	fkip	adp.	up among
+4016	io	adp.	over,  above
+4020	kxamlä	adp.	through (via the middle of)
+4024	lok	adp.	close to
+4028	maw	adp.	after (time)
+4032	mìkam	adp.	between
+4036	nemfa	adp.	into, inside
+4040	pxaw	adp.	around
+4044	pxel	adp.	like, as
+4048	sìn	adp.	on, onto
+4052	takip	adp.	from among
+4056	uo	adp.	behind
+4060	luke	adp.	without
+4064	tafkip	adp.	from up among
+4068	ro	adp.	at (locative)
+4072	sre	adp.	before (time)
+4076	wä	adp.	against (as in: fight against)
+4084	fäpa	n.	top
+4088	alìm	adv.	far away, at a distance
+4092	aylaru	pn.	to the others
+4100	kxu	n.	harm
+4104	eltu lefngap	n.	computer
+4108	kì'ong	adj.	slow
+4112	säfpìl	n.	idea
+4116	kefyak	part.	isn't it?, right?
+4124	prrwll	n.	moss
+4128	pängkxoyu lekoren	n.	lawyer
+4132	pamrel	n.	writing
+4136	pamrel si	vin.	write
+4140	furia	pn., sbd.	that
+4144	fratseng	adv.	everywhere
+4148	fratrr	adv.	daily, every day
+4152	frato	part.	superlative marker than all
+4156	trray	adv.	tomorrow
+4160	kea	adj.	no (before a noun)
+4164	ngian	adv.	however
+4168	skepek	adj.	formal
+4172	hufwa	conj.	although
+4176	tup	conj.	instead of, rather than
+4180	'uo	pn.	something
+4184	tuteo	pn.	somebody, someone
+4188	tsengo	pn.	somewhere
+4192	holpxaype	inter.	how many
+4196	hìm	adj.	small (in quantity)
+4200	hìmtxampe	inter.	how much
+4204	hìmtxan	n.	amount
+4208	pìmtxan	inter.	how much
+4212	lì'upe	inter.	what (word, utterance)
+4216	pelì'u	inter.	what (word, utterance)
+4220	ultxarun	vtr.	encounter, meet by chance (ii)
+4224	ultxa si	vin.	meet with someone intentionally (use hu with)
+4228	rangal	vin.	wish
+4232	nìrangal	adv.	wish (contrary to fact, with perfective or imperfective subjunctive)
+4236	txepvi	n.	spark
+4240	nitram	adj.	happy (of people)
+4244	fewi	vtr.	chase
+4248	stä'nì	vtr.	catch
+4272	sran	part., intj.	yes (colloquial)
+4276	weyn	vtr.	draw, illustrate
+4280	fìtrr	adv.	today
+4284	rusey	adj., n.	alive, living, living thing
+4288	vitra	n.	soul
+4292	nìzawnong	adv.	safely
+4296	ftawnemkrr	n.	past
+4304	txal	n.	back (of the body)
+4308	tsìng	num.	four
+4312	mrr	num.	five
+4316	pukap	num.	six
+4320	kinä	num.	seven
+4324	vol	num.	eight
+4328	zam	num.	sixty four
+4332	tìoeyktìng	n.	explanation
+4336	lesar	adj.	useful
+4340	tse	part.	well (conversation starter)
+4344	skxom	n.	chance, opportunity
+4348	fkxen	n.	vegetable (food)
+4352	syä'ä	adj.	bitter
+4356	yemfpay si	vin.	dip into liquid
+4360	yemfpay	n.	dipping, immersion (into liquid)
+4364	keng	adv.	even, so much as
+4368	'awlo	adv.	once
+4372	melo	adv.	twice
+4380	heyn	vin.	sit
+4384	nìpxim	adv.	erectly, rightly
+4388	pxim	adj.	erect, upright
+4392	tuvon	v.	lean
+4396	nìfya'o	adv.	in a manner
+4400	letrrtrr	adj.	ordinary
+4404	nì'eoio	adv.	ceremoniously
+4408	'eoio	adj.	ceremonious
+4412	rìk	n.	leaf
+4416	lerìk	adj.	leafy
+4424	pa'o	n.	side
+4432	kllpa	n.	bottom
+4436	mìfa	n., adv.	inside
+4440	nefä	adv.	up (direction)
+4444	zapxì	n.	front (part or section)
+4448	käpxì	n.	rear (part or section)
+4452	käsatseng	adv.	out there
+4456	ftxey	conj.	whether, or
+4460	ngaytxoa	intj.	sorry, my apologies (acknowledgment of guilt and regret)
+4464	flew	n.	throat
+4468	kxa	n.	mouth
+4472	nikre	n.	hair
+4476	pewn	n.	neck
+4480	re'o	n.	head
+4484	sre'	n.	tooth
+4488	tsuksìm	n.	chin
+4492	key	n.	face
+4496	puk	n.	book
+4500	ngäng	n.	stomach
+4504	ta'leng	n.	skin
+4508	tsyokx	n.	hand
+4512	reypay	n.	blood
+4516	tsopì	n.	lung
+4520	venu	n.	foot
+4524	venzek	n.	toe
+4528	ramunong	n.	well
+4532	payfya	n.	stream
+4536	pxawpa	n.	perimeter, circumference, border
+4540	txampay	n.	sea, ocean
+4544	'ora	n.	lake
+4548	ekxan	n.	barricade, obstruction
+4552	tsim	n.	source
+4556	tsray	n.	village
+4560	txayo	n.	field, open terrain, plain
+4564	ukxo	adj.	dry
+4568	wew	adj.	cold
+4576	fìtxon	adv., n.	tonight
+4580	txonam	adv.	last night
+4584	txonay	adv.	tomorrow night
+4588	sekrr	n.	present
+4592	vur	n.	story
+4596	tìpängkxo	n.	conversation, discussion
+4600	tìsrese'a	n.	prophecy
+4604	nawmtu	n.	great person
+4608	txantstew	n.	hero
+4620	syuve	n.	food (collective noun, cannot be pluralised)
+4624	tsngan	n.	meat
+4628	tstal	n.	knife
+4632	tete	adj.	dull (as a blade)
+4636	lew	n.	cover, lid
+4640	'opin	n.	color
+4644	leNa'vi	adj.	having to do with the Na'vi, the People
+4648	nìNa'vi	adv.	like the Na'vi, Na'vily
+4652	hapxìtu	n.	member
+4656	'Rrta	prop.n.	Earth
+4660	fwäkìwll	n.	mantis orchid
+4664	hì'ang	n.	insect
+4668	payoang	n.	fish
+4672	yayo	n.	bird
+4676	zize'	n.	hellfire wasp
+4680	kemlì'u	n.	verb
+4684	tstxolì'u	n.	noun
+4688	ftär	adj.	left (not right)
+4692	skien	adj.	right (not left)
+4696	'änsyem	adj.	complete
+4700	wotx	n.	totality, whole
+4704	mowan	adj.	pleasing, enjoyable (physically, sexually)
+4708	vä'	adj.	unpleasant to the senses, noisome
+4712	tatlam	adv.	apparently
+4716	keteng	adj.	different
+4720	numtseng	n.	school
+4724	skxakep	adj., adv.	probable, probably
+4728	tìprrte'	n.	pleasure
+4740	kaw'it	adv.	not at all, not a bit (used with ke; see ke kaw'it not...at all in phrases)
+4744	nìlkeftang	adv.	continuously, incessantly, without stopping
+4748	tì'i'avay	adv.	until the end
+4756	'awm	n.	camp
+4760	tìska'a	n.	destruction
+4764	tìsop	n.	journey
+4768	wempongu	n.	squad, military clan, battle party
+4772	asim	adv.	nearby, at close range
+4776	klltseng	n.	position
+4780	kxutu	n.	enemy
+4784	mekre	n.	supplies
+4788	tìhawl	n.	preparations, plan
+4792	tìkan	n.	aim, goal, purpose, target
+4796	tìpähem	n.	arrival
+4800	numeyu	n.	student
+4804	soaia	n.	family (irregular genitive form soaiä)
+4808	tìmuntxa	n.	mating, marriage
+4812	yawnetu	n.	loved one
+4816	yawntu	n.	loved one
+4820	kakrel	adj.	blind
+4824	kanu	adj.	smart, intelligent
+4828	koak	adj.	old, aged (for living things)
+4832	lekye'ung	adj.	insane, crazy
+4836	me'em	adj.	harmonious
+4840	txanew	adj.	greedy
+4844	txantur	adj.	powerful
+4848	tì'awpo	n.	individuality (negative connotation), selfishness
+4852	tì'eylan	n.	friendship
+4856	fkay	adj.	hateful
+4860	keltsun	adj.	impossible
+4864	kxuke	adj.	safe
+4868	lehawng	adj.	excessive
+4872	hawng	n.	overabundance
+4876	lekin	adj.	necessary
+4884	stxong	adj.	strange, unfamiliar, unknown
+4888	syen	adj.	last, final
+4892	kavuk	n.	treachery
+4896	fpìlfya	n.	thought pattern, way of thinking
+4900	syay	n.	fate
+4904	tìfnu	n.	quiet, silence
+4908	tìngop	n.	abstract idea of a creation
+4912	tìpe'un	n.	decision
+4916	kxitx	n.	death
+4920	trr'awve	n.	Sunday
+4924	trrmuve	n.	Monday
+4928	trrpxeyve	n.	Tuesday
+4932	trrtsìve	n.	Wednesday
+4936	trrmrrve	n.	Thursday
+4940	trrpuve	n.	Friday
+4944	trrkive	n.	Saturday
+4948	'ango	adj.	soft (of a sound)
+4952	kxayl	adj.	high
+4956	rey'eng	n.	the Balance of Life
+4960	tìme'em	n.	harmony (general sense)
+4964	fnel	n.	kind, type
+4972	fnepe	inter.	which kind
+4976	pefnel	inter.	which kind
+4980	zerok	vtr.	remember
+4984	tswa'	vtr.	forget
+4988	tì'efu	n.	feeling
+4996	maweypey	svin.	be patient (ii)
+5000	tìmweypey	n.	patience
+5004	lemweypey	adj.	patient
+5008	nìmweypey	adv.	patiently
+5012	tsakrrvay	adv.	until then, in the meantime
+5016	ohakx	adj.	hungry
+5020	tìohakx	n.	hunger
+5028	tsyosyu	n.	food made from flour
+5032	vey	n.	food made from animal origin, flesh
+5036	trrpeve	inter.	which day (derived from trr day and pe interrogative marker and ve ordinal number marker)
+5056	pxiswawam	adv.	just a moment ago
+5060	pxiset	adv.	right now
+5064	pxiswaway	adv.	in just a second from now
+5068	pxiye'rìn	adv.	immediately (not as soon as pxiswaway)
+5072	pxisre	adp.	right before
+5076	pximaw	adp.	right after
+5080	sok	adj.	recent
+5084	'awlie	adv.	once (in the past)
+5088	tìkxey	n.	incorrectness, mistakeness
+5092	tìkxey si	vin.	mess up, foul, do wrong
+5100	tìyawr	n.	correctness
+5108	tìketeng	n.	difference
+5112	fpomtokx	n.	health (physical)
+5116	lefpomtokx	adj.	healthy (physically) 
+5120	kelfpomtokx	adj.	unhealthy (physically)
+5124	keftxo	adj., intj.	unhappy, upset, 'How sad!'
+5128	nìkeftxo	adv.	unfortunately, sadly
+5132	sraw	adj.	painful
+5136	txampxì	n.	majority, most, large part
+5140	vurvi	n.	summary, synopsis
+5144	sänumvi	n.	lesson
+5152	letam	adj.	sufficient
+5156	letsranten	adj.	important
+5160	nìswey	adv.	optimally, best
+5164	nìpxi	adv.	especially, pointedly, unambiguously
+5168	wok	adj.	loud
+5172	spuwin	adj.	old, former
+5176	nì'eyng	adv.	back, in response, in answer
+5180	nìkanu	adv.	intelligently, in a smart way
+5184	nìlaw	adv.	clearly
+5188	tìsti	n.	anger
+5192	tìtxanew	n.	greed
+5196	tìftxey	n.	choice
+5200	tìkanu	n.	intelligence
+5204	tìlam	n.	appearance
+5208	tìtslam	n.	understanding, intelligence
+5212	tìtxula	n.	construction, constructed thing
+5216	hewne	adj.	soft (of an object)
+5220	tìm	adj.	low
+5224	laro	adj.	clean
+5228	tsewtx	adj.	dirty
+5232	lefngap	adj.	metallic
+5236	txa'	adj.	hard
+5240	fwel	adj.	broken
+5244	etrìp	adj.	favorable, auspicious
+5248	piak	adj.	open, clear (for cloudless skies)
+5252	tstu	adj.	closed, shut, overcast (for cloudy skies)
+5256	kxll si	vin.	charge
+5268	tsaw	dem., pn.	that, it (as intransitive subject)
+5272	tsalsungay	adv.	nevertheless, even so
+5276	oìsss	intj.	angry snarl, 'watch it!'
+5280	saa	intj.	threatening cry
+5284	sau	intj.	exclamation upon exertion, urgh
+5288	tsahey	intj.	expression of warning or frustration, 'crap!', 'ah, hell!'
+5292	wiya	intj.	expression of warning or frustration, 'damn!'
+5296	ìley	intj.	war cry
+5304	vawm	adj.	dark
+5308	tìvawm	n.	darkness
+5312	polpxay	inter.	how many
+5316	ke'aw	adj.	divided, torn apart, striferidden
+5320	nìsti	adv.	angrily
+5324	teyr	adj.	white
+5328	layon	adj.	black
+5340	pänu	n.	promise
+5348	kew	num.	zero
+5352	'eyt	n.	the symbol 8 (not the value eight)
+5356	nayn	n.	the symbol 9 (not the value nine)
+5360	trr'ong	n.	dawn, sunrise
+5364	trr'ongmaw	n.	dawn after sunrise
+5368	rewon	n.	morning
+5372	srekamtrr	n.	the time before noon
+5376	kxamtrr	n.	midday, noon
+5380	kxamtrrmaw	n.	the time immediately after noon, early afternoon
+5384	ha'ngir	n.	afternoon
+5388	kaym	n.	evening (before twilight), late afternoon
+5392	sreton'ong	n.	dusk, evening before sunset
+5396	txon'ong	n.	nightfall, sunset, dusk, gloaming
+5400	txon'ongmaw	n.	twilight, the time before dark, after sunset
+5404	srekamtxon	n.	before midnight
+5408	kxamtxon	n.	midnight
+5412	kxamtxomaw	n.	after midnight
+5416	sresrr'ong	n.	before dawn
+5424	wou	svin.	be amazing, fascinating (slang)
+5428	tsyìräfì	n.	giraffe
+5432	tsawa	pn., sbd.	that
+5436	tsata	pn., sbd.	that
+5440	tsaria	pn., sbd.	that
+5444	alo	n.	time, turn, instance, one of a number of repeated or recurring actions
+5448	fralo	adv.	every time, every instance, each time
+5452	nìmwey	adv.	calmly, peacefully
+5456	ku'up	adj.	heavy (physical weight)
+5460	syo	adj.	light (physical weight), lightweight
+5464	hay	adj.	next
+5468	ham	adj.	previous
+5472	matsa	n.	matsa, crackers
+5476	hametsì	n.	leavened bread
+5528	tìkangkemvi	n.	project, piece of work
+5532	nì'i'a	adv.	finally, at long last
+5536	nìsyen	adv.	lastly
+5540	pìlok	n.	blog
+5544	tsulfätu	n.	master of an art, craft, or skill, expert
+5548	tsulfä	n.	mastery
+5552	tsulfä si	vin.	master
+5556	numtsengvi	n.	classroom, division of a school
+5560	rofa	adp.	beside, alongside
+5564	pum	pn.	one (placeholder pronoun referring to a previously mentioned noun or pronoun)
+5572	Yuesey	prop.n.	U.S.A.
+5576	teya si	vin.	fill (with dative of thing filled)
+5580	alunta	conj.	because, from the reason
+5588	nìprrte'	adv.	pleasurably, gladly, with pleasure
+5592	sngä'iyu	n.	beginner
+5596	srekrr	adv.	before, already, ahead of time
+5600	ayu	n.	things
+5604	tsafya	adv.	that way, like that
+5608	muve	adj.	second (ordinal)
+5612	pxeyve	adj.	third (ordinal)
+5616	tsìve	adj.	fourth (ordinal)
+5620	mrrve	adj.	fifth (ordinal)
+5624	puve	adj.	sixth (ordinal)
+5628	kive	adj.	seventh (ordinal)
+5632	volve	adj.	eighth (ordinal)
+5640	tsyänel	n.	TV channel
+5644	trrtxon	n.	the day and night cycle of Pandora
+5648	au	intj.	exclamation of consternation
+5656	pängkxoyu	n.	chatter, converser
+5660	lekoren	adj.	lawlike
+5664	prrkxentrrkrr	n.	day time smoking pleasure, vibrating tongue (Na'vi idiom)
+5668	tìftia	n.	study
+5672	tìftia kifkeyä	n.	science, the study of the physical world
+5676	pxir	n.	beer
+5680	eanean	n.	cheadle, herbaceous plant
+5684	'ele'wll	n.	thorny paw, cactus
+5688	tstxa'a	n.	canalyd
+5692	pa'liwll	n.	direhorse pitcher plant
+5696	anìheyu	n.	fibonacci, blue spiral plant
+5716	tompawll	n.	geode, rain plant
+5720	pxiwll	n.	hermit bud plant
+5724	syeptute	n.	hyneman, person trapper
+5728	kllpxiwll	n.	lionberry
+5732	smaoe	n.	phalanxia, heavily thorned plant
+5736	'ä'o	n.	pitcher plant
+5740	mulpxar	n.	roosterhead plant
+5744	flefle	n.	Sol's delight, magnetotrophic plant
+5748	kxaylte	n.	cillaphant
+5752	fkxakewll	n.	itch plant
+5756	tìhawnuwll	n.	spartan, protection plant
+5760	pxorna'lor	n.	sari, beautiful exploding seed plant
+5764	pxayzekwä	n.	spiny whips
+5768	mìnyu	n.	turner, twisted lily
+5772	mìnyu	n.	turner
+5776	väfewll	n.	Centipede, badsmell plant
+5780	sngukx	n.	grub plant
+5784	rawp	n.	bladder polyp
+5788	'ampirikx	n.	leaf pitcher plant
+5792	apxangrr	n.	delta tree
+5796	värumut	n.	vein pod
+5920	keyawr	adj.	incorrect, wrong, not right
+5924	lehrrap	adj.	dangerous
+5928	tìtxen	n.	awakeness, the state of waking
+5932	hìrumwll	n.	puffer plant
+5936	fwäkì	n.	mantis
+5940	fratxon	adv.	every night
+5944	hìkrr	n.	second, very short time
+5952	mawkrr	adv.	after, afterwards
+5956	ngeyn	adj.	tired
+5960	ngopyu	n.	creator
+5964	nìk'ong	adv.	slowly
+5968	pamtseotu	n.	musician
+5972	sat	pn.	that
+5976	tsal	pn.	that, it (transitive subject)
+5980	tsat	pn.	that, it (as object)
+5984	tsawlhì'	n.	size
+5988	lì'fyavi	n.	expression, bit of language
+5992	nafì'u	adj.	such
+6056	lì'fyaolo'	n.	language group, language users
+6092	puktsyìp	n.	pamphlet, booklet
+6100	utraltsyìp	n.	bush
+6104	säspxintsyìp	n.	minor ailment
+6108	'itetsyìp	n.	little daughter (term of endearment)
+6112	sa'nutsyìp	n.	little mommy (used for young girls)
+6116	kem si	vin.	do
+6120	tswin	n.	queue, braid
+6124	tswintsyìp	n.	little queue
+6128	taronyutsyìp	n.	little hunter
+6132	oetsyìp	pn.	little me, little I
+6136	ngatsyìp	pn.	little you, you little
+6140	atanvi	n.	ray
+6144	txeptsyìp	n.	dear or cute little fire
+6148	tìkusar	n.	teaching (the act)
+6152	tìyusom	n.	eating (the act)
+6156	tìtusaron	n.	hunting
+6164	tìpängkxotsyìp	n.	little conversation
+6180	hayalo	adv.	next time
+6184	hamalo	adv.	last time
+6196	tstunwi	adj.	kind, thoughtful, considerate
+6204	seykxel	adj.	strong (emotionally, spiritually, not physical), confident
+6216	fuke	conj.	or not
+6224	'a'aw	adj.	a few, several
+6228	'okrol	n.	history (ancient)
+6232	'okvur	n.	history (nonancient)
+6236	alu	conj.	that is, in other words
+6240	fnawe'	adj.	cowardly
+6244	fnawe'tu	n.	coward
+6248	ftxìlor	adj.	delicious, good tasting
+6252	ftxìvä'	adj.	bad tasting
+6256	fyeyn	adj.	ripe, mature, adult
+6260	fyeyntu	n.	adult person
+6264	tìfyeyn	n.	ripeness, maturity, full fruition
+6268	hawngkrr	adv.	late
+6272	lehawngkrr	adj.	late
+6276	leye'krr	adj.	early
+6280	hek	vin.	be curious, odd, strange, unexpected
+6284	nìhek	adv.	strangely, oddly
+6288	ki	conj.	but rather, but instead
+6292	nìfyeyntu	adv.	like an adult, maturely
+6296	nì'eveng	adv.	like a child, immaturely
+6300	lìng	vin.	float in the air, hover
+6308	ram	n.	mountain
+6312	muntxatu	n.	spouse
+6316	muntxatan	n.	husband, male spouse
+6320	muntxate	n.	wife, female spouse
+6324	netrìp	adv.	luckily, happily
+6328	newomum	svin.	be curious, want to know
+6332	lenomum	adj.	curious
+6336	tìnomum	n.	curiosity
+6340	ngäzìk	adj.	difficult, hard
+6344	tìngäzìk	n.	difficulty, problem
+6348	nìsung	adv.	besides, additionally, furthermore
+6352	reng	adj.	shallow (physically)
+6356	rolun	intj.	Eureka! I've found it!
+6360	sa'sem	n.	parent or set of parents
+6364	smar	n.	prey, hunted thing
+6368	starsìm	vtr.	gather, collect
+6376	sunu	vin.	be pleasing or likeable, bring enjoyment
+6380	syayvi	n.	luck, chance
+6388	nìsyayvi	adv.	by chance or coincidence
+6392	tolel	intj.	Eureka! I found it! I understand!
+6396	txukx	adj.	deep (physically)
+6400	ve'kì	vtr.	hate
+6404	tìve'kì	n.	hatred
+6408	yaymak	adj.	foolish, ignorant
+6412	ye'krr	adv.	early
+6416	zìsìkrr	n.	season
+6420	zo	svin.	be well, be intact, be as it should be, work correctly or as nature intended
+6424	zoslu	vin.	heal, become well, get fixed (ii)
+6428	zeyko	vtr.	heal, fix
+6432	frawzo	intj.	all is well, everything is fine or OK
+6436	kemlì'uvi	n.	infix
+6448	irayo si	vin.	thank, give thanks
+6508	lefkrr	adj.	current
+6512	lì'upam	n.	accent, pronunciation
+6516	natkenong	conj.	for example, as an example
+6520	eltur tìtxen si	vin.	be interesting, intriguing
+6524	pxelo	adv.	thrice, three times
+6528	pamrelfya	n.	spelling
+6532	law si	vin.	make clear
+6544	tìsung	n.	addition, post script (P.S.)
+6548	naer	n.	drink, something able to be drunk
+6552	atxkxerel	n.	map
+6556	nìtengfya	adv.	as, same way as (similar action)
+6564	tun	adj.	red, orange
+6568	'om	adj.	violet, purple, magenta
+6572	neyn	adj.	light colors, shades of white
+6576	ngul	adj.	grey, drab
+6580	tumpin	n.	red, orange
+6584	eampin	n.	blue, green
+6588	rimpin	n.	yellow
+6592	'ompin	n.	violet, purple, magenta
+6596	layompin	n.	black
+6600	teyrpin	n.	white
+6604	vawmpin	n.	dark color
+6608	neympin	n.	light color
+6612	ngulpin	n.	grey
+6616	pil	n.	facial stripe
+6620	ta'lengean	adj.	skin blue
+6624	rìkean	adj.	leaf green
+6628	kllvawm	adj.	brown
+6632	'evan	n.	boy (colloquial)
+6636	'eve	n.	girl (colloquial)
+6640	'evengan	n.	boy
+6644	'evenge	n.	girl
+6648	fkio	n.	tetrapteron
+6652	kenten	n.	fan lizard
+6656	nìwä	adv.	on the contrary, conversely
+6660	pìwopx	n.	cloud
+6664	ramtsyìp	n.	hill
+6668	syaksyuk	n.	prolemuris
+6672	tor	adj.	last, ultimate, terminal
+6676	txärem	n.	bone
+6680	uk	n.	shadow
+6684	yapay	n.	mist, fog, steam
+6688	tìspe'e	n.	capture
+6696	tìftxavang	n.	passion
+6704	tìtstunwi	n.	kindness
+6708	stxeli	n.	gift
+6712	ngrrpongu	n.	grassroots movement
+6716	smon	vin.	be familiar, be known (with dative)
+6720	lawk	vtr.	discourse on, talk about, say something concerning
+6724	hìtxoa	intj.	excuse me
+6728	mäkxu	vtr.	interrupt, throw out of harmonious balance
+6732	hultstxem	vtr.	hinder
+6736	mok	vtr.	suggest
+6740	muwìntxu	vtr.	introduce, present
+6744	kan'ìn	vtr.	focus on, specialize in, be particularly interested in
+6748	tìwusem	n.	fighting
+6756	nì'eng	adv.	equally, on the same level
+6760	Pari	prop.n.	Paris
+6764	tì'ong	n.	blooming, unfolding
+6768	tìmok	n.	abstract idea of a suggestion
+6772	tì'em	n.	the art of cooking
+6776	leyn	vtr.	repeat, do again
+6780	päsketpol	n.	basketball
+6784	nìFranse	adv.	French
+6788	nìToitsye	adv.	German
+6792	nìno	adv.	in detail, expansively, thoroughly
+6796	hìno	adj.	fine, detailed, precise, intricate (of things)
+6800	leno	adj.	thorough, detailorientated (of a person)
+6804	tìno	n.	thoroughness, attention to detail
+6808	'ongokx	vin.	be born
+6812	nokx	vtr.	give birth to
+6816	nìtrrtrr	adv.	on a daily basis, regularly
+6820	tìn	n.	activity that keeps one busy
+6824	txin	adj.	main, primary
+6828	txintìn	n.	occupation, primary role in society
+6832	'emyu	n.	cook, cooker
+6836	vewng	vtr.	look after, take care of, be responsible for
+6840	kaltxì si	vin.	say hello, greet
+6844	sopyu	n.	traveller
+6848	fula	pn., sbd.	that
+6852	tskxekeng si	vin.	exercise, train
+6856	way si	vin.	sing
+6860	swawtsyìp	n.	little moment, second
+6864	käteng	vin.	spend time with, hang out with
+6868	'ìn	svin.	be busy, be occupied
+6872	Sweriye	prop.n.	Sweden
+6876	nìfkrr	adv.	lately, currently
+6880	sulìn	svin.	be busy (positive sense), be engrossed in something one finds especially pleasant and energizing
+6884	vrrìn	svin.	be busy (negative sense): be tired out and overwhelmed by an activity that's keeping one busy
+6888	tìk'ìn	n.	free time, the absence of business
+6892	säsulìn	n.	hobby, pleasureyielding activity
+6896	'o'	adj.	bringing fun, exciting
+6900	Europa	prop.n.	Europe
+6904	skxaypxe	n.	Skype
+6908	pxorpam	n.	ejective consonant
+6912	tì'o'	n.	fun, excitement
+6916	nì'o'	adv.	in a manner which is enjoyable, enjoyably
+6920	fnan	vtr.	be good at
+6924	wätx	vtr.	be bad at
+6928	tìsom	n.	heat
+6932	tìwew	n.	coldness, cold
+6936	tìlen	n.	event, happening
+6940	nìnäk	adv.	by drinking, in a liquid way
+6944	nìhay	adv.	next
+6948	sayrìp	adj.	handsome, good looking
+6952	letokx	adj.	bodily, physical
+6956	säzärìp	n.	face lead, rein
+6960	ìpxa	n.	fern
+6964	tìhawnu si	vin.	protect
+6968	sno	pn.	his self, her self, its self (reflexive, genitive form sneyä)
+6972	kìte'e si	vin.	serve
+6984	var	vim.	to persist in a state, to continue to perform an action
+6988	nìftxan	adv.	so, to such an extent
+6992	Yeysu	prop.n.	Jesus
+7172	lelì'fya	adj.	concerning language, regarding language
+7176	takrra	conj.	since (temporal)
+7180	akrrta	conj.	since (temporal)
+7184	few	adp.	across, aiming for the opposite side of
+7188	fewtusok	adj.	opposite, on the opposite side
+7192	sla'tsu	vtr.	describe
+7196	tìsla'tsu	n.	description
+7200	'en	n.	guess, informed guess, hunch, intuition
+7204	'en si	vin.	make an informed guess
+7208	le'en	adj.	speculative, intuitive
+7212	nì'en	adv.	making an informed guess, acting on intuition
+7216	sä'o	n.	tool, utensil
+7220	pamtseo si	vin.	play music (with fa for instrument played)
+7224	väng	adj.	thirsty
+7228	tìväng	n.	thirst
+7232	sngum	n.	worry
+7236	nìsngum	adv.	worryingly, fretfully
+7240	yayayr	n.	confusion
+7244	wäte	vtr.	argue, dispute
+7248	tìwäte	n.	dispute, argument
+7252	säwäte	n.	point of contention, source of argument, thing disputed
+7256	lewäte	adj.	disagreeable, argumentative (of an agent)
+7260	nìwäte	adv.	disagreeably, begrudgingly
+7264	li	adv.	already
+7268	lisre	adp.	by, before, up to but not after
+7272	ronsrelngop	vtr.	imagine, envision (c.w. of ronsem mind, rel picture, ngop create, casual pronunciation [Ron.sREw.Nop] )
+7276	ronsrel	n.	something imagined
+7280	tìronsrel	n.	imagination
+7284	txanatan	adj.	bright, vivid
+7288	leronsrel	adj.	imaginary
+7292	nìronsrel	adv.	in imagination, by imagination
+7296	srefey	vtr., vin.	expect
+7304	mawl	n.	half
+7308	pan	n.	third, one third
+7312	wan	vtr.	hide
+7316	nìwan	adv.	secretly, in hiding, by hiding
+7320	tìwan	n.	obfuscation, cover up
+7324	letwan	adj.	dodgy, sneaky (of a person)
+7328	slele	vin.	swim
+7332	nìslele	adv.	by swimming
+7336	tìtaron	n.	hunting
+7344	ìì	intj.	um, er
+7348	tsukyom	adj.	edible
+7352	ketsuktswa'	adj.	unforgettable
+7356	tsuktswa'	adj.	forgettable
+7360	yafkeyk	n.	weather
+7364	fkeytok	vin.	exist
+7368	tìfkeytok	n.	state, condition, situation
+7376	tompameyp	n.	drizzle
+7380	tskxaytsyìp	n.	hail
+7384	tskxepay	n.	ice
+7388	herwì	n.	snow
+7392	tomperwì	n.	sleet
+7396	txanfwerwì	n.	blizzard
+7400	hermeyp	n.	snow flurry
+7404	hertxayo	n.	snow field
+7408	ìlva	n.	flake, drop, chip
+7412	txepìva	n.	ash, cinder
+7416	herwìva	n.	snowflake
+7420	payìva	n.	drop of water
+7424	tompìva	n.	raindrop
+7428	kintrr	n.	week
+7432	mrrtrr	n.	five day work week
+7436	muntrr	n.	weekend
+7440	kintrram	n.	last week
+7444	kintrray	n.	next week
+7448	muntrram	n.	last weekend
+7452	muntrray	n.	next weekend
+7456	vospxì	n.	month
+7460	vospxìam	n.	last month
+7464	vospxìay	n.	next month
+7468	sweylu	v.	should
+7472	ye	adj.	satisfied, content, satiated, full
+7476	hasey si	vin.	accomplish, bring to a conclusion
+7480	seysonìltsan	intj.	well done! (derived from hasey soli nìltsan accomplished well)
+7484	yehakx	adj.	satisfied from hunger, full
+7488	yeväng	adj.	satisfied from thirst by drink, feeling quenched, slaked
+7492	somwew	n.	temperature
+7496	pup	adj.	short (physical length)
+7500	ngimpup	n.	length
+7504	pesomwew	inter.	what temperature?
+7508	somwewpe	inter.	what temperature? (more common)
+7512	txawew	adj.	very cold
+7516	wur	adj.	cool, chilly
+7520	tsyafe	adj.	mild, moderate, comfortable
+7524	sang	adj.	warm
+7528	txasom	adj.	very hot
+7532	leyapay	adj.	foggy, misty
+7536	lepwopx	adj.	cloudy
+7540	nìhol	adv.	few, not many
+7544	nìpxay	adv.	many, manily
+7548	paynga'	adj.	moist, humid, damp
+7552	meuianga'	adj.	honorable, honorably
+7556	txumnga'	adj.	poisonous
+7564	'akra	n.	soil (fertile)
+7568	hufwetsyìp	n.	breeze, light wind
+7572	nìlam	adv.	apparently
+7576	nìli	adv.	in advance
+7580	nìfrakrr	adv.	as always
+7584	am'a	n.	doubt
+7588	nga'	vtr.	contain
+7592	tìftang si	vin.	stop (someone or something) 
+7596	may'	vtrm.	try, sample, evaluate, check out, testdrive
+7604	yora'	vtr.	win
+7608	snaytx	vtr.	lose
+7612	tìyora'	n.	victory, a win
+7616	tìsnaytx	n.	loss
+7620	'otxang	n.	musical instrument (generic term)
+7624	skxir	n.	wound
+7628	leskxir	adj.	wounded
+7632	skxir si	vin.	wound
+7636	skxirtsyìp	n.	cut, bruise, minor wound
+7640	sloan	vtr.	pour
+7644	emrey	vin.	survive
+7648	temrey	n.	survival
+7652	lemrey	adj.	surviving (e.g. of entities from a group some of whom have died)
+7656	nemrey	adv.,intj.	in a fashion as if one's life were at stake
+7660	wawe	n.	meaning, importance, significance
+7664	txanwawe	adj.	personally meaningful, significant
+7668	nìwawe	adv.	meaningfully, significantly
+7672	keyrel	n.	facial expression
+7676	fwampop	n.	tapirus
+7680	säplltxe	n.	statement
+7684	säplltxevi	n.	comment
+7688	kawtseng	adv.	nowhere
+7692	tsapo	pn.	that one (for people only)
+7700	fwefwi	vin.	whistle
+7712	'etnaw	n.	shoulder
+7724	pllngay	vin.	admit
+7728	kawngsar	vtr.	exploit
+7732	lom	adj.	missing, missed (as an absent person who is longed for)
+7736	koaktan	n.	old man
+7740	koakte	n.	old woman
+7744	koaktu	n.	old person
+7748	lomtu	n.	missed person
+7752	fe'	adj.	bad
+7756	nìfe'	adv.	badly
+7760	wätu	n.	opponent
+7764	fekem	n.	accident
+7768	hawtsyìp	n.	nap
+7772	uran	n.	boat
+7780	ftxozä si	vin.	celebrate
+7784	kekem	pn., adv.	no action or activity
+7788	pxen	n.	functional clothing (item of)
+7792	tewng	n.	loincloth
+7796	raspu'	n.	leggings (used in war)
+7800	hawnven	n.	shoe
+7804	hawntsyokx	n.	glove
+7808	hawre'	n.	hat
+7812	ioi	n.	adornment, or ceremonial apparel (item of)
+7816	nìlun	adv.	of course, logically, following common sense
+7820	'ali'ä	n.	collar / choker
+7824	'are	n.	poncho, cape, shawl
+7828	fkxile	n.	bib necklace
+7832	masat	n.	breastplate (armor)
+7836	nikroi	n.	hair adornment
+7840	pxawpxun	n.	armband
+7844	renten	n.	goggles, (made from insect wings, carved from wood, etc)
+7848	tsamopin	n.	warpaint
+7852	tsang	n.	a piercing
+7856	miktsang	n.	earring
+7860	ontsang	n.	nose ring
+7864	yemstokx	vtr.	put on (clothing), don
+7868	ioi si	vin.	adorn
+7872	'aku	vtr.	remove, take away, take off
+7876	le'aw	adj.	only
+7888	mawkrra	conj.	after (temporal)
+7892	akrrmaw	conj.	after (temporal)
+7896	Toitslan	prop.n.	Germany
+7900	Toitsye	adj.	German (language)
+7908	lukpen	adj.	without clothing, naked
+7912	fmawnta	n.	that news
+7916	vin	vtr.	request, ask for
+7920	mìftxele	adv.	in this regard, related to this matter
+7924	zìma'uyu	n.	newcomer, someone who has just arrived on the scene
+7928	nìvingkap	adv.	by the way, incidentally
+7932	txankrr	adv.	for a long time
+7936	vingkap	vtr.	occur to one, pop into one's mind
+7940	tìomum	n.	knowledge
+7948	tinan	n.	reading
+7952	ninan	adv.	by reading
+7956	tsmìm	n.	track, trace (of animal or person)
+7960	inan	vtr.	read (e.g. the forest), gain knowledge from sensory input
+7964	'ä'	intj.	oops!
+7968	teynga	n.	that answer
+7972	teyngla	n.	that answer (agentive)
+7976	teyngta	n.	that answer (patientive)
+7984	fayluta	n.	these words
+7988	stxenu	n.	offer
+7992	tìtstew	n.	courage, bravery
+7996	tìtstewnga'	adj.	courageous, brave
+8000	stxenutìng	vtr.	offer
+8004	tsyär	vtr.	reject
+8008	tìtsyär	n.	rejection
+8012	mll'an	vtr.	accept
+8016	tìmll'an	n.	acceptance
+8020	kam	adp.	ago
+8024	kay	adp.	from now (in the future)
+8028	'awnìm	vtr.	avoid
+8032	steng	adj.	similar
+8036	nìsteng	adv.	similarly
+8040	nim	adj.	timid, shy
+8044	srätx	vtr.	annoy, bother
+8048	säsrätx	n.	annoyance
+8052	rì'ìr	n.	reflection
+8056	rì'ìr si	vin.	reflect, imitate
+8060	tsìsyì	vin.	whisper
+8064	nìwok	adv.	loudly
+8068	sätsìsyì	n.	whisper
+8072	nìtsìsyì	adv.	by whispering, in a whisper
+8076	nìfwefwi	adv.	by whistling, in a whistling manner
+8080	lawr	n.	melody
+8084	tìng lawr	vin.	sing wordlessly, give out a tune or melody
+8088	säomum	n.	(piece of) information
+8092	kosman	adj.	wonderful, terrific, fantastic
+8096	nìksman	adv.	wonderfully
+8108	letsim	adj.	original, unique, not derived from another source
+8112	lesngä'i	adj.	original, existing at or from the start, first in a series
+8116	nìtsim	adv.	originally, in an original way, with originality
+8120	nìsngä'i	adv.	originally, at first
+8124	ngong	adj.	lethargic, lacking sufficient energy, lazy
+8128	walak	adj.	energetic, active
+8132	tìngong	n.	lethargy, laziness
+8136	txi	n.	hurry, hurriedness, frenzy
+8140	letxi	adj.	hurried, frenzied
+8144	nìtxi	adv.	hurriedly, in a frenzied way
+8148	letxiluke	adj.	unhurried
+8152	nìtxiluke	adv.	unhurriedly, leisurely
+8156	kulat	vtr.	reveal, bring forth, uncover (literally and metaphorically)
+8160	txantompa	n.	rainstorm, hearain
+8164	meyam	vtr.	hug, embrace, hold in one's arms
+8168	sämyam	n.	hug, embrace
+8172	fìtsap	adv.	each other
+8176	nuä	adp.	beyond
+8180	kanfpìl	vin.	concentrate, focus one's attention
+8184	fmokx	n.	jealousy, envy
+8188	nìfmokx	adv.	jealously, enviously
+8192	kìmar	adj.	in season (of foods, vegetable or animal)
+8196	nìkmar	adv.	in the right season, opportunely
+8200	nìngong	adv.	lethargically, lazily
+8204	säpom	n.	kiss
+8212	kxukx	vtr.	swallow
+8216	txewm	adj.	scary, frightening
+8220	hìmpxì	n.	minority, least, small part
+8224	kawnglan	adj.	malicious, bad hearted
+8228	nutx	adj.	thick
+8232	flì	adj.	thin
+8236	flìnutx	n.	thickness
+8240	sneyä	pn.	his own, her own, its own
+8244	säsyep	n.	trap
+8248	yora'tu	n.	winner
+8252	snaytu	n.	loser
+8256	way a plltxe	ph.	spoken poem (as a melodic recital)
+8260	way a rol	ph.	sung poem
+8264	wayä aylì'u	ph.	words of a poem or lyrics of a song
+8268	ultxatu	n.	meeting participant
+8272	wo	vtr.	reach for
+8276	yawo	vin.	take off, launch
+8280	tsìk	adv.	suddenly, without warning
+8284	kllwo	vin.	alight, land (process of)
+8288	kllpä	vin.	land, reach the ground
+8292	sätswayon	n.	flight (an instance of flying)
+8296	rawn	vtr.	replace, substitute
+8300	tìrawn	n.	replacement, the act of replacing
+8304	särawn	n.	replacement, substitute, something that replaces something else
+8308	kxeltek	vtr.	pick up, lift
+8312	fngo'	vtr.	require, demand
+8316	säfngo'	n.	requirement, demand
+8320	ngam	n.	echo
+8324	slär	n.	cave
+8328	ngampam	n.	rhyme
+8332	ngampam si	vin.	rhyme
+8336	faoi	adj.	smooth
+8340	ekxtxu	adj.	rough
+8344	yo'	svin.	be perfect, flawless
+8348	nìyo'	adv.	perfectly, flawlessly
+8352	nìyol	adv.	briefly, shortly (of time)
+8356	tìyo'	n.	perfection
+8360	'ipu	adj.	humorous, funny, amusing
+8364	tì'ipu	n.	humor
+8368	tìfmi	n.	attempt
+8372	sä'ipu	n.	something humorous
+8376	hangvur	n.	joke, funny story
+8380	lì'uvan	n.	pun, wordplay
+8392	kanom	vtr.	acquire, get
+8396	säkanom	n.	something acquired, an acquisition, a possession
+8400	srìn	vtr.	transfer from one to another (rarely used without prefix)
+8404	käsrìn	vtr.	lend
+8408	zasrìn	vtr.	borrow
+8412	säsrìn	n.	lent or borrowed thing
+8416	pxìmun'i	vtr.	divide, cut into parts
+8420	lätxayn	vtr.	defeat in battle, conquer
+8424	sälätxayn	n.	defeat, an instance of defeat
+8428	yll	adj.	communal
+8432	nìyll	adv.	communally, in a communal manner
+8436	hona	adj.	endearing, adorable, cute
+8440	tìhona	n.	cuteness, adorableness
+8444	fäkä	vin.	go up, ascend
+8448	fäza'u	vin.	come up, ascend
+8452	kllza'u	vin.	come down, descend
+8456	sämok	n.	a suggestion
+8460	mal	adj.	trustworthy, trustinspiring
+8464	nìmal	adv.	trustingly, without hesitation
+8468	tìmal	n.	trustworthiness
+8472	kllyem	vtr.	bury
+8480	nìtsyìl	adv.	by climbing
+8484	sätsyìl	n.	climbing event, a climb
+8488	rìn	n.	wood
+8492	flawkx	n.	leather
+8496	'ana	n.	hanging vine
+8500	tsngawpay	n.	tears
+8504	tsngawpayvi	n.	teardrop
+8508	nìhona	adv.	endearingly, sweetly
+8512	lepay	adj.	watery
+8516	'ul	vin.	increase
+8520	nän	vin.	decrease
+8524	nìnän	adv.	less
+8528	nì'ul'ul	adv.	increasingly, more and more
+8532	nìnänän	adv.	decreasingly, less and less
+8536	mek	adj.	empty, or metaphorically: having no value
+8540	leioae	n.	respect
+8544	leioae si	vin.	to respect
+8548	säwìntxu	n.	a showing, an exhibition
+8552	tì'i'a	n.	ending, conclusion
+8556	srer	vin.	appear, materialize, come into view
+8560	'ìp	vin.	disappear, vanish, recede from view
+8564	tsong	n.	valley
+8568	tsongtsyìp	n.	dimple
+8572	ro'a	vin.	be impressive, inspire awe or respect
+8576	säro'a	n.	feat, accomplishment, great deed
+8580	säro'a si	vin.	do great deeds
+8584	txanro'a	vin.	be famous
+8588	velek	vin.	give up, surrender, concede defeat
+8592	spono	n.	island
+8596	txew	n.	edge, brink, limit, border, end
+8600	txewnga'	adj.	having a limit, not without bounds, finite
+8604	litx	adj.	sharp (as a blade)
+8608	fwem	adj.	dull, blunt (as a point)
+8612	syura	n.	energy (physical or spiritual)
+8616	syuratan	n.	bioluminescence
+8620	txonkrr	adv.	at night
+8624	yuey	adj.	beautiful (inner beauty)
+8628	kxem	vin.	be vertical
+8632	txay	vin.	be horizontal, lie flat
+8636	nìkxem	adv.	vertically
+8640	nìtxay	adv.	horizontally
+8644	klltxay	vin.	lie on the ground
+8648	klltxeykay	vtr.	lay (something) on the ground
+8652	yo	n.	surface
+8656	kxemyo	n.	wall, vertical surface
+8660	fyep	vtr.	hold in the hand, grasp, grip
+8664	nìk'ärìp	adv.	steadily
+8668	nìklonu	adv.	firmly, steadfastly, faithfully
+8672	nìktungzup	adv.	carefully, firmly
+8676	nìsyep	adv.	tightly, in an iron grip
+8680	nìmeyp	adv.	weakly, loosely
+8684	säfyep	n.	handle
+8688	slan	vtr.	support (emotional, social or personal support)
+8692	tìslan	n.	support (emotional, social or personal support) 
+8696	tìeyktan	n.	leadership
+8700	'llngo	n.	hip
+8704	zare'	n.	forehead, brow
+8708	flawm	n.	cheek
+8712	prrku	n.	womb
+8716	ngep	n.	navel
+8720	tawsyuratan	n.	aurora
+8732	syeha	n.	breath
+8736	syeha si	vin.	breathe
+8740	sko	adp.	something as, in the capacity of, or in the role of, something else
+8744	sna'o	n.	set, group, pile, clump, stand
+8748	snatxärem	n.	skeleton
+8752	snafpìlfya	n.	philosophy
+8756	snatanhì	n.	constellation
+8760	sästarsìm	n.	collection (put together intentionally by a person)
+8764	tsu'o	n.	ability
+8768	krra	conj.	when, at the time that
+8772	snatanhìtsyìp	n.	star cluster
+8776	pìwopxtsyìp	n.	nebula
+8792	tìterkup	n.	death (in abstract sense)
+8796	maweypeyyu	n.	One who is patient
+8804	ftxulì'u	vin.	orate, give speech
+8808	ftxulì'uyu	n.	orator, (public) speaker
+8812	säftxulì'u	n.	speech, oration
+8816	tìftxulì'u	n.	speechmaking, public speaking
+8820	slantire	n.	inspiration
+8824	slantire si	vin.	inspire
+8828	kum	n.	result
+8836	kuma	conj.	that (as a result)
+8840	akum	conj.	that (as a result)
+8844	fyel	vtr.	seal, make impervious
+8848	zey	adj.	special, distinct
+8852	vll	vin., vtr.	indicate, point at
+8856	eykyu	n.	leader (typically temporary, of a small group like a hunting party)
+8860	am'ake	adj.	sure, confident
+8864	nam'ake	adv.	confidently
+8868	kezemplltxe	adv.	of course, needless to say
+8872	tare	vtr.	connect, relate to, have a relationship with
+8876	nìsoaia	adv.	(together) as members of a family
+8880	nìolo'	adv.	(together) as members of a clan
+8884	sätare	n.	connection, relationship
+8892	sloa	adj.	wide
+8896	snep	adj.	narrow
+8900	slosnep	n.	width
+8904	peslosnep	inter.	what width, how wide?
+8908	slosneppe	inter.	what width, how wide?
+8912	hoet	adj.	vast, broad, expansive
+8916	nìhoet	adv.	widely, pervasively
+8920	so'ha	vtr.	be enthusiastic about, show enthusiasm for, be excited about
+8924	tìso'ha	n.	enthusiasm, having a good attitude
+8928	nìso'ha	adv.	enthusiastically
+8932	leso'ha	adj.	enthusiastic, keen
+8936	tsawlultxa	n.	large gathering, conference
+8940	zìsìtay	n.	next year
+8944	tìtsunslu	n.	possibility
+8948	numultxa	n.	class (for instruction)
+8952	numultxatu	n.	classmate, member of a class
+8956	snanumultxa	n.	course (as a collection of classes)
+8960	tìflä	n.	success (in general)
+8964	säflä	n.	success (an instance of succeeding)
+8968	mesrram	n., adv.	the day before yesterday, two days ago
+8972	mesrray	n., adv.	the day after tomorrow, two days from now
+8976	pxesrram	n., adv.	three days ago
+8980	pxesrray	n., adv.	three days from now
+8984	mong	vtr.	depend on, rely on, trust for protection
+8988	sru'	vtr.	crush, trample
+8992	'ekxin	adj.	tight
+8996	um	adj.	loose
+9000	'ekxinum	n.	degree of tightness, looseness
+9004	pekxinum	inter.	how tight, loose?
+9008	zeswa	n.	grass
+9012	zeswavi	n.	blade of grass
+9016	lezeswa	adj.	grassy
+9020	lopx	vin.	panic
+9024	hifwo	vin.	flee, escape
+9028	yrrap	n.	storm
+9032	'rrpxom	n.	thunder
+9036	rawm	n.	lightning (general term)
+9040	rawmpxom	n.	thunder and lightning
+9044	se'ayl	n.	an individual tall, thin waterfall that pours down a sheer high cliff, or off of a floating mountain (countable)
+9048	kxor	n.	a wall or bank of powerful waterfalls noted for its deafening roar and deadly force (countable, but only rarely)
+9052	syanan	n.	a single drop or series of smaller waterfalls occurring sequentially along a stream or series of pools (countable)
+9056	rurur	n.	water that is aeriated while flowing among the rocks of a very gradually sloping stream (countable)
+9060	tseltsul	n.	whitewater rapids (countable, but only rarely)
+9064	tìmeyp	n.	weakness
+9068	am'aluke	adv.	without a doubt
+9072	atanzaw	n.	forked lightning
+9080	nìsìlpey	adv.	hopefully
+9084	talun	adp.	because of, due to
+9088	nìTsyungwen	adv.	Zhongwen
+9092	reykol	vtr.	play music, make to sing (poetic)
+9096	nrra	n.	pride, feeling of pride
+9100	lenrra	adj.	proud
+9104	nìnrra	adv.	proudly, with pride
+9108	snonrra	n.	selfpride (negative connotation)
+9112	lesnonrra	adj.	full of selfpride
+9116	nrr	vin.	glow, be luminous
+9124	ylltxep	n.	communal fire or fire pit
+9128	txeptseng	n.	place where a fire is burning or has burned
+9132	ralnga'	adj.	meaningful, instructive, something from which a lesson can be learned
+9136	munsna	n.	pair
+9144	fyin	adj.	simple
+9148	ep'ang	adj.	complex
+9152	epxang	n.	stone jar used to hold small toxic arachnid
+9156	fyinep'ang	n.	degree of complexity
+9160	pefyinep'ang	inter.	how complex?
+9164	fyinep'angpe	inter.	how complex?
+9168	sngä'itseng	n.	beginning, starting position, initial location
+9172	srungsiyu	n.	assistant, helper
+9176	srungtsyìp	n.	helpful hint, tip
+9180	spulmokri	n.	telephone
+9184	syeprel	n.	camera
+9200	swoa	n.	intoxicating beverage, or ``spirits''
+9204	rou	vin.	be, or get drunk
+9208	pamrelvi	n.	letter (phonetic symbol)
+9212	snapamrelvi	n.	alphabet
+9216	tìtxen si	vin.	to wake, to waken, wake up
+9220	fnetxum	n.	allergen
+9224	zet	vtr.	treat (emotionally), display an attitude towards
+9228	ha'	vin.	fit, suit, complement, inherently enhance
+9232	syon	n.	feature, trait, attribute, characteristic, point, aspect, facet, property
+9236	ran	n.	intrinsic character or nature, essence, constititution; basic nature of something resulting from the totality of its properties; often best translated as personality
+9240	fyole	adj.	sublime, beyond perfection
+9244	loran	n.	elegance, grace
+9248	fe'ran	n.	flawed nature, something illconceived or inherently defective
+9252	reyfya	n.	way of living, culture
+9256	fe'ranvi	n.	blemish, deformity, stain, flawed feature
+9260	nìran	adv.	basically, fundamentally, in essence
+9264	mo	n.	space, hollow, enclosed open area
+9268	snomo	n.	private space that one can retreat to
+9272	wum	adv.	approximately, roughly
+9276	kesran	adj.	soso, mediocre
+9280	nìksran	adv.	in a mediocre manner
+9284	yewla	n.	disappointment, emotional letdown, failed expectation
+9288	leyewla	adj.	disappointing
+9292	nìyewla	adv.	in a disappointing fashion, in a way failing to meet expectations
+9296	yawnyewla	n.	broken heart, broken heartedness
+9304	ve'o	n.	order (as opposed to disorder or chaos), organization
+9308	vezo	vin.	be in order, be organized
+9312	vezeyko	vtr.	put in order, organize
+9316	vefya	n.	system, process, procedure, approach
+9320	velke	adj.	chaotic, messy, disorganized, in shambles
+9324	venga'	adj.	organized, ``on top of things''
+9328	nìfnu	adv.	silently
+9332	sätaron	n.	hunt
+9336	wäsul	vin.	compete
+9340	tìwäsul	n.	competition
+9344	säwäsul	n.	a competition
+9348	säwäsultsyìp	n.	a contest
+9352	tìmwiä	n.	fairness, justice
+9356	snew	vtr.	constrict, tighten
+9360	txantxew	n.	maximum
+9364	snewsye	adj.	weird, spooky
+9368	hìmtxew	n.	minimum
+9372	txantxewvay	adv.	maximally
+9376	hìmtxewvay	adv.	minimally
+9380	hefi	vtr.	smell (not intentionally)
+9384	ewku	vtr.	taste (not intentionally)
+9388	zìm	vtr.	feel (not intentionally)
+9392	yune	vtr.	listen to (intentionally)
+9396	syam	vtr.	to smell (intentionally)
+9400	'ur	n.	sight, look, appearance
+9404	sur	n.	taste, flavor
+9408	zir	n.	touch, feel, texture
+9412	tse'atswo	n.	(sense of) sight, vision
+9416	stawmtswo	n.	(sense of) hearing
+9420	hefitswo	n.	(sense of) smell
+9424	ewktswo	n.	(sense of) taste
+9428	zìmtswo	n.	(sense of) touch
+9432	fkan	vin.	resemble in a sensory modality, come to the senses as
+9436	onlor	adj.	goodsmelling
+9440	onvä'	adj.	badsmelling
+9444	we'ay	adj.	sour
+9448	wip	adj.	salty
+9452	fwang	adj.	savory, umami, rich
+9456	nget	adj.	smell of decaying wood and leaves, dank (nonanimal decay)
+9460	kxänäng	adj.	smell of decaying animal/flesh, rotting, putrid
+9464	sosul	adj.	pleasant smell of nearby running water, rain, moist vegetation
+9468	unyor	adj.	sweetly aromatic (a flowery or aromatic woody sort of smell; may also refer to some spices used in Na'vi cooking)
+9472	atxar	adj.	smell of living animals, as found around a watering hole
+9476	inanfya	n.	sense (means of perception)
+9480	uvan letokx	n.	physical or athletic game, sport
+9484	ftärpa	n.	left side
+9492	skiempa	n.	right side
+9496	rengop	vtr.	design (finer detail)
+9500	tìrengop	n.	design (the act or art of designing
+9504	särengop	n.	design (a particular instance of designing)
+9508	ingyen	n.	feeling of mystery or incomprehension
+9512	sngumtsim	n.	worrisome matter, source of worry
+9516	yayayrtsim	n.	something confusing, source of confusion
+9520	ingyentsim	n.	mystery, riddle, enigma, conundrum
+9524	ingyentsyìp	n.	trick, sleight of hand, clever/special methodology
+9528	ningyen	adv.	mysteriously, in a puzzling fashion
+9532	ingyenga'	adj.	mysterious, puzzling, enigmatic
+9536	sngunga'	adj.	worrisome, troubling
+9540	yayayrnga'	adj.	confusing
+9544	yrr	adj.	wild, natural (something in its original, unmodified, untamperedwith natural state)
+9548	nìyrr	adv.	naturally, without tampering with or changing the nature
+9552	zäfi	adj.	modified, interfered with, no longer in a natural state
+9556	syor	vin.	relax, chill out
+9560	tìsyor	n.	relaxation
+9564	tìfnunga'	adj.	quiet
+9568	späpeng	vin.	restore oneself (metaphorically)
+9572	'anla	vtr.	yearn for
+9576	sä'anla	n.	yearning
+9580	lie	n.	experience
+9584	tsìlpey	n.	hope (abstract idea)
+9592	säsìlpey	n.	hope (particular instance)
+9596	kelsar	adj.	useless,  in vain
+9600	yì	n.	shelf, ledge, level, step, rung 
+9604	snayì	n.	staircase, series of steplike levels
+9608	kxaylyì	n.	high level
+9612	kxamyì	n.	intermediate level
+9616	tìmyì	n.	low level
+9620	flrr	adj.	gentle, mild, tender  (people or things)
+9624	nìflrr	adv.	gently, tenderly
+9628	tìflrr	n.	gentleness, tenderness
+9632	ngä'än	vin.	suffer mentally or emotionally, be miserable
+9636	kelkin	adj.	unnecessary
+9640	nìkelkin	adv.	unnecessarily
+9644	sängä'än	n.	bout of suffering; episode of depression
+9648	'eylanay	n.	acquaintance (with the potential for becoming a friend)
+9652	eyktanay	n.	deputy, general, one step down from leader
+9656	tsulfätunay	n.	nearmaster
+9660	karyunay	n.	apprentice teacher
+9676	tsan'ul	vin.	improve, get better
+9680	fe'ul	vin.	worsen, get worse
+9684	tìtsan'ul	n.	improvement (in the general or abstract sense)
+9688	tìfe'ul	n.	worsening (in the general or abstract sense)
+9692	sätsan'ul	n.	improvement (specific instance)
+9696	säfe'ul	n.	worsening (specific instance)
+9700	frafya	adv.	in every way
+9704	postì	n.	(forum/blog) post
+9708	ketsran	adj.,  conj.	no matter, no matter what, whatever
+9712	kangay si	vin.	validate, confirm
+9716	txurtel	n.	rope
+9720	ropx	n.	hole (going clear through an object)
+9724	tsongropx	n.	hole, cavity, excavation with a bottom (visible or presumed)
+9728	tsrul	n.	nest; protected area serving as the home of Pandoran fauna
+9732	yayotsrul	n.	bird's nest
+9736	lini	n.	young of an animal, bird, fish, insect
+9740	tarnioang	n.	predator animal
+9744	rong	n.	tunnel
+9748	swek	n.	bar, rod, pole
+9752	mektseng	n.	gap, breach
+9756	tsenga	conj.	where, place where
+9760	fta	n.	knot
+9764	fta si	vin.	knot, make or tie a knot
+9768	fwi	vin.	slip, slide
+9772	oìsss si	vin.	hiss
+9776	il	vin.	bend
+9780	kxakx	vin.	break, snap in two
+9784	ftumfa	adp.	out of, from inside
+9788	sä'eoio	n.	ceremony, ritual, rite
+9792	sä'eoio si	vin.	take part in a ceremony, perform a ritual
+9796	kur	vin.	hang
+9800	nìtkan	adv.	purposefully, deliberately
+9804	nìtkanluke	adv.	accidentally, unintentionally
+9808	nui	vin.	fail, falter, go astray, not obtain expected or desired result
+9812	nìnu	adv.	failingly, falteringly, in vain, fruitlessly, not achieving the desired or expected end
+9816	tìnui	n.	failure (abstract concept)
+9820	sänui	n.	failure (particular instance of failure)
+9824	fngä'	vin.	relieve oneself; (on Earth) use the restroom, go to the bathroom
+9828	zun	conj.	if (counterfactual use)
+9832	zel	adv.	then (counterfactual use)
+9836	'ekxinumpe	inter.	how tight, loose?
+9852	okup	n.	milk
+9856	loi	n.	egg
+9860	tsyeym	n.	treasure; something rare and of great value
+9864	wokau	n.	pendulum drum
+9868	srä	n.	cloth; a piece of cloth woven on a loom
+9872	srok	n.	bead (decorative)
+9876	pxayopin	adj.	colorful, multicolored, variegated
+9880	tsyoklìt	n.	chocolate
+9884	paynäpll	n.	pineapple
+9888	pamrelsiyu	n.	writer
+9892	rel arusikx	n.	movie, film, video
+9896	lì'upuk	n.	dictionary
+9900	lì'upuk	n.	dictionary
+9904	nìkemweypey	adv.	impatiently
+9908	kelemweypey	adj.	impatient
+9912	'on	n.	shape, form
+9916	salewfya	n.	direction, course
+9920	koum	adj.	rounded, curved
+9924	ko'on	n.	ring, oval, closed shape roughly circular
+9928	yo'ko	n.	circle
+9932	renulke	adj.	irregular, random
+9936	vawt	adj.	solid, not hollow
+9940	momek	adj.	hollow, not solid
+9944	yeyfya	n.	straight line
+9948	yak	n.	fork, branch, point of divergence
+9952	yak si	vin.	diverge, change direction, go astray
+9956	nìyeyfya	adv.	straight ahead, in a straight line
+9960	nìftär	adv.	to the left
+9964	nìskien	adv.	to the right
+9968	'oratsyìp	n.	pond, pool
+9972	nìyawr	adv.	correctly, rightly
+9976	tìsteftxaw	n.	examination
+9980	yoa	adp.	in exchange for
+9984	txolar	n.	dollar
+9988	ewro	n.	euro
+9992	lawnol	n.	great joy
+9996	ley	vin.	be of value, have some positive value, be worth something
+10000	säfmi	n.	attempt
+10004	nìfkeytongay	adv.	actually, as a matter of fact
+10008	mowar	n.	advice, bit or piece of advice
+10012	mowar si	vin.	advise
+10016	mowarsiyu	n.	advisor
+10020	kakpam	adj.	deaf
+10024	tìkakpam	n.	deafness
+10028	pxek	vtr.	kick, shove
+10032	kolan	intj.	I mean, rather (selfcorrecting)
+10036	hena	vtr.	carry
+10044	sähena	n.	container, vessel, carrier
+10048	paysena	n.	water container
+10052	tutsena	n.	stretcher
+10056	tstalsena	n.	knife sheath
+10060	swizawsena	n.	quiver (attached to ikran's saddle)
+10064	tìkakrel	n.	blindness
+10072	ngoa	n.	mud
+10076	mawfwa	conj.	after
+10080	neni	n.	sand
+10084	fwep	n.	dust (on a surface)
+10088	fwopx	n.	dust (in the air)
+10092	nìyey	adv.	directly, straight to the point
+10096	'al	vtr.	waste
+10100	tì'al	n.	wastefulness
+10104	le'al	adj.	wasteful
+10108	nì'al	adv.	wastefully
+10112	srey	n.	version
+10116	lupra	n.	style
+10120	fyolup	adj.	exquisite, sublime in style
+10124	fe'lup	adj.	tacky, in poor taste
+10128	snolup	n.	personal style or aesthetic, presence
+10132	'ongop	vtr.	design
+10136	'ongopyu	n.	designer
+10140	uniltìrantokxolo'	n.	clan, or group of avatars
+10144	krrka	adp.	during
+10148	tìreyn	n.	train
+10152	LosÄntsyelesì	pn.	Los Angeles
+10156	tson	n.	obligation, duty, imposed requirement
+10160	nìtson	adv.	dutifully, as an obligation
+10164	kxìm	vtr.	command, order, assign a task
+10168	tsonta	conj.	to (with kxìm)
+10172	tìkxìm	n.	commanding, ordering, assigning tasks
+10176	tìkxìm si	vin.	be above someone in a heirarchy, be someone's superior
+10180	kxìmyu	n.	commander, one with authority over another
+10184	saylahe	adv.	'et cetera'
+10188	fpomron	n.	health or wellbeing (mental)
+10192	lefpomron	adj.	healthy (mentally)
+10196	kelfpomron	adj.	unhealthy (mentally)
+10200	fpomtokxnga'	adj.	healthful (physically)
+10204	kefpomtokxnga'	adj.	unhealthful (physically)
+10208	fpomronga'	adj.	healthful (mentally)
+10212	kefpomronga'	adj.	unhealthful (mentally)
+10216	srefpìl	vtr.	assume
+10220	srefwa	conj.	before
+10224	ken'aw	adv.	not only
+10228	släkop	adv.	but also
+10232	sngum si	vin.	worry
+10236	väpam	n.	noise. ugly or unpleasant sound, screech
+10240	hawmpam	n.	noise. sound that is excessive, unnecessary, inappropriate, unexpected or startling
+10244	lehawmpam	adj.	noisy
+10248	nìhawmpam	adv.	noisily
+10252	miklor	adj.	pleasant sounding, beautiful sounding
+10256	mikvä'	adj.	badsounding
+10260	narlor	adj.	beautiful visually
+10264	narvä'	adj.	ugly, unsightly
+10268	zawr	n.	animal call
+10272	tìnew	n.	desire
+10276	nopx	vtr.	put away, store
+10280	tiam	vtr.	count
+10284	ketsuktiam	adj.	uncountable, infinite
+10288	txewluke	adj.	endless, boundless, without limit
+10292	'umtsa	n.	medicine
+10296	lang	vtr.	investigate, explore
+10300	tìlang	n.	exploration
+10304	sälang	n.	an exploration or investigation
+10308	kxum	adj.	viscous, gelatinous, thick
+10312	kxumpay	n.	viscous liquid, gel
+10324	sängop	n.	creation
+10332	tsyìl	vtr.	climb, scale (pulling entire body up)
+10336	kxap	n.	threat
+10340	kxapnga'	adj.	threatening
+10344	nìkxap	adv.	threateningly
+10348	tìftiatu	n.	researcher
+10352	tìftiatu kifkeyä	n.	scientist
+10356	heyr	n.	chest
+10360	tseri	vtr.	note, notice
+10364	kxap si	vin.	threaten
+10368	tìtseri	n.	awareness, notice
+10372	tìktseri	n.	unawareness, lack of notice
+10376	yäkx	vtr.	not notice, ignore, snub
+10380	tìyäkx	n.	lack of notice, snubbing
+10384	srunga'	adj.	helpful
+10388	säyäkx	n.	snub
+10392	ngip	n.	space, open or borderless area
+10396	txepram	n.	volcano
+10400	txekxumpay	n.	magma, lava
+10404	wrrza'u	vin.	come out, emerge
+10408	tskxevi	n.	pebble, small stone polished smooth by natural forces
+10412	nìkx	n.	gravel
+10416	tìralpeng	n.	translation, interpretation
+10420	unil si	vin.	dream
+10424	uniltsa	vtr.	dream of, dream about
+10428	mauti	n.	fruit
+10432	utu	n.	forest canopy
+10436	utumauti	n.	banana fruit
+10440	slayk	vtr.	brush, comb
+10444	tìkelu	n.	lack
+10448	tompakel	n.	drought
+10452	syuvekel	n.	famine
+10456	zawprrte'	vin.	be enjoyable
+10460	nawri	adj.	talented
+10464	tìnawri	n.	talent
+10468	susyang	adj.	fragile, delicate
+10472	reym	n.	dry land
+10476	kop	conj.	and also
+10480	tuvom	adj.	greatest of all, exceedingly great
+10484	yengwal	n.	sorrow
+10488	nip	vin.	become stuck, get caught in something
+10492	hän	n.	net, web
+10496	'rrko	vin.	roll
+10500	tsngem	n.	muscle
+10504	tsawsngem	adj.	muscular
+10508	wìngay	vtr.	prove
+10512	tìwìngay	n.	proof, proving (abstract)
+10516	säwìngay	n.	proof (particular instance)
+10524	tìng zekwä	vin.	touch (intentionally)
+10528	weptseng	n.	website
+10532	wep	n.	web (as in world wide web, www)
+10536	tseotu	n.	artist (generic term) 
+10540	tìkeftxo	n.	sadness
+10544	tìkeftxonga'	adj.	sad
+10548	pamtseongopyu	n.	music creator, composer
+10552	lereyfya	adj.	cultural
+10556	huru	n.	cooking pot
+10560	sey	n.	cup or bowl minimally modified from naturally occuring resources
+10564	'e'in	n.	pod, gourd
+10568	'e'insey	n.	drinking gourd
+10572	sum	n.	shell (from the ocean)
+10576	sumsey	n.	drinking vessel made of shell
+10580	swoasey	n.	kava bowl (constructed from seed pods, used for drinking intoxicating beverages), handsized
+10584	swoasey ayll	n.	large social kava bowl
+10588	tsyey	n.	snack, light meal
+10592	tsyeytsyìp	n.	tiny bite
+10596	nik	adj.	convenient, usable without much expenditure of effort
+10600	niktsyey	n.	food wrap (food items wrapped in edible leaves or vines)
+10604	merki	n.	ground rack (for smoking meats)
+10608	ikut	n.	large pestle (grinding tool); mealmashing pole
+10612	sämunge	n.	transportation tool or device
+10616	syusmung	n.	food tray
+10620	paysmung	n.	water carrier
+10624	prrsmung	n.	baby carrier
+10628	nivi	n.	sleeping hammock (general term)
+10632	swaynivi	n.	family hammock
+10636	snonivi	n.	singleperson hammock
+10640	sänrr	n.	glow, an instance of glowing; light source, lamp
+10644	tsmi	n.	nectar
+10648	tsmisnrr	n.	bladder lantern, nectar lantern
+10652	seyn	n.	chair, stool, bench; any tool or device to facilitate sitting
+10656	hoan	n.	comfort
+10660	lehoan	adj.	comfortable
+10664	nìhoan	adv.	comfortably
+10668	kelhoan	adj.	uncomfortable
+10672	fyan	n.	constructed device for keeping something off the ground and clean
+10676	fyanyo	n.	table, elevated utilitarian surface
+10680	yomyo	n.	plate, (for food)
+10684	yomyo lerìk	n.	leaf plate
+10688	fyanyì	n.	shelf
+10692	kurfyan	n.	hamper or suspended rack
+10696	snokfyan	n.	personal belongings rack
+10700	kurfyavi	n.	hook (for hanging or suspending an item)
+10704	seyto	vtr.	butcher (in the sense of separating or processing the carcass of a dead animal)
+10708	säseyto	n.	butchering tool
+10712	yaney	n.	canoe
+10716	spulyaney	n.	canoe paddle
+10720	lal	adj.	old (opposite of mip)
+10724	txanlal	adj.	ancient, very old
+10728	tsankum	n.	advantage, benefit, upside, gain
+10732	tsankumnga'	adj.	advantageous
+10736	fekumnga'	adj.	disadvantageous
+10740	tìmungwrr	n.	exception
+10744	tìmungwrr si	vin.	make an exception
+10748	nawfwe	adj.	fluent (for speech)
+10752	fekum	n.	disadvantage, drawback, downside
+10756	plltxeyu	n.	speaker
+10760	pxawngip	n.	environment
+10764	palulukantsyìp	n.	cat (earth animal); lit. little palulukan
+10768	zum	n.	object, thing (physical or tangible)
+10772	hìpey	vin.	hesitate, hold back for a short time
+10776	tìhìpey	n.	hesitation
+10780	snäm	vin.	rot, decay, degrade over time
+10784	kllrikx	n.	earthquake
+10788	sälatem	n.	change (instance of), edit, modification
+10792	tìlatem	n.	change (abstract concept)
+10796	txatx	n.	bubble
+10800	lehìpey	adj.	hesitant, in a state of hesitation
+10804	nìhìpey	adv.	hesitantly
+10808	ronguway	vin.	howl
+10812	ronguwayyu	n.	howler
+10816	ler	adj.	steady, smooth (for motion)
+10820	nìler	adv.	steadily
+10824	lo'a	n.	totem, amulet
+10832	'ewrang	n.	loom
+10836	sa'ewrang	n.	mother loom, giant loom
+10840	tiretu	n.	shaman
+10844	pasuk	n.	berry
+10848	vozampasukut	n.	grinch tree, thousand berry tree
+10852	paskalin	n.	sweet berry (term of endearment)
+10856	fngä'tseng	n.	restroom (on Earth)
+10860	mo a fngä'	n.	restroom (on Earth)
+10864	sa	vin.	rise to a challenge
+10884	tanleng	n.	bark (of a tree)
+10888	syokup	n.	weight (physical) 
+10892	kewan	n.	age
+10896	tìnvi	n.	task, errand, step (in an instruction)
+10900	tìnvi si	vin.	perform a task, run an errand
+10904	txanwetseng	n.	personally significant or beloved place, heimat (ger.)
+10908	penghrr	vin.	warn
+10912	säpenghrr	n.	warning
+10916	tì'ul	n.	increase
+10920	eyawrfya	n.	right way (of doing something), correct path
+10924	stiwi	n.	mischief
+10928	stiwi si	vin.	be naughty, do mis
+10932	stiwinga'	adj.	mischievous
+10936	stiwisiyu	n.	mischiefmaker
+10940	rawng	n.	entrance, doorway
+10944	syewe	n.	fat (substance in meat)
+10948	syewenga'	adj.	fatty
+10952	laro si	vin.	clean, make free of dirt
+10956	slukx	n.	horn of an animal
+10960	tsin	n.	nail, claw
+10964	ue'	vtr., vin.	vomit, vomit up
+10968	nantangtsyìp	n.	dog (earth animal); lit. little nantang
+10972	hiup	vin., vtr.	spit, spit out
+10980	räptum	adj.	coarse, vulgar, socially unacceptable
+10984	txanlokxe	n.	clan or tribal domain, country
+10988	tsamsä'o	n.	weapon of war
+10992	tìtxurnga'	adj.	powerful
+10996	leym	vim.	call, cry out, exclaim
+11000	nìzen	adv.	necessarily
+11004	kenzen	adv.	not necessarily
+11008	pllhrr	vin.	warn
+11012	säpllhrr	n.	warning
+11024	tspìng	n.	austrapede
+11028	mawup	n.	turtapede
+11032	pawk	n.	horn, wind instrument
+11048	tekre	n.	skull
+11056	ionar	n.	banshee rider visor
+11072	mo'ara	n.	gathering place

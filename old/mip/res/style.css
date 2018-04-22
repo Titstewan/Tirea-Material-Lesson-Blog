@@ -1,0 +1,534 @@
+/*  Main CSS for the page's style
+
+For editing the color of the text, scroll below to the lines where the color codes are.
+This is a quite good style control center ;P.
+
+Woooo, how much I lost the game to write and optimize these codes.
+
+ta Titstewan  */
+
+@font-face {
+      font-family: "Maiandra GD";
+      src: url("../res/MaiandraGD.ttf") format("truetype");
+      }
+
+@viewport {
+      width: device-width !important;
+      zoom: 0.3;
+      }
+
+a:link {
+      color: #858585;
+      text-decoration: none;
+      }
+
+a:visited {
+      color: #959595;
+      text-decoration: none;
+      }
+
+a:hover {
+      text-shadow: 0 0 3px #ddd;
+      }
+
+html, body {
+      font-family: Maiandra GD, sans-serif;
+      background-color: #b1b1b1;
+      margin: 0px;
+      padding: 0px;
+      min-width: 500px;
+      min-height: 700px;
+      }
+
+table, tr, td {
+      text-align: left;
+      }
+
+td {
+      padding-left: 20px;
+      }
+
+.titlename {
+      font-size: 4em;
+      letter-spacing: 0px;
+      line-height: 1.25em;
+      }
+
+.icons {
+      width: 25px;
+      margin: 5px;
+      vertical-align: middle;
+      }
+
+.titletext {
+      font-size: 17pt;
+      }
+
+.mblock {
+      background-color: #dbe9ee;
+      min-width: 800px;
+      max-width: 2560px;
+      font-size: 15pt;
+      box-sizing: border-box;
+      color: #555555;
+      text-align: center;
+      overflow: hidden;
+      padding: 50px;
+      }
+
+.foot {
+      background-color: #b1b1b1;
+      min-width: 800px;
+      max-width: 2560px;
+      font-size: 10pt;
+      box-sizing: border-box;
+      color: #555555;
+      text-align: center;
+      padding: 30px;
+      }
+
+.head {
+      min-width: 800px;
+      max-width: 2560px;
+      text-align: center;
+      overflow: hidden;
+      background-size: cover;
+      box-sizing: border-box;
+      background-position: center center;
+      background-color: #f1f1f1;
+      background-image: url("../img/jakeney.jpg");
+      color: #bbb;
+      padding-top: 85px;
+      padding-bottom: 25px;
+      }
+
+.lesson {
+      background-color: #dbe9ee;
+      min-width: 800px;
+      max-width: 2560px;
+      font-size: 15pt;
+      box-sizing: border-box;
+      color: #555555;
+      text-align: left;
+      overflow: hidden;
+      padding: 50px;
+      }
+
+.tsawl {
+      font-size: 25pt;
+      font-family: Arial !important;
+      }
+
+.tabcont {
+      padding-left: 6%;
+      font-size: 1.25em;
+      display: table;
+      padding: 4%;
+      }
+
+.tabcont a {
+      font-family: Maiandra GD, serif;
+      color: #bb4400;
+      }
+
+.img {
+      display: table-cell;
+      position: relative;
+      margin: 20px;
+      height: 200px;
+      width: 200px;
+      float: left;
+      text-align: center;
+      background-color: #8ac3db;
+      border-radius: 10px;
+      }
+
+.img span {
+      position: relative;
+      font-family: Maiandra GD, sans-serif;
+      font-weight: bold;
+      top: 35px;
+      font-size: 3em;
+      color: #441177;
+      }
+
+.desc {
+      position: relative;
+      vertical-align: text-bottom;
+      font-weight: normal;
+      top: 35px;
+      width: 100%;
+      }
+
+.nobullets {
+      list-style: none;
+      }
+
+.tabcontd {
+      padding-left: 3%;
+      font-size: 1.1em;
+      display: table;
+      padding: 2%;
+      }
+
+.tabcontd a {
+      font-family: Maiandra GD, serif;
+      color: #bb4400;
+      }
+
+.imgd {
+      display: table-cell;
+      position: relative;
+      margin: 10px;
+      height: 75px;
+      width: 250px;
+      float: left;
+      text-align: center;
+      background-color: #8ac3db;
+      border-radius: 10px;
+      }
+
+.descd {
+      position: relative;
+      vertical-align: text-bottom;
+      font-weight: normal;
+      top: 20px;
+      width: 100%;
+      }
+
+ul.lindent, ol.lindent {
+      padding-left: 5%;
+      }
+
+#nextpost {
+      float: right;
+      padding-right: 4%;
+      font-size: 13pt;
+      }
+
+#prevpost {
+      float: left;
+      padding-left: 4%;
+      font-size: 13pt;
+      }
+
+.bold {
+      font-weight: bold;
+      }
+
+nav {
+      height: 50px;
+      width: 100%;
+      background-color: rgba(95, 95, 95, 0.25);
+      font-size: 18pt;
+      font-weight: bold;
+      position: fixed;
+      z-index: 1000;
+      }
+
+nav ul {
+      padding: 0;
+      margin: 0 auto;
+      width: 900px;
+      height: 50px;
+      }
+
+nav li {
+      display: inline;
+      float: left;
+      }
+
+nav a {
+      color: #a5c1d3 !important;
+      display: inline-block;
+      width: 135px;
+      text-align: center;
+      text-decoration: none;
+      line-height: 50px;
+      text-shadow: 1px 1px 0px #151515 !important;
+      transition: .3s background-color;
+	  -moz-transition: .3s background-color;
+	  -webkit-transition: .3s background-color;
+	  -webkit-transition: .3s background-color;
+      }
+
+nav li a {
+      border-right: 1px dotted grey;
+      box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      }
+
+nav a:hover, nav a:active {
+      background-color: rgba(240, 240, 240, 0.20);
+      color: #9ba5ab !important;
+      }
+
+nav .hidethis {
+      display: none;
+      }
+
+nav .mobilestuff {
+      display: none;
+      }
+
+nav li:last-child a {
+      border-right: 0;
+      }
+
+.nav > li > .nav-column {
+      position: absolute;
+      display: block;
+      width: 100%;
+      top: 50px;
+      left: 0;
+      opacity: 0;
+      visibility: hidden;
+      overflow: hidden;
+      background-color: rgba(87, 88, 89, 0.90);
+      border-bottom: 2px solid grey;
+      font-size: 13pt;
+      line-height: 95%;
+      padding: 10px;
+      height: 100px;
+      text-align: center;
+      color: #a5c1d3 !important;
+      z-index: 1000;
+      }
+
+.nav > li:hover > .nav-column {
+      opacity: 1;
+      visibility: visible;
+      overflow: visible;
+      }
+
+.socialmedia {
+      border-left: 1px solid grey;
+      border-right: 1px solid grey;
+      width: 50%;
+      margin: 0 auto;
+      background-color: rgba(87, 88, 89, 0.75);
+      padding: 3px;
+      }
+
+/* ----------------------------------------
+Codes for responsibility on mobile devices
+Code-monster - I call it O___o
+------------------------------------------- */
+
+@media only screen and (max-width: 1000px) {
+
+nav {
+      border-bottom: 0;
+      height: 75px;
+      }
+
+nav ul {
+      display: none;
+      height: auto;
+      }
+
+	  .head {
+      padding-top: 100px;
+      }
+
+nav .hidethis {
+      color: #a5c1d3 !important;
+      display: inline-block;
+      width: 100%;
+      height: 75px !important;
+      text-align: center;
+      text-decoration: none;
+      line-height: 75px;
+      text-shadow: 1px 1px 0px #151515 !important;
+      transition: .3s background-color;
+	  -moz-transition: .3s background-color;
+	  -webkit-transition: .3s background-color;
+	  -webkit-transition: .3s background-color;
+      }
+
+nav .mobilestuff {
+      position: absolute;
+      display: block;
+      width: 100%;
+      top: 75px;
+      left: 0;
+      opacity: 0;
+      visibility: hidden;
+      overflow: hidden;
+      background-color: rgba(87, 88, 89, 0.90);
+      text-align: center;
+      color: #a5c1d3 !important;
+      border-bottom: 2px solid grey;
+      z-index: 1000;
+      }
+
+nav:hover > .mobilestuff {
+      opacity: 1;
+      visibility: visible;
+      overflow: visible;
+      }
+
+nav .boxlink {
+      color: #a5c1d3 !important;
+      display: inline-block;
+      width: 100%;
+      height: 65px !important;
+      text-align: center;
+      text-decoration: none;
+      line-height: 65px;
+      text-shadow: 1px 1px 0px #151515 !important;
+      transition: .3s background-color;
+	  -moz-transition: .3s background-color;
+	  -webkit-transition: .3s background-color;
+	  -webkit-transition: .3s background-color;
+      border-bottom: 1px solid grey;
+      }
+
+nav .socialboxlink {
+      color: #a5c1d3 !important;
+      display: inline-block;
+      width: 75px;
+      text-align: center;
+      text-decoration: none;
+      line-height: 60px;
+      text-shadow: 1px 1px 0px #151515 !important;
+      transition: .3s background-color;
+	  -moz-transition: .3s background-color;
+	  -webkit-transition: .3s background-color;
+	  -webkit-transition: .3s background-color;
+      border-bottom: none;
+      }
+
+.titlename {
+      font-size: 3em;
+      letter-spacing: 0px;
+      line-height: 1.1em;
+      }}
+
+	  table, tr, td {
+      font-size: 18pt;
+      }
+      
+      #nextpost {
+      font-size: 15pt;
+      }
+
+	  #prevpost {
+      font-size: 15pt;
+      }
+
+/* ----------------------------------------
+Color codes for the words in Na'vi
+------------------------------------------- */
+
+.navi {
+      color: #67a7a7;
+      font-weight: bold;
+      }
+
+.ygold {
+      color: #bfb137;
+      }
+
+.blue {
+      color: #0100ca;
+      }
+
+.red {
+      color: #a22a22;
+      }
+
+.green {
+      color: green;
+      }
+
+.orange {
+      color: orange;
+      }
+
+.green {
+      color: green;
+      }
+
+.purple {
+      color: purple;
+      }
+
+.turquoise {
+      color: #21E0D0;
+      }
+
+.brown {
+      color: brown;
+      }
+
+.ctaron {
+      color: #0066FF;
+      }
+
+.cnga {
+      color: #77D633;
+      }
+
+.cyu {
+      color: #00B8E6;
+      }
+
+.civ {
+      color: #4D94FF;
+      }
+
+.lime {
+      color: #00DD00;
+      }
+
+.deepskyblue {
+      color: deepskyblue;
+      }
+
+.magenta {
+      color: magenta;
+      }
+
+.violet {
+      color: violet;
+      }
+
+.cyan {
+      color: #00AFFF;
+      }
+
+.gdocblue {
+      color: #4D90FE;
+      }
+
+.vtr {
+      color: #8303FF;
+      font-weight: bold;
+      }
+
+.vin {
+      color: lime;
+      font-weight: bold;
+      }
+
+.ag {
+      color: cyan;
+      font-weight: bold;
+      }
+
+.tp {
+      color: burlywood;
+      font-weight: bold;
+      }
+
+.ac {
+      color: orchid;
+      font-weight: bold;
+      }
+
+.adj {
+      color: #228855;
+      font-weight: bold;
+      }
