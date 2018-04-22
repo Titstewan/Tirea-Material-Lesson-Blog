@@ -501,6 +501,74 @@ function navi_lesson()
 	}
 }
 
+// Helper function for navi_random()
+// Random Na'vi words! :D
+// By request
+function get_random_entry() {
+	global $rootdir;
+	$fileName = $rootdir . '/dictionarydata/dictionary.txt';
+	$maxLineLength = 4096;
+	$handle = @fopen($fileName, 'r');
+	$lc_arr = array(
+		'english' => 'eng',
+		'german' => 'de',
+		'dutch' => 'nl',
+		'esperanto' => 'eng',
+		'french' => 'eng',
+		'czech' => 'eng',
+		'navi' => 'eng',
+	);
+	if ($handle) {
+		$random_line = null;
+		$line = null;
+		$count = 0;
+		while (($line = fgets($handle, $maxLineLength)) !== false) {
+			if (!isset($_COOKIE['lang'])) {
+				$lang = "eng";
+			} else {
+				$lang = $_COOKIE['lang'];
+			}
+			$lc = $lc_arr[$lang];
+			if (!preg_match("/\t$lc\t/", $line)) {
+				continue;
+			}
+			$count++;
+			if(rand() % $count == 0) {
+				$random_line = $line;
+			}
+		}
+		if (!feof($handle)) {
+			echo "Error: unexpected fgets() fail<br>\n";
+			fclose($handle);
+			return null;
+		} else {
+			fclose($handle);
+		}
+		return $random_line;
+	}
+}
+
+function navi_random() {
+	$entry = get_random_entry();
+	$fields = preg_split("/[\t]/", $entry);
+	// 4	eng	'ampi	ˈʔ·am.p·i	'<1><2>amp<3>i	vtr.	touch
+	$id = $fields[0];
+	$lc = $fields[1];
+	$word = $fields[2];
+	$ipa = $fields[3];
+	$infixes = $fields[4];
+	$pos = $fields[5];
+	$def = $fields[6];
+	echo '<h1>Random Na\'vi Word</h1>';
+	echo '<h3>';
+	echo '<strong>' . $word . '</strong>';
+	echo ' [' . $ipa . '] ';
+	echo '<i>' . $pos . '</i> ';
+	echo $def;
+	echo '</h3>';
+	echo '<p> Refresh the page for another random word!';
+}
+
 // Helper function for rss_feed() for items
 // depending on if $type of lesson is 'c-' or 'g-', make the RSS item
 // returns a string of all the RSS items of whatever type of lesson

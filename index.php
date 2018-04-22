@@ -113,13 +113,14 @@ function hp_main()
 
 	// Here's the $_REQUEST['p'] array - $_REQUEST['p'] => array($file, $function).
 	$pageArray = array(
-		'sounds' => array('source.php', 'abc_sound'),
-		'generator' => array('generate.php', 'name_gen'),
-		'links' => array('source.php', 'aysaheylu'),
+		'about' => array('source.php', 'about'),
 		'downloads' => array('source.php', 'navi_download'),
 		'lessons' => array('source.php', 'navi_lesson'),
-		'about' => array('source.php', 'about'),
+		'links' => array('source.php', 'aysaheylu'),
+		'random' => array('source.php', 'navi_random'),
 		'rss' => array('source.php', 'rss_feed'),
+		'sounds' => array('source.php', 'abc_sound'),
+		'generator' => array('generate.php', 'name_gen'),
 	);
 
 	// Get the function and file to include - if it's not there, do the index.
