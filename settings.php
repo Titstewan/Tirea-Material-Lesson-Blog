@@ -25,8 +25,11 @@ $software_vers = '1.0.0';
 // the root link
 $rootlink = 'http://tirea.learnnavi.org';
 
+// the root directory
+$rootdir = dirname(__FILE__);
+
 // define the server dir for use by PHP
-$sourcedir = dirname(__FILE__) . '/res';
+$sourcedir = $rootdir . '/res';
 
 // define HTTP Document root for use by Apache
 // because soon it will change from this to just "/"
@@ -34,10 +37,10 @@ $sourcedir = dirname(__FILE__) . '/res';
 $httproot = $rootlink . '/';
 
 // path to the lesson dir
-$lessondir = dirname(__FILE__) . '/lessons';
+$lessondir = $rootdir . '/lessons';
 
 // path to the langauge dir
-$langdir = dirname(__FILE__) . '/language';
+$langdir = $rootdir . '/language';
 
 // define the weblink
 $weblink = $httproot . 'index.php';
