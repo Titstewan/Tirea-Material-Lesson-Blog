@@ -1141,7 +1141,6 @@
 6524	pxelo	ˈp'ɛ.lo	\N	adv.
 6528	pamrelfya	pam.ˈɾɛl.fja	\N	n.
 6532	law si	ˈlaw ˈs·i	law s<1><2><3>i	vin.
-6544	t	tɪ.ˈsuŋ	\N	n.
 6548	naer	na.ˈɛɾ	\N	n.
 6552	atxkxerel	at'.ˈk'ɛ.ɾɛl	\N	n.
 6556	nìtengfya	nɪ.ˈtɛŋ.fja	\N	adv.
@@ -2219,6 +2218,7 @@
 11364	ripx	ɾ·ip'	r<1><2><3>ipx	vtr.
 11368	sävll	sæ.ˈvḷ	\N	n.
 11376	tstxolì'ukìngvi	t͡st'o.ˈlɪʔ.u.kÃ¬ŋ.vi	\N	n.
+11380	kxì	k'ɪ	\N	intj.
 0	eywa	ˈej.wa	\N	prop.n.
 ap	<äp>	æp	<1>	infix.
 eyk	<eyk>	ejk	<1>	infix.

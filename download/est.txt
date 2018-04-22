@@ -1141,7 +1141,6 @@ huvitav olema
 kolm korda
 õigekiri (õigesti kirjutamise viis)
 selgitama, selgeks tegema
-post scriptum (p.s.), lisaks veel
 jook
 kaart, plaan
 samalaadselt
@@ -1364,7 +1363,7 @@ valama, kallama
 ellu jääma, üle elama
 ellujäämine
 ellujäänud (nt. mingist grupist ellujäänud inimesed)
-ellujäävalt (midagi tegema)
+elu eest (midagi tegema)
 tähendus, tähtsus
 suur tähtsus, isiklikult tähtis
 tähenduslikult
@@ -1813,7 +1812,7 @@ end taastama, taastuma (metafooriline)
 igatsema
 igatsus
 kogemus
-lootus (abstraktne idee)
+lootus (abstraktne)
 lootus (kindla juhtumi puhul)
 mõttetu, kasutu
 äär, tase, aste, tasand (saab kasutada metafooriliselt mõõdetavate asjade puhul: veetase, temperatuur, oskused, rõõmsameelsus, raskusastmed jne.)
@@ -2193,7 +2192,7 @@ koba, kohmakas
 kohmakus
 baas
 Kuulpea
-ìlu (Disney teemapark)
+Plesiosauruselaadne mereelukas (Disney teemapark)
 puhkpill
 poeem, jutustav luuletus
 ehmatama, hirmutama
@@ -2208,3 +2207,14 @@ määrsõna
 kaassõna
 sidesõna
 sitapea, persevest (ropp!)
+tsükkel
+lõputu, ajatu (ajalises mõistes)
+fänn, huviline
+mälestuspäev
+kõnekeelne väljend sõnale txanso'hayu (fänn, huviline)
+aastapäev
+kõnekeelne väljend sõnale zìsìtsaltrr (aastapäev)
+pussitama, noaga/odaga torkama
+läbistama, läbi torkama
+märk, signaal, tähistus
+nimisõnaühend

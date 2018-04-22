@@ -1,4 +1,3 @@
-"Frontside"	"Flipside"	"Category"
 4	de	'ampi	ˈʔ·am.p·i	'<1><2>amp<3>i	vtr.	berühren
 4	eng	'ampi	ˈʔ·am.p·i	'<1><2>amp<3>i	vtr.	touch
 4	est	'ampi	ˈʔ·am.p·i	'<1><2>amp<3>i	vtr.	katsuma, puutuma
@@ -9110,14 +9109,6 @@
 6532	pl	law si	ˈlaw ˈs·i	law s<1><2><3>i	vin.	wyjaśniać
 6532	ru	law si	ˈlaw ˈs·i	law s<1><2><3>i	vin.	объяснять
 6532	sv	law si	ˈlaw ˈs·i	law s<1><2><3>i	vin.	göra klart, förklara
-6544	de	t	tɪ.ˈsuŋ	\N	n.	Hinzufügung; post scriptum (PS)
-6544	eng	t	tɪ.ˈsuŋ	\N	n.	addition, post script (P.S.)
-6544	est	t	tɪ.ˈsuŋ	\N	n.	post scriptum (p.s.), lisaks veel
-6544	hu	t	tɪ.ˈsuŋ	\N	n.	kiegészítés, utóirat (U.I.)
-6544	nl	t	tɪ.ˈsuŋ	\N	n.	toevoeging, post script (p.s.)
-6544	pl	t	tɪ.ˈsuŋ	\N	n.	dodatek, postscriptum (P.S.)
-6544	ru	t	tɪ.ˈsuŋ	\N	n.	добавление, постскриптум (P.S.)
-6544	sv	t	tɪ.ˈsuŋ	\N	n.	tillägg, ps.
 6548	de	naer	na.ˈɛɾ	\N	n.	Getränk, etwas Trinkbares
 6548	eng	naer	na.ˈɛɾ	\N	n.	drink, something able to be drunk
 6548	est	naer	na.ˈɛɾ	\N	n.	jook
@@ -16216,7 +16207,7 @@
 11240	eng	lanay'ka	la.ˈnajʔ.ka	\N	n.	slinger
 11240	est	lanay'ka	la.ˈnajʔ.ka	\N	n.	Kuulpea
 11240	nl	lanay'ka	la.ˈnajʔ.ka	\N	n.	slinger
-11244	eng	ìlu	ˈɪ.lu	\N	n.	ìlu
+11244	eng	ìlu	ˈɪ.lu	\N	n.	large plesiosaurlike sea creature
 11244	est	ìlu	ˈɪ.lu	\N	n.	ìlu (Disney teemapark)
 11244	nl	ìlu	ˈɪ.lu	\N	n.	ìlu
 11248	eng	sye'otxang	ˈsjɛ.ʔo.t'aŋ	\N	n.	wind instrument
