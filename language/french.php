@@ -36,9 +36,9 @@ $txt['m_downloads'] = 'Téléchargements';
 $txt['m_rss'] = 'Flux RSS';
 // home
 $txt['h_welcome'] = 'Bienvenue';
-$txt['h_title'] = 'Leçons faciles de grammaire';
+$txt['h_title'] = 'Leçons de grammaire faciles';
 $txt['h_welcome_txt'] = 'Bienvenue sur Tirea Na\'vi! Ce site existe pour enseigner la langue
-                  Na\'vi à tout le monde d\'une manière facile à comprendre. À tous les fans
+                  Na\'vi à tout le monde d\'une manière compréhensible. À tous les fans
                   d\'Avatar qui ne sont pas des linguistes, j\'espère vous aider dans votre
                   parcours afin que vous deveniez les prochains locuteurs de cette superbe langue.
                   -- Esprit Bleu (Tirea Aean)';
@@ -65,7 +65,7 @@ $txt['d_thing'] = 'D\'autres documents hébergés sur ce site';
 $txt['d_hrhgif'] = 'Galerie de vieux mèmes et autres, certains en lien avec le Na&#39;vi';
 $txt['d_images'] = 'dossier d\'images';
 $txt['d_hkbl'] = 'Na\'vi Language support for TeamSpeak 3';
-$txt['d_dict_data'] = 'Na\'vi Dictionary Data Files';
+$txt['d_dict_data'] = 'Fichiers de données du dictionaire Na\'vi';
 // lessons
 $txt['n_lesson'] = 'Leçons sur la langue Na\'vi';
 $txt['n_basic'] = 'Leçons en mode dialogue';
