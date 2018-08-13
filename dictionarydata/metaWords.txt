@@ -68,7 +68,7 @@
 384	flä	fl·æ	fl<1><2><3>ä	vin.
 388	fmawn	fmawn	\N	n.
 392	fmetok	ˈfm·ɛ.t·ok̚	fm<1><2>et<3>ok	vtr.
-396	fmi	fm·i	\N	vtrm.
+396	fmi	fm·i	fm<1><2><3>i	vtrm.
 400	fngap	fŋap̚	\N	n.
 404	fngapsutxwll	ˈfŋap.sut'.wḷ	\N	n.
 408	fnu	fn·u	fn<1><2><3>u	vin.
@@ -86,7 +86,7 @@
 460	frapo	ˈfɾa.po	\N	pn.
 464	frrfen	ˈf·ṛ.f·ɛn	f<1><2>rrf<3>en	vtr.
 468	frrtu	ˈfṛ.tu	\N	n.
-472	ftang	ft·aŋ	\N	vim.
+472	ftang	ft·aŋ	ft<1><2><3>ang	vim.
 476	fte	ftɛ	\N	conj.
 480	fteke	ˈftɛ.kɛ	\N	conj.
 484	ftia	ft·i.·ˈa	ft<1><2>i<3>a	vtr.
@@ -234,7 +234,7 @@
 1208	ne'ìm	nɛ.ˈʔɪm	\N	adv.
 1212	nekx	n·ɛk'	n<1><2><3>ekx	vtr.
 1220	neto	nɛ.ˈto	\N	adv.
-1224	new	n·ɛw	\N	vtrm.
+1224	new	n·ɛw	n<1><2><3>ew	vtrm.
 1232	niä	n·i.·ˈæ	n<1><2>i<3>ä	vtr.
 1244	nì'aw	nɪ.ˈʔaw	\N	adv.
 1248	nìawnomum	nɪ.aw.ˈno.mum	\N	adv.
@@ -257,7 +257,7 @@
 1316	nìwin	nɪ.ˈwin	\N	adv.
 1320	nìwotx	nɪ.ˈwot'	\N	adv.
 1332	nulkrr	nul.ˈkṛ	\N	adv.
-1336	nulnew	nul.ˈn·ɛw	\N	vtrm.
+1336	nulnew	nul.ˈn·ɛw	nuln<1><2><3>ew	vtrm.
 1340	nume	ˈn·u.m·ɛ	n<1><2>um<3>e	vin.
 1348	nga	ŋa	\N	pn.
 1352	ngawng	ŋawŋ	\N	n.
@@ -350,7 +350,7 @@
 1772	sevin	sɛ.ˈvin	\N	adj.
 1776	seyri	ˈsɛj.ɾi	\N	n.
 1784	seze	ˈsɛ.zɛ	\N	n.
-1788	si	s·i	s<1><2><3>i	
+1788	si	s·i	s<1><2><3>i	vin.
 1792	sì	sɪ	\N	conj.
 1796	sìk	sɪk̚	\N	adv.
 1800	sìlpey	sɪl.ˈp·ɛj	sìlp<1><2><3>ey	vin.
@@ -360,7 +360,7 @@
 1824	skxawng	sk'awŋ	\N	n.
 1828	slä	slæ	\N	conj.
 1832	slu	sl·u	sl<1><2><3>u	vin.
-1836	sngä'i	ˈsŋ·æ.ʔ·i	\N	vim.
+1836	sngä'i	ˈsŋ·æ.ʔ·i	sng<1><2>ä'<3>i	vim.
 1840	sngä'ikrr	ˈsŋæ.ʔi.kṛ	\N	n.
 1844	sngel	sŋɛl	\N	n.
 1848	sngeltseng	ˈsŋɛl.t͡sɛŋ	\N	n.
@@ -504,7 +504,7 @@
 2464	tsranten	ˈt͡sɾ·an.t·ɛn	tsr<1><2>ant<3>en	vin.
 2468	tstew	t͡stɛw	\N	adj.
 2472	tstxo	t͡st'o	\N	n.
-2476	tsun	t͡s·un	\N	vim.
+2476	tsun	t͡s·un	ts<1><2><3>un	vim.
 2484	tswayon	ˈt͡sw·aj.·on	tsw<1><2>ay<3>on	vin.
 2488	tsyal	t͡sjal	\N	n.
 2492	tsyo	t͡sjo	\N	n.
@@ -567,7 +567,7 @@
 2800	zamunge	za.ˈm·u.ŋ·ɛ	zam<1><2>ung<3>e	vtr.
 2804	zawng	z·awŋ	z<1><2><3>awng	vin.
 2808	zekwä	ˈzɛk.wæ	\N	n.
-2812	zene	ˈz·ɛ.n·ɛ	\N	vim.
+2812	zene	ˈz·ɛ.n·ɛ	z<1><2>en<3>e	vim.
 2816	zìsìt	ˈzɪ.sɪt̚	\N	n.
 2820	zong	z·oŋ	z<1><2><3>ong	vtr.
 2824	zongtseng	ˈzoŋ.t͡sɛŋ	\N	n.
@@ -616,7 +616,7 @@
 3840	srese'a	sɾɛ.s·ɛ.ˈʔ·a	sres<1><2>e'<3>a	vtr.
 3844	steyki	stɛj.ˈk·i	steyk<1><2><3>i	vtr.
 3848	sti	st·i	st<1><2><3>i	vin.
-3852	sto	st·o	\N	vtrm.
+3852	sto	st·o	st<1><2><3>o	vtrm.
 3856	sung	s·uŋ	s<1><2><3>ung	vtr.
 3860	syep	sj·ɛp̚	sy<1><2><3>ep	vtr.
 3864	tatep	ˈt·a.t·ɛp̚	t<1><2>at<3>ep	vtr.
@@ -645,7 +645,7 @@
 3956	win si	ˈwin ˈs·i	win s<1><2><3>i	vin.
 3960	yän	j·æn	y<1><2><3>än	vtr.
 3964	yem	j·ɛm	y<1><2><3>em	vtr.
-3968	zenke	ˈz·ɛŋ.kɛ	\N	vim.
+3968	zenke	ˈz·ɛŋ.kɛ	z<1><2>en<3>eke	vim.
 3972	zup	z·up̚	z<1><2><3>up	vin.
 3976	nekll	nɛ.ˈkḷ	\N	adv.
 3980	srung si	ˈsɾuŋ ˈs·i	srung s<1><2><3>i	vin.
@@ -1244,7 +1244,7 @@
 6964	tìhawnu si	tɪ.ˈhaw.nu ˈs·i	tìhawnu s<1><2><3>i	vin.
 6968	sno	sno	\N	pn.
 6972	kìte'e si	kɪ.tɛ.ˈʔɛ ˈs·i	kìte'e s<1><2><3>i	vin.
-6984	var	v·aɾ	\N	vim.
+6984	var	v·aɾ	v<1><2><3>ar	vim.
 6988	nìftxan	nɪ.ˈft'an	\N	adv.
 6992	Yeysu	jɛj.su	\N	prop.n.
 7172	lelì'fya	lɛ.ˈlɪʔ.fja	\N	adj.
@@ -1349,7 +1349,7 @@
 7584	am'a	am.ˈʔa	\N	n.
 7588	nga'	ŋaʔ	nga'	vtr.
 7592	tìftang si	tɪ.ˈftaŋ s·i	tìftang s<1><2><3>i	vin.
-7596	may'	m·ajʔ	\N	vtrm.
+7596	may'	m·ajʔ	m<1><2><3>ay'	vtrm.
 7604	yora'	j·o.ˈɾ·aʔ	y<1><2>or<3>a'	vtr.
 7608	snaytx	sn·ajt'	sn<1><2><3>aytx	vtr.
 7612	tìyora'	tɪ.joˈɾaʔ	\N	n.
@@ -1409,7 +1409,7 @@
 7852	tsang	t͡saŋ	\N	n.
 7856	miktsang	ˈmik.t͡saŋ	\N	n.
 7860	ontsang	ˈon.t͡saŋ	\N	n.
-7864	yemstokx	ˈj·ɛm.stok'	y<1><2>emst<3>okx	vtr.
+7864	yemstokx	ˈj·ɛm.stok'	y<1><2><3>emstokx	vtr.
 7868	ioi si	i.ˈo.i s·i	ioi s<1><2><3>i	vin.
 7872	'aku	ˈʔ·a.k·u	'<1><2>ak<3>u	vtr.
 7876	le'aw	lɛ.ˈʔaw	\N	adj.
@@ -2146,7 +2146,7 @@
 10984	txanlokxe	t'an.lo.ˈk'ɛ	\N	n.
 10988	tsamsä'o	ˈt͡sam.sæ.ʔo	\N	n.
 10992	tìtxurnga'	tɪ.ˈt'uɾ. ŋaʔ	\N	adj.
-10996	leym	l·ɛjm	\N	vim.
+10996	leym	l·ɛjm	l<1><2><3>eym	vim.
 11000	nìzen	nɪ.ˈzɛn	\N	adv.
 11004	kenzen	kɛn.ˈzɛn	\N	adv.
 11008	pllhrr	p·ḷ.ˈhṛ	pllh<1><2><3>rr	vin.
