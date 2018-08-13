@@ -232,7 +232,7 @@ ette vaatama, ettevaatlik olema
 üllas, suur
 eessõna (edasi (suund))
 tagasi (suund)
-põletama, tarbima
+põletama, ära põlema
 eemale (suund)
 tahtma
 haarama, krahmama
@@ -542,7 +542,7 @@ mängima (mängu)
 kuni
 levima, vohama
 deemon
-(puu) haru
+(puu)haru
 laul (vana, tseremoniaalne)
 akord
 kiire
@@ -967,7 +967,7 @@ aeg enne keskööd
 kesköö
 aeg pärast keskööd
 aeg enne koitu
-olema 
+lahe olema, kõva värk olema
 Kaelkirjak
 see, mis
 seda, mis
@@ -1805,7 +1805,7 @@ segadusrohke
 loomuomane, looduslik (puutumata ja muutmata tavaolekus olev asi)
 loomupäraselt
 segatud, muudetud, modifitseeritud, mitte oma loomuomases vormis
-rahunema
+rahunema, puhakama
 rahunemine
 vaikne
 end taastama, taastuma (metafooriline)
@@ -2218,3 +2218,74 @@ pussitama, noaga/odaga torkama
 läbistama, läbi torkama
 märk, signaal, tähistus
 nimisõnaühend
+hei (lühike tervitus)
+palvetama
+palvetamine
+palve
+õnnistus
+õnnistama, õnnistust andma
+ime
+imepärane
+laste kohta käiv hellitussõna
+ebatavaline
+erakordne, väga ebatavaline
+erakordselt
+tarkus (elukogemusest tulenev)
+tark, elukogenud (inimeste kohta)
+tark, mõistlik (elutu kohta)
+pinge, stress (vaimne või emotsionaalne tunne)
+pingeline, stressirohke
+lein
+leinama
+langetama, maha panema
+põlema
+kütus
+kustutama
+punane (veripunane)
+oranž (tuleleegi värvi)
+kepp
+värvipliiats
+värvipliiats (lühend sõnast 'opinvultsyìp)
+nii ja naa, enamvähem
+sünd
+värisema, lõdisema
+värisevalt, lõdisedes
+vaba, puhas, ilma takistuseta
+meessoost, isane
+naissoost, emane
+meessoost, isane
+naissoost, emane
+häbi, alandus, piinlikkus, 
+häbi tegema, häbistama, alandama
+juhendaja, teenäitaja
+ära kaotama
+kaotus, ilmajäämine
+kontrollima, korda hoidma
+kontroll, kord
+enesekontroll
+viima
+teadmata, tundmata
+üksi, üksik, ainus, üksildane (neutraalne; kasuta siseliidet <äng> väljendamaks kurba üksildust)
+kogema, tundma
+toit, kehatäide
+toitma, toitu pakkuma
+au andma
+nõrguke, joršš (füüsiliselt või iseloomult nõrk)
+leinates
+lõputult, igavesti
+jälitama, taga ajama eesmärgiga kinni püüda
+paus, puhkehetk
+rohkem kui tundub; rohkem kui võiks arvata
+võim
+võimas (inimeste kohta)
+võimas (elutu kohta)
+vool, voolus, hoobus
+voolama
+südamelöök
+tugev, julge isik (vastand sõnale meyptu)
+tarkus (harv sõna)
+pliiats, pastakas (otse: kirjutamiskepp)
+pliiats, pastakas (otse: kirjutamiskepp; lühendatud sõnast pamrelvul)
+pliiats (otse: puidust kirjutuskep)
+pliiats
+värvima

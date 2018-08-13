@@ -1148,7 +1148,7 @@ piros, narancssárga
 lila
 világos színek
 szürke
-piros szín
+piros / narancs szín
 kék/zöld szín
 sárga szín
 lila szín
@@ -2192,7 +2192,7 @@ kő, kőből készült
 ügyetlenség
 bázis
 "slinger", lajhárszerű pandorai állat
-nagy, plezioszauruszszerű tengeri állat
+111nagy, plezioszauruszszerű tengeri állat
 fúvós hangszer
 elbeszélő költemény, vers
 megijeszt, megfélemlít
@@ -2218,3 +2218,75 @@ leszúr, ledöf
 átszúr, átdöf
 jel, jelzés
 főnévi kifejezés (főnevet tartalmazó kifejezés)
+hello
+imádkozik
+imádság (általános, elvont értelemben)
+ima
+áldás
+(meg)áld
+csoda
+csodálatos
+(gyermek szeretetteli megszólítása) szó szerint: "kis csoda"
+ szokatlan
+rendkívüli
+rendkívül
+bölcsesség
+bölcs
+bölcs
+stressz (érzelmi feszültség)
+stresszes (feszültségteli)
+bánat
+bánkódik
+letesz
+ég (a tűz)
+tüzelőanyag
+elolt
+piros 
+narancssárga
+pálca
+rajzkréta
+rajzkréta
+többékevésbé, igen is meg nem is
+születés
+remeg, rázkódik, reszket
+remegve, rázkódva, reszketve
+szabad, akadálytalan
+hím, férfi
+nőstény, nő
+hím, férfi
+nőstény, női
+megaláztatás, szégyen
+megaláz, megszégyenít
+vezető (személy)
+elveszít
+elvesztés
+irányít, szabályoz
+irányítás
+önuralom
+visz
+ismeretlen
+egyedül lévő, magányos
+tapasztal
+táplálkozás, táplálás
+táplál
+(meg)tisztel
+gyenge személy
+bánatosan
+vég nélkül, örökké
+üldöz
+rövid szünet, pihenés, relaxáció
+..., mint ahogy gondolod / .., mint ahogy hinnéd
+erő, hatalom
+erős, hatalommal bíró
+erős, hatalommal bíró
+folyás
+folyik
+szívdobbanás
+erős személy 
+bölcsesség (ritkán használt)
+toll, ceruza, szó szerint: írópálca
+toll, ceruza, szó szerint: írópálca (pamrelvul rövid alakja)
+ceruza, szó szerint: írópálca fából
+ceruza
+(ki)színez
+toldalék, utótag

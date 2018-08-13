@@ -4,22 +4,22 @@
             <title>Na'vi dictionary updates</title>
 	    <link>http://forum.learnnavi.org/intermediate/the-dictionary-part-ii/</link>
             <description>regularly and manually updated feed of updates.</description>
-            <copyright>Eana Eltu RSS data by Tobias Jaeggi (Tuiq, tuiq@clonk2c.ch), Richard Littauer (Taronyu, richard@learnnavi.org) and others is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License ( http://creativecommons.org/licenses/by-nc-sa/3.0/ ). The full license text is available at http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode .</copyright>
-		<item>
-		    <title>21 Mar 2018 - Update</title>
-		    <description>added kxì</description>
-		    <link>http://forum.learnnavi.org/website-info/the-dictionary-part-ii</link>
-		</item>
-		<item>
-		    <title>27 December 2017 - Update</title>
-	    	    <description>Tons of new words and stuff, from entire year?</description>
-	            <link>http://forum.learnnavi.org/website-info/the-dictionary-part-ii</link>
-		</item>
-		<item>
-			<title>20 January 2017 - UPDATES</title>
-			<description>LOTS of updates. Russian now works.</description>
-			<link>http://forum.learnnavi.org/website-info/the-dictionary-part-ii</link>
-		</item>
+        <copyright>Eana Eltu RSS data by Tobias Jaeggi (Tuiq, tuiq@clonk2c.ch), Richard Littauer (Taronyu, richard@learnnavi.org) and others is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License ( http://creativecommons.org/licenses/by-nc-sa/3.0/ ). The full license text is available at http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode .</copyright>
+	<item>
+	    <title>11 August 2018 - Update</title>
+	    <description>Update to version 13.71</description>
+	    <link>http://forum.learnnavi.org/website-info/the-dictionary-part-ii</link>
+	</item>
+	<item>
+	    <title>21 December 2017 - Update</title>
+	    <description>Tons of new words and stuff, from entire year?</description>
+	    <link>http://forum.learnnavi.org/website-info/the-dictionary-part-ii</link>
+	</item>
+        <item>
+            <title>20 January 2017 - UPDATES</title>
+            <description>LOTS of updates. Russian now works.</description>
+            <link>http://forum.learnnavi.org/website-info/the-dictionary-part-ii</link>
+        </item>
 		<item>
 			<title>22 October - UPDATES</title>
 			<description>lots of updates. AT LONG LAST.</description>

@@ -262,7 +262,7 @@ lernen, Wissen oder Verstehen erlangen
 Du
 Wurm
 wahr, echt, richtig, zutreffend
-Sie (Höflichkeitsform von Du)
+Sie (Höflichkeitsform von)
 lang (physikalisch)
 erschaffen, erstellen, gestalten, hervorbringen
 Wurzel
@@ -282,7 +282,7 @@ Thanator, bestiapanthera ferox
 Geräusch, Klang, Ton
 Musik
 Katzenohr (Pflanze), Musikpflanze, felinafolia ferruginea
-(sich) unterhalten (mit), sprechen, plaudern
+(sich) unterhalten (mit), sprechen, plaudern, eine Unterhaltung haben
 versprechen (jemandem etwas), zusagen (ii)
 Abzeichen, Emblem
 fragen
@@ -394,7 +394,7 @@ von oben
 daher, deshalb
 weben, flechten
 Weber, Flechter
-schlagen, treffen
+schlagen, treffen, hauen
 Sturmbestie (sturmbeest), bovindicum monocerii
 weil, denn, vom Beweggrund ausgehend
 weil, denn, vom Beweggrund ausgehend
@@ -1048,7 +1048,7 @@ Beutelpflanze
 Gottesanbeterin (Insekt)
 jede Nacht
 Sekunde, sehr kurze Zeit
-nach, danach
+nach, danach, später
 müde
 Schaffender, Schöpfer
 langsam
@@ -2109,7 +2109,7 @@ heulen
 Heuler, ein Heulender
 stetig, ruhig, sachte, gleichmäßig (für Bewegung)
 in stetiger, ruhiger, gleichmäßiger Weise 
-Totem
+Totem, Amulett
 Webstuhl
 Mutterwebstuhl, Riesenwebstuhl
 Schamane
@@ -2142,3 +2142,80 @@ Nagel, Klaue
 sich übergeben, (etwas) erbrechen
 Hund (Erdentier); wörtl. kleiner Vipernwolf
 spucken, (etwas) ausspucken
+anstößig, vulgär, sozial inakzeptabel
+Gebiet eines Clans oder Stammes, Land (politisch), Staat, Staatsgebiet
+Kriegswaffe
+mächtig, machtvoll, kraftvoll
+ausrufen, herausrufen, aufschreien
+notwendigerweise, zwangsläufig, zwingend, zwingendermaßen
+nicht unbedingt, nicht zwangsläufig
+warnen
+Warnung
+Austrapede
+Turtapede
+Horn (Blasinstrument)
+Schädel
+Banshee Reitervisier
+Versammlungsort
+Zusatz, Post Scriptum (P.S.)
+riechen
+schmecken
+(kulturelles) Erbe
+Sicherheit
+überqueren, überschreiten
+schädigen, Schaden zufügen
+saugen
+(Zigarette) rauchen (wörtl. Rauch saugen)
+klatschen, applaudieren
+Klangspiel, Tonspiel, Lautspiel
+unpassend, unfair, falsch, ungerecht
+Ungerechtigkeit, Unbilligkeit
+protestieren
+Protestieren (abstrakt)
+Protest, Einwand
+beschweren, beklagen
+Beschweren, Beklagen
+Beschwerde, Beanstandung
+Ruf, Ausruf, Aufschrei
+nett
+erfolgreich
+ausschließen, fernhalten, ausgrenzen, aussperren
+fälschlicherweise
+eifrig, fest (kräftig), kraftvoll, mühevoll, mit Mühe, mit Kraft(anstrengung)
+Liebling
+Welle, Wasserwelle
+wellig, wellenförmig, wellenartig
+das Gute (abstakt), Güte
+hölzern, aus Holz
+steinig, aus Stein
+ungeschickt, unbeholfen, tollpatschig, zu Unfällen neigend
+Ungeschicktheit, Tollpatchigkeit
+Kommandozentrale, Basis für militärische Operationen
+Slinger
+große, Plesiosaurierähnliche Wasserkreatur
+Blasinstrument (Oberbegriff)
+erzählerisches Gedicht, Geschichtengedicht
+ängstigen, Angst machen
+Ufer, Küste, Küstenlinie, Wasserrand
+Satz (grammatikalisch)
+Satzglied, Satzteil, Phrase
+Silbe
+Affix
+Präfix, Vorsilbe
+Adjektiv
+Adverb
+Adposition
+Konjunktion, Bindewort
+Arschloch, Schwachkopf, Depp (vulgär)
+Zyklus, Kreislauf, Zeitraum
+endlos, unendlich (im zeitl. Sinn)
+Fan, Enthusiast
+Gedenktag, Erinnerungstag
+umgangsspr. Form von txanso'hayu (Fan, Enthusiast)
+(jährliches) Jubiläum, Jahrestag
+umgangsspr. Form von zìsìtsaltrr (Jahrestag)
+stechen, erstechen, niederstechen
+durchstechen, durchbohren, pierchen
+Zeichen, Hinweis, Signal
+Nominalphrase (ein Teilsatz, dessen ausschlaggebendes oder zentrales Wort ein Substantiv ist)
+hi, hey (ungezwungene Begrüßung)

@@ -2192,7 +2192,7 @@
 11232	tìpsaw	tɪp.ˈsaw	\N	n.
 11236	txintseng	ˈt'in.t͡seŋ	\N	n.
 11240	lanay'ka	la.ˈnajʔ.ka	\N	n.
-11244	ìlu	ˈɪ.lu	\N	n.
+11244	ilu	ˈi.lu	\N	n.
 11248	sye'otxang	ˈsjɛ.ʔo.t'aŋ	\N	n.
 11252	vurway	ˈvuɾ.waj	\N	n.
 11260	txopu sleyku	ˈt'o.pu slɛj.ˈk·u	txopu sleyk<1><2><3>u	vtr.
@@ -2219,6 +2219,77 @@
 11368	sävll	sæ.ˈvḷ	\N	n.
 11376	tstxolì'ukìngvi	t͡st'o.ˈlɪʔ.u.kÃ¬ŋ.vi	\N	n.
 11380	kxì	k'ɪ	\N	intj.
+11384	aho	a.ˈho	aho	vin.
+11388	tìaho	tɪ.a.ˈho	\N	n.
+11392	saho	sa.ˈho	\N	n.
+11396	syawn	sjawn	\N	n.
+11400	tìng syawn	t·ɪŋ sjawn	t<1><2><3>ìng syawn	vin.
+11404	parul	pa.ˈɾul	\N	n.
+11408	parulnga'	pa.ˈɾul.ŋaʔ	\N	adj.
+11412	parultsyìp	pa.ˈɾul.t͡sjɪp̚	\N	n.
+11416	keltrrtrr	kɛl.ˈtṛ.tṛ	\N	adj.
+11420	txankeltrrtrr	ˈt'an.kɛl.tṛ.tṛ	\N	adj.
+11424	nìtxankeltrrtrr	nɪ.ˈt'an.kɛl.tṛ.tṛ	\N	adv.
+11428	hafyon	ha.ˈfjon	\N	n.
+11432	lafyon	la.ˈfjon	\N	adj.
+11436	hafyonga'	ha.ˈfjo.ŋaʔ	\N	adj.
+11440	fkxara	ˈfkâa.ɾa	\N	n.
+11444	fkxaranga'	ˈfkâa.ɾa.ŋaʔ	\N	adj.
+11448	afpawng	a.ˈfpawŋ	\N	n.
+11452	afpawng si	a.ˈfpawŋ s·i	afpawng s<1><2><3>i	vin.
+11456	keyn	k·ɛjn	k<1><2><3>eyn	vtr.
+11460	palon	ˈp·a.l·on	p<1><2>al<3>on	vin.
+11464	rem	rɛm	\N	n.
+11468	tong	t·oŋ	t<1><2><3>ong	vtr.
+11472	reypaytun	ˈɾɛj.paj.tun	\N	adj.
+11476	txeptun	ˈtâɛp.tun	\N	adj.
+11480	vultsyìp	ˈvul.t͡sjɪp̚	\N	n.
+11484	'opinvultsyìp	ˈʔo.pin.vul.t͡sjɪp̚	\N	n.
+11488	pinvul	ˈpin.vul	\N	n.
+11492	srankehe	sɾan.ˈkɛ.hɛ	\N	part., intj.
+11496	tì'ongokx	tɪ.ˈʔo.ŋok'̚	\N	n.
+11500	rìkxi	r·ɪ.ˈk'·i	r<1><2>ìkx<3>i	vin.
+11504	nìrìkxi	nɪ.ɾɪ.ˈk'i	\N	adv.
+11508	kawkxan	kaw.ˈk'an	\N	adj.
+11512	fnelan	ˈfnɛ.lan	\N	n.
+11516	fnele	ˈfnɛ.lɛ	\N	n.
+11520	lefnelan	lɛ.ˈfnɛ.lan	\N	adj.
+11524	lefnele	lɛ.ˈfnɛ.lɛ	\N	adj.
+11528	fwìng	fwɪŋ	\N	n.
+11532	fwìng si	fwɪŋ s·i	fwìng s<1><2><3>i	vin.
+11536	fyawìntxuyu	fja.wɪn.ˈt'u.ju	\N	n.
+11540	han	h·an	h<1><2><3>an	vtr.
+11544	tìhan	tɪ.ˈhan	\N	n.
+11548	hipx	hip'	hipx	vtr.
+11552	tìhipx	tɪ.ˈhip'	\N	n.
+11556	snotipx	sno.ˈtip'	\N	n.
+11560	kämunge	kæ.ˈm·u.ŋ·ɛ	käm<1><2>ung<3>e	vtr.
+11564	kawnomum	kaw.ˈno.mum	\N	adj.
+11568	le'awtu	lɛ.ˈʔaw.tu	\N	adj.
+11572	lie si	ˈli.ɛ s·i	lie s<1><2><3>i	vin.
+11576	liswa	li.ˈswa	\N	n.
+11580	liswa si	li.ˈswa s·i	liswa s<1><2><3>i	vin.
+11584	meuia si	mɛ.ˈu.i.a s·i	meuia s<1><2><3>i	vin.
+11588	meyptu	ˈmɛjp.tu	\N	n.
+11592	nafpawng	na.ˈfpawŋ	\N	adv.
+11596	nìt'iluke	nɪt.ˈʔi.lu.kɛ	\N	adv.
+11600	nongspe'	n·oŋ.ˈsp·ɛʔ	n<1><2>ongsp<3>e'	vtr.
+11604	tìsyortsyìp	tɪ.ˈsjoɾ.t͡sjɪp̚	\N	n.
+11608	to tìtseri	to tɪ.ˈt͡sɛ.ɾi	\N	ph.
+11612	tswal	t͡swal	\N	n.
+11616	letswal	le.ˈt͡swal	\N	adj.
+11620	tswalnga'	ˈt͡swal.ŋaʔ	\N	adj.
+11624	tswesya	ˈt͡swɛ.sja	\N	n.
+11628	tswesya si	ˈt͡swɛ.sja s·i	tswesya s<1><2><3>i	vin.
+11632	txe'lankong	t'ɛʔ.ˈlan.koŋ	\N	n.
+11636	txurtu	ˈt'uɾ.tu	\N	n.
+11640	tìtxantslusam	tɪ.ˈt'ant͡slusam	\N	n.
+11644	pamrelvul	pam.ˈrel.vul	\N	n.
+11648	relvul	ˈɾɛl.vul	\N	n.
+11652	pamrelvul lerìn	pam.ˈrel.vul le.ˈɾɪn	\N	n.
+11656	pensìl	ˈpen.sɪl	\N	n.
+11660	'opinsung	ˈʔo.pin.s·uŋ	'opins<1><2><3>ung	vtr.
+11664	uolì’uvi	ˈu.o.lɪ.ʔu.vi	\N	n.
 0	eywa	ˈej.wa	\N	prop.n.
 ap	<äp>	æp	<1>	infix.
 eyk	<eyk>	ejk	<1>	infix.

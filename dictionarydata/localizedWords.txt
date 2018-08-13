@@ -548,7 +548,7 @@
 388	pl	informacja, nowina, coś do ogłoszenia	rz.
 388	ru	новость, предмет сообщения	сущ.
 388	sv	nyheter, något att rapportera	sbst.
-392	de	testen, prüfen, überprüfen	v.
+392	de	testen, prüfen, überprüfen	vtr.
 392	eng	test	vtr.
 392	est	katsetama	tgsne.
 392	hu	tesztel, próbára tesz	i.(t)
@@ -1036,7 +1036,7 @@
 700	pl	widzieć, rozumieć, zaglądać, wiedzieć (w sensie duchowym)	cz. prz.
 700	ru	видеть сущность, понимать, знать	пер.
 700	sv	se, se in i, förstå, känna (spirituellt)	tr.
-704	de	vtrm. zielen, abzielen, beabsichtigen; vtr. zielen, eine Waffe oder anderes Objekt auf ein Ziel richten	vtrm.
+704	de	vtrm. zielen, abzielen, beabsichtigen; vtr. zielen, eine Waffe oder anderes Objekt auf ein Ziel richten	vtrm., vtr.
 704	eng	aim, to intend; aim, to direct a weapon or other object at a target	vtrm., vtr.
 704	est	sihtima, suunama; suunitlema, kavatsema	tgsne., tgstu.
 704	hu	(meg)céloz	i.(tm), i.(t)
@@ -1869,7 +1869,7 @@
 1208	sv	tillbaka (riktning)	adv.
 1212	de	verbrennen, verbrauchen	vtr.
 1212	eng	burn, consume	vtr.
-1212	est	põletama, tarbima	tgsne.
+1212	est	põletama, ära põlema	tgsne.
 1212	hu	eléget, elfogyaszt	i.(t)
 1212	nl	consumeren, verbranden	wwo.
 1212	pl	palić, pochłaniać	cz. prz.
@@ -2106,7 +2106,7 @@
 1356	pl	prawdziwy	przym.
 1356	ru	верный, правильный, правдивый	прил.
 1356	sv	sann	adj.
-1360	de	Sie (Höflichkeitsform von Du)	pn.
+1360	de	Sie (Höflichkeitsform von)	pn.
 1360	eng	you (honorific form)	pn.
 1360	est	sina (austav vorm)	ases.
 1360	hu	te (szertartásos forma)	nm.
@@ -2266,7 +2266,7 @@
 1456	pl	felinafolia ferruginea, kocie ucho	rz.
 1456	ru	«кошачье ухо», музыкальный цветок	сущ.
 1456	sv	cat ear, musikplanta	sbst
-1460	de	(sich) unterhalten (mit), sprechen, plaudern	vin.
+1460	de	(sich) unterhalten (mit), sprechen, plaudern, eine Unterhaltung haben	vin.
 1460	eng	chat, converse, have a conversation	vin.
 1460	est	suhtlema, vestlema, juttu ajama	tgstu.
 1460	hu	beszélget, társalog 	i.(tn)
@@ -3162,7 +3162,7 @@
 1972	pl	tkacz	rz.
 1972	ru	ткач	сущ.
 1972	sv	vävare	sbst.
-1976	de	schlagen, treffen	vtr.
+1976	de	schlagen, treffen, hauen	vtr.
 1976	eng	strike, beat, slap	vtr.
 1976	est	lööma, äsama, peale tungima	tgsne.
 1976	hu	lesújt, (meg)üt, eltalál	i.(t)
@@ -3706,7 +3706,7 @@
 2280	pl	biec	cz. np.
 2280	ru	бежать, бегать	непер.
 2280	sv	springa	itr.
-2284	de	erlauben, gestatten	v.
+2284	de	erlauben, gestatten	vtr.
 2284	eng	allow	vtr.
 2284	est	lubama, võimaldama	tgs.
 2284	hu	enged	i.(t)
@@ -4348,7 +4348,7 @@
 2684	sv	demon	sbst.
 2688	de	Ast, Zweig (eines Baumes)	n.
 2688	eng	branch (of a tree)	n.
-2688	est	(puu) haru	ns.
+2688	est	(puu)haru	ns.
 2688	hu	faág	fn.
 2688	nl	tak (van een boom)	zn.
 2688	pl	gałąź (drzewa)	rz.
@@ -4561,7 +4561,7 @@
 2816	pl	rok	rz.
 2816	ru	год	сущ.
 2816	sv	år	sbst.
-2820	de	retten, verteidigen, sichern	v.
+2820	de	retten, verteidigen, sichern	vtr.
 2820	eng	save, defend	vtr.
 2820	est	päästma, kaitsma	tgsne.
 2820	hu	(meg)ment, véd	i.(t)
@@ -7744,7 +7744,7 @@
 5416	sv	före gryning	sbst.
 5424	de	aufregend, faszinierend sein (Umgangssprache) (mit DativSubjekt)	svin.
 5424	eng	be amazing, fascinating (slang)	svin.
-5424	est	olema 	mtgstu.
+5424	est	lahe olema, kõva värk olema	mtgstu.
 5424	hu	„állat”, „sirály”, „király”. (slang)	i.(átn)
 5424	nl	verbazing wekken (spreektaal)	wwsn.
 5424	pl	być wspaniałym, fascynujacym (posp.)	cz. np.
@@ -8365,7 +8365,7 @@
 5944	pl	chwila, sekunda	rz.
 5944	ru	секунда, очень короткое время	сущ.
 5944	sv	sekund, väldigt kort tid	sbst.
-5952	de	nach, danach	adv.
+5952	de	nach, danach, später	adv.
 5952	eng	after, afterwards, later	adv.
 5952	est	pärast, hiljem	ms.
 5952	hu	után, utána, később	hsz.
@@ -9168,7 +9168,7 @@
 6580	de	Rot, Orange	n.
 6580	eng	red, orange	n.
 6580	est	punane, oranž	n.
-6580	hu	piros szín	fn.
+6580	hu	piros / narancs szín	fn.
 6580	nl	rood, oranje	zn.
 6580	pl	czerwień, pomarańcz	rz.
 6580	ru	красный, оранжевый	сущ.
@@ -10285,7 +10285,7 @@
 7336	pl	polowanie, łów, obława	rz.
 7336	ru	охота (абстрактная деятельность)	сущ.
 7336	sv	jakt	sbst.
-7344	de	ähm	Füllwort
+7344	de	ähm	intj.
 7344	eng	um, er	intj.
 7344	est	ee, õõ, ää, hmm	hs.
 7344	hu	ööö, izé	„töltelékszó”
@@ -14115,7 +14115,7 @@
 9552	ru	модифицированный, не в естественном состоянии	прил.
 9556	de	entspannen, relaxen, chillen	vin.
 9556	eng	relax, chill out	vin.
-9556	est	rahunema	tgstu.
+9556	est	rahunema, puhakama	tgstu.
 9556	hu	relaxál, kikapcsol	i.(tn)
 9556	nl	ontspannen	wwn.
 9556	pl	odpoczywać, rozluźniać się, uspokajać się, wyciszać się	cz. np.
@@ -15867,7 +15867,7 @@
 10820	est	sujuvalt, ühtlaselt, tasaselt	ms.
 10820	hu	simán	hsz.
 10820	nl	stabiel, gestaag	bw.
-10824	de	Totem	n.
+10824	de	Totem, Amulett	n.
 10824	eng	totem, amulet	n.
 10824	est	tootem, hõimu märk, amulett	ns.
 10824	hu	totem, amulet	fn.
@@ -16032,312 +16032,674 @@
 10972	est	sülitama	tgstu., tgsne.
 10972	hu	köp	i.(t), i.(tn)
 10972	nl	spugen, uitspugen	wwn., wwo.
+10980	de	anstößig, vulgär, sozial inakzeptabel	adj.
 10980	eng	coarse, vulgar, socially unacceptable	adj.
 10980	est	ebaviisakas, sotsiaalselt ebasobilik, vulgaarne, ropp	oms.
 10980	hu	durva, közönséges, udvariatlan	mn.
 10980	nl	grof, vulgair, sociaal onacceptabel	bn.
+10984	de	Gebiet eines Clans oder Stammes, Land (politisch), Staat, Staatsgebiet	n.
 10984	eng	clan or tribal domain, country	n.
 10984	est	hõimu territoorium, riik	ns.
 10984	hu	törzsi birtok / tartomány, kb.: ország	fn.
 10984	nl	domein van een stam of clan, land	zn.
+10988	de	Kriegswaffe	n.
 10988	eng	weapon of war	n.
 10988	est	sõjariist	ns.
 10988	hu	háborús fegyver	fn.
 10988	nl	oorlogswapen	zn.
+10992	de	mächtig, machtvoll, kraftvoll	adj.
 10992	eng	powerful	adj.
 10992	est	võimas (elutu kohta)	oms.
 10992	hu	erős	mn.
 10992	nl	machtig	bn.
+10996	de	ausrufen, herausrufen, aufschreien	vin.
 10996	eng	call, cry out, exclaim	vim.
 10996	est	hüüdma, karjuma	tgstu.
 10996	hu	kiált	i.(tnm)
 10996	nl	roepen, (uit)schreeuwen	wwmn.
+11000	de	notwendigerweise, zwangsläufig, zwingend, zwingendermaßen	adv.
 11000	eng	necessarily	adv.
 11000	est	kindlasti, ilmtingimata	ms.
 11000	hu	szükséges	mn.
 11000	nl	noodzakelijk	bw.
+11004	de	nicht unbedingt, nicht zwangsläufig	adv.
 11004	eng	not necessarily	adv.
 11004	est	mitte ilmtingimata	ns.
 11004	hu	nem szükséges	mn.
 11004	nl	niet noodzakelijk	bw.
+11008	de	warnen	vin.
 11008	eng	warn	vin.
 11008	est	hoiatama	tgstu.
 11008	hu	figyelmeztet	i.(tn)
 11008	nl	waarschuwen	wwn.
+11012	de	Warnung	n.
 11012	eng	warning	n.
 11012	est	hoiatus	ns.
 11012	hu	figyelmeztetés	fn.
 11012	nl	waarschuwing	zn.
+11024	de	Austrapede	n.
 11024	eng	austrapede	n.
 11024	est	Jooksulind	n.
 11024	hu	austrapede (struccszerű pandorai állat)	fn.
 11024	nl	austrapoot	zn.
+11028	de	Turtapede	n.
 11028	eng	turtapede	n.
 11028	est	Kilplimus	n.
 11028	hu	turtapede (teknősszerű pandorai állat)	fn.
 11028	nl	turtapoot	zn.
+11032	de	Horn (Blasinstrument)	n.
 11032	eng	horn, wind instrument	n.
 11032	est	puhkpill, pasun	ns.
 11032	hu	duda, kürt	fn.
 11032	nl	hoorn, blaasinstrument	zn.
+11048	de	Schädel	n.
 11048	eng	skull	n.
 11048	est	pealuu	ns.
 11048	hu	koponya	fn.
 11048	nl	schedel	zn.
+11056	de	Banshee Reitervisier	n.
 11056	eng	banshee rider visor	n.
 11056	est	Marduse ratsutaja prillid	ns.
 11056	hu	sikolllovagló napellenző / rostély (a szem fölött viselik)	fn.
 11056	nl	harpijrijder oogkleppen	zn.
+11072	de	Versammlungsort	n.
 11072	eng	gathering place	n.
 11072	est	kogumiskoht	ns.
 11072	hu	gyülekezőhely	fn.
 11072	nl	verzamelplaats	zn.
+11080	de	Zusatz, Post Scriptum (P.S.)	n.
 11080	eng	addition, post script	n.
 11080	est	lisa, post scriptum	ns.
 11080	hu	addition, post script	fn.
 11080	nl	toevoeging, post script	zn.
+11084	de	riechen	vin.
 11084	eng	smell	vin.
 11084	est	nuusutama	tgstu.
 11084	hu	szagol	i.(tn)
 11084	nl	ruiken	wwn.
+11088	de	schmecken	vin.
 11088	eng	taste	vin.
 11088	est	maitsma	tgstu.
 11088	hu	kóstol	i.(tn)
 11088	nl	proeven	wwn.
+11092	de	(kulturelles) Erbe	n.
 11092	eng	heritage	n.
 11092	est	pärand	ns.
 11092	hu	örökség	fn.
 11092	nl	erfgoed	zn.
+11100	de	Sicherheit	n.
 11100	eng	safety	n.
 11100	est	turvalisus	ns.
 11100	hu	biztonság	fn.
 11100	nl	veiligheid	zn.
+11104	de	überqueren, überschreiten	vtr.
 11104	eng	cross	vtr.
 11104	est	ületama	tgsne.
 11104	hu	átmegy	i.(t)
 11104	nl	oversteken, kruisen	wwo.
+11108	de	schädigen, Schaden zufügen	vin.
 11108	eng	harm	vin.
 11108	est	vigastama, kahjustama	tgstu.
 11108	hu	árt	i.(tn)
 11108	nl	schade toebrengen	wwn.
+11112	de	saugen	vtr.
 11112	eng	suck	vtr.
 11112	est	imema	tgsne.
 11112	hu	szívni	i.(t)
 11112	nl	opzuigen	wwo.
+11116	de	(Zigarette) rauchen (wörtl. Rauch saugen)	vin.
 11116	eng	smoke (lit. to suck smoke)	vin.
 11116	est	suitsetama (suitsu imema)	tgstu.
 11116	hu	dohányzik (sz.sz.: füstöt szív)	i.(tn)
 11116	nl	roken (let. rook opzuigen)	wwn.
+11120	de	klatschen, applaudieren	vin.
 11120	eng	clap hands	vin.
 11120	est	plaksutama	tgstu.
 11120	hu	tapsol	i.(tn)
 11120	nl	handen klappen	wwn.
+11140	de	Klangspiel, Tonspiel, Lautspiel	n.
 11140	eng	sound play	n.
 11140	est	sõnamäng	ns.
 11140	hu	hangjáték	fn.
 11140	nl	klankenspel	zn.
+11144	de	unpassend, unfair, falsch, ungerecht	adj.
 11144	eng	improper, unfair, wrong, unjustified	adj.
 11144	est	kohatu, ebaõiglane, ebaaus, vale	oms.
 11144	hu	helytelen, igazságtalan, rossz	mn.
 11144	nl	oneerlijk, onjuist, fout, onterecht	bn.
+11148	de	Ungerechtigkeit, Unbilligkeit	n.
 11148	eng	unfairness, injustice	n.
 11148	est	ebaõiglus	ns.
 11148	hu	igazságtalanság	fn.
 11148	nl	oneerlijkheid, onrecht	zn.
+11152	de	protestieren	vin.
 11152	eng	protest	vin.
 11152	est	protesteerima, vastu seisma, meelt avaldama	tgstu.
 11152	hu	tiltakozik	i.(tn)
 11152	nl	protesteren	wwn.
+11156	de	Protestieren (abstrakt)	n.
 11156	eng	protesting, protest (abstract concept)	n.
 11156	est	protesteerimine, meeleavaldus (abstraktne)	ns.
 11156	hu	tiltakozás (elvont fogalom)	fn.
 11156	nl	prostest, protesteren (abstract concept)	zn.
+11160	de	Protest, Einwand	n.
 11160	eng	protest, instance of protesting	n.
 11160	est	protestiavaldus, meeleavaldus (konkreetne sündmus)	ns.
 11160	hu	tiltakozás (konkrét)	fn.
 11160	nl	protest, een moment van protesteren	zn.
+11164	de	beschweren, beklagen	vin.
 11164	eng	complain	vin.
 11164	est	kurtma, kaebama	tgstu.
 11164	hu	panaszkodik	i.(tn)
 11164	nl	klagen	wwn.
+11168	de	Beschweren, Beklagen	n.
 11168	eng	complaining	n.
 11168	est	kurtmine, kaebamine	ns.
 11168	hu	panaszkodás	fn.
 11168	nl	klagend	zn.
+11172	de	Beschwerde, Beanstandung	n.
 11172	eng	complaint	n.
 11172	est	kaebus	ns.
 11172	hu	panasz	fn.
 11172	nl	klacht	zn.
+11176	de	Ruf, Ausruf, Aufschrei	n.
 11176	eng	call	n.
 11176	est	üleskutse	ns.
 11176	hu	kiáltás	fn.
 11176	nl	roep	zn.
+11180	de	nett	adj.
 11180	eng	kind	adj.
 11180	est	lahke, hooliv (mitte inimeste kohta)	oms.
 11180	hu	kedves	mn.
 11180	nl	aardig	bn.
+11184	de	erfolgreich	adj.
 11184	eng	successful	adj.
 11184	est	edukas (mitte inimeste kohta)	oms
 11184	hu	sikeres	mn.
 11184	nl	succesvol	bn.
+11188	de	ausschließen, fernhalten, ausgrenzen, aussperren	vin.
 11188	eng	exclude, keep out, bar	vin.
 11188	est	välja jätma, eemal hoidma	tgstu.
 11188	hu	kizár, távol tart	i.(tn)
 11188	nl	buitensluiten, er uit houden	wwn.
+11192	de	fälschlicherweise	adv.
 11192	eng	falsely	adv.
 11192	est	valesti, valetavalt	ms.
 11192	hu	hibásan, valótlanul	hsz.
 11192	nl	foutief	bw.
+11196	de	eifrig, fest (kräftig), kraftvoll, mühevoll, mit Mühe, mit Kraft(anstrengung)	adv.
 11196	eng	hard, diligently	adv.
 11196	est	vapralt, kindlameelselt	ms.
 11196	hu	keményen, szorgalmasan	hsz.
 11196	nl	hard, ijverig	bw.
+11200	de	Liebling	n.
 11200	eng	darling, little loved one	n.
 11200	est	kallike, armsake (rohkem pereliikmete vahel)	ns.
 11200	hu	"kedvesem, kicsim"	fn.
 11200	nl	schatje, kleine geliefde	zn.
+11208	de	Welle, Wasserwelle	n.
 11208	eng	wave (of water)	n.
 11208	est	laine (veekogul)	ns.
 11208	hu	hullám (vízé)	fn.
 11208	nl	golf (water)	zn.
+11212	de	wellig, wellenförmig, wellenartig	adj.
 11212	eng	wavelike	adj.
 11212	est	lainemoodi, lainesarnane	oms.
 11212	hu	hullámszerű	mn.
 11212	nl	golvend	bn.
+11216	de	das Gute (abstakt), Güte	n.
 11216	eng	good (abstract concept), goodness	n.
 11216	est	headus, hea (abstraktne)	ns.
 11216	hu	jó, jóság (elvont fogalom)	fn.
 11216	nl	goed (abstract concept), goedheid	zn.
+11220	de	hölzern, aus Holz	adj.
 11220	eng	wooden, of wood	adj.
 11220	est	puidust, puit	oms
 11220	hu	fa, fából készült	mn.
 11220	nl	houten, van hout	bn.
+11224	de	steinig, aus Stein	adj.
 11224	eng	stony, of stone	adj.
 11224	est	kivist, kivi	oms.
 11224	hu	kő, kőből készült	mn.
 11224	nl	stenen, van steen	bn.
+11228	de	ungeschickt, unbeholfen, tollpatschig, zu Unfällen neigend	adj.
 11228	eng	clumsy, accidentprone	adj.
 11228	est	koba, kohmakas	oms.
 11228	hu	ügyetlen, kétbalkezes	mn.
 11228	nl	onhandig, ongelukaantrekkend	bn.
+11232	de	Ungeschicktheit, Tollpatchigkeit	n.
 11232	eng	clumsiness	n.
 11232	est	kohmakus	ns.
 11232	hu	ügyetlenség	fn.
 11232	nl	onhandigheid	zn.
+11236	de	Kommandozentrale, Basis für militärische Operationen	n.
 11236	eng	base of operations	n.
 11236	est	baas	ns.
 11236	hu	bázis	fn.
 11236	nl	hoofdkwartier	zn.
+11240	de	Slinger	n.
 11240	eng	slinger	n.
 11240	est	Kuulpea	ns.
 11240	hu	"slinger", lajhárszerű pandorai állat	fn.
 11240	nl	slinger	zn.
+11244	de	große, Plesiosaurierähnliche Wasserkreatur	n.
 11244	eng	large plesiosaurlike sea creature	n.
 11244	est	Plesiosauruselaadne mereelukas (Disney teemapark)	ns.
-11244	hu	nagy, plezioszauruszszerű tengeri állat	fn.
+11244	hu	111nagy, plezioszauruszszerű tengeri állat	fn.
 11244	nl	groot plesiosaurusachtig zeewezen	zn.
+11248	de	Blasinstrument (Oberbegriff)	n.
 11248	eng	wind instrument	n.
 11248	est	puhkpill	ns.
 11248	hu	fúvós hangszer	fn.
 11248	nl	blaasinstrument	zn.
+11252	de	erzählerisches Gedicht, Geschichtengedicht	n.
 11252	eng	story poem, narrative poem	n.
 11252	est	poeem, jutustav luuletus	ns.
 11252	hu	elbeszélő költemény, vers	fn.
 11252	nl	verhalend gedicht	zn.
+11260	de	ängstigen, Angst machen	vtr.
 11260	eng	frighten	vtr.
 11260	est	ehmatama, hirmutama	tgsne.
 11260	hu	megijeszt, megfélemlít	i.(t)
 11260	nl	beangstigen	wwo.
+11284	de	Ufer, Küste, Küstenlinie, Wasserrand	n.
 11284	eng	shoreline, water's edge	n.
 11284	est	kallas, rannik, veeäär	ns.
 11284	hu	partvonal	fn.
 11284	nl	kustlijn, water grens	zn.
+11288	de	Satz (grammatikalisch)	n.
 11288	eng	sentence	n.
 11288	est	lause	ns.
 11288	hu	mondat	fn.
 11288	nl	zin	zn.
+11292	de	Satzglied, Satzteil, Phrase	n.
 11292	eng	phrase	n.
 11292	est	fraas	ns.
 11292	hu	kifejezés, szókapcsolat	fn.
 11292	nl	zinsdeel	zn.
+11296	de	Silbe	n.
 11296	eng	syllable	n.
 11296	est	silp	ns.
 11296	hu	szótag	fn.
 11296	nl	lettergreep	zn.
+11300	de	Affix	n.
 11300	eng	affix	n.
 11300	est	liide	ns.
 11300	hu	toldalék	fn.
 11300	nl	affix	zn.
+11304	de	Präfix, Vorsilbe	n.
 11304	eng	prefix	n.
 11304	est	eesliide	ns.
 11304	hu	prefixum	fn.
 11304	nl	prefix	zn.
+11308	de	Adjektiv	n.
 11308	eng	adjective	n.
 11308	est	omadussõna	ns.
 11308	hu	melléknév	fn.
 11308	nl	bijvoeglijk naamwoord	zn.
+11312	de	Adverb	n.
 11312	eng	adverb	n.
 11312	est	määrsõna	ns.
 11312	hu	határozószó	fn.
 11312	nl	bijwoord	zn.
+11316	de	Adposition	n.
 11316	eng	adposition	n.
 11316	est	kaassõna	ns.
 11316	hu	adposition	fn.
 11316	nl	adpositie	zn.
+11320	de	Konjunktion, Bindewort	n.
 11320	eng	conjunction	n.
 11320	est	sidesõna	ns.
 11320	hu	kötőszó	fn.
 11320	nl	voegwoord	zn.
+11324	de	Arschloch, Schwachkopf, Depp (vulgär)	n.
 11324	eng	butthole, asshole, dickhead (vulgar)	n.
 11324	est	sitapea, persevest (ropp!)	ns.
 11324	hu	seggfej (vulgáris)	fn.
 11324	nl	galbak, schobbejak (vulgair)	zn.
+11332	de	Zyklus, Kreislauf, Zeitraum	n.
 11332	eng	cycle	n.
 11332	est	tsükkel	ns.
 11332	hu	ciklus	fn.
 11332	nl	cyclus	zn.
+11336	de	endlos, unendlich (im zeitl. Sinn)	adj.
 11336	eng	endless, neverending (in a temporal sense)	adj.
 11336	est	lõputu, ajatu (ajalises mõistes)	oms.
 11336	hu	végtelen	mn.
 11336	nl	eindeloos (tijd)	bn.
+11340	de	Fan, Enthusiast	n.
 11340	eng	fan, enthusiast	n.
 11340	est	fänn, huviline	ns.
 11340	hu	rajongó(ja vminek)	fn.
 11340	nl	fan, enthousiasteling	zn.
+11344	de	Gedenktag, Erinnerungstag	n.
 11344	eng	day of commemoration	n.
 11344	est	mälestuspäev	ns.
 11344	hu	megemlékezés napja	fn.
 11344	nl	herdenkingsdag	zn.
+11348	de	umgangsspr. Form von txanso'hayu (Fan, Enthusiast)	n.
 11348	eng	colloquial form of txanso'hayu (fan, enthusiast)	n.
 11348	est	kõnekeelne väljend sõnale txanso'hayu (fänn, huviline)	ns.
 11348	hu	rajongó(ja vminek) (társalgási nyelvben)	fn.
 11348	nl	spreektaal voor txanso'hayu (fan, enthousiasteling)	zn.
+11352	de	(jährliches) Jubiläum, Jahrestag	n.
 11352	eng	(yearly) anniversary	n.
 11352	est	aastapäev	ns.
 11352	hu	évforduló	fn.
 11352	nl	verjaring	zn.
+11356	de	umgangsspr. Form von zìsìtsaltrr (Jahrestag)	n.
 11356	eng	colloquial form of zìsìtsaltrr (yearly anniversary)	n.
 11356	est	kõnekeelne väljend sõnale zìsìtsaltrr (aastapäev)	ns.
 11356	hu	évforduló (társalgási nyelvben)	fn.
 11356	nl	spreektaal voor verjaring	zn.
+11360	de	stechen, erstechen, niederstechen	vtr.
 11360	eng	stab	vtr.
 11360	est	pussitama, noaga/odaga torkama	tgsne.
 11360	hu	leszúr, ledöf	i.(t)
 11360	nl	steken	wwo.
+11364	de	durchstechen, durchbohren, pierchen	vtr.
 11364	eng	pierce	vtr.
 11364	est	läbistama, läbi torkama	tgsne.
 11364	hu	átszúr, átdöf	i.(t)
 11364	nl	doorsteken	wwo.
+11368	de	Zeichen, Hinweis, Signal	n.
 11368	eng	sign, indication, signal	n.
 11368	est	märk, signaal, tähistus	ns.
 11368	hu	jel, jelzés	fn.
 11368	nl	teken, indicatie, signaal	zn.
+11376	de	Nominalphrase (ein Teilsatz, dessen ausschlaggebendes oder zentrales Wort ein Substantiv ist)	n.
 11376	eng	noun phrase (phrase whose pivotal or central word is a noun)	n.
 11376	est	nimisõnaühend	ns.
 11376	hu	főnévi kifejezés (főnevet tartalmazó kifejezés)	fn.
 11376	nl	naamwoordgroep, naamwoordelijk zinsdeel	zn.
+11380	de	hi, hey (ungezwungene Begrüßung)	intj.
 11380	eng	hello (casual)	intj.
+11380	est	hei (lühike tervitus)	hs.
+11380	hu	hello	gesz.
 11380	nl	hallo (informeel)	tw.
+11384	eng	pray	vin.
+11384	est	palvetama	tgstu.
+11384	hu	imádkozik	i.(tn)
+11384	nl	bidden	wwn.
+11388	eng	prayer (in general, abstract idea)	n.
+11388	est	palvetamine	ns.
+11388	hu	imádság (általános, elvont értelemben)	fn.
+11388	nl	gebed (abstract idee)	zn.
+11392	eng	prayer	n.
+11392	est	palve	ns.
+11392	hu	ima	fn.
+11392	nl	gebed	zn.
+11396	eng	blessing	n.
+11396	est	õnnistus	ns.
+11396	hu	áldás	fn.
+11396	nl	zegening	zn.
+11400	eng	bless	vin.
+11400	est	õnnistama, õnnistust andma	tgstu
+11400	hu	(meg)áld	i.(tn)
+11400	nl	zegenen	wwn.
+11404	eng	miracle	n.
+11404	est	ime	ns.
+11404	hu	csoda	fn.
+11404	nl	wonder	zn.
+11408	eng	miraculous	adj.
+11408	est	imepärane	oms.
+11408	hu	csodálatos	mn.
+11408	nl	wonderbaarlijk	bn.
+11412	eng	term of affection for children	n.
+11412	est	laste kohta käiv hellitussõna	ns.
+11412	hu	(gyermek szeretetteli megszólítása) szó szerint: "kis csoda"	fn.
+11412	nl	liefkozende term voor kinderen (lett.: klein wonder)	zn.
+11416	eng	unusual	adj.
+11416	est	ebatavaline	oms.
+11416	hu	 szokatlan	mn.
+11416	nl	ongewoon	bn.
+11420	eng	extraordinary	adj.
+11420	est	erakordne, väga ebatavaline	oms.
+11420	hu	rendkívüli	mn.
+11420	nl	buitengewoon	bn.
+11424	eng	extraordinarily	adv.
+11424	est	erakordselt	oms.
+11424	hu	rendkívül	hsz.
+11424	nl	buitengewoon	bw.
+11428	eng	wisdom	n.
+11428	est	tarkus (elukogemusest tulenev)	ns.
+11428	hu	bölcsesség	fn.
+11428	nl	wijsheid	zn.
+11432	eng	wise	adj.
+11432	est	tark, elukogenud (inimeste kohta)	oms.
+11432	hu	bölcs	mn.
+11432	nl	wijs	bn.
+11436	eng	wise	adj.
+11436	est	tark, mõistlik (elutu kohta)	oms.
+11436	hu	bölcs	mn.
+11436	nl	wijs	bn.
+11440	eng	stress (mental or emotional feeling)	n.
+11440	est	pinge, stress (vaimne või emotsionaalne tunne)	ns.
+11440	hu	stressz (érzelmi feszültség)	fn.
+11440	nl	stress (mentaal of emotioneel gevoel)	zn.
+11444	eng	stressful	adj.
+11444	est	pingeline, stressirohke	oms.
+11444	hu	stresszes (feszültségteli)	mn.
+11444	nl	stressvol	bn.
+11448	eng	grief	n.
+11448	est	lein	ns.
+11448	hu	bánat	fn.
+11448	nl	rouw	zn.
+11452	eng	grieve	vin.
+11452	est	leinama	tgstu.
+11452	hu	bánkódik	i.(tn)
+11452	nl	rouwen	wwn.
+11456	eng	put down	vtr.
+11456	est	langetama, maha panema	tgsne.
+11456	hu	letesz	i.(t)
+11456	nl	neerzetten	wwo.
+11460	eng	burn	vin.
+11460	est	põlema	tgstu.
+11460	hu	ég (a tűz)	i.(tn)
+11460	nl	verbranden	wwn.
+11464	eng	fuel	n.
+11464	est	kütus	ns.
+11464	hu	tüzelőanyag	fn.
+11464	nl	brandstof	zn.
+11468	eng	put out, quench	vtr.
+11468	est	kustutama	tgsne.
+11468	hu	elolt	i.(t)
+11468	nl	uitmaken, doven	wwo.
+11472	eng	red ("blood tun")	adj.
+11472	est	punane (veripunane)	oms.
+11472	hu	piros 	mn.
+11472	nl	rood ("bloed tun")	bn.
+11476	eng	orange ("fire tun")	adj.
+11476	est	oranž (tuleleegi värvi)	oms.
+11476	hu	narancssárga	mn.
+11476	nl	oranje ("vuur tun")	bn.
+11480	eng	stick	n.
+11480	est	kepp	ns.
+11480	hu	pálca	fn.
+11480	nl	stok	zn.
+11484	eng	crayon	n.
+11484	est	värvipliiats	ns.
+11484	hu	rajzkréta	fn.
+11484	nl	(was)krijtje	zn.
+11488	eng	crayon	n.
+11488	est	värvipliiats (lühend sõnast 'opinvultsyìp)	ns.
+11488	hu	rajzkréta	fn.
+11488	nl	(was)krijtje	zn.
+11492	eng	more or less, somewhat, yes and no, kind of	part., intj.
+11492	est	nii ja naa, enamvähem	hs.
+11492	hu	többékevésbé, igen is meg nem is	gesz.
+11492	nl	min of meer, enigszins, ja en nee, ongeveer	part., tw.
+11496	eng	birth	n.
+11496	est	sünd	ns.
+11496	hu	születés	fn.
+11496	nl	geboorte	zn.
+11500	eng	tremble, shake, shiver	vin.
+11500	est	värisema, lõdisema	tgstu.
+11500	hu	remeg, rázkódik, reszket	i.(tn)
+11500	nl	trillen, schudden, rillen	wwn.
+11504	eng	shakily, tremblingly	adv.
+11504	est	värisevalt, lõdisedes	ms.
+11504	hu	remegve, rázkódva, reszketve	hsz.
+11504	nl	trillerig, schuddend	bw.
+11508	eng	free, unblocked, unobstructed, clear	adj.
+11508	est	vaba, puhas, ilma takistuseta	oms.
+11508	hu	szabad, akadálytalan	mn.
+11508	nl	vrij, niet geblokkeerd, onbelemmerd	bn.
+11512	eng	male	n.
+11512	est	meessoost, isane	ns.
+11512	hu	hím, férfi	fn.
+11512	nl	man	zn.
+11516	eng	female	n.
+11516	est	naissoost, emane	ns.
+11516	hu	nőstény, nő	fn.
+11516	nl	vrouw	zn.
+11520	eng	male	adj.
+11520	est	meessoost, isane	oms.
+11520	hu	hím, férfi	mn.
+11520	nl	mannelijk	bn.
+11524	eng	female	adj.
+11524	est	naissoost, emane	oms.
+11524	hu	nőstény, női	mn.
+11524	nl	vrouwelijk	bn.
+11528	eng	humiliation, embarrassment, loss of face	n.
+11528	est	häbi, alandus, piinlikkus, 	ns.
+11528	hu	megaláztatás, szégyen	fn.
+11528	nl	vernedering, verlegenheid, gezichtsverlies	zn.
+11532	eng	humiliate	vin.
+11532	est	häbi tegema, häbistama, alandama	tgstu.
+11532	hu	megaláz, megszégyenít	i.(tn)
+11532	nl	vernederen	wwn.
+11536	eng	guide	n.
+11536	est	juhendaja, teenäitaja	ns.
+11536	hu	vezető (személy)	fn.
+11536	nl	gids (persoon)	zn.
+11540	eng	lose	vtr.
+11540	est	ära kaotama	tgsne.
+11540	hu	elveszít	i.(t)
+11540	nl	verliezen	wwo.
+11544	eng	loss	n.
+11544	est	kaotus, ilmajäämine	ns.
+11544	hu	elvesztés	fn.
+11544	nl	verlies	zn.
+11548	eng	control	vtr.
+11548	est	kontrollima, korda hoidma	tgsne.
+11548	hu	irányít, szabályoz	i.(t)
+11548	nl	controleren	wwo.
+11552	eng	control	n.
+11552	est	kontroll, kord	tgs.
+11552	hu	irányítás	fn.
+11552	nl	controle	zn.
+11556	eng	selfcontrol	n.
+11556	est	enesekontroll	ns.
+11556	hu	önuralom	fn.
+11556	nl	zelfcontrole	zn.
+11560	eng	take	vtr.
+11560	est	viima	tgsne.
+11560	hu	visz	i.(t)
+11560	nl	nemen	wwo.
+11564	eng	unknown	adj.
+11564	est	teadmata, tundmata	oms.
+11564	hu	ismeretlen	mn.
+11564	nl	onbekend	bn.
+11568	eng	alone, on one's own, by one's self; lonely	adj.
+11568	est	üksi, üksik, ainus, üksildane (neutraalne; kasuta siseliidet <äng> väljendamaks kurba üksildust)	oms.
+11568	hu	egyedül lévő, magányos	mn.
+11568	nl	alleen, in z'n eentje; eenzaam	bn.
+11572	eng	experience	vin.
+11572	est	kogema, tundma	tgstu.
+11572	hu	tapasztal	i.(tn)
+11572	nl	ervaren	wwn.
+11576	eng	nourishment	n.
+11576	est	toit, kehatäide	ns.
+11576	hu	táplálkozás, táplálás	fn.
+11576	nl	voeding	zn.
+11580	eng	nourish, provide nourishment	vin.
+11580	est	toitma, toitu pakkuma	tgtu.
+11580	hu	táplál	i.(tn)
+11580	nl	voeden, voorzien van voeding	wwn.
+11584	eng	honor	vin.
+11584	est	au andma	tgstu.
+11584	hu	(meg)tisztel	i.(tn)
+11584	nl	eren	wwn.
+11588	eng	weakling	n.
+11588	est	nõrguke, joršš (füüsiliselt või iseloomult nõrk)	ns.
+11588	hu	gyenge személy	fn.
+11588	nl	zwakkeling	zn.
+11592	eng	grievingly, with grief	adv.
+11592	est	leinates	ms.
+11592	hu	bánatosan	hsz.
+11592	nl	rouwend, met rouw	bw.
+11596	eng	neverendingly, forever	adv.
+11596	est	lõputult, igavesti	ms.
+11596	hu	vég nélkül, örökké	hsz.
+11596	nl	oneindig, voor altijd	bw.
+11600	eng	pursue with an intent to capture	vtr.
+11600	est	jälitama, taga ajama eesmärgiga kinni püüda	tgsne.
+11600	hu	üldöz	i.(t)
+11600	nl	achtervolgen met de intentie te vangen	wwo.
+11604	eng	break, small rest or relaxation	n.
+11604	est	paus, puhkehetk	ns.
+11604	hu	rövid szünet, pihenés, relaxáció	fn.
+11604	nl	pauze, korte rust of ontspanning	zn.
+11608	eng	than is apparent, than you are aware of	ph.
+11608	est	rohkem kui tundub; rohkem kui võiks arvata	fr.
+11608	hu	..., mint ahogy gondolod / .., mint ahogy hinnéd	kif.
+11608	nl	dan duidelijk is, dan waar je vanaf weet	uit.
+11612	eng	power	n.
+11612	est	võim	ns.
+11612	hu	erő, hatalom	fn.
+11612	nl	kracht	zn.
+11616	eng	powerful	adj.
+11616	est	võimas (inimeste kohta)	oms.
+11616	hu	erős, hatalommal bíró	mn.
+11616	nl	krachtig	bn.
+11620	eng	powerful	adj.
+11620	est	võimas (elutu kohta)	oms.
+11620	hu	erős, hatalommal bíró	mn.
+11620	nl	krachtig	bn.
+11624	eng	current	n.
+11624	est	vool, voolus, hoobus	ns.
+11624	hu	folyás	fn.
+11624	nl	stroom	zn.
+11628	eng	flow	vin.
+11628	est	voolama	tgstu.
+11628	hu	folyik	i.(tn)
+11628	nl	stromen	wwn.
+11632	eng	heartbeat	n.
+11632	est	südamelöök	ns.
+11632	hu	szívdobbanás	fn.
+11632	nl	hartslag	zn.
+11636	eng	strongman/woman, brawny person	n.
+11636	est	tugev, julge isik (vastand sõnale meyptu)	ns.
+11636	hu	erős személy 	fn.
+11636	nl	sterk/gespierd persoon	zn.
+11640	eng	wisdom (seldom used)	n.
+11640	est	tarkus (harv sõna)	ns.
+11640	hu	bölcsesség (ritkán használt)	fn.
+11640	nl	wijsheid (zelden gebruikt)	zn.
+11644	eng	pen, pencil, lit. "writing stick."	n.
+11644	est	pliiats, pastakas (otse: kirjutamiskepp)	ns.
+11644	hu	toll, ceruza, szó szerint: írópálca	fn.
+11644	nl	pen, potlood, lett. "schrijfstok"	zn.
+11648	eng	pen, pencil, lit. "writing stick." (short form of pamrelvul)	n.
+11648	est	pliiats, pastakas (otse: kirjutamiskepp; lühendatud sõnast pamrelvul)	ns.
+11648	hu	toll, ceruza, szó szerint: írópálca (pamrelvul rövid alakja)	fn.
+11648	nl	pen, potlood, lett. "schrijfstok" (korte vorm van pamrelvul)	zn.
+11652	eng	pencil, lit. "wooden writing stick."	n.
+11652	est	pliiats (otse: puidust kirjutuskep)	ns.
+11652	hu	ceruza, szó szerint: írópálca fából	fn.
+11652	nl	potlood, lett. "houten schrijfstok"	zn.
+11656	eng	pencil	n.
+11656	est	pliiats	ns.
+11656	hu	ceruza	fn.
+11656	nl	potlood	zn.
+11660	eng	color, color in	vtr.
+11660	est	värvima	tgsne.
+11660	hu	(ki)színez	i.(t)
+11660	nl	kleuren, inkleuren	wwo.
+11664	eng	suffix	n.
+11664	hu	toldalék, utótag	fn.
+11664	nl	suffix	zn.
 0	eng	WHO'S Eywa?! Only their goddess. Made up of ALL living things. Everything they know. You'd know this if you'd had any training whatso--	prop.n.
 ap	eng	reflexive, VERB self	infix.
 eyk	eng	causitive, cause to VERB, make VERB	infix.
