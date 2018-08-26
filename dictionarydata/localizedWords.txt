@@ -16505,11 +16505,11 @@
 11468	est	kustutama	tgsne.
 11468	hu	elolt	i.(t)
 11468	nl	uitmaken, doven	wwo.
-11472	eng	red ("blood tun")	adj.
+11472	eng	red (``blood tun")	adj.
 11472	est	punane (veripunane)	oms.
 11472	hu	piros 	mn.
 11472	nl	rood ("bloed tun")	bn.
-11476	eng	orange ("fire tun")	adj.
+11476	eng	orange (``fire tun")	adj.
 11476	est	oranž (tuleleegi värvi)	oms.
 11476	hu	narancssárga	mn.
 11476	nl	oranje ("vuur tun")	bn.
@@ -16700,6 +16700,18 @@
 11664	eng	suffix	n.
 11664	hu	toldalék, utótag	fn.
 11664	nl	suffix	zn.
+11668	eng	shape, give shape (to something)	vin.
+11672	eng	yawn	vin.
+11676	eng	yawn	n.
+11680	eng	get over, accept some fact, reconcile oneself, move on	vin.
+11684	eng	voluntarily, willingly, by desire	adv.
+11688	eng	horizon, skyline	n.
+11692	eng	layer	n.
+11696	eng	layered	adj.
+11700	eng	in layers	adv.
+11704	eng	frozen	adj.
+11708	eng	freeze (something)	vin.
+11712	eng	be useful, be of use, come in handy	vin.
 0	eng	WHO'S Eywa?! Only their goddess. Made up of ALL living things. Everything they know. You'd know this if you'd had any training whatso--	prop.n.
 ap	eng	reflexive, VERB self	infix.
 eyk	eng	causitive, cause to VERB, make VERB	infix.

@@ -2241,8 +2241,8 @@ put down
 burn
 fuel
 put out, quench
-red ("blood tun")
-orange ("fire tun")
+red (``blood tun")
+orange (``fire tun")
 stick
 crayon
 crayon
@@ -2290,3 +2290,15 @@ pencil, lit. "wooden writing stick."
 pencil
 color, color in
 suffix
+shape, give shape (to something)
+yawn
+yawn
+get over, accept some fact, reconcile oneself, move on
+voluntarily, willingly, by desire
+horizon, skyline
+layer
+layered
+in layers
+frozen
+freeze (something)
+be useful, be of use, come in handy

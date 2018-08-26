@@ -1006,7 +1006,7 @@
 5624	puve	ˈpu.vɛ	\N	adj.
 5628	kive	ˈki.vɛ	\N	adj.
 5632	volve	ˈvol.vɛ	\N	adj.
-5640	tsyänel	t͡sjæ.nɛl	\N	n.
+5640	tsyänel	ˈt͡sjæ.nɛl	\N	n.
 5644	trrtxon	tṛ.t'on	\N	n.
 5648	au	a.ˈu	\N	intj.
 5656	pängkxoyu	pæŋ.ˈk'o.ju	\N	n.
@@ -1311,8 +1311,8 @@
 7428	kintrr	ˈkin.tṛ	\N	n.
 7432	mrrtrr	ˈmṛ.tṛ	\N	n.
 7436	muntrr	ˈmun.tṛ	\N	n.
-7440	kintrram	ˈkin.tṛam	\N	n.
-7444	kintrray	ˈkin.tṛaj	\N	n.
+7440	kintrram	ˈkin.tṛ.am	\N	n.
+7444	kintrray	ˈkin.tṛ.aj	\N	n.
 7448	muntrram	ˈmun.tṛ.am	\N	n.
 7452	muntrray	ˈmun.tṛ.aj	\N	n.
 7456	vospxì	vo.ˈsp'ɪ	\N	n.
@@ -1438,7 +1438,7 @@
 7988	stxenu	ˈst'ɛ.nu	\N	n.
 7992	tìtstew	tɪ.ˈt͡stɛw	\N	n.
 7996	tìtstewnga'	tɪ.ˈt͡stɛw.ŋaʔ	\N	adj.
-8000	stxenutìng	ˈst'ɛ,nu,t·ɪŋ	stxenut<1><2><3>ìng	vtr.
+8000	stxenutìng	ˈst'ɛ.nu.t·ɪŋ	stxenut<1><2><3>ìng	vtr.
 8004	tsyär	t͡sj·æɾ	tsy<1><2><3>är	vtr.
 8008	tìtsyär	tɪ.ˈt͡sjæɾ	\N	n.
 8012	mll'an	m·ḷ.ˈʔ·an	m<1><2>ll'<3>an	vtr.
@@ -1495,7 +1495,7 @@
 8228	nutx	nut'	\N	adj.
 8232	flì	flɪ	\N	adj.
 8236	flìnutx	flɪ.ˈnut'	\N	n.
-8240	sneyä	snɛ.ˈjæ	\N	pn.
+8240	sneyä	ˈsnɛ.jæ	\N	pn.
 8244	säsyep	sæ.ˈsjɛp̚	\N	n.
 8248	yora'tu	jo.ˈɾaʔ.tu	\N	n.
 8252	snaytu	ˈsnaj.tu	\N	n.
@@ -1798,7 +1798,7 @@
 9516	yayayrtsim	ja.ˈjajɾ.t͡sim	\N	n.
 9520	ingyentsim	ˈiŋ.jɛn.t͡sim	\N	n.
 9524	ingyentsyìp	ˈiŋ.jɛn.t͡sjɪp̚	\N	n.
-9528	ningyen	ˈniŋ,jɛn	\N	adv.
+9528	ningyen	ˈniŋ.jɛn	\N	adv.
 9532	ingyenga'	ˈiŋ.jɛ.ŋaʔ	\N	adj.
 9536	sngunga'	ˈsŋu.ŋaʔ	\N	adj.
 9540	yayayrnga'	ja.ˈjajɾ.ŋaʔ	\N	adj.
@@ -1944,7 +1944,7 @@
 10136	'ongopyu	ˈʔo.ŋop.ju	\N	n.
 10140	uniltìrantokxolo'	u.nil.tɪ.ˈɾan.tok'.o.loʔ	\N	n.
 10144	krrka	ˈkṛ.ka	\N	adp.
-10148	tìreyn	+tɪ.ˈɾɛjn	\N	n.
+10148	tìreyn	tɪ.ˈɾɛjn	\N	n.
 10152	LosÄntsyelesì	los.ˈant͡sJɛ.lɛ.sɪ	\N	pn.
 10156	tson	t͡son	\N	n.
 10160	nìtson	nɪ.ˈt͡son	\N	adv.
@@ -2016,7 +2016,7 @@
 10436	utumauti	ˈu.tu.ma.u.ti	\N	n.
 10440	slayk	sl·aJk̚	sl<1><2><3>ayk	vtr.
 10444	tìkelu	tɪ.ˈkɛ.lu	\N	n.
-10448	tompakel	ˈtom.pa,kel	\N	n.
+10448	tompakel	ˈtom.pa.kel	\N	n.
 10452	syuvekel	ˈsju.vɛ.kɛl	\N	n.
 10456	zawprrte'	z·aw.ˈpṛ.tɛʔ	zawprrt<1><2><3>e'	vin.
 10460	nawri	ˈnaw.ɾi	\N	adj.
@@ -2061,7 +2061,7 @@
 10620	paysmung	ˈpaJ.smuŋ	\N	n.
 10624	prrsmung	ˈpṛ.smuŋ	\N	n.
 10628	nivi	ˈni.vi	\N	n.
-10632	swaynivi	ˈswaj,ni,vi	\N	n.
+10632	swaynivi	ˈswaj.ni.vi	\N	n.
 10636	snonivi	ˈsno.ni.vi	\N	n.
 10640	sänrr	sæ.ˈnṛ	\N	n.
 10644	tsmi	t͡smi	\N	n.
@@ -2200,7 +2200,7 @@
 11288	lì'ukìng	ˈlɪ.ʔu.kɪŋ	\N	n.
 11292	lì'ukìngvi	ˈlɪ.ʔu.kɪŋ.vi	\N	n.
 11296	lì'kong	ˈlɪʔ.koŋ	\N	n.
-11300	lì'uvi	ˈlɪ.'ʔu.vi	\N	n.
+11300	lì'uvi	ˈlɪ.ʔu.vi	\N	n.
 11304	eolì'uvi	ˈɛ.o.lɪ.ʔu.vi	\N	n.
 11308	syonlì'u	ˈsjon.lɪ.ʔu	\N	n.
 11312	fyalì'u	ˈfja.lɪ.ʔu	\N	n.
@@ -2233,8 +2233,8 @@
 11428	hafyon	ha.ˈfjon	\N	n.
 11432	lafyon	la.ˈfjon	\N	adj.
 11436	hafyonga'	ha.ˈfjo.ŋaʔ	\N	adj.
-11440	fkxara	ˈfkâa.ɾa	\N	n.
-11444	fkxaranga'	ˈfkâa.ɾa.ŋaʔ	\N	adj.
+11440	fkxara	ˈfk'a.ɾa	\N	n.
+11444	fkxaranga'	ˈfk'a.ɾa.ŋaʔ	\N	adj.
 11448	afpawng	a.ˈfpawŋ	\N	n.
 11452	afpawng si	a.ˈfpawŋ s·i	afpawng s<1><2><3>i	vin.
 11456	keyn	k·ɛjn	k<1><2><3>eyn	vtr.
@@ -2242,7 +2242,7 @@
 11464	rem	rɛm	\N	n.
 11468	tong	t·oŋ	t<1><2><3>ong	vtr.
 11472	reypaytun	ˈɾɛj.paj.tun	\N	adj.
-11476	txeptun	ˈtâɛp.tun	\N	adj.
+11476	txeptun	ˈt'ɛp.tun	\N	adj.
 11480	vultsyìp	ˈvul.t͡sjɪp̚	\N	n.
 11484	'opinvultsyìp	ˈʔo.pin.vul.t͡sjɪp̚	\N	n.
 11488	pinvul	ˈpin.vul	\N	n.
@@ -2283,13 +2283,25 @@
 11628	tswesya si	ˈt͡swɛ.sja s·i	tswesya s<1><2><3>i	vin.
 11632	txe'lankong	t'ɛʔ.ˈlan.koŋ	\N	n.
 11636	txurtu	ˈt'uɾ.tu	\N	n.
-11640	tìtxantslusam	tɪ.ˈt'ant͡slusam	\N	n.
+11640	tìtxantslusam	tɪ.ˈt'an.t͡slu.sam	\N	n.
 11644	pamrelvul	pam.ˈrel.vul	\N	n.
 11648	relvul	ˈɾɛl.vul	\N	n.
 11652	pamrelvul lerìn	pam.ˈrel.vul le.ˈɾɪn	\N	n.
 11656	pensìl	ˈpen.sɪl	\N	n.
 11660	'opinsung	ˈʔo.pin.s·uŋ	'opins<1><2><3>ung	vtr.
 11664	uolì’uvi	ˈu.o.lɪ.ʔu.vi	\N	n.
+11668	'on si	ˈʔon s·i	'on s<1><2><3>i	vin.
+11672	kxange	ˈk'·a.ŋ·e	kx<1><2>ang<3>e	vin.
+11676	säkxange	sæ.ˈk'a.ŋɛ	\N	n.
+11680	walew	w·a.ˈl·ɛw	w<1><2>al<3>ew	vin.
+11684	nìnew	nɪ.ˈnɛw	\N	adv.
+11688	tawtxew	ˈtaw.t'ɛw	\N	n.
+11692	frir	fɾiɾ	\N	n.
+11696	lefrir	le.ˈfɾiɾ	\N	adj.
+11700	nìfrir	nɪ.ˈfɾiɾ	\N	adv.
+11704	leyr	lɛjr	\N	adj.
+11708	leyr si	ˈlɛjr s·i	leyr s<1><2><3>i	vin.
+11712	lesar si	lɛ.ˈsaɾ s·i	lesar s<1><2><3>i	vin.
 0	eywa	ˈej.wa	\N	prop.n.
 ap	<äp>	æp	<1>	infix.
 eyk	<eyk>	ejk	<1>	infix.
