@@ -13,6 +13,67 @@ html, body {
 	min-height: 480px;
 }
 
+#header-graphic {
+	width: 100%;
+	background: #3F51B5 url("tirealeiuhonafrato.png") 0px 0px/100% auto no-repeat;
+}
+
+#header-graphic #height {
+	display:block;
+	height: 400px;
+}
+
+@media screen and (min-width: 1320px) {
+	#header-graphic #height {
+		display:block;
+		height: 500px;
+	}
+}
+
+@media screen and (max-width: 980px) {
+	#header-graphic #height {
+		display:block;
+		height: 300px;
+	}
+}
+
+@media screen and (max-width: 793px) {
+	#header-graphic #height {
+		display:block;
+		height: 250px;
+	}
+}
+
+@media screen and (max-width: 660px) {
+	#header-graphic #height {
+		display:block;
+		height: 200px;
+	}
+}
+
+@media screen and (max-width: 530px) {
+	#header-graphic #height {
+		display:block;
+		height: 180px;
+	}
+}
+
+@media screen and (max-width: 476px) {
+	#header-graphic #height {
+		display:block;
+		height: 150px;
+	}
+}
+
+@media screen and (width: 400px) {
+	#header-graphic #height {
+		display:block;
+		height: 150px;
+	}
+}
+
+
+
 main {
 	width: 100%;
 	background-color:#fafafa;
@@ -36,16 +97,11 @@ h4 {
 }
 
 a {
-	cursor: pointer;
 	cursor: hand;
 }
 
 strong {
 	font-weight: bold;
-}
-
-.nav-wrapper {
-	background-color: #00bcd4;
 }
 
 .brand-logo {
@@ -87,6 +143,10 @@ strong {
 	text-align: center;
 }
 
+.dropdown-content li>a, .dropdown-content li>span {
+	color: #3f51b5 !important;
+}
+
 .titlename {
 	font-family: Maiandra GD, sans-serif;
 	text-align: center;
@@ -95,9 +155,9 @@ strong {
 	line-height: 1.1em;
 }
 
-h1, h2, h3, h4, .titlename, .collection-header {
+/* h1, h2, h3, h4, .titlename, .collection-header {
 	color: #00ACC1;
-}
+} */
 
 #index-tt {
 	width:100%;
@@ -208,11 +268,14 @@ table tr:nth-child(2n){
 }
 
 .foot {
-	background-color: #727272;
 	font-size: 10pt;
 	box-sizing: border-box;
-	color: #eeeeee;
 	text-align: center;
 	padding: 30px;
 	bottom: 0px;
+}
+
+.foot a {
+	/* color: #9c27b0 !important; */
+	color: #e040fb !important;
 }

@@ -117,7 +117,7 @@ function html_header()
 	<header>
 		<!-- Dropdown Structure -->
 		<ul id="dropdown1" class="dropdown-content">', $dropdown, '</ul>
-		<nav>
+		<nav class="indigo">
 			<div class="nav-wrapper">
 				<a href="', $weblink, '" class="brand-logo">Tirea Na&apos;vi</a>
 				<!-- <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a> -->
@@ -125,23 +125,24 @@ function html_header()
 				<ul class="right hide-on-med-and-down" id="regnav">', $menu, '
 					<!-- Dropdown Trigger -->
 					<li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">', $txt['m_language'], '<i class="material-icons right">arrow_drop_down</i></a></li>
-					<li id="rss-nav-item"><a id="rss-link" href="', $weblink, '?p=rss&lang=', $lang, '"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li>
+					<!-- <li id="rss-nav-item"><a id="rss-link" href="', $weblink, '?p=rss&lang=', $lang, '"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li> -->
 				</ul>
 				<ul class="side-nav" id="mobilenav">', $menu, '
 					<li>
 						<ul class="collapsible collapsible-accordion">
-							<li><a class="collapsible-header waves-effect waves-amber">', $txt['m_language'], '</a>
+							<li><a class="collapsible-header waves-effect waves-purple">', $txt['m_language'], '</a>
 								<div class="collapsible-body">
 									<ul>', $dropdown, '</ul>
 								</div>
 							</li>
 						</ul>
 					</li>
-					<li><a href="', $weblink , '?p=rss&lang=', $lang, '">', $txt['m_rss'], '</a></li>
+					<!-- <li><a href="', $weblink , '?p=rss&lang=', $lang, '">', $txt['m_rss'], '</a></li> -->
 				</ul>
 			</div>
 		</nav>
-		<!-- <div class="amber black-text" id="warning">', $txt['tlb_exp'], '</div> -->
+		<div id="header-graphic"><div id="height"></div></div>
+		<div class="purple white-text" id="warning">', $txt['tlb_exp'], '</div>
 	</header>
 	<main>
 	<div class="container">
@@ -158,7 +159,7 @@ function html_bottom()
 	</div> <!-- main .container -->
 	<!-- FAB -->
 	<div id="fab" class="fixed-action-btn" style="bottom: 45px; right: 24px;">
-		<a class="btn-floating btn-large amber accent-2">
+		<a class="btn-floating btn-large purple accent-2">
 		<i class="large material-icons">search</i>
 		</a>
 		<ul>
@@ -168,7 +169,7 @@ function html_bottom()
 			<li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
 		</ul>
 	</div>
-	<div class="foot">', $txt['foot_admin'] , ': <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
+	<div class="foot indigo white-text">', $txt['foot_admin'] , ': <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>,
 		<span title="PHP: Hypertext Preprocessor">', $txt['foot_softdev'] , '</span>:
 		<a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> &amp;
 		<a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
@@ -198,7 +199,7 @@ function home()
 
 	echo '
 			<div class="tooltip" id="index-tt">
-				<div class="titlename"><span>Zola&#39;u N&igrave;prrte&#39;</span></div>
+				<div class="titlename indigo-text"><span>Zola&#39;u N&igrave;prrte&#39;</span></div>
 				<span class="tooltiptext">', $txt['h_welcome'], '</span>
 			</div>
 			<!-- CARD -->
@@ -206,15 +207,12 @@ function home()
 				<div class="row">
 					<div class="col s12 m12 l12">
 						<div class="card">
-							<div class="card-image">
-								<img src="' . $httproot . 'res/school.jpg">
-								<span class="card-title">', $txt['h_title'], '</span>
-							</div>
 							<div class="card-content">
+								<span class="card-title">', $txt['h_title'], '</span>
 								<p>', $txt['h_welcome_txt'], '</p>
 							</div>
 							<div class="card-action">
-								<a class="amber-text accent-2" href="', $weblink, '?p=lessons">', $txt['h_get_st'], '</a>
+								<a class="purple-text accent-2" href="', $weblink, '?p=lessons">', $txt['h_get_st'], '</a>
 							</div>
 						</div>
 					</div>
@@ -228,62 +226,62 @@ function abc_sound()
 	global $txt, $httproot;
 
 	echo '
-			<div class="titlename">', $txt['m_sounds'], '</div>
+			<div class="titlename indigo-text">', $txt['m_sounds'], '</div>
 			<p>', $txt['s_intro'], '</p>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['s_vowels'], '</h4></li>
-				<li class="collection-item"><div>a [a]<a id="play_a" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>ä [æ]<a id="play_ae" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>e [ɛ]<a id="play_e" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>i [i]<a id="play_i" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>ì [ɪ]<a id="play_ih" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>o [o]<a id="play_o" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['s_vowels'], '</h4></li>
+				<li class="collection-item"><div>a [a]<a id="play_a" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>ä [æ]<a id="play_ae" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>e [ɛ]<a id="play_e" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>i [i]<a id="play_i" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>ì [ɪ]<a id="play_ih" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>o [o]<a id="play_o" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 				<li class="collection-item">
 					<div>u [u] / [ʊ]
-						<a id="play_u1" class="secondary-content amber-text">
+						<a id="play_u1" class="secondary-content purple-text">
 							<i class="material-icons">play_circle_filled</i>
 						</a>
 						<span class="secondary-content black-text">&nbsp; / &nbsp;</span>
-						<a id="play_u" class="secondary-content amber-text">
+						<a id="play_u" class="secondary-content purple-text">
 							<i class="material-icons">play_circle_filled</i>
 						</a>
 					 </div>
 				</li>
 			</ul>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['s_diphto'], '</h4></li>
-				<li class="collection-item"><div>aw [aw]<a id="play_aw" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>ay [aj]<a id="play_ay" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>ew [ɛw]<a id="play_ew" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>ey [ɛj]<a id="play_ey" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['s_diphto'], '</h4></li>
+				<li class="collection-item"><div>aw [aw]<a id="play_aw" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>ay [aj]<a id="play_ay" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>ew [ɛw]<a id="play_ew" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>ey [ɛj]<a id="play_ey" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 			</ul>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['s_pseudo'], '</h4></li>
-				<li class="collection-item"><div>ll [ḷ]<a id="play_ll" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>rr [r]<a id="play_rr" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['s_pseudo'], '</h4></li>
+				<li class="collection-item"><div>ll [ḷ]<a id="play_ll" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>rr [r]<a id="play_rr" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 			</ul>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['s_conson'], '</h4></li>
-				<li class="collection-item"><div>\' [&#660;]<a id="play_tihftang" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>f [f]<a id="play_f" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>h [h]<a id="play_h" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>k [k]<a id="play_k" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>kx [kʼ]<a id="play_kx" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>l [l]<a id="play_l" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>m [m]<a id="play_m" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>n [n]<a id="play_n" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>ng [&#331;]<a id="play_ng" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>p [p]<a id="play_p" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>px [pʼ]<a id="play_px" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>r [&#638;]<a id="play_r" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>s [s]<a id="play_s" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>t [t]<a id="play_t" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>ts [&#678;]<a id="play_ts" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>tx [tʼ]<a id="play_tx" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>v [v]<a id="play_v" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>w [w]<a id="play_w" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>y [j]<a id="play_y" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
-				<li class="collection-item"><div>z [z]<a id="play_z" class="secondary-content amber-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['s_conson'], '</h4></li>
+				<li class="collection-item"><div>\' [&#660;]<a id="play_tihftang" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>f [f]<a id="play_f" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>h [h]<a id="play_h" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>k [k]<a id="play_k" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>kx [kʼ]<a id="play_kx" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>l [l]<a id="play_l" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>m [m]<a id="play_m" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>n [n]<a id="play_n" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>ng [&#331;]<a id="play_ng" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>p [p]<a id="play_p" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>px [pʼ]<a id="play_px" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>r [&#638;]<a id="play_r" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>s [s]<a id="play_s" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>t [t]<a id="play_t" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>ts [&#678;]<a id="play_ts" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>tx [tʼ]<a id="play_tx" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>v [v]<a id="play_v" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>w [w]<a id="play_w" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>y [j]<a id="play_y" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
+				<li class="collection-item"><div>z [z]<a id="play_z" class="secondary-content purple-text"><i class="material-icons">play_circle_filled</i></a></div></li>
 			</ul>
 			<audio id="audio_a"><source src="' . $httproot . 'audio/a.ogg" type="audio/ogg"/><source src="' . $httproot . 'audio/a.mp3" type="audio/mpeg"/>', $txt['no_audio'], '</audio>
 			<audio id="audio_ae"><source src="' . $httproot . 'audio/ae.ogg" type="audio/ogg"/><source src="' . $httproot . 'audio/ae.mp3" type="audio/mpeg"/>', $txt['no_audio'], '</audio>
@@ -327,29 +325,29 @@ function aysaheylu()
 	global $weblink, $txt;
 
 	echo '
-			<div class="titlename">', $txt['l_links'], '</div>
+			<div class="titlename indigo-text">', $txt['l_links'], '</div>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['l_cool'], '</h4></li>
-				<li class="collection-item"><a class="collection-link" href="https://soundcloud.com/thesoundsofpandora">The Sounds of Pandora</a><br />Official Avatar SoundCloud</li>
-				<li class="collection-item"><a class="collection-link" href="http://dict-navi.com">Dict-Na&#39;vi.com</a><br />Online Na&#39;vi Dictionary Search Engine</li>
-				<li class="collection-item"><a class="collection-link" href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br />Epic Na&#39;vi Number translator thingy</li>
-				<li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a><br />Learn Na&#39;vi Memrise Course</li>
-				<li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/51606/navi-useful-phrases/">Na&#39;vi Useful Phrases</a><br />Na&#39;vi Phrases Memrise Course</li>
-				<li class="collection-item"><a class="collection-link" href="http://naviteri.org">Na&#39;viteri.org</a><br />Paul Frommer&#39;s Blog</li>
-				<li class="collection-item"><a class="collection-link" href="http://layonyayo.com">Layon Yayo</a><br />Na&#39;vi Web Comic by Eana Unil</li>
-				<li class="collection-item"><a class="collection-link" href="http://www.avatarnation.net">Avatar Nation</a><br />Avatar Fan Site / Podcast</li>
-				<li class="collection-item"><a class="collection-link" href="' . $weblink . '?p=generator">', $txt['l_navi_gen'], '</a><br />', $txt['l_valid_gen'], '</li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['l_cool'], '</h4></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="https://soundcloud.com/thesoundsofpandora">The Sounds of Pandora</a><br />Official Avatar SoundCloud</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://dict-navi.com">Dict-Na&#39;vi.com</a><br />Online Na&#39;vi Dictionary Search Engine</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br />Epic Na&#39;vi Number translator thingy</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a><br />Learn Na&#39;vi Memrise Course</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://www.memrise.com/course/51606/navi-useful-phrases/">Na&#39;vi Useful Phrases</a><br />Na&#39;vi Phrases Memrise Course</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://naviteri.org">Na&#39;viteri.org</a><br />Paul Frommer&#39;s Blog</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://layonyayo.com">Layon Yayo</a><br />Na&#39;vi Web Comic by Eana Unil</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://www.avatarnation.net">Avatar Nation</a><br />Avatar Fan Site / Podcast</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $weblink . '?p=generator">', $txt['l_navi_gen'], '</a><br />', $txt['l_valid_gen'], '</li>
 			</ul>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['l_blogs'], '</h4></li>
-				<li class="collection-item"><a class="collection-link" href="http://tireaaean.wordpress.com">Pìlok Tireayä Aean</a><br />Tirea Aean</li>
-				<li class="collection-item"><a class="collection-link" href="http://masempul.org">Ma Sempul</a><br />Prrton</li>
-				<li class="collection-item"><a class="collection-link" href="http://stegemue.blogspot.com">Aylì’uä Ramunong</a><br />Plumps</li>
-				<li class="collection-item"><a class="collection-link" href="http://eana-elf.blogspot.com/">Blog of Blue Elf</a><br />Blue Elf</li>
-				<li class="collection-item"><a class="collection-link" href="http://leeylan.blogg.se">Le&#39;eylan</a><br />Le&#39;eylan</li>
-				<li class="collection-item"><a class="collection-link" href="http://ngawng.blogspot.com">SìLawk LeKye&#39;ung</a><br />Ngawng</li>
-				<li class="collection-item"><a class="collection-link" href="http://tsyesika.co.uk">Tsyesìkayä Pìlok</a><br />Tsyesìka</li>
-				<li class="collection-item"><a class="collection-link" href="http://eanaunil.blogspot.com/">Tskxekeng ne tìyo&#39;</a><br />Eana Unil</li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['l_blogs'], '</h4></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://tireaaean.wordpress.com">Pìlok Tireayä Aean</a><br />Tirea Aean</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://masempul.org">Ma Sempul</a><br />Prrton</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://stegemue.blogspot.com">Aylì’uä Ramunong</a><br />Plumps</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://eana-elf.blogspot.com/">Blog of Blue Elf</a><br />Blue Elf</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://leeylan.blogg.se">Le&#39;eylan</a><br />Le&#39;eylan</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://ngawng.blogspot.com">SìLawk LeKye&#39;ung</a><br />Ngawng</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://tsyesika.co.uk">Tsyesìkayä Pìlok</a><br />Tsyesìka</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="http://eanaunil.blogspot.com/">Tskxekeng ne tìyo&#39;</a><br />Eana Unil</li>
 			</ul>';
 }
 
@@ -359,45 +357,45 @@ function navi_download()
 	global $txt;
 
 	echo '
-			<div class="titlename">', $txt['d_downl'], '</div>
+			<div class="titlename indigo-text">', $txt['d_downl'], '</div>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['d_thing'], '</h4></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/101-Handout-4-WA-2012.pdf">Na\'vi 101 Handout [PDF]</a><br />AvatarMeet 2012 Seattle, WA</li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/102-Handout-4-DC-2013.pdf">Na\'vi 102 Handout [PDF]</a><br />AvatarMeet 2013 Washington, DC</li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/103-Handout-4-LA-2014.pdf">Na\'vi 103 Handout [PDF]</a><br />AvatarMeet 2014 Los Angeles, CA</li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard [Android APK]</a><br />Android KXWERTY</li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/ts3_Client_LN_Sound_Pack-0.2.zip">TeamSpeak 3 Voice Pack [ZIP]</a><br />', $txt['d_hkbl'] , '</li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br />Windows / Mac KXWERTY</li>
-				<!-- <li class="collection-item"><a class="collection-link" href="' . $httproot . 'images">', $txt['d_images'], '</a><br />', $txt['d_hrhgif'], '</li> -->
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['d_thing'], '</h4></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/101-Handout-4-WA-2012.pdf">Na\'vi 101 Handout [PDF]</a><br />AvatarMeet 2012 Seattle, WA</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/102-Handout-4-DC-2013.pdf">Na\'vi 102 Handout [PDF]</a><br />AvatarMeet 2013 Washington, DC</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/103-Handout-4-LA-2014.pdf">Na\'vi 103 Handout [PDF]</a><br />AvatarMeet 2014 Los Angeles, CA</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard [Android APK]</a><br />Android KXWERTY</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/ts3_Client_LN_Sound_Pack-0.2.zip">TeamSpeak 3 Voice Pack [ZIP]</a><br />', $txt['d_hkbl'] , '</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br />Windows / Mac KXWERTY</li>
+				<!-- <li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'images">', $txt['d_images'], '</a><br />', $txt['d_hrhgif'], '</li> -->
 			</ul>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['d_dict_data'], '</h4></li>
-				<li class="collection-header"><h4>jMemorize</h4></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviDeDictionary.tsv">NaviDeDictionary.tsv</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviEngDictionary.tsv">NaviEngDictionary.tsv</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviEstDictionary.tsv">NaviEstDictionary.tsv</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviHuDictionary.tsv">NaviHuDictionary.tsv</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviNlDictionary.tsv">NaviNlDictionary.tsv</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviRuDictionary.tsv">NaviRuDictionary.tsv</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviSvDictionary.tsv">NaviSvDictionary.tsv</a><br /></li>
-				<li class="collection-header"><h4>Fwew</h4></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/infixes.txt">infixes.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/dictionary.txt">dictionary.txt</a><br /></li>
-				<li class="collection-header"><h4>VrrtepCLI</h4></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/metaWords.txt">metaWords.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/localizedWords.txt">localizedWords.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/de.txt">de.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/eng.txt">eng.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/est.txt">est.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/hu.txt">hu.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/nl.txt">nl.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/ru.txt">ru.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/sv.txt">sv.txt</a><br /></li>
-				<li class="collection-header"><h4>Other</h4></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/dictversion.txt">dictversion.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/NaviRhymeDictionary.html">NaviRhymeDictionary.html</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/derivatives.txt">derivatives.txt</a><br /></li>
-				<li class="collection-item"><a class="collection-link" href="' . $httproot . 'download/horen-answers.txt">horen-answers.txt</a><br /></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['d_dict_data'], '</h4></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">jMemorize</h4></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/NaviDeDictionary.tsv">NaviDeDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/NaviEngDictionary.tsv">NaviEngDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/NaviEstDictionary.tsv">NaviEstDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/NaviHuDictionary.tsv">NaviHuDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/NaviNlDictionary.tsv">NaviNlDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/NaviRuDictionary.tsv">NaviRuDictionary.tsv</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/NaviSvDictionary.tsv">NaviSvDictionary.tsv</a><br /></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">Fwew</h4></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/infixes.txt">infixes.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/dictionary.txt">dictionary.txt</a><br /></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">VrrtepCLI</h4></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/metaWords.txt">metaWords.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/localizedWords.txt">localizedWords.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/de.txt">de.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/eng.txt">eng.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/est.txt">est.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/hu.txt">hu.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/nl.txt">nl.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/ru.txt">ru.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/sv.txt">sv.txt</a><br /></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">Other</h4></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/dictversion.txt">dictversion.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/NaviRhymeDictionary.html">NaviRhymeDictionary.html</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/derivatives.txt">derivatives.txt</a><br /></li>
+				<li class="collection-item"><a class="collection-link purple-text" href="' . $httproot . 'download/horen-answers.txt">horen-answers.txt</a><br /></li>
 			</ul>';
 }
 
@@ -407,26 +405,26 @@ function about()
 	global $txt;
 
 	echo '
-			<div class="titlename">', $txt['about'], '</div>
+			<div class="titlename indigo-text">', $txt['about'], '</div>
 			<br /><br /><ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['a_creator'], '</h4></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['a_creator'], '</h4></li>
 				<li class="collection-item"><strong>Paul Frommer</strong></li>
 			</ul>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['a_developers'], '</h4></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['a_developers'], '</h4></li>
 				<li class="collection-item"><strong>Tìtstewan & Tirea Aean</strong></li>
 			</ul>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['a_thanks'], '</h4></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['a_thanks'], '</h4></li>
 				<li class="collection-item"><strong>Vawmataw, Hahaw[hhvhhvcz], Alìm Tsamsiyu, Plumps, Wllìm ', $txt['a_others'], '</strong></li>
 			</ul>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>', $txt['a_3rdparty'] ,'</h4></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['a_3rdparty'] ,'</h4></li>
 				<li class="collection-item">Parsedown - http://parsedown.org | Copyright (c) 2013 Emanuil Rusev, erusev.com | ', $txt['a_mit'] , '</li>
 			</ul>
 			<ul class="collection with-header">
-				<li class="collection-header"><h4>GNU General Public License</h4></li>
-				<li class="collection-item">Copyright (c) 2017 Tìtstewan & Tirea Aean | <a class="collection-link" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0</a></li>
+				<li class="collection-header indigo-text"><h4 class="indigo-text">GNU General Public License</h4></li>
+				<li class="collection-item">Copyright (c) 2017 Tìtstewan & Tirea Aean | <a class="collection-link purple-text" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0</a></li>
 			</ul><br />';
 }
 
@@ -443,7 +441,7 @@ function echo_collection_items($type)
 	// collection header
 	echo '
 <ul class="collection with-header">
-	<li class="collection-header"><h4>';
+	<li class="collection-header indigo-text"><h4 class="indigo-text">';
 	switch ($type) {
 		case 'c-':
 			echo $txt['n_basic'];
@@ -460,11 +458,11 @@ function echo_collection_items($type)
 	// load and echo the $type lesson titles
 	foreach ($files as $f)
 	{
-		//echo '<li class="collection-item"><a class="collection-link" href="">derp</a></li>';
+		//echo '<li class="collection-item"><a class="collection-link purple-text" href="">derp</a></li>';
 		$num = substr($f, 0, 2);
 		if (preg_match('/^\d+$/', $num) && stripos($f, $type) && stripos($f, $lang))
 		{
-			echo '<li class="collection-item"><a class="collection-link" href="', $weblink, '?p=lessons&l=', $num, $type, $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . $type[0]] : ''), '</a></li>';
+			echo '<li class="collection-item"><a class="collection-link purple-text" href="', $weblink, '?p=lessons&l=', $num, $type, $lang, '">', (preg_match('/^\d+$/', $num) ? $txt['n_' . $num . $type[0]] : ''), '</a></li>';
 		}
 	}
 
@@ -559,8 +557,8 @@ function navi_random() {
 	$infixes = $fields[4];
 	$pos = $fields[5];
 	$def = $fields[6];
-	echo '<h1>Random Na\'vi Word</h1>';
-	echo '<h3>';
+	echo '<h1 class="indigo-text">Random Na\'vi Word</h1 class="indigo">';
+	echo '<h3 class="indigo-text">';
 	echo '<strong>' . $word . '</strong>';
 	echo ' [' . $ipa . '] ';
 	echo '<i>' . $pos . '</i> ';
@@ -592,7 +590,7 @@ function rss_items($type)
 			$title = trim(substr(fgets(fopen($dir . $f, 'r')), 2));
 
 			// Style for the content
-			$content = '<style>div.icontent h1{display:none;}ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
+			$content = '<style>div.icontent h1 class="indigo"{display:none;}ul{padding-left:40px;list-style:none;}table,th,tr,td{text-align:left;}</style>';
 
 			// Get $content
 			// Fire up the Markdown Parser
