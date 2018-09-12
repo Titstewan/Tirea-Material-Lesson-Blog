@@ -112,7 +112,7 @@ function html_header()
 		<link rel="stylesheet" href="' . $httproot . 'res/materialize.min.css">
 		<link rel="stylesheet" href="' . $httproot . 'res/tirea.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="theme-color" content="#00bcd4">
+		<meta name="theme-color" content="#3f51b5">
 	</head>
 	<header>
 		<!-- Dropdown Structure -->
