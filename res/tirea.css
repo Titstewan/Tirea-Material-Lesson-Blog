@@ -13,66 +13,19 @@ html, body {
 	min-height: 480px;
 }
 
+header {
+	position: relative;
+}
+
 #header-graphic {
+	position: relative;
+	margin-bottom: -3px;
+	/* background: #3F51B5 url("tirealeiuhonafrato.png") 0px 0px/100% auto no-repeat; */
+}
+
+#header-graphic img {
 	width: 100%;
-	background: #3F51B5 url("tirealeiuhonafrato.png") 0px 0px/100% auto no-repeat;
 }
-
-#header-graphic #height {
-	display:block;
-	height: 400px;
-}
-
-@media screen and (min-width: 1320px) {
-	#header-graphic #height {
-		display:block;
-		height: 500px;
-	}
-}
-
-@media screen and (max-width: 980px) {
-	#header-graphic #height {
-		display:block;
-		height: 300px;
-	}
-}
-
-@media screen and (max-width: 793px) {
-	#header-graphic #height {
-		display:block;
-		height: 250px;
-	}
-}
-
-@media screen and (max-width: 660px) {
-	#header-graphic #height {
-		display:block;
-		height: 200px;
-	}
-}
-
-@media screen and (max-width: 530px) {
-	#header-graphic #height {
-		display:block;
-		height: 180px;
-	}
-}
-
-@media screen and (max-width: 476px) {
-	#header-graphic #height {
-		display:block;
-		height: 150px;
-	}
-}
-
-@media screen and (width: 400px) {
-	#header-graphic #height {
-		display:block;
-		height: 150px;
-	}
-}
-
-
 
 main {
 	width: 100%;

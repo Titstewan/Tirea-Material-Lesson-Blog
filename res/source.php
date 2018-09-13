@@ -141,7 +141,7 @@ function html_header()
 				</ul>
 			</div>
 		</nav>
-		<div id="header-graphic"><div id="height"></div></div>
+		<div id="header-graphic"><img src="' . $httproot . '/res/tsyilileiuhonafrato.png"></div>
 		<div class="purple white-text" id="warning">', $txt['tlb_exp'], '</div>
 	</header>
 	<main>
