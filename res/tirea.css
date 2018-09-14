@@ -179,8 +179,12 @@ strong {
 	padding-left: 0px;
 }
 
+#page-content-div a {
+	color: #e040fb !important;
+}
+
 blockquote {
-	border-left: 5px solid #ffc107;
+	border-left: 5px solid #9c27b0;
 }
 
 table{
@@ -208,7 +212,7 @@ table tr{
 }
 
 table tr:nth-child(2n){
-    background-color:#E0F7FA;
+    background-color:#e8eaf6;
 }
 
 .navword {
