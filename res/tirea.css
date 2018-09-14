@@ -49,6 +49,10 @@ h4 {
 	font-size: 1.2rem;
 }
 
+h1, h2, h3, h4 {
+	color: #3f51b5;
+}
+
 a {
 	cursor: hand;
 }
