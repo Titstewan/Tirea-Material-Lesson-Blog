@@ -119,30 +119,32 @@ function html_header()
 	<header>
 		<!-- Dropdown Structure -->
 		<ul id="dropdown1" class="dropdown-content">', $dropdown, '</ul>
-		<nav class="indigo">
-			<div class="nav-wrapper">
-				<a href="', $weblink, '" class="brand-logo">Tirea Na&apos;vi</a>
-				<!-- <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a> -->
-				<a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a>
-				<ul class="right hide-on-med-and-down" id="regnav">', $menu, '
-					<!-- Dropdown Trigger -->
-					<li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">', $txt['m_language'], '<i class="material-icons right">arrow_drop_down</i></a></li>
-					<!-- <li id="rss-nav-item"><a id="rss-link" href="', $weblink, '?p=rss&lang=', $lang, '"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li> -->
-				</ul>
-				<ul class="side-nav" id="mobilenav">', $menu, '
-					<li>
-						<ul class="collapsible collapsible-accordion">
-							<li><a class="collapsible-header waves-effect waves-purple">', $txt['m_language'], '</a>
-								<div class="collapsible-body">
-									<ul>', $dropdown, '</ul>
-								</div>
-							</li>
-						</ul>
-					</li>
-					<!-- <li><a href="', $weblink , '?p=rss&lang=', $lang, '">', $txt['m_rss'], '</a></li> -->
-				</ul>
-			</div>
-		</nav>
+		<div class="navbar-fixed">
+			<nav class="indigo">
+				<div class="nav-wrapper">
+					<a href="', $weblink, '" class="brand-logo">Tirea Na&apos;vi</a>
+					<!-- <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a> -->
+					<a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a>
+					<ul class="right hide-on-med-and-down" id="regnav">', $menu, '
+						<!-- Dropdown Trigger -->
+						<li><a class="dropdown-button" href="', $weblink, '" data-activates="dropdown1">', $txt['m_language'], '<i class="material-icons right">arrow_drop_down</i></a></li>
+						<!-- <li id="rss-nav-item"><a id="rss-link" href="', $weblink, '?p=rss&lang=', $lang, '"><img id="rss-icon" src="' . $httproot . 'res/rss-icon.png"></a></li> -->
+					</ul>
+					<ul class="side-nav" id="mobilenav">', $menu, '
+						<li>
+							<ul class="collapsible collapsible-accordion">
+								<li><a class="collapsible-header waves-effect waves-purple">', $txt['m_language'], '</a>
+									<div class="collapsible-body">
+										<ul>', $dropdown, '</ul>
+									</div>
+								</li>
+							</ul>
+						</li>
+						<!-- <li><a href="', $weblink , '?p=rss&lang=', $lang, '">', $txt['m_rss'], '</a></li> -->
+					</ul>
+				</div>
+			</nav>
+		</div>
 		<div id="header-graphic"><img src="' . $httproot . '/res/tsyilileiuhonafrato.png"></div>
 		<div class="purple white-text" id="warning">', $txt['tlb_exp'], '</div>
 	</header>
