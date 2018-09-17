@@ -95,7 +95,7 @@ Before                                                                  | After
 'eylan (friend)                                                         | ayeylan (friends)
 [kxaylte](http://james-camerons-avatar.wikia.com/wiki/Cillaphant)       | mekaylte (two cillaphants)
 [pxiwll](http://james-camerons-avatar.wikia.com/wiki/Hermit_Bud)        | pxepiwll (three hermit bud plants)
-[txumtsä'wll](http://james-camerons-avatar.wikia.com/wiki/Baja_Tickler)	|	aytumtsä'wll (baja ticklers)
+[txumtsä'wll](http://james-camerons-avatar.wikia.com/wiki/Baja_Tickler) | aytumtsä'wll (baja ticklers)
 koren (rule)                                                            | mehoren (two rules)
 [paywl](http://james-camerons-avatar.wikia.com/wiki/Dapophet)           | ayfaywll (dapophet water plants)
 [talioang](http://james-camerons-avatar.wikia.com/wiki/Sturmbeest)      | pxesalioang (three sturmbeests)
