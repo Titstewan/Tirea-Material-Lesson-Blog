@@ -8,16 +8,15 @@ This lesson will cover some very basic foundations of the grammar every beginner
 
 ## Topics
 
-### [Word Order](#1)
+### [Word Order](#a1)
 
-### [Simplest Sentences](#2)
+### [Simplest Sentences](#a2)
 
-### [L and T Endings](#3)
+### [L and T Endings](#a3)
 
 ### [Vocabulary Learned](#v)
 
-<span id="1">
-</span>
+<div id="a1"></div>
 
 ## Word Order
 
@@ -37,8 +36,7 @@ would mean the same thing as:
 - **Tul poe.**
 - _She runs._
 
-<span id="2">
-</span>
+<div id="a2"></div>
 
 ## Simplest Sentences
 
@@ -59,8 +57,7 @@ or
 
 Note that whatever word comes last in the sentence is the one that carries the most emphasis in the sentence.
 
-<span id="3">
-</span>
+<div id="a3"></div>
 
 ## L and T Endings
 
@@ -68,23 +65,23 @@ In all the previous sentences, there was only one noun and one verb, and no modi
 
 In English, the word order of a sentence establishes the roles of the people or things involved. For example, compare these two sentences:
 
-> Peyral hunts an animal. (_subject is Peyral, object is animal_)
+> An ikran eats a shoe. (_subject is ikran, object is shoe_)
 
-> An animal hunts Peyral. (_subject is animal, object is Peyral_)
+> A shoe eats an ikran. (_subject is shoe, object is ikran_)
 
 As you see, the roles are switched by changing which one comes before the verb and which one comes after the verb.
 
 In Na'vi, however, since the word order in a sentence like this one is entirely flexible, word order itself tells us nothing about the roles. Instead, the Na'vi use what are called Cases, which are small changes to the _words_ to keep track of their roles. The above sentences would translate to the following:
 
-- **Peyralìl taron ioangit.**
-- Peyral-ìl taron ioang-it.
-- _Peyral hunts an animal._
+- **ikranìl yom hawnventi.**
+- ikran-ìl yom hawnven-ti.
+- _An ikran eats a shoe._
 
-As you see here above, the **-ìl** case ending marks **Peyral** as the _subject_ and the **-it** case ending marks **ioang** as the _object_.
+As you see here above, the **-ìl** case ending marks **ikran** as the _subject_ and the **-ti** case ending marks **hawnven** as the _object_.
 
-- **Peyralit taron ioangìl.**
-- Peyral-it taron ioang-ìl.
-- _An animal hunts Peyral._
+- **ikranti yom hawnvenìl.**
+- ikran-it yom hawnven-ìl.
+- _A shoe eats an ikran._
 
 Notice how the word order here stayed the same yet the roles were reversed simply by swapping the **-ìl** and **-it** case endings.
 
@@ -104,8 +101,7 @@ In order to make any sentence of this type, just follow these steps:
 
 These three words can be in any order. Again, note that whatever word comes last in the sentence is the one that carries the most emphasis.
 
-<span id="v">
-</span>
+<div id="v"></div>
 
 ## Vocabulary Learned
 
@@ -115,9 +111,9 @@ Na'vi       | English
 **tul**     | vin. _run_
 **payoang** | n. _fish_
 **slele**   | vin. _swim_
-**Peyral**  | prop. n. (_A female Na'vi name_)
-**taron**   | vtr. _hunt_
-**ioang**   | n. _animal_
+**ikran**   | n. _banshee_
+**yom**     | vtr. _eat_
+**hawnven** | n. _shoe_
 **oe**      | pn. _I_
 **nga**     | pn. _you_
 **kame**    | vtr. _See (deep spiritual sense)_
