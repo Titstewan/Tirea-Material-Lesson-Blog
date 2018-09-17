@@ -17,6 +17,49 @@ header {
 	position: relative;
 }
 
+.brand-logo {
+	font-family: Maiandra GD, sans-serif;
+	padding-left: 16px !important;
+}
+
+.button-collapse {
+	height:64px;
+	width:64px;
+}
+
+.collapsible-body {
+	color: #444;
+}
+
+#mobile-menu-icon {
+	padding-left: 16px !important;
+	width: 100%;
+	height: 100%;
+	font-size: 2.2em;
+}
+
+#regnav {
+	padding-right: 16px !important;
+}
+
+#rss-nav-item, #rss-link {
+	height: 64px;
+}
+
+#rss-icon {
+	height: 40px;
+	margin-top: 12px;
+}
+
+#warning {
+	font-size: 14px;
+	text-align: center;
+}
+
+.dropdown-content li>a, .dropdown-content li>span {
+	color: #3f51b5 !important;
+}
+
 #header-graphic {
 	position: relative;
 	margin-bottom: -3px;
@@ -59,49 +102,6 @@ a {
 
 strong {
 	font-weight: bold;
-}
-
-.brand-logo {
-	font-family: Maiandra GD, sans-serif;
-	padding-left: 16px !important;
-}
-
-.button-collapse {
-	height:64px;
-	width:64px;
-}
-
-.collapsible-body {
-	color: #444;
-}
-
-#mobile-menu-icon {
-	padding-left: 16px !important;
-	width: 100%;
-	height: 100%;
-	font-size: 2.2em;
-}
-
-#regnav {
-	padding-right: 16px !important;
-}
-
-#rss-nav-item, #rss-link {
-	height: 64px;
-}
-
-#rss-icon {
-	height: 40px;
-	margin-top: 12px;
-}
-
-#warning {
-	font-size: 14px;
-	text-align: center;
-}
-
-.dropdown-content li>a, .dropdown-content li>span {
-	color: #3f51b5 !important;
 }
 
 .titlename {
@@ -226,6 +226,12 @@ table tr:nth-child(2n){
 .navword {
 	font-weight: bold;
 	color: #06619F;
+}
+
+#a1, #a2, #a3, #a4, #a5, #d, #v {
+	position: relative;
+	left: 0px;
+	top: -64px;
 }
 
 #fab {
