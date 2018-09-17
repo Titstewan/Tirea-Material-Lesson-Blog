@@ -73,7 +73,8 @@ $txt['n_01c'] = 'Greetings &amp; Introductions';
 $txt['n_02c'] = 'Test Lesson 2 C';
 $txt['n_intro'] = 'Simplified Grammar Lessons';
 $txt['n_01g'] = 'Word Order &amp; Simple Sentences';
-$txt['n_02g'] = 'Test Lesson 2 G';
+$txt['n_02g'] = 'Past &amp; Future';
+$txt['n_03g'] = 'Have, Plurals, Changes';
 // name generator
 $txt['g_n_try'] = 'Nice try. ;D';
 $txt['g_first_name'] = 'First Name # of Syllables';
