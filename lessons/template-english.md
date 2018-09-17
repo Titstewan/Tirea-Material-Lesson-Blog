@@ -1,24 +1,23 @@
 # Lesson Title
 
-**Kaltxì**! And welcome to Lesson X. 
+**Kaltxì**! And welcome to Lesson X.
 Some introductory text.
 
 ## Topics
 
-### [Part 1](#1)
+### [Part 1](#a1)
 
-### [Part 2](#2)
+### [Part 2](#a2)
 
-### [Part 3](#3)
+### [Part 3](#a3)
 
-### [Part 4](#4)
+### [Part 4](#a4)
 
 ### [Dialogue](#d)
 
 ### [Vocabulary Learned](#v)
 
-<span id="1">
-</span>
+<div id="a1"></div>
 
 ## Part 1
 
@@ -27,8 +26,7 @@ Paragraph about thing 1 here.
 - **Tìkenong fìtseng.**
 - _Example here._
 
-<span id="2">
-</span>
+<div id="a2"></div>
 
 ## Part 2
 
@@ -37,8 +35,7 @@ Paragraph about thing 2 here.
 - **Tìkenong fìtseng.**
 - _Example here._
 
-<span id="3">
-</span>
+<div id="a3"></div>
 
 ## Part 3
 
@@ -47,8 +44,7 @@ Paragraph about thing 3 here.
 - **Tìkenong fìtseng.**
 - _Example here._
 
-<span id="4">
-</span>
+<div id="a4"></div>
 
 ## Part 4
 
@@ -57,8 +53,7 @@ paragraph here about some **Lì'u leNa'vi** (_Na'vi word_) followed by an exampl
 - **Tìkenong fìtseng.**
 - _Example here._
 
-<span id="d">
-</span>
+<div id="d"></div>
 
 ## Dialogue
 
@@ -76,8 +71,7 @@ paragraph here about some **Lì'u leNa'vi** (_Na'vi word_) followed by an exampl
 - A: _words_
 - B: _reply_
 
-<span id="v">
-</span>
+<div id="v"></div>
 
 ## Vocabulary Learned
 
