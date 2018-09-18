@@ -32,13 +32,19 @@ But what if you wanted to describe a noun on the fly while saying something else
 
 ## Describing With a
 
-> **txantslusama eyktan plltxe.** / **eyktan atxantslusam plltxe.**<br>
+> **txantslusama eyktan plltxe.**<br>
+> =<br>
+> **eyktan atxantslusam plltxe.**<br>
 > _The wise leader speaks._
 >
-> **txura tsamsiyu wem.** / **tsamsiyu atxur wem.**<br>
+> **txura tsamsiyu wem.**<br>
+> =<br>
+> **tsamsiyu atxur wem.**<br>
 > _The strong warrior fights._
 >
-> **nga lu taronyu asìltsan.** / **nga lu sìltsana taronyu.**<br>
+> **nga lu taronyu asìltsan.**<br>
+> =<br>
+> **nga lu sìltsana taronyu.**<br>
 > _You are a good hunter._
 
 You probably notice that when describing the noun on the fly while saying something else about it, there there is an -**a**- attached onto the adjective that describes the noun. You may also notice that the -**a**- is always attached onto the side of the adjective where the noun is, and that the adjective is always exactly next to the noun.
