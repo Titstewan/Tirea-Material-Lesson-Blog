@@ -145,7 +145,7 @@ function html_header()
 				</div>
 			</nav>
 		</div>
-		<div id="header-graphic"><img src="' . $httproot . '/res/tsyilileiuhonafrato.png"></div>
+		<div id="header-graphic"><img src="' . $httproot . 'res/tsyilileiuhonafrato.png"></div>
 		<div class="purple white-text" id="warning">', $txt['tlb_exp'], '</div>
 	</header>
 	<main>
