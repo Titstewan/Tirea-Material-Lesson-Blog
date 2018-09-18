@@ -10,7 +10,7 @@ This time we talk about describing stuff.
 
 ### [Describing With a](#a2)
 
-### [Vocabulary Learned](#v)
+### [Vocabulary Used](#v)
 
 <div id="a1"></div>
 
@@ -49,7 +49,7 @@ Above, we talked about describing a noun with a single adjective. Now, I'm going
 > _The smiles often -> woman to me is pleasing/likeable._<br>
 > =<br>
 > **sunu oeru tuté a lrrtok si pxìm.**<br>
-> _is pleasing/likeable to me woman <- smiles often._<br>
+> _is pleasing/likeable to me woman &lt;- smiles often._<br>
 > _"I like the woman who smiles often."_<br>
 
 Here in this example, instead of using a single adjective such as {**txur**} (_strong_) or {**txantslusam**} (_wise_) to describe the noun **tuté** (_woman_), we are using an entire phrase, namely, {**lrrtok si pxìm**} (_smiles often_).
@@ -62,7 +62,7 @@ The main skeleton of this sentence is **tuté oeru sunu** = **sunu oeru tuté** 
 > _The send you me -> message hear I._<br>
 > =<br>
 > **oel stawm 'upxaret a ayngal fpe' oer.**<br>
-> _I hear the message <- you send me._<br>
+> _I hear the message &lt;- you send me._<br>
 > _"I hear the message that you send to me."_
 
 In this case, the phrase {**fpe' ayngal oer**} = {**ayngal fpe' oer**} (_you send to me_) is describing **'upxareti** (_the message_).
