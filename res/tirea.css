@@ -184,7 +184,11 @@ strong {
 }
 
 #page-content-div a {
-	color: #2196f3 !important;
+	color: #e040fb !important;
+}
+
+#page-content-div h3 a {
+	color: #9c27b0 !important;
 }
 
 blockquote {
