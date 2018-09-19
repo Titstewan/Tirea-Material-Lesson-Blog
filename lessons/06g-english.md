@@ -147,38 +147,37 @@ As you see, In these examples, the adp. words are all either separate before, or
 
 ## Vocabulary Used
 
-| Na'vi     | English                                                     |
-| --------- | ----------------------------------------------------------- |
-| utral     | n. tree                                                     |
-| tsawl     | adj. big (in size), tall                                    |
-| lu        | vin. be, am, is, are                                        |
-| 'ewll     | n. plant                                                    |
-| txumnga'  | adj. poisonous                                              |
-| 'u        | n. thing (object, fact, abstraction)                        |
-| fì'u      | pn. this (thing)                                            |
-| tsa'u     | dem. that (thing)                                           |
-| tsko      | n. bow (weapon)                                             |
-| tsa'u     | dem. that (thing)                                           |
-| niktsyey  | n. food wrap (food items wrapped in edible leaves or vines) |
-| tute      | n. person                                                   |
-| tstunwi   | adj. kind, thoughtful, considerate                          |
-| lehrrap   | adj. dangerous                                              |
-| yaney     | n. canoe                                                    |
-| fpi       | adp. for the sake/benefit of                                |
-| ìlä       | adp. by, via, following, according to                       |
-| lisre     | adp. by, before, up to but not after                        |
-| mì        | adp. in, on                                                 |
-| nuä       | adp. beyond                                                 |
-| pxisre    | adp. right before                                           |
-| ro        | adp. at (locative)                                          |
-| sko       | adp. as, in the role of                                     |
-| sre       | adp. before (time)                                          |
-| wä        | adp. against                                                |
-| oe        | pn. I, me                                                   |
-| wutso     | n. dinner, served meal                                      |
-| hawl      | vtr. prepare                                                |
-| soaia     | n. family                                                   |
-| muntxa si | vin. mate (with someone), marry                             |
-| sì        | conj. and                                                   |
-| tsam      | n. war                                                      |
-| tsamsiyu  | n. warrior                                                  |
+| Na'vi         | English                                                       |
+| ------------- | ------------------------------------------------------------- |
+| **utral**     | n. _tree_                                                     |
+| **tsawl**     | adj. _big (in size), tall_                                    |
+| **lu**        | vin. _be, am, is, are_                                        |
+| **'ewll**     | n. _plant_                                                    |
+| **txumnga'**  | adj. _poisonous_                                              |
+| **'u**        | n. _thing (object, fact, abstraction)_                        |
+| **fì'u**      | pn. _this (thing)_                                            |
+| **tsa'u**     | pn. _that (thing)_                                            |
+| **tsko**      | n. _bow (weapon)_                                             |                      
+| **niktsyey**  | n. _food wrap (food items wrapped in edible leaves or vines)_ |
+| **tute**      | n. _person_                                                   |
+| **tstunwi**   | adj. _kind, thoughtful, considerate_                          |
+| **lehrrap**   | adj. _dangerous_                                              |
+| **yaney**     | n. _canoe_                                                    |
+| **fpi**+      | adp. _for the sake/benefit of_                                |
+| **ìlä**+      | adp. _by, via, following, according to_                       |
+| **lisre**+    | adp. _by, before, up to but not after_                        |
+| **mì**+       | adp. _in, on_                                                 |
+| **nuä**+      | adp. _beyond_                                                 |
+| **pxisre**+   | adp. _right before_                                           |
+| **ro**+       | adp. _at (locative)_                                          |
+| **sko**+      | adp. _as, in the role of_                                     |
+| **sre**+      | adp. _before (time)_                                          |
+| **wä**+       | adp. _against_                                                |
+| **oe**        | pn. _I, me_                                                   |
+| **wutso**     | n. _dinner, served meal_                                      |
+| **hawl**      | vtr. _prepare_                                                |
+| **soaia**     | n. _family_                                                   |
+| **muntxa si** | vin. _mate (with someone), marry_                             |
+| **sì**        | conj. _and_                                                   |
+| **tsam**      | n. _war_                                                      |
+| **tsamsiyu**  | n. _warrior_                                                  |
