@@ -94,7 +94,7 @@ Starting with the word **'u** (_thing_):
 | **tsapxeu** | _those things[3]; those[3]_ |
 | **tsayu**   | _those things; those_       |
 
-Starting with the word **fì'u** (_this thing; this_):
+Starting with the word **fì'u** (_this thing; this_) or **tsa'u** (_that thing; that_):
 
 | Na'vi             | English                     |
 | ----------------- | --------------------------- |
