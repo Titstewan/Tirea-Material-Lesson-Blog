@@ -77,6 +77,7 @@ $txt['n_02g'] = 'Past &amp; Future';
 $txt['n_03g'] = 'Have, Plurals, Changes';
 $txt['n_04g'] = 'Describing Stuff';
 $txt['n_05g'] = 'Questions';
+$txt['n_06g'] = 'This and That, and Stuff';
 // name generator
 $txt['g_n_try'] = 'Nice try. ;D';
 $txt['g_first_name'] = 'First Name # of Syllables';
