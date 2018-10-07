@@ -16,7 +16,7 @@ Some introductory text.
 
 ### [Dialogue](#d)
 
-### [Vocabulary Learned](#v)
+### [Vocabulary Used](#v)
 
 <div id="a1"></div>
 
@@ -76,7 +76,7 @@ paragraph here about some **Lì'u leNa'vi** (_Na'vi word_) followed by an exampl
 
 <div id="v"></div>
 
-## Vocabulary Learned
+## Vocabulary Used
 
 | Na'vi        | English   |
 | ------------ | --------- |
