@@ -123,7 +123,7 @@ function html_header()
 			<nav class="indigo">
 				<div class="nav-wrapper">
 					<a href="', $weblink, '" class="brand-logo">Tirea Na&apos;vi</a>
-					<a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a>
+					<a href="#" data-activates="mobilenav" class="button-collapse"><i id="mobile-menu-icon" class="material-icons">menu</i></a>
 					<!-- <a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a> -->
 					<ul class="right hide-on-med-and-down" id="regnav">', $menu, '
 						<!-- Dropdown Trigger -->
