@@ -1,4 +1,3 @@
-0	eng	WHO'S Eywa?! Only their goddess. Made up of ALL living things. Everything they know. You'd know this if you'd had any training whatso--	prop. n.
 4	de	berühren	vtr.
 4	eng	touch	vtr.
 4	est	katsuma, puutuma	tgsne.
@@ -208,9 +207,9 @@
 116	sv	meddelande	sbst.
 120	de	das/der/die, welche/r/s (Relativpronomen)	part.
 120	eng	clause  level attributive marker	part.
-120	est	see (,mis), kes	as.
+120	est	see, kes/mis; osalause m	as.
 120	hu	aki, amely(ik) (határozói mellékmondat kötőszava)	part.
-120	nl	oorzaak attribuut markering	part.
+120	nl	bepaling attributieve markeerder	part.
 120	pl	który, ten	part.
 120	ru	который (в аттрибутивной конструкции связывает определяемое с определяемым)	част.
 120	sv	som, vilken	pron.
@@ -322,7 +321,7 @@
 216	eng	we, us (inclusive)	pn.
 216	est	meie (kaasav) (ayoeng nimetavas, (meie ja sina))	ases.
 216	hu	mi (beleértő)	nm.
-216	nl	wij (inclusief)	vn.
+216	nl	wij, ons (inclusief)	vn.
 216	pl	my, nas (włączające)	zaim.
 216	ru	мы (инклюзив)	мест.
 216	sv	vi, oss (du med)	pron.
@@ -425,7 +424,7 @@
 304	de	führen, anführen, leiten	vtr.
 304	eng	lead	vtr.
 304	est	juhtima, valitsema	tgs.
-304	hu	vezet (népet)	i.(t)
+304	hu	vezet 	i.(t)
 304	nl	leiden	wwo.
 304	pl	przewodzić, prowadzić	cz. prz.
 304	ru	вести, быть проводником, руководить	пер.
@@ -801,7 +800,7 @@
 520	eng	that (subordinate clause marker)	pn., sbd.
 520	est	see, mis (kõrvallause märkija)	ases., ass.
 520	hu	az, hogy (alárendelő mellékmondat kötőszava)	nm., alár.
-520	nl	dat (gesubordineerd zinsdeel markering)	vn., sbd.
+520	nl	dat (gesubordineerd zinsdeel markeerder)	vn., sbd.
 520	pl	który	spój.
 520	ru	тот (который или что) (маркер относительного выражения)	мест.
 520	sv	att,  (klausul bisatsmarkör)	pron.
@@ -951,8 +950,8 @@
 604	sv	vålnad	sbst.
 608	de	Waldbanshee	n.
 608	eng	forest banshee	n.
-608	est	Metsmardus (forest banshee)	ns.
-608	hu	erdei ikran/sikoll	fn.
+608	est	metsmardus (forest banshee)	ns.
+608	hu	erdei ikran / sikoll	fn.
 608	nl	bosharpij	zn.
 608	pl	zmora leśna	rz.
 608	ru	лесной банши	сущ.
@@ -1608,7 +1607,7 @@
 1056	eng	O (vocative marker)	part.
 1056	est	oo (üte, kellegi poole pöördumisel)	abis.
 1056	hu	megszólító eset jele	part.
-1056	nl	aansprekende wijs	part.
+1056	nl	aansprekende wijs markeerder	part.
 1056	pl	O! (partykuła wołacza)	part.
 1056	ru	маркер звательного падежа	част.
 1056	sv	O (vokativ markör)	part.
@@ -2111,7 +2110,7 @@
 1360	eng	you (honorific form)	pn.
 1360	est	sina (austav vorm)	ases.
 1360	hu	te (szertartásos forma)	nm.
-1360	nl	jij (ceremonieel)	vn.
+1360	nl	jij, u (ceremonieel)	vn.
 1360	pl	ty (forma grzecznościowa, zaszczytna)	zaim.
 1360	ru	ты (уважительная форма)	мест.
 1360	sv	du (ärofull, högtidlig form)	pron.
@@ -2269,8 +2268,8 @@
 1456	sv	cat ear, musikplanta	sbst
 1460	de	(sich) unterhalten (mit), sprechen, plaudern	vin.
 1460	eng	chat, converse, have a conversation	vin.
-1460	est	suhtlema, vestlema, suhtlust pidama	tgstu.
-1460	hu	beszélget, társalog	i.(tn)
+1460	est	suhtlema, vestlema, juttu ajama	tgstu.
+1460	hu	beszélget, társalog 	i.(tn)
 1460	nl	praten, een gesprek voeren	zn.
 1460	pl	rozmawiać, gadać, gawędzić, mówić	cz. np.
 1460	ru	вести беседу, разговаривать (ни с кем конкретно)	непер.
@@ -2319,7 +2318,7 @@
 1488	eng	inter. marker	affix
 1488	est	küsimuse märkija	liide
 1488	hu	kérdőszóképző	toldalék
-1488	nl	vvn. markering	affix
+1488	nl	vvn. markeerder	toevoegsel
 1488	pl	pytajnik	zr.
 1488	ru	вопросительный маркер	аффикс
 1488	sv	interr. frågemarkör	affix
@@ -2991,7 +2990,7 @@
 1884	eng	inter. marker for yes or no questions	part.
 1884	est	märgib kas...? küsimusi	abis.
 1884	hu	eldöntendő kérdés jele	part.
-1884	nl	indicatie voor ja/nee vraag	part.
+1884	nl	vvn., markeerder voor ja/nee vragen	part.
 1884	pl	pytajnik tak/nie	part.
 1884	ru	маркер вопросов, требующих ответа «да» или «нет»	част.
 1884	sv	interj. markör för ja och nejfrågor	interr.
@@ -2999,7 +2998,7 @@
 1885	eng	inter. marker for yes or no questions	part.
 1885	est	märgib kas...? küsimusi	abis.
 1885	hu	eldöntendő kérdés jele	part.
-1885	nl	indicatie voor ja/nee vraag	part.
+1885	nl	vvn., markeerder voor ja/nee vragen	part.
 1885	pl	pytajnik tak/nie	part.
 1885	ru	маркер вопросов, требующих ответа «да» или «нет»	част.
 1885	sv	interj. markör för ja och nejfrågor	interr.
@@ -3615,7 +3614,7 @@
 2224	eng	comparative marker than (behaves like an adp.)	part.
 2224	est	võrdlemise märkija kui 	abis.
 2224	hu	középfokot jelez mint	part.
-2224	nl	vergelijkende markering dan (gedraagt zich als adp.)	part.
+2224	nl	vergelijkingsmarkeerder dan (gedraagt zich als adp.)	part.
 2224	pl	znacznik stopniowania niż (zachowuje się jak przyim.)	part.
 2224	ru	маркер сравнения чем (действует как предлог)	част.
 2224	sv	comparative marker than (behaves like an adp.)	superlativsmarkör än (som i; hellre den än det)
@@ -3727,7 +3726,7 @@
 2292	eng	continuation marker	part.
 2292	est	vestluse jätkamise märkija	abis.
 2292	hu	folytatás jelző (korábban elhangzott mondat megismétlésére szolgál)	part.
-2292	nl	geeft aan dat iets doorgaat	part.
+2292	nl	voortgangsmarkeerder	part.
 2292	pl	oznaczenie kontynuacji	part.
 2292	ru	побуждение собеседника к высказыванию	част.
 2292	sv	kontinuerlig markör	part.
@@ -4981,7 +4980,7 @@
 3872	de	schießen (intransitiv)	vin.
 3872	eng	shoot	vin.
 3872	est	laskma	tgstu.
-3872	hu	kiröppen, kivágódik	i.(tn)
+3872	hu	lő	i.(tn)
 3872	nl	schieten	wwn.
 3872	pl	strzelać	cz. np.
 3872	ru	стрелять	непер.
@@ -5470,7 +5469,7 @@
 4152	eng	superlative marker than all	part.
 4152	est	ülivõrre, kui kõik	abis.
 4152	hu	, leg mindennél olyanabb (toldalékként viselkedik)	felsőfok jele
-4152	nl	overtreffende trap dan alles	part.
+4152	nl	overtreffende trap markeerder dan alles	part.
 4152	pl	znacznik stopnia najwyższego niz wszystko (zachowuje się jak przyim.)	part.
 4152	ru	служебное слово для образования превосходной степени прилагательного (чем все)	част.
 4152	sv	superlativsmarkör än alla (beter sig som en adp.)	superlativ markör än alla
@@ -5589,7 +5588,7 @@
 4212	de	welches Wort?, welche Äußerung?	inter.
 4212	eng	what (word, utterance)	inter.
 4212	est	mis (sõna, väljend)	ks.
-4212	hu	Mi? (Mit mondott?)	kérd.
+4212	hu	Mi? (Mit?)	kérd.
 4212	nl	wat, welk (woord, uiting)	vvn.
 4212	pl	jakie, które (słowo, wyrażenie, zwrot)	pyt.
 4212	ru	какое? что за? (вопрос к слову или высказыванию)	вопр.
@@ -5597,7 +5596,7 @@
 4216	de	welches Wort?, welche Äußerung?	inter.
 4216	eng	what (word, utterance)	inter.
 4216	est	mis (sõna, väljend)	ks.
-4216	hu	milyen szó? hogy mondta?	kérd.
+4216	hu	milyen szó? 	kérd.
 4216	nl	wat, welk (woord, uiting)	vvn.
 4216	pl	jakie, które (słowo, wyrażenie)	pyt.
 4216	ru	какое? что за? (вопрос к слову или высказыванию)	вопр.
@@ -5630,7 +5629,7 @@
 4232	eng	wish (contrary to fact, with perfective or imperfective subjunctive)	adv.
 4232	est	soov (fakti vastand, koos perfektiivse või imperfektiivse tingiva kõneviisiga)	ms.
 4232	hu	bárcsak! (kívánság; a tényekkel szemben, befejezett vagy folyamatos kötőmóddal)	hsz.
-4232	nl	wens (t.o.v. feit, met (im)perfectief subjunctief)	bw.
+4232	nl	wens (t.o.v. feit, met (im)perfectief aanvoegende wijs)	bw.
 4232	pl	gdyby tylko(wyrażenie nierealnych marzeń, poprzedza czasownik w trybie łączącym)	przysł.
 4232	ru	«как хотелось бы»	нар.
 4232	sv	önska (kontrast till fakta)	adv.
@@ -7084,7 +7083,7 @@
 5036	eng	which day (derived from trr day and pe interrogative marker and ve ordinal number marker)	inter.
 5036	est	mis päeval? (tuletatud sõnast päev ja liidetest pe küsisõna märkija ja ve järgarvsõna märkija)	ks.
 5036	hu	Milyen nap?	kérd.
-5036	nl	welke dag (komt van trr dag en pe vvn. markering en ve telwoord markering)	vvn.
+5036	nl	welke dag (afgeleid van trr dag en pe vvn. markeerder en ve telwoordmarkeerder)	vvn.
 5036	pl	którego dnia (utworzone od trr dzień, pe przyrostek tworzący pytajnik oraz ve przyrostek tworzący liczebniki porządkowe)	pyt.
 5036	ru	какой день недели	вопр.
 5036	sv	vilken dag (härstammar ifrån trr dag och pe frågemarkör och ve ordningsnummersmarkör)	interr.
@@ -7490,8 +7489,8 @@
 5272	sv	dock, ändå	adv.
 5276	de	verärgertes Knurren, "Pass doch auf!"	intj.
 5276	eng	angry snarl, 'watch it!'	intj.
-5276	est	vihane lõrisemine 'vaata ette!'	hs.
-5276	hu	dühödt mordulás, 'vigyázz!'	gesz.
+5276	est	vihane lõrisemine, 'vait!', 'vaata ette!'	hs.
+5276	hu	dühödt mordulás, 'vigyázz!' 	gesz.
 5276	nl	boze kreet, 'kijk maar uit!'	tw.
 5276	pl	wyrażenie gniewu, 'uważaj!'	wykrz.
 5276	ru	окрик, призыв к порядку, призыв обратить внимание	межд.
@@ -7745,7 +7744,7 @@
 5416	sv	före gryning	sbst.
 5424	de	aufregend, faszinierend sein (Umgangssprache) (mit DativSubjekt)	svin.
 5424	eng	be amazing, fascinating (slang)	svin.
-5424	est	olema äge, kift (släng)	mtgstu.
+5424	est	olema 	mtgstu.
 5424	hu	„állat”, „sirály”, „király”. (slang)	i.(átn)
 5424	nl	verbazing wekken (spreektaal)	wwsn.
 5424	pl	być wspaniałym, fascynujacym (posp.)	cz. np.
@@ -7848,7 +7847,7 @@
 5472	sv	matsa, kex	sbst.
 5476	de	Gesäuertes, Sauerteig (jiddisches Lehnwort)	n.
 5476	eng	leavened bread	n.
-5476	est	juuretis	pärmiga jahutoode
+5476	est	juuretis	p
 5476	hu	kovászos kenyér	fn.
 5476	nl	ongedesemd brood	zn.
 5476	ru	дрожжевой хлеб	сущ.
@@ -8367,10 +8366,10 @@
 5944	ru	секунда, очень короткое время	сущ.
 5944	sv	sekund, väldigt kort tid	sbst.
 5952	de	nach, danach	adv.
-5952	eng	after, afterwards	adv.
+5952	eng	after, afterwards, later	adv.
 5952	est	pärast, hiljem	ms.
-5952	hu	után, utána	hsz.
-5952	nl	na, achteraf	bw.
+5952	hu	után, utána, később	hsz.
+5952	nl	na, achteraf, later	bw.
 5952	pl	później	przysł.
 5952	ru	впоследствии	нар.
 5952	sv	efter, efteråt	adv.
@@ -8616,7 +8615,7 @@
 6184	sv	senaste gången	adv.
 6196	de	nett, aufmerksam, rücksichtsvoll	adj.
 6196	eng	kind, thoughtful, considerate	adj.
-6196	est	lahke, hell, hooliv	oms.
+6196	est	lahke, heatahtlik, hell, hooliv (inimeste kohta)	oms.
 6196	hu	kedves, figyelmes,tapintatos	mn.
 6196	nl	vriendelijk, attent	bn.
 6196	pl	uprzejmy, troskliwy, taktowny	przym.
@@ -8666,7 +8665,7 @@
 6236	eng	that is, in other words	conj.
 6236	est	mis on, teise sõnaga, teisiti	ss.
 6236	hu	azaz hogy, más szóval	ksz.
-6236	nl	datt s, met andere woorden	vw.
+6236	nl	dat is, met andere woorden	vw.
 6236	pl	to jest, innymi słowy	spój.
 6236	ru	другими словами	союз
 6236	sv	som är, med andra ord	konj.
@@ -9042,7 +9041,7 @@
 6436	eng	infix	n.
 6436	est	siseliide	ns.
 6436	hu	infixum	fn.
-6436	nl	infix	zn.
+6436	nl	tussenvoegsel	zn.
 6436	pl	wrostek	rz.
 6436	ru	инфикс	сущ.
 6436	sv	infix	sbst.
@@ -9110,14 +9109,6 @@
 6532	pl	wyjaśniać	cz. np.
 6532	ru	объяснять	непер.
 6532	sv	göra klart, förklara	itr.
-6544	de	Hinzufügung; post scriptum (PS)	n.
-6544	eng	addition, post script (P.S.)	n.
-6544	est	P.S, lisaks veel	ns.
-6544	hu	kiegészítés, utóirat (P.S.)	fn.
-6544	nl	toevoeging, post script (p.s.)	zn.
-6544	pl	dodatek, postscriptum (P.S.)	rz.
-6544	ru	добавление, постскриптум (P.S.)	сущ.
-6544	sv	tillägg, ps.	sbst.
 6548	de	Getränk, etwas Trinkbares	n.
 6548	eng	drink, something able to be drunk	n.
 6548	est	jook	ns.
@@ -10782,7 +10773,7 @@
 7592	ru	остановить	непер.
 7592	sv	sluta	tr.
 7596	de	versuchen, ausprobieren, probieren, kosten, testen	vtrm.
-7596	eng	try, sample, evaluate, check out, testdrive	vtrm.
+7596	eng	taste, try, sample, evaluate, check out, testdrive	vtrm.
 7596	est	proovima, hindama, üle vaatama, testima	mtgsne.
 7596	hu	(ki)próbál, értékel, ellenőriz	i.(tm)
 7596	nl	uitproberen, evalueren, testen, proefdraaien	wwmo.
@@ -10894,9 +10885,9 @@
 7652	ru	выживший	прил.
 7652	sv	överlevande	adj.
 7656	de	in einer Weise, als wäre das Leben in Gefahr	adv., intj.
-7656	eng	in a fashion as if one's life were at stake	adv.,intj.
-7656	est	ellujäävalt (midagi tegema)	ms., hs.
-7656	hu	Úgy, mintha kockán forogna az élete	hsz.,gesz.
+7656	eng	in a fashion as if one's life were at stake	adv., intj.
+7656	est	elu eest (midagi tegema)	ms., hs.
+7656	hu	Úgy, mintha kockán forogna az élete.	hsz.,gesz.
 7656	nl	op een manier alsof iemand's leven op het spel staat	bw., tw.
 7656	pl	jak walcząc o życie	przysł., wykrz.
 7656	ru	как будто жизнь была поставлена на карту	нар.,межд.
@@ -11160,7 +11151,7 @@
 7812	eng	adornment, or ceremonial apparel (item of)	n.
 7812	est	ehe, kaunistus, tseremooniariietus	ns.
 7812	hu	dísz, vagy ünnepi felszerelés/ruházat (része)	fn.
-7812	nl	versiering of ceremoniel sieraad	zn.
+7812	nl	versiering of ceremonieel sieraad	zn.
 7812	pl	ozdoba lub uroczyste szaty	rz.
 7812	ru	украшение, церемониальная одежда	сущ.
 7812	sv	utsmyckning, ceremoniell utsmyckning	sbst.
@@ -11599,7 +11590,7 @@
 8052	de	Reflexion, Spiegelung	n.
 8052	eng	reflection	n.
 8052	est	peegeldus	ns.
-8052	hu	tükörkép	fn.
+8052	hu	tükörkép 	fn.
 8052	nl	reflectie, spiegelbeeld	zn.
 8052	pl	odbicie	rz.
 8052	ru	отражение	сущ.
@@ -12224,7 +12215,7 @@
 8400	eng	transfer from one to another (rarely used without prefix)	vtr.
 8400	est	ühelt teisele üle andma (kasutatakse harva eesliideteta)	tgsne.
 8400	hu	áthelyez, átad egyiktől a másiknak (ritkán használatos prefixum nélkül)	i.(t)
-8400	nl	doorgeven van een naar een ander (zelden gebruikt zonder prefix)	wwo.
+8400	nl	doorgeven van een naar een ander (zelden gebruikt zonder voorvoegsel)	wwo.
 8400	pl	przenieść tymczasowo od jednej osoby do drugiej (rzadko uzywany bez przedrostka)	cz. prz.
 8400	ru	передача	пер.
 8404	de	leihen, verleihen, verborgen	vtr.
@@ -12592,7 +12583,7 @@
 8612	ru	энергия	сущ.
 8616	de	Biolumineszenz	n.
 8616	eng	bioluminescence	n.
-8616	est	bioluminestsents, organismide võime toota soojuseta valgust	ns.
+8616	est	bioluminestsents	ns.
 8616	hu	biolumineszcencia, fénykibocsátás	fn.
 8616	nl	bioluminescentie	zn.
 8616	pl	bioluminescencja	rz.
@@ -12676,8 +12667,8 @@
 8660	ru	держать в руках	пер.
 8664	de	fest, kontinuierlich	adv.
 8664	eng	steadily	adv.
-8664	est	kindlalt (mitte laskma liikuda)	ms.
-8664	hu	szilárdan	hsz.
+8664	est	kindlalt, stabiilselt ("mitte laskma liikuda")	ms.
+8664	hu	szilárdan 	hsz.
 8664	nl	vast, onbeweeglijk	bw.
 8664	pl	statycznie	przysł.
 8664	ru	устойчивый	нар.
@@ -13551,7 +13542,7 @@
 9220	de	Allergen	n.
 9220	eng	allergen	n.
 9220	est	allergeen, allergia tekitaja	ns.
-9220	hu	allergén	mn.
+9220	hu	allergén	fn.
 9220	nl	allergeen	zn.
 9220	pl	uczulony	przym.
 9220	ru	аллерген	сущ.
@@ -13691,7 +13682,7 @@
 9304	de	Ordnung (im Gegensatz zu Chaos oder Unordnung)	n.
 9304	eng	order (as opposed to disorder or chaos), organization	n.
 9304	est	kord, organiseeritus	ns.
-9304	hu	rend (rendetlenség vagy káosz ellentéte), rendezettség	fn.
+9304	hu	rend (rendetlenség vagy káosz ellentéte), rendezettség 	fn.
 9304	nl	orde (tegenover wanorde of chaos), organisatie	zn.
 9304	pl	porządek	rz.
 9304	ru	порядок	сущ.
@@ -13998,7 +13989,7 @@
 9476	ru	чувство (ощущение)	сущ.
 9480	de	physisches oder athletisches Spiel, Sport	n.
 9480	eng	physical or athletic game, sport	n.
-9480	est	sport, füüsiline harjutus/mäng	ns.
+9480	est	sport, võistlusmäng	ns.
 9480	hu	fizikai vagy atlétikai  játék, sport	fn.
 9480	nl	lichamelijk of atletisch spel, sport	zn.
 9480	pl	sport, ćwiczenia fizyczne	rz.
@@ -14178,9 +14169,9 @@
 9580	ru	опыт, умение	сущ.
 9580	sv	erfarenhet	sbst.
 9584	de	Hoffnung (abstrakt)	n.
-9584	eng	hope (abstract idea)	n.
-9584	est	lootus (abstraktne idee)	ns.
-9584	hu	remény (elvont)	fn.
+9584	eng	hope (abstract concept)	n.
+9584	est	lootus (abstraktne)	ns.
+9584	hu	remény (elvont fogalom)	fn.
 9584	nl	hoop (abstract idee)	zn.
 9584	pl	nadzieja (pojęcie abstrakcyjne)	rz.
 9584	ru	надежда (абстрактная идея)	сущ.
@@ -14488,7 +14479,7 @@
 9772	de	fauchen	vin.
 9772	eng	hiss	vin.
 9772	est	sisisema	tgstu.
-9772	hu	dühösen mordul	i.(tn)
+9772	hu	dühösen mordul 	i.(tn)
 9772	nl	sissen	wwn.
 9772	pl	syczeć	cz. np.
 9772	ru	шикнуть	непер.
@@ -14580,7 +14571,7 @@
 9824	eng	relieve oneself; (on Earth) use the restroom, go to the bathroom	vin.
 9824	est	end kergitama; (Maal) WCd kasutama	tgstu.
 9824	hu	könnyít magán; WCzik	i.(tn)
-9824	nl	zich ontlasten (Op aarde: naar het toilet gaan)	wwn.
+9824	nl	zich ontlasten (Op Aarde: naar het toilet gaan)	wwn.
 9824	pl	wypróżnić się; (na Ziemi) skorzystać z toalety	cz. np.
 9824	ru	отдохнуть, использовать комнату отдыха (на Земле)	непер.
 9828	de	wenn (für irreale Bedingungssätze)	konj.
@@ -15354,7 +15345,7 @@
 10400	de	Magma, Lava	n.
 10400	eng	magma, lava	n.
 10400	est	magma, laava	ns.
-10400	hu	láva, magma	fn.
+10400	hu	 magma, láva	fn.
 10400	nl	magma, lava	zn.
 10404	de	herauskommen, hervortreten	vin.
 10404	eng	come out, emerge	vin.
@@ -15763,8 +15754,8 @@
 10728	nl	voordeel, winst	zn.
 10732	de	vorteilhaft, von Vorteil	ajd.
 10732	eng	advantageous	adj.
-10732	est	kasulik, soodne	ms.
-10732	hu	előnyös, hasznos, nyereséges	mn.
+10732	est	kasulik, soodne	oms.
+10732	hu	előnyös, hasznos, nyereséges 	mn.
 10732	nl	voordelig	bn.
 10736	de	unvorteilhaft, ungünstig, nicht von Vorteil	adj.
 10736	eng	disadvantageous	adj.
@@ -15790,7 +15781,7 @@
 10752	eng	disadvantage, drawback, downside	n.
 10752	est	kahju, takistus, halb pool, kaotus	ns.
 10752	hu	hátrány	fn.
-10752	nl	nadeel, verlies	zn.
+10752	nl	nadeel, bezwaar, keerzijde	zn.
 10756	de	Sprecher, Sprecherin	n.
 10756	eng	speaker	n.
 10756	est	rääkija, kõneleja	ns.
@@ -15905,7 +15896,7 @@
 10848	eng	grinch tree, thousand berry tree	n.
 10848	est	tuhande marja puu, maripuu	ns.
 10848	hu	"ezerbogyófa", málnához hasonló gyümölcs fája	fn.
-10848	nl	duizend bessen boom	zn.
+10848	nl	grinchboom, duizend bessen boom	zn.
 10852	de	süße Beere (Kosename, Kosewort)	n.
 10852	eng	sweet berry (term of endearment)	n.
 10852	est	magus mari	ns.
@@ -15973,7 +15964,7 @@
 10916	nl	toename	zn.
 10920	de	richtiger Weg (etwas zu tun), korrekte Weise	n.
 10920	eng	right way (of doing something), correct path	n.
-10920	est	õigesti (millegi tegemine), õige viis	ns.
+10920	est	Õige viis, õige tee	ns.
 10920	hu	a megfelelő mód, valaminek a mikéntje	fn.
 10920	nl	juiste manier (om iets te doen), correcte pad	zn.
 10924	de	Unfug, Unheil, Schaden, Unsinn	n.
@@ -16030,7 +16021,7 @@
 10964	eng	vomit, vomit up	vtr., vin.
 10964	est	oksendama	tgstu., tgsne.
 10964	hu	hányni	i.(t), i.(tn)
-10964	nl	braken, vomiteren	wwo., wwn.
+10964	nl	braken	wwo., wwn.
 10968	de	Hund (Erdentier); wörtl. kleiner Vipernwolf	n.
 10968	eng	dog (earth animal); lit. little nantang	n.
 10968	est	koer (maal); väike soomushunt	ns.
@@ -16078,9 +16069,11 @@
 11012	hu	figyelmeztetés	fn.
 11012	nl	waarschuwing	zn.
 11024	eng	austrapede	n.
+11024	est	Jooksulind	n.
 11024	hu	austrapede (struccszerű pandorai állat)	fn.
 11024	nl	austrapoot	zn.
 11028	eng	turtapede	n.
+11028	est	Kilplimus	n.
 11028	hu	turtapede (teknősszerű pandorai állat)	fn.
 11028	nl	turtapoot	zn.
 11032	eng	horn, wind instrument	n.
@@ -16095,3 +16088,286 @@
 11056	est	Marduse ratsutaja prillid	ns.
 11056	hu	sikolllovagló napellenző / rostély (a szem fölött viselik)	fn.
 11056	nl	harpijrijder oogkleppen	zn.
+11072	eng	gathering place	n.
+11072	est	kogumiskoht	ns.
+11072	hu	gyülekezőhely	fn.
+11072	nl	verzamelplaats	zn.
+11080	eng	addition, post script	n.
+11080	est	lisa, post scriptum	ns.
+11080	hu	addition, post script	fn.
+11080	nl	toevoeging, post script	zn.
+11084	eng	smell	vin.
+11084	est	nuusutama	tgstu.
+11084	hu	szagol	i.(tn)
+11084	nl	ruiken	wwn.
+11088	eng	taste	vin.
+11088	est	maitsma	tgstu.
+11088	hu	kóstol	i.(tn)
+11088	nl	proeven	wwn.
+11092	eng	heritage	n.
+11092	est	pärand	ns.
+11092	hu	örökség	fn.
+11092	nl	erfgoed	zn.
+11100	eng	safety	n.
+11100	est	turvalisus	ns.
+11100	hu	biztonság	fn.
+11100	nl	veiligheid	zn.
+11104	eng	cross	vtr.
+11104	est	ületama	tgsne.
+11104	hu	átmegy	i.(t)
+11104	nl	oversteken, kruisen	wwo.
+11108	eng	harm	vin.
+11108	est	vigastama, kahjustama	tgstu.
+11108	hu	árt	i.(tn)
+11108	nl	schade toebrengen	wwn.
+11112	eng	suck	vtr.
+11112	est	imema	tgsne.
+11112	hu	szívni	i.(t)
+11112	nl	opzuigen	wwo.
+11116	eng	smoke (lit. to suck smoke)	vin.
+11116	est	suitsetama (suitsu imema)	tgstu.
+11116	hu	dohányzik (sz.sz.: füstöt szív)	i.(tn)
+11116	nl	roken (let. rook opzuigen)	wwn.
+11120	eng	clap hands	vin.
+11120	est	plaksutama	tgstu.
+11120	hu	tapsol	i.(tn)
+11120	nl	handen klappen	wwn.
+11140	eng	sound play	n.
+11140	est	sõnamäng	ns.
+11140	hu	hangjáték	fn.
+11140	nl	klankenspel	zn.
+11144	eng	improper, unfair, wrong, unjustified	adj.
+11144	est	kohatu, ebaõiglane, ebaaus, vale	oms.
+11144	hu	helytelen, igazságtalan, rossz	mn.
+11144	nl	oneerlijk, onjuist, fout, onterecht	bn.
+11148	eng	unfairness, injustice	n.
+11148	est	ebaõiglus	ns.
+11148	hu	igazságtalanság	fn.
+11148	nl	oneerlijkheid, onrecht	zn.
+11152	eng	protest	vin.
+11152	est	protesteerima, vastu seisma, meelt avaldama	tgstu.
+11152	hu	tiltakozik	i.(tn)
+11152	nl	protesteren	wwn.
+11156	eng	protesting, protest (abstract concept)	n.
+11156	est	protesteerimine, meeleavaldus (abstraktne)	ns.
+11156	hu	tiltakozás (elvont fogalom)	fn.
+11156	nl	prostest, protesteren (abstract concept)	zn.
+11160	eng	protest, instance of protesting	n.
+11160	est	protestiavaldus, meeleavaldus (konkreetne sündmus)	ns.
+11160	hu	tiltakozás (konkrét)	fn.
+11160	nl	protest, een moment van protesteren	zn.
+11164	eng	complain	vin.
+11164	est	kurtma, kaebama	tgstu.
+11164	hu	panaszkodik	i.(tn)
+11164	nl	klagen	wwn.
+11168	eng	complaining	n.
+11168	est	kurtmine, kaebamine	ns.
+11168	hu	panaszkodás	fn.
+11168	nl	klagend	zn.
+11172	eng	complaint	n.
+11172	est	kaebus	ns.
+11172	hu	panasz	fn.
+11172	nl	klacht	zn.
+11176	eng	call	n.
+11176	est	üleskutse	ns.
+11176	hu	kiáltás	fn.
+11176	nl	roep	zn.
+11180	eng	kind	adj.
+11180	est	lahke, hooliv (mitte inimeste kohta)	oms.
+11180	hu	kedves	mn.
+11180	nl	aardig	bn.
+11184	eng	successful	adj.
+11184	est	edukas (mitte inimeste kohta)	oms
+11184	hu	sikeres	mn.
+11184	nl	succesvol	bn.
+11188	eng	exclude, keep out, bar	vin.
+11188	est	välja jätma, eemal hoidma	tgstu.
+11188	hu	kizár, távol tart	i.(tn)
+11188	nl	buitensluiten, er uit houden	wwn.
+11192	eng	falsely	adv.
+11192	est	valesti, valetavalt	ms.
+11192	hu	hibásan, valótlanul	hsz.
+11192	nl	foutief	bw.
+11196	eng	hard, diligently	adv.
+11196	est	vapralt, kindlameelselt	ms.
+11196	hu	keményen, szorgalmasan	hsz.
+11196	nl	hard, ijverig	bw.
+11200	eng	darling, little loved one	n.
+11200	est	kallike, armsake (rohkem pereliikmete vahel)	ns.
+11200	hu	"kedvesem, kicsim"	fn.
+11200	nl	schatje, kleine geliefde	zn.
+11208	eng	wave (of water)	n.
+11208	est	laine (veekogul)	ns.
+11208	hu	hullám (vízé)	fn.
+11208	nl	golf (water)	zn.
+11212	eng	wavelike	adj.
+11212	est	lainemoodi, lainesarnane	oms.
+11212	hu	hullámszerű	mn.
+11212	nl	golvend	bn.
+11216	eng	good (abstract concept), goodness	n.
+11216	est	headus, hea (abstraktne)	ns.
+11216	hu	jó, jóság (elvont fogalom)	fn.
+11216	nl	goed (abstract concept), goedheid	zn.
+11220	eng	wooden, of wood	adj.
+11220	est	puidust, puit	oms
+11220	hu	fa, fából készült	mn.
+11220	nl	houten, van hout	bn.
+11224	eng	stony, of stone	adj.
+11224	est	kivist, kivi	oms.
+11224	hu	kő, kőből készült	mn.
+11224	nl	stenen, van steen	bn.
+11228	eng	clumsy, accidentprone	adj.
+11228	est	koba, kohmakas	oms.
+11228	hu	ügyetlen, kétbalkezes	mn.
+11228	nl	onhandig, ongelukaantrekkend	bn.
+11232	eng	clumsiness	n.
+11232	est	kohmakus	ns.
+11232	hu	ügyetlenség	fn.
+11232	nl	onhandigheid	zn.
+11236	eng	base of operations	n.
+11236	est	baas	ns.
+11236	hu	bázis	fn.
+11236	nl	hoofdkwartier	zn.
+11240	eng	slinger	n.
+11240	est	Kuulpea	ns.
+11240	hu	"slinger", lajhárszerű pandorai állat	fn.
+11240	nl	slinger	zn.
+11244	eng	large plesiosaurlike sea creature	n.
+11244	est	Plesiosauruselaadne mereelukas (Disney teemapark)	ns.
+11244	hu	nagy, plezioszauruszszerű tengeri állat	fn.
+11244	nl	groot plesiosaurusachtig zeewezen	zn.
+11248	eng	wind instrument	n.
+11248	est	puhkpill	ns.
+11248	hu	fúvós hangszer	fn.
+11248	nl	blaasinstrument	zn.
+11252	eng	story poem, narrative poem	n.
+11252	est	poeem, jutustav luuletus	ns.
+11252	hu	elbeszélő költemény, vers	fn.
+11252	nl	verhalend gedicht	zn.
+11260	eng	frighten	vtr.
+11260	est	ehmatama, hirmutama	tgsne.
+11260	hu	megijeszt, megfélemlít	i.(t)
+11260	nl	beangstigen	wwo.
+11284	eng	shoreline, water's edge	n.
+11284	est	kallas, rannik, veeäär	ns.
+11284	hu	partvonal	fn.
+11284	nl	kustlijn, water grens	zn.
+11288	eng	sentence	n.
+11288	est	lause	ns.
+11288	hu	mondat	fn.
+11288	nl	zin	zn.
+11292	eng	phrase	n.
+11292	est	fraas	ns.
+11292	hu	kifejezés, szókapcsolat	fn.
+11292	nl	zinsdeel	zn.
+11296	eng	syllable	n.
+11296	est	silp	ns.
+11296	hu	szótag	fn.
+11296	nl	lettergreep	zn.
+11300	eng	affix	n.
+11300	est	liide	ns.
+11300	hu	toldalék	fn.
+11300	nl	affix	zn.
+11304	eng	prefix	n.
+11304	est	eesliide	ns.
+11304	hu	prefixum	fn.
+11304	nl	prefix	zn.
+11308	eng	adjective	n.
+11308	est	omadussõna	ns.
+11308	hu	melléknév	fn.
+11308	nl	bijvoeglijk naamwoord	zn.
+11312	eng	adverb	n.
+11312	est	määrsõna	ns.
+11312	hu	határozószó	fn.
+11312	nl	bijwoord	zn.
+11316	eng	adposition	n.
+11316	est	kaassõna	ns.
+11316	hu	adposition	fn.
+11316	nl	adpositie	zn.
+11320	eng	conjunction	n.
+11320	est	sidesõna	ns.
+11320	hu	kötőszó	fn.
+11320	nl	voegwoord	zn.
+11324	eng	butthole, asshole, dickhead (vulgar)	n.
+11324	est	sitapea, persevest (ropp!)	ns.
+11324	hu	seggfej (vulgáris)	fn.
+11324	nl	galbak, schobbejak (vulgair)	zn.
+11332	eng	cycle	n.
+11332	est	tsükkel	ns.
+11332	hu	ciklus	fn.
+11332	nl	cyclus	zn.
+11336	eng	endless, neverending (in a temporal sense)	adj.
+11336	est	lõputu, ajatu (ajalises mõistes)	oms.
+11336	hu	végtelen	mn.
+11336	nl	eindeloos (tijd)	bn.
+11340	eng	fan, enthusiast	n.
+11340	est	fänn, huviline	ns.
+11340	hu	rajongó(ja vminek)	fn.
+11340	nl	fan, enthousiasteling	zn.
+11344	eng	day of commemoration	n.
+11344	est	mälestuspäev	ns.
+11344	hu	megemlékezés napja	fn.
+11344	nl	herdenkingsdag	zn.
+11348	eng	colloquial form of txanso'hayu (fan, enthusiast)	n.
+11348	est	kõnekeelne väljend sõnale txanso'hayu (fänn, huviline)	ns.
+11348	hu	rajongó(ja vminek) (társalgási nyelvben)	fn.
+11348	nl	spreektaal voor txanso'hayu (fan, enthousiasteling)	zn.
+11352	eng	(yearly) anniversary	n.
+11352	est	aastapäev	ns.
+11352	hu	évforduló	fn.
+11352	nl	verjaring	zn.
+11356	eng	colloquial form of zìsìtsaltrr (yearly anniversary)	n.
+11356	est	kõnekeelne väljend sõnale zìsìtsaltrr (aastapäev)	ns.
+11356	hu	évforduló (társalgási nyelvben)	fn.
+11356	nl	spreektaal voor verjaring	zn.
+11360	eng	stab	vtr.
+11360	est	pussitama, noaga/odaga torkama	tgsne.
+11360	hu	leszúr, ledöf	i.(t)
+11360	nl	steken	wwo.
+11364	eng	pierce	vtr.
+11364	est	läbistama, läbi torkama	tgsne.
+11364	hu	átszúr, átdöf	i.(t)
+11364	nl	doorsteken	wwo.
+11368	eng	sign, indication, signal	n.
+11368	est	märk, signaal, tähistus	ns.
+11368	hu	jel, jelzés	fn.
+11368	nl	teken, indicatie, signaal	zn.
+11376	eng	noun phrase (phrase whose pivotal or central word is a noun)	n.
+11376	est	nimisõnaühend	ns.
+11376	hu	főnévi kifejezés (főnevet tartalmazó kifejezés)	fn.
+11376	nl	naamwoordgroep, naamwoordelijk zinsdeel	zn.
+11380	eng	hello (casual)	intj.
+11380	nl	hallo (informeel)	tw.
+0	eng	WHO'S Eywa?! Only their goddess. Made up of ALL living things. Everything they know. You'd know this if you'd had any training whatso--	prop.n.
+ap	eng	reflexive, VERB self	infix.
+eyk	eng	causitive, cause to VERB, make VERB	infix.
+am	eng	past, VERBed	infix.
+im	eng	recent past, just VERBed	infix.
+iy	eng	near future, about to VERB	infix.
+ay	eng	future, will VERB	infix.
+ol	eng	perfective aspect, have VERBed	infix.
+er	eng	imperfective aspect, am/is/are VERBing	infix.
+iv	eng	subjunctive mood, May VERB, required for verb after a vtrm. or vim.	infix.
+alm	eng	past+perfective, had VERBed	infix.
+ilm	eng	recent past+perfective, have just VERBed	infix.
+ily	eng	near future+perfective, about to have VERBed	infix.
+aly	eng	future+perfective, will have VERBed	infix.
+arm	eng	past+imperfective, was VERBing	infix.
+iry	eng	recent past+imperfective, was just VERBing	infix.
+ary	eng	near future+imperfective, about to be VERBing	infix.
+future+imperfective, will be VERBing	infix.
+imv	eng	past+subjunctive, combination of [<am> or <ìm>] and <iv>	infix.
+iyev	eng	future+subjunctive, combination of [<ìy> or <ay>] and <iv>	infix.
+iyev1	eng	future+subjunnctive, combination of [<ìy> or <ay>] and <iv>	infix.
+us	eng	active participle, a/the VERBing NOUN	infix.
+awn	eng	passive participle, a/the VERBed NOUN	infix.
+uy	eng	honourific, ceremonial mood
+ats	eng	inferential, might VERB, must VERB	infix.
+ei	eng	laudative mood, speaker feels positively about VERB	infix.l	eng	agentive, one who does the verb (must be vtr. or vtrm. verb)	suffix.
+l1	eng	agentive, one who does the verb (must be vtr. or vtrm. verb)	suffix.
+t	eng	patientive, one who receives the action (must be vtr. or vtrm. verb)	suffix.
+t1	eng	patientive, one who receives the action (must be vtr. or vtrm. verb)	suffix.
+t2	eng	patientive, one who receives the action (must be vtr. or vtrm. verb)	suffix.
+r	eng	dative, indirect object, third party	suffix.
+r1	eng	dative, indirect object, third party	suffix.
+r2	eng	dative, indirect object, third party	suffix.

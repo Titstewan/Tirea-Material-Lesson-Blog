@@ -13,39 +13,8 @@ html, body {
 	min-height: 480px;
 }
 
-main {
-	width: 100%;
-	background-color:#fafafa;
-	color:#555;
-}
-
-h1 {
-	font-size: 2.0rem;
-}
-
-h2 {
-	font-size: 1.6rem;
-}
-
-h3 {
-	font-size: 1.4rem;
-}
-
-h4 {
-	font-size: 1.2rem;
-}
-
-a {
-	cursor: pointer;
-	cursor: hand;
-}
-
-strong {
-	font-weight: bold;
-}
-
-.nav-wrapper {
-	background-color: #00bcd4;
+header {
+	position: relative;
 }
 
 .brand-logo {
@@ -87,6 +56,54 @@ strong {
 	text-align: center;
 }
 
+.dropdown-content li>a, .dropdown-content li>span {
+	color: #3f51b5 !important;
+}
+
+#header-graphic {
+	position: relative;
+	margin-bottom: -3px;
+	/* background: #3F51B5 url("tirealeiuhonafrato.png") 0px 0px/100% auto no-repeat; */
+}
+
+#header-graphic img {
+	width: 100%;
+}
+
+main {
+	width: 100%;
+	background-color:#fafafa;
+	color:#555;
+}
+
+h1 {
+	font-size: 2.0rem;
+}
+
+h2 {
+	font-size: 1.6rem;
+}
+
+h3 {
+	font-size: 1.4rem;
+}
+
+h4 {
+	font-size: 1.2rem;
+}
+
+h1, h2, h3, h4 {
+	color: #3f51b5;
+}
+
+a {
+	cursor: hand;
+}
+
+strong {
+	font-weight: bold;
+}
+
 .titlename {
 	font-family: Maiandra GD, sans-serif;
 	text-align: center;
@@ -95,9 +112,9 @@ strong {
 	line-height: 1.1em;
 }
 
-h1, h2, h3, h4, .titlename, .collection-header {
+/* h1, h2, h3, h4, .titlename, .collection-header {
 	color: #00ACC1;
-}
+} */
 
 #index-tt {
 	width:100%;
@@ -166,8 +183,16 @@ h1, h2, h3, h4, .titlename, .collection-header {
 	padding-left: 0px;
 }
 
+#page-content-div a {
+	color: #e040fb !important;
+}
+
+#page-content-div h3 a {
+	color: #9c27b0 !important;
+}
+
 blockquote {
-	border-left: 5px solid #ffc107;
+	border-left: 5px solid #9c27b0;
 }
 
 table{
@@ -195,7 +220,7 @@ table tr{
 }
 
 table tr:nth-child(2n){
-    background-color:#E0F7FA;
+    background-color:#e8eaf6;
 }
 
 .navword {
@@ -203,16 +228,25 @@ table tr:nth-child(2n){
 	color: #06619F;
 }
 
+#a1, #a2, #a3, #a4, #a5, #d, #v {
+	position: relative;
+	left: 0px;
+	top: -64px;
+}
+
 #fab {
 	display: none;
 }
 
 .foot {
-	background-color: #727272;
 	font-size: 10pt;
 	box-sizing: border-box;
-	color: #eeeeee;
 	text-align: center;
 	padding: 30px;
 	bottom: 0px;
+}
+
+.foot a {
+	/* color: #9c27b0 !important; */
+	color: #e040fb !important;
 }

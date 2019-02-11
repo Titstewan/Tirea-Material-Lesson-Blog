@@ -51,7 +51,7 @@ kiáll, sikerrel vesz (próbát)
 előtt(e),elől
 helyes, jó (válasz)
 eyaye (pandorai növényfaj)
-vezet (népet)
+vezet 
 vezető, főnök
 val/vel/által (eszközhatározó)
 szag
@@ -117,7 +117,7 @@ szél (szellő)
 elmegy, elhagy
 húros hangszer
 ikran/sikoll (na'vik repülő hátasa) (pandorai állatfaj)
-erdei ikran/sikoll
+erdei ikran / sikoll
 állat, vadállat
 köszönet, köszönöm!
 által(a), révén, keresztül, mentén
@@ -282,7 +282,7 @@ Thanator („száraz száj és félelemhozó”) (szárazföldi csúcsragadozó,
 hang
 zene
 macskafül, zenevirág (pandorai növényfaj)
-beszélget, társalog
+beszélget, társalog 
 ígér
 jelvény
 kérdez
@@ -621,7 +621,7 @@ hozzátesz, hozzáad
 csapdába ejt
 (el)veszít
 visszatér
-kiröppen, kivágódik
+lő
 táboroz
 táborhely
 dolgozik
@@ -697,8 +697,8 @@ kevés, csekély
 mennyi?
 összeg, mennyiség
 mennyi?
-Mi? (Mit mondott?)
-milyen szó? hogy mondta?
+Mi? (Mit?)
+milyen szó? 
 összefutni, véletlenül találkozni
 találkozni (szándékosan) ( val, vel használatával)
 kíván, óhajt
@@ -935,7 +935,7 @@ zárt, borús (pl.: felhős ég)
 lerohan, támad
 az (mutatónévmás)
 mindazonáltal
-dühödt mordulás, 'vigyázz!'
+dühödt mordulás, 'vigyázz!' 
 fenyegető kiáltás
 felkiáltás erőlködés közben, uff! hórukk!
 figyelmeztetést vagy csalódottságot kifejező szó 'a francba!'
@@ -1048,7 +1048,7 @@ puffer növény (pandorai növényfaj)
 sáska
 minden éjjel
 másodperc, nagyon rövid idő
-után, utána
+után, utána, később
 fáradt
 alkotó
 lassan
@@ -1141,7 +1141,6 @@ például
 háromszor
 betűzés (helyesírás)
 világossá tesz
-kiegészítés, utóirat (P.S.)
 ital, innivaló
 térkép
 mint, ugyanúgy (mint) (hasonló cselekedet)
@@ -1364,7 +1363,7 @@ vágás, horzsolás, kisebb seb
 túlél
 túlélés
 túlélő (pl. olyan csoport tagjai, akik közül meghalt néhány)
-Úgy, mintha kockán forogna az élete
+Úgy, mintha kockán forogna az élete.
 jelentés, fontosság, jelentősség
 személyesen fontos, jelentős
 értelmesen, jelentősen
@@ -1452,7 +1451,7 @@ hasonlóan
 szégyenlős, félénk
 bosszant, zavar
 bosszúság
-tükörkép
+tükörkép 
 tükröz, utánoz
 suttog
 hangosan
@@ -1599,7 +1598,7 @@ lefektet (vmit) a földre
 felszín, felület
 fal, függőleges felület
 (meg)fog, kézben tart, markol
-szilárdan
+szilárdan 
 erősen, rendületlenül, állhatatosan
 gondosan, erősen
 szorosan, vasmarokkal
@@ -1744,7 +1743,7 @@ csalódás, meghiúsult elvárások miatti érzelmi csalódottság, kiábrándul
 kiábrándító
 kiábrándítóan, csalódást okozva
 összetört szív, sebzett szív
-rend (rendetlenség vagy káosz ellentéte), rendezettség
+rend (rendetlenség vagy káosz ellentéte), rendezettség 
 rendben van, rendezett
 rendbe rak, redszerez
 rendszer, eljárás, folyamat, módszer
@@ -1813,7 +1812,7 @@ rendbe hoz za magát(képletesen)
 sóvárog (valami után)
 sóvárgás
 élmény, tapasztalat
-remény (elvont)
+remény (elvont fogalom)
 hope (konkrét)
 haszontalan, hiábavaló
 szint, fok, perem, széle valaminek
@@ -1856,7 +1855,7 @@ ahol
 csomó
 csomóz
 csúszik, siklik
-dühösen mordul
+dühösen mordul 
 hajlik
 törik
 ki(felé), belülről
@@ -2005,7 +2004,7 @@ hasznos
 figyelmen kívül hagyás, semmibe vétel
 tér, hely, űr
 vulkán
-láva, magma
+ magma, láva
 kijön, előbukkan
 kavics (természetes erők által simára csiszolt apró kő)
 kavics (szétmorzsolt kő)
@@ -2087,7 +2086,7 @@ kenuevező
 régi (mip ellentéte)
 ősi, nagyon régi
 előny, haszon, nyereség
-előnyös, hasznos, nyereséges
+előnyös, hasznos, nyereséges 
 hátrányos
 kivétel
 kivételezik, kivételt tesz
@@ -2157,3 +2156,65 @@ turtapede (teknősszerű pandorai állat)
 duda, kürt
 koponya
 sikolllovagló napellenző / rostély (a szem fölött viselik)
+gyülekezőhely
+addition, post script
+szagol
+kóstol
+örökség
+biztonság
+átmegy
+árt
+szívni
+dohányzik (sz.sz.: füstöt szív)
+tapsol
+hangjáték
+helytelen, igazságtalan, rossz
+igazságtalanság
+tiltakozik
+tiltakozás (elvont fogalom)
+tiltakozás (konkrét)
+panaszkodik
+panaszkodás
+panasz
+kiáltás
+kedves
+sikeres
+kizár, távol tart
+hibásan, valótlanul
+keményen, szorgalmasan
+"kedvesem, kicsim"
+hullám (vízé)
+hullámszerű
+jó, jóság (elvont fogalom)
+fa, fából készült
+kő, kőből készült
+ügyetlen, kétbalkezes
+ügyetlenség
+bázis
+"slinger", lajhárszerű pandorai állat
+nagy, plezioszauruszszerű tengeri állat
+fúvós hangszer
+elbeszélő költemény, vers
+megijeszt, megfélemlít
+partvonal
+mondat
+kifejezés, szókapcsolat
+szótag
+toldalék
+prefixum
+melléknév
+határozószó
+adposition
+kötőszó
+seggfej (vulgáris)
+ciklus
+végtelen
+rajongó(ja vminek)
+megemlékezés napja
+rajongó(ja vminek) (társalgási nyelvben)
+évforduló
+évforduló (társalgási nyelvben)
+leszúr, ledöf
+átszúr, átdöf
+jel, jelzés
+főnévi kifejezés (főnevet tartalmazó kifejezés)

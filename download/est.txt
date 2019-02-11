@@ -24,7 +24,7 @@ mälestamine
 asi (ese, fakt, mõte)
 mis (asi)
 sõnum, teade
-see (,mis), kes
+see, kes/mis; osalause m
 valmis
 kaugel olema
 suur
@@ -117,7 +117,7 @@ tuul
 lahkuma, ära minema
 keelpill
 Mardus, Ikran (banshee)
-Metsmardus (forest banshee)
+metsmardus (forest banshee)
 loom, elukas
 aitäh, tänud
 (millegi, kellegi) kaudu, läbi
@@ -282,7 +282,7 @@ surmapanter (thanator)
 heli
 muusika
 Kassikõrv (cat ear)
-suhtlema, vestlema, suhtlust pidama
+suhtlema, vestlema, juttu ajama
 lubama (midagi kellelegi) (e)
 märk, rinnamärk
 küsima
@@ -935,7 +935,7 @@ kinnine, suletud; pilves (ilm)
 ründama
 see (sama nagu tsa'u
 siiski, sellest hoolimata
-vihane lõrisemine 'vaata ette!'
+vihane lõrisemine, 'vait!', 'vaata ette!'
 ähvardav hõige
 pingutuse väljendamiseks ('mmh', 'pff', 'uhh')
 hoiatuse või viha väljendus ('jama!', 'põrgusse!')
@@ -967,7 +967,7 @@ aeg enne keskööd
 kesköö
 aeg pärast keskööd
 aeg enne koitu
-olema äge, kift (släng)
+olema 
 Kaelkirjak
 see, mis
 seda, mis
@@ -1079,7 +1079,7 @@ jahtimine
 väike vestlus, pisike jutuajamine
 järgmine kord
 viimane/eelmine kord
-lahke, hell, hooliv
+lahke, heatahtlik, hell, hooliv (inimeste kohta)
 tugev (emotsionaalselt, vaimselt, mitte füüsiliselt), endas kindel
 või mitte
 mõni, mõned
@@ -1141,7 +1141,6 @@ huvitav olema
 kolm korda
 õigekiri (õigesti kirjutamise viis)
 selgitama, selgeks tegema
-P.S, lisaks veel
 jook
 kaart, plaan
 samalaadselt
@@ -1364,7 +1363,7 @@ valama, kallama
 ellu jääma, üle elama
 ellujäämine
 ellujäänud (nt. mingist grupist ellujäänud inimesed)
-ellujäävalt (midagi tegema)
+elu eest (midagi tegema)
 tähendus, tähtsus
 suur tähtsus, isiklikult tähtis
 tähenduslikult
@@ -1587,7 +1586,7 @@ piire omama, lõplik olema
 terav
 nüri
 energia (füüsiline või spirituaalne)
-bioluminestsents, organismide võime toota soojuseta valgust
+bioluminestsents
 öösel
 ilus (sisemine ilu)
 vertikaalne olema
@@ -1599,7 +1598,7 @@ maha asetama  (klltxay sihiline vorm)
 pind, kate
 sein, vertikaalne pind
 käes hoidma, haardes hoidma
-kindlalt (mitte laskma liikuda)
+kindlalt, stabiilselt ("mitte laskma liikuda")
 kindlalt, tugevalt (mitte lahti laskma)
 kindlalt, ettevaatlikult (mitte kukkuda laskma)
 kindlalt, raudselt (nagu lõksus)
@@ -1788,7 +1787,7 @@ voolava vee, vihma, niiskuse lõhn
 meeldivalt aromaatne (lillelõhn või mõnede vürtside lõhn)
 loomade lõhn, võib veekogu ümber leida.
 taju
-sport, füüsiline harjutus/mäng
+sport, võistlusmäng
 vasak pool
 parem pool
 kujundama, disainima
@@ -1813,7 +1812,7 @@ end taastama, taastuma (metafooriline)
 igatsema
 igatsus
 kogemus
-lootus (abstraktne idee)
+lootus (abstraktne)
 lootus (kindla juhtumi puhul)
 mõttetu, kasutu
 äär, tase, aste, tasand (saab kasutada metafooriliselt mõõdetavate asjade puhul: veetase, temperatuur, oskused, rõõmsameelsus, raskusastmed jne.)
@@ -2129,7 +2128,7 @@ isikule tähtis või armas koht
 hoiatama
 hoiatus
 suurendama
-õigesti (millegi tegemine), õige viis
+Õige viis, õige tee
 pahandus, koerustükk
 ulakas, üleannetu, riukalik olema
 ulakas, üleannetu, riukalik
@@ -2152,6 +2151,70 @@ kindlasti, ilmtingimata
 mitte ilmtingimata
 hoiatama
 hoiatus
+Jooksulind
+Kilplimus
 puhkpill, pasun
 pealuu
 Marduse ratsutaja prillid
+kogumiskoht
+lisa, post scriptum
+nuusutama
+maitsma
+pärand
+turvalisus
+ületama
+vigastama, kahjustama
+imema
+suitsetama (suitsu imema)
+plaksutama
+sõnamäng
+kohatu, ebaõiglane, ebaaus, vale
+ebaõiglus
+protesteerima, vastu seisma, meelt avaldama
+protesteerimine, meeleavaldus (abstraktne)
+protestiavaldus, meeleavaldus (konkreetne sündmus)
+kurtma, kaebama
+kurtmine, kaebamine
+kaebus
+üleskutse
+lahke, hooliv (mitte inimeste kohta)
+edukas (mitte inimeste kohta)
+välja jätma, eemal hoidma
+valesti, valetavalt
+vapralt, kindlameelselt
+kallike, armsake (rohkem pereliikmete vahel)
+laine (veekogul)
+lainemoodi, lainesarnane
+headus, hea (abstraktne)
+puidust, puit
+kivist, kivi
+koba, kohmakas
+kohmakus
+baas
+Kuulpea
+Plesiosauruselaadne mereelukas (Disney teemapark)
+puhkpill
+poeem, jutustav luuletus
+ehmatama, hirmutama
+kallas, rannik, veeäär
+lause
+fraas
+silp
+liide
+eesliide
+omadussõna
+määrsõna
+kaassõna
+sidesõna
+sitapea, persevest (ropp!)
+tsükkel
+lõputu, ajatu (ajalises mõistes)
+fänn, huviline
+mälestuspäev
+kõnekeelne väljend sõnale txanso'hayu (fänn, huviline)
+aastapäev
+kõnekeelne väljend sõnale zìsìtsaltrr (aastapäev)
+pussitama, noaga/odaga torkama
+läbistama, läbi torkama
+märk, signaal, tähistus
+nimisõnaühend
