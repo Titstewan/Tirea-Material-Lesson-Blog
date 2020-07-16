@@ -76,7 +76,7 @@ fo
 fpak
 fpe'
 fpeio
-fpi
+fpi+
 fpìl
 fpom
 fpxafaw
@@ -120,7 +120,7 @@ ikran
 ikranay
 ioang
 irayo
-ìlä
+ìlä+
 ka
 kä
 kali'weya
@@ -210,7 +210,7 @@ meyp
 mi
 mip
 mikyun
-mì
+mì+
 mìn
 mìso
 mllte
@@ -288,7 +288,7 @@ pätsì
 pawm
 pay
 paywll
-pe
+--pe+
 pe'un
 pefya
 pehem
@@ -411,7 +411,7 @@ taweyka
 tawsìp
 tawng
 tawtsngal
-Tawtute
+tawtute
 te
 tel
 telem
@@ -572,6 +572,7 @@ zìsìt
 zong
 zongtseng
 zoplo
+zoplo si
 zusawkrr
 Jakesully
 'ärìp
@@ -664,9 +665,9 @@ takip
 uo
 luke
 tafkip
-ro
-sre
-wä
+ro+
+sre+
+wä+
 fäpa
 alìm
 aylaru
@@ -889,7 +890,7 @@ pxiswawam
 pxiset
 pxiswaway
 pxiye'rìn
-pxisre
+pxisre+
 pximaw
 sok
 'awlie
@@ -1033,7 +1034,6 @@ fkxakewll
 tìhawnuwll
 pxorna'lor
 pxayzekwä
-mìnyu
 mìnyu
 väfewll
 sngukx
@@ -1271,7 +1271,7 @@ säwäte
 lewäte
 nìwäte
 li
-lisre
+lisre+
 ronsrelngop
 ronsrel
 tìronsrel
@@ -1480,7 +1480,7 @@ txantompa
 meyam
 sämyam
 fìtsap
-nuä
+nuä+
 kanfpìl
 fmokx
 nìfmokx
@@ -1615,7 +1615,7 @@ ngep
 tawsyuratan
 syeha
 syeha si
-sko
+sko+
 sna'o
 snatxärem
 snafpìlfya
@@ -1884,7 +1884,6 @@ paynäpll
 pamrelsiyu
 rel arusikx
 lì'upuk
-lì'upuk
 nìkemweypey
 kelemweypey
 'on
@@ -2090,6 +2089,7 @@ tsankumnga'
 fekumnga'
 tìmungwrr
 tìmungwrr si
+tarpongu
 nawfwe
 fekum
 plltxeyu
@@ -2302,3 +2302,272 @@ nìfrir
 leyr
 leyr si
 lesar si
+leftxozä
+Kelnì
+Poston
+Nìyu Yorkì
+fpxamo
+tìfpxamo
+nìfpxamo
+tsyul
+tìtsyul
+nawang
+lamaytxa
+oare
+vospxì'aw
+vospxìmun
+vospxey
+vospxìtsìng
+vospxìmrr
+vospxìpuk
+vospxìkin
+vospxìvol
+vospxìvolaw
+vospxìvomun
+vospxìvopey
+vospxìvosìng
+zìskrrsom
+zìskrrwew
+paw
+tìpaw
+zìskrrmipaw
+tsawn
+zìskrrtsawn
+'asap
+'asap si
+fe'pey
+ketrìp
+txansngum
+txansngum si
+tskawr
+txavä'
+nìflä
+txantsawl
+txasunu
+zeykoyu
+tìranpam
+ftuopa
+fyeng
+kavan
+lepxìmrun
+kelpxìmrun
+zung
+fpivìl
+kom
+mam
+yomvey
+yomzeswa
+txap
+tìtxap
+semkä
+emkäfya
+fil
+sunkesun
+maitan
+maite
+loho
+tìloho
+nìloho
+Tsawkenay
+Tawsnrrtsyìp
+Snrrtsyìp
+kuru
+nìtxukx
+raw
+kantseng
+la'a
+pela'a
+la'ape
+pelìmsim
+lìmsimpe
+keynven
+ralke
+tìfkeytongay
+lefkeytongay
+säsrese'a
+fyìpmaut
+fyìp
+koaktutral
+lanutral
+lan
+paysyul
+rumaut
+tsawksyul
+tumpasuk
+fyuatx
+lortsyal
+nalutsa
+skuka
+srakat
+tsiki
+teylupil
+kalweyaveng
+txanfwìngtu
+kurkung
+kung
+stä'nìpam
+stä'nìpam si
+pxoe
+lìktap
+ventil
+hupx
+tsawtsray
+txantsawtsray
+Akwey
+Amhul
+Anurai
+Aonung
+Ateyitan
+Ateyo
+ayRam aLusìng
+ayVitrayä Ramunong
+Änsìt
+Entu
+Eytukan
+Eywa
+Eywa'eveng
+Iknimaya
+Ìstaw
+Kamun
+Kekunan
+Kelutral
+Li'ona
+Lo'ak
+Lo'akur
+Metkayina
+Mo'ara
+Mo'at
+Mo'at'ite
+Naranawm
+Nawmtoruktek
+Neteyam
+Newey
+Neytiri
+Ninat
+Omatikaya
+Otranyu
+Peyral
+Pongu Pongu
+Ralu
+Rini
+Ronal
+Rongloa
+Rotxo
+Satu'li
+Seze
+Silwanin
+Sorewn
+Swotulu
+Swotu Wayä
+Tawkami
+Tipani
+Tonowari
+Tsahìk
+Tsenu
+Tsireya
+Tskaha
+Tsu'tey
+Tsumongwi
+Tuke
+Tuktirey
+Txärpawk
+Txewì
+Txilte
+Uniltaron
+Utral Aymokriyä
+Va'ru
+Vitrautral
+pemsu
+mesupe
+pepsu
+pxesupe
+paysu
+aysupe
+pestan
+tutampe
+pemstan
+mestampe
+pepstan
+pxestampe
+paystan
+aystampe
+peste
+tutepe
+pemste
+mestepe
+pepste
+pxestepe
+payste
+aystepe
+yokx
+smaw
+tìsmaw
+natxu
+tìnatxu
+la'um
+tìla'um
+tsaktap
+letsaktap
+tsaktap si
+mungwrrtxo
+tìvirä
+wrrkä
+txung
+palang
+tìpalang
+tstunkem
+tstunkem si
+tstunkemtsyìp
+säfrìp
+tsawng
+pon
+mei
+meitayo
+lipx
+fäpyo
+sälipx
+kxutslu
+lekxutslu
+fura
+tsìpxì
+mrrpxì
+pupxì
+kipxì
+vopxì
+sänume si
+vun
+lew säpi
+piak säpi
+tstu säpi
+ioi säpi
+tsawlapx
+yìmkxa
+äzan
+äzan si
+äzanluke
+äzantu
+nìsok
+kemuia
+kemuia si
+tìfnawe'
+kemuianga'
+tìkankxan
+tìkankxanga'
+lekxan
+ftanglen
+tìftanglen
+pxawtxap
+plltxepam
+koren ayll
+leykek
+horenleykekyu
+leykekyu
+zevakx
+tìzevakx
+tìzevakxnga'
+nìzevakx
+fmong
+tìfmong
+fmongyu
+le'Ìnglìsì
+'ak

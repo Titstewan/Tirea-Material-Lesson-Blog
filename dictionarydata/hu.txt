@@ -351,7 +351,7 @@ csinos
 ajak
 "kék virág" (Neytiri ikranjának a neve) (pandorai növényfaj)
 ntesz, csinál, összetett igékben szerepel
-és (connects two things, can be attached as --sÃ¬: for clauses use)
+és (connects two things, can be attached as --sì: for clauses use)
 idézet, függő beszéd bezárása idézet vége
 remél (tsnì majd a remélt dolog, hacsak nem különálló mondat) (ii)
 elmés, ötletes
@@ -572,6 +572,7 @@ kell
 (meg)ment, véd
 menedék
 támadás
+támad, sért
 jövő
 idióta, Toruk Makto
 mozgat, (meg)mozdít
@@ -1034,7 +1035,6 @@ spártai, menedéknövény (pandorai növényfaj)
 szári, gyönyörű robbanó mag növény (pandorai növényfaj)
 tüskés korbács (pandorai növényfaj)
 csavart liliom (pandorai növényfaj)
-turner
 százlábú, rossz szagú növény (pandorai növényfaj)
 féregnövény (pandorai növényfaj)
 hólyag polip (pandorai állatfaj)
@@ -1272,7 +1272,7 @@ kötekedő, okoskodó (személy)
 kötekedve, húzódozva
 már
 mire, amíg, addigra
-elképzel, felidéz  (eredete: ronsem elme, rel kép, ngop alkot, köznapi kiejtése [Ron.sREw.Nop] )
+elképzel, felidéz  (eredete: ronsem elme, rel kép, ngop alkot, köznapi kiejtése [ˈɾon.sɾɛw.ŋ·op̚] )
 elképzelt dolog
 képzelet
 fényes, élénk
@@ -1312,7 +1312,7 @@ egy hét
 ötnapos munkahét
 hétvége
 a múlt (előző) hét
-a jövö (következő) hét
+a jövő (következő) hét
 múlt hétvége
 jövő hétvége
 hónap
@@ -1424,7 +1424,7 @@ ebben a tekintetben, ezzel kapcsolatban
 újonc, valaki aki most lépett színre
 apropó, mellesleg, jut eszembe
 régóta
-eszébe jut, ``beugrik"
+eszébe jut, "beugrik"
 tudás
 olvasás
 olvasva
@@ -1495,7 +1495,7 @@ gonosz, rossuindulatú
 vastag
 vékony
 vastagság
-saját(ja) egyes szám első személy
+saját(ja) egyes szám első személyben
 csapda
 győztes
 vesztes
@@ -1566,7 +1566,7 @@ csökkent
 kevésbé
 növekvő mértékben, egyre inkább
 csökkenő mértékben, egyre kevésbé
-üres; vagy átvitt értelemben: ``értéktelen"
+üres; vagy átvitt értelemben: "értéktelen"
 tisztelet
 tisztel
 bemutató, kiállítás
@@ -1718,7 +1718,7 @@ segéd, segítő
 hasznos tipp
 telefon
 fényképezőgép, kamera
-részegítő ital, vagy ``szesz''
+részegítő ital, vagy "szesz"
 részegnek lenni, vagy berúgni
 betű (fonetikus jel)
 abc
@@ -1883,7 +1883,6 @@ csokoládé
 ananász
 író
 film, videó
-szótár
 szótár
 türelmetlenül
 türelmetlen
@@ -2090,6 +2089,7 @@ előnyös, hasznos, nyereséges
 hátrányos
 kivétel
 kivételezik, kivételt tesz
+vadász csapat
 folyékony (beszédre!)
 hátrány
 beszélő
@@ -2192,7 +2192,7 @@ kő, kőből készült
 ügyetlenség
 bázis
 "slinger", lajhárszerű pandorai állat
-111nagy, plezioszauruszszerű tengeri állat
+nagy, plezioszauruszszerű tengeri állat
 fúvós hangszer
 elbeszélő költemény, vers
 megijeszt, megfélemlít
@@ -2234,7 +2234,7 @@ bölcsesség
 bölcs
 bölcs
 stressz (érzelmi feszültség)
-stresszes (feszültségteli)
+stresszes (feszültséggel teli)
 bánat
 bánkódik
 letesz
@@ -2290,3 +2290,212 @@ ceruza, szó szerint: írópálca fából
 ceruza
 (ki)színez
 toldalék, utótag
+formál, alakot ad
+ásít
+ásítás
+túl teszi magát valamin
+akarattal, önként
+horizont
+réteg
+réteges
+rétegesen
+fagyott
+fagyaszt
+hasznosnak lenni
+ünnepélyes
+Köln
+Boston
+New York
+szörnyű, rettenetes, borzalmas
+szörnyűség, borzalom
+szörnyen, rettenetesen, borzalmasan
+elkezd
+kezdet
+egyesül
+árvíz
+hold
+január
+február
+március
+április
+május
+június
+július
+augusztus
+szeptember
+október
+november
+december
+nyár
+tél
+grow; germinate and develop (of a plant)
+növés, növekedés
+tavasz
+arat, összeszed
+ősz (évszak)
+megdöbbenés
+megdöbbenni
+félni vmitől (tsnì)
+szerencsétlen, kedvezőtlen
+kétségbeesés, aggodalom
+kétségbeesik
+sántít
+gusztustalan
+sikeresen
+óriási, hatalmas
+nagyon szeret
+gyógyító
+lépés (hangja)
+hátulról, mögül
+meredek
+támogat (fizikailag)
+gyakori, közönséges
+ritka
+guggol, lekuporodik
+hm, lássuk csak, nézzük csak
+mer(észel)
+burkol
+húsevőnek / ragadozónal lenni
+növényevőnek lenni
+nyomni, (fizikai) nyomást gyakorolni
+nyomás (fizikai)
+híd
+gázló, átkelő
+gyerekjáték
+tetszik vagy sem
+fiam (megszólítás)
+lányom (megszólítás)
+meglepőnek lenni
+meglepetés
+meglepően
+Alpha Centauri B
+Alpha Centauri C avagy Proxima Centauri
+Alpha Centauri C avagy Proxima Centauri (bizalmas stílusban)
+idegköteg a "copfban"
+mélyen
+lefelé
+célállomás, rendeltetési hely
+két hely vagy tárgy közötti távolság
+milyen közel, milyen távol
+milyen közel, milyen távol
+milyen közel, milyen távol
+milyen közel, milyen távol
+lépni
+értelmetlen
+valóság
+valós
+jóslat
+egy gyümölcsfafajta
+csáp
+egy növényfajta
+egy fafajta
+gyanta
+vízililom
+ágyúgolyó gyümölcsfa
+egy lilomfajta
+egy fafajta
+egy gerinctelen vízi állatfaj 
+lepkeszerű rovarfajta
+bálnaszerű tengeri állatfaj
+nyílfű
+piranjaszerű halféle
+vízben élő rovarféle
+lárvaarcú (vulgáris)
+kurafi (vulgáris)
+fattyú (vulgáris)
+seggfej (vulgáris)
+rothadt, büdös, romlott
+felvétel, felvevés
+felvesz, rögzít (hangot)
+ mi hárman (kizáró)
+görbe
+boka
+elhibáz, nem talál el
+kis vagy közepes város
+nagy város, metropolisz
+Na'vi férfi
+Na'vi nő
+Na'vi klán
+Na'vi férfi a Metkayina klánból
+Ateyo fia
+Na'vi férfi
+the Floating Mountains
+Well of Souls
+Na'vi férfi
+Na'vi férfi
+az Omatikaya klán férfi vezetőjének neve
+világisten, Gaia
+Pandora
+lépcső a mennybe, a fiatal Na'vik rituális útja
+Na'vi férfi
+Na'vi férfi
+Na'vi klán
+Othonfa
+Na'vi klán
+Jake és Neytiri másodszülött fia
+Toruk Makto Amulett
+Zátonylakó Klán
+Pandorai völgy neve (Megjegyzés: Disney Pandora neve is)
+az Omatikaya klán női vezetőjének neve
+Mo'at lánya
+Polyphemus
+Toruk Makto Totem
+Jake és Neytiri első szülött fia
+Na'vi nő
+Omatikaya női név
+Omatikaya női énekes neve
+Kék Síp Klán
+Na'vi férfi
+Omatikaya női név
+party party ( bár neve Disney Pandora))
+Na'vi férfi
+Na'vi nő
+Na'vi női név a  Metkayina klánban
+Na'vi klán neve
+Na'vi férfi a Metkayina klánban
+étkezde neve a Mo'ara -ban
+Neytiri sikollja
+Neytiri nővére
+Na'vi nő
+szent folyó
+szent énekhely
+Na'vi klán neve
+Na'vi klán neve
+Na'vi férfi a  Metkayina klánban
+női szellemi vezető, sámánnő
+Na'vi nő
+női név a  Metkayina klánban
+Na'vi klán neve
+férfi név az Omatikaya klánban
+az Omatikaya eredeti neve
+Na'vi női név 
+Jake és Neytiri lánya
+Palulukan Csont Kürt
+Na'vi férfi
+Na'vi nő
+Álomvadászat (szertartás neve)
+Hangok Fája
+Na'vi férfi
+Lelkek Fája
+melyik két ember
+melyik két ember
+melyik három ember
+melyik három ember
+mely emberek
+mely emberek
+melyik férfi
+melyik férfi
+melyik két férfi
+melyik két férfi
+melyik három férfi
+melyik három férfi
+mely férfiak
+mely férfiak
+melyik nő
+melyik nő
+melyik két nő
+melyik két nő
+melyik három nő
+melyik három nő
+mely nők
+mely nők

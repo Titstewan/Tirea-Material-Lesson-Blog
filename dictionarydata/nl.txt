@@ -351,7 +351,7 @@ mooi
 lip
 blauwe bloem
 (postpositioneel ongebonden hulpwerkwoord) doen, maken 
-en (connects two things, can be attached as --sÃ¬: for clauses use)
+en (connects two things, can be attached as --sì: for clauses use)
 einde citaat
 hopen
 slim, verstandig (ding)
@@ -572,6 +572,7 @@ jaar
 redden, verdedigen
 veilige plek, schuilplaats
 belediging
+beledigen
 toekomst
 idioot, zesde Toruk Makto
 (iets) verplaatsen
@@ -1034,7 +1035,6 @@ spartaan, beschermingsplant
 sari, mooi ontploffende zaadplant
 prikkende zwepen
 draaier, gedraaide lelie
-draaier
 centipede, stinkende plant
 engerling plant
 blaaspoliep
@@ -1209,7 +1209,7 @@ activiteit die je bezig houdt
 eerste, primaire
 bezigheid, primaire rol in de gemeenschap
 kok
-letten op, verantwoordelijk zijn voor
+letten op, zorgen voor, verantwoordelijk zijn voor
 groeten, hallo zeggen
 reiziger
 dat
@@ -1272,7 +1272,7 @@ onverkwikkelijk, onprettig
 onverkwikkelijk, onprettig
 al, reeds
 tot, voor, tot aan maar niet na
-verbeelden, zich voorstellen (c.w. van ronsem geest, rel afbeelding, ngop maken, spreektaal [Ron.sREw.Nop] )
+verbeelden, zich voorstellen (c.w. van ronsem geest, rel afbeelding, ngop maken, spreektaal [ˈɾon.sɾɛw.ŋ·op̚] )
 iets verbeeld
 verbeelding
 helder, levendig
@@ -1884,7 +1884,6 @@ ananas
 schrijver
 film, video
 woordenboek
-woordenboek
 ongeduldig
 ongeduldig
 vorm
@@ -2090,6 +2089,7 @@ voordelig
 nadelig
 uitzondering
 een uitzondering maken
+jachtgroep
 vloeiend (in een taal)
 nadeel, bezwaar, keerzijde
 spreker
@@ -2290,3 +2290,284 @@ potlood, lett. "houten schrijfstok"
 potlood
 kleuren, inkleuren
 suffix
+vormen, (iets) vormgeven
+gapen
+geeuw
+ergens overheen komen, een feit accepteren, zich ergens bij neerleggen, verder gaan
+vrijwillig, met genoegen, gewillig
+horizon, skyline
+laag
+gelaagd
+in lagen
+bevroren
+(iets) bevriezen
+nuttig zijn, van dienst zijn, van pas komen
+feestelijk
+Keulen
+Boston
+New York
+vreselijk, verschrikkelijk
+vrees, schrik, horror
+vreselijk, verschrikkelijk
+beginnen, starten
+begin, start
+samenkomen, een worden met
+overstroming
+maan
+januari
+februari
+maart
+april
+mei
+juni
+juli
+augustus
+september
+oktober
+november
+december
+zomer
+winter
+groeien; ontkiemen en ontwikkelen (van een plant)
+groei
+lente
+eten uit het bos verzamelen; plukken; oogsten
+herfst
+plotselinge schok
+schrikken, geschokt zijn
+vrezen, bang zijn voor, iets slechts voorspellen (met tsnì voor wat gevreesd wordt) (ii) 
+onheilspellend, ongelukkig
+wanhoop, grote zorgen
+wanhopen
+hinken
+walgelijk, vies
+succesvol
+enorm, gigantisch
+erg houden van
+genezer
+voetstap (geluid)
+van achter
+steil
+ondersteunen (fysiek)
+veelvoorkomend, niet zeldzaam
+zeldzaam
+hurken
+hmm, eens kijken, laat me nadenken
+durven
+eromheen doen
+vlees eten, carnivoor zijn (ii)
+grazen (ii)
+duwen, druk uitoefenen op
+druk (fysiek)
+brug
+doorwaadbare plaats, oversteekplaats in een rivier
+speelgoed
+of je het nou leuk vindt of niet
+mijn zoon (aanspreekvorm)
+mijn dochter (aanspreekvorm)
+verrassend zijn (datief voor degene die verrast is)
+verrassing
+verrassend
+Alpha Centauri B
+Alpha Centauri C (Proxima Centauri)
+Alpha Centauri C (Proxima Centauri) (spreektaal)
+zenuwstaart, zenuwvlecht
+diep
+naar (naar beneden)
+bestemming
+afstand
+hoe ver weg
+hoe ver weg
+hoe ver weg
+hoe ver weg
+stappen
+betekenisloos, zonder inhoud
+realiteit, werkelijkheid
+werkelijk, echt
+verwachting
+inktvisvrucht boom
+tentakel, rank
+kobold distel
+tijgertand boom
+hars
+waterlelie
+kogelvrucht boom
+zonnelelie
+celiavrucht boom
+anemonoïde
+flitsvlieg
+groot gepantserd walvisachtig zeewezen
+sagittaria
+dinicthoïde
+rifteek
+teylu-gezicht (belediging)
+hoerenzoon (belediging) let.: 'zoon van een gifspin'
+bastaard loser (belediging) let.: 'iemand met veel vernedering'
+rotzak (belediging) let.: 'rottende vlecht'
+smerig, stinkend, rottend
+opname (van geluid)
+opnemen (van geluid)
+wij, wij drie (exclusief)
+krom, scheef
+enkel
+missen, een doel niet raken
+stad van kleine of gemiddelde grootte
+grote stad, metropolis
+mannelijke Na'vi
+vrouwelijke Na'vi
+naam van een Na'vi stam
+man van de Metkayina Stam
+zoon van Ateyo
+mannelijke Na'vi
+de Zwevende Bergen
+Zielenput
+mannelijke Na'vi
+mannelijke Na'vi
+mannelijke leider van de Omatikaya
+wereldgeest, moeder natuur, Gaia
+Pandora
+Trap naar de Hemel (overgangsritueel voor jonge Na'vi)
+mannelijke Na'vi
+mannelijke Na'vi
+naam van een Na'vi stam
+Huisboom
+naam van een Na'vi stam
+tweede zoon van Jake en Neytiri
+Toruk Makto Amulet
+Rif-volk Stam
+een vallei op Pandora (Ook de naam van Disney's Pandora)
+tsahìk van de Omatikaya
+dochter van Mo'at
+Polyphemus
+Toruk Makto Totem
+eerste zoon van Jake en Neytiri
+vrouwelijke Na'vi
+vrouw van de Omatikaya Stam
+zangeres van de Omatikaya Stam
+stam van de Blauwe Fluit (Noot: vaak foutief gespeld als Omaticaya, vanwege het ASG)
+mannelijke Na'vi
+vrouw van de Omatikaya Stam
+goep groep (onregelmatig gebruik)
+mannelijke Na'vi
+vrouwelijke Na'vi
+vrouw van de Metkayina Stam
+naam van een Na'vi stam
+man van de Metkayina Stam
+kantine in de Mo'ara Vallei (Uit Disney's Pandora - The World of Avatar)
+Neytiri's ikran
+Neytiri's zus
+vrouwelijke Na'vi
+heilige rivier
+heilige plaats van zang (Uit Disney's Pandora - The World of Avatar)
+naam van een Na'vi stam
+naam van een Na'vi stam
+man van de Metkayina Stam
+moeder van de stam, hogepriesteres, shamaan
+vrouwelijke Na'vi
+vrouw van de Metkayina Stam
+naam van een Na'vi stam
+man van de Omatikaya Stam
+oorspronkelijke naam voor de Omatikaya
+vrouwelijke Na'vi
+dochter van Jake en Neytiri
+Palulukan Bot Hoorn
+mannelijke Na'vi
+vrouwelijke Na'vi
+Droomjacht
+Stemmenboom
+mannelijke Na'vi
+Zielenboom
+welke twee personen
+welke twee personen
+welke drie personen
+welke drie personen
+welke personen
+welke personen
+welke man
+welke man
+welke twee mannen
+welke twee mannen
+welke drie mannen
+welke drie mannen
+welke mannen
+welke mannen
+welke vrouw
+welke vrouw
+welke twee vrouwen
+welke twee vrouwen
+welke drie vrouwen
+welke drie vrouwen
+welke vrouwen
+welke vrouwen
+schild
+goedkeuren
+goedkeuring
+afkeuren
+afkeuring
+doen alsof, voorwenden (gebruikt met tsnì)
+voorwendsel, smoes
+geweld
+gewelddadig
+geweld gebruiken, gewelddadig zijn
+behalve als (meestal gebruikt met <iv>)
+verspreiding
+naar buiten gaan
+storen, lastig vallen, negatief beïnvloeden
+communiceren met, socializen
+(sociaal) contact
+gunst, goede daad (meestal uitgesproken als tstungkem)
+een goede daad doen, (iemand) een plezier doen
+kleine gunst
+beet
+verbrijzelen, in stukken breken
+balanceren
+nat
+moeras, nat gebied
+druppelen
+dak
+druppel (van een vloeistof)
+risico
+riskant
+dat
+een vierde
+een vijfde
+een zesde
+een zevende
+een achtste
+les geven, onderwijzen, instrueren
+zorgen voor, (iemand van iets) voorzien
+zich bedekken
+zich openen, uit zichzelf opengaan
+zich sluiten, uit zichzelf dichtgaan
+zich uitdossen
+unideltaboom, let. hoge grote wortel
+ikranvanger, mondbinder
+dwang
+dwingen
+vrijwillig, zonder dwang
+bazig persoon, iemand die authoritair of dictatoriaal is
+recentelijk
+schande
+onteren, tot schande brengen
+lafheid
+oneervol
+belemmering (van iemands doelen), bron van frustratie
+frustrerend
+geblokkeerd, gefrustreerd
+voorkomen, vermijden
+preventie, voorkoming
+knijpen
+klank, foneem
+wet, gedragsregel
+handhaven
+wetshandhaver, politieagent
+wetshandhaver, politieagent (informeel, afkorting van horenleykekyu)
+wreed (ofp)
+wreedheid
+wreed (nfp)
+wreed, op een wrede manier
+stelen
+diefstal
+dief
+Engels, van de Engelse taal
+au

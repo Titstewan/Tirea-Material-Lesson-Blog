@@ -351,7 +351,7 @@ schön, hübsch (vorrangig für weibliche Personen)
 Lippe
 blaue Blume
 (Hilfsverb, nachgestelltes nichtgebundenes Verb) tun, machen
-und (connects two things, can be attached as --sÃ¬: for clauses use)
+und (connects two things, can be attached as --sì: for clauses use)
 Zitat Ende (siehe auch san)
 hoffen (mit tsnì für die erhoffte Sache, außer im unabhängigen Satz) (ii)
 schlau, intelligent (Sache)
@@ -572,6 +572,7 @@ Jahr
 retten, verteidigen, sichern
 Schutzort, Zuflucht, sicherer Ort, Sicherheit
 Beleidigung, Vergehen
+beleidigen, kränken
 Zukunft, in der Zukunft
 Trottel, Toruk Maktoyu
 bewegen, verschieben (etwas)
@@ -1034,7 +1035,6 @@ Spartaner, Beschützerpflanze Kuchenium Polyphyllum
 Sari, Schöne explodierende Samen Pflanze, Pandargonium cyanellum
 Dornige Peitschenpflanze; Phytotinium Poydactylum
 Falsche Lilie, Pseudolilium Contortum
-Dreher, Drechsler
 Grüne Tausendfüßerpflanze, Stinkpflanze, Scolopendra virens
 Raupenpflanze, Limacina erecta
 Blasenpolyp, polypiferus brevisimus
@@ -1272,7 +1272,7 @@ umstritten
 in unangenehmer Weise
 schon, bereits
 bis (spätestens)
-sich etwas vorstellen, ausmalen, imaginieren (komp. aus ronsem Geist, rel Bild, ngop erschaffen, Umgangssprache [Ron.sREw.Nop] )
+sich etwas vorstellen, ausmalen, imaginieren (komp. aus ronsem Geist, rel Bild, ngop erschaffen, Umgangssprache [ˈɾon.sɾɛw.ŋ·op̚] )
 Vorgestelltes, Ausgemaltes, Imaginiertes
 Vorstellungskraft
 strahlend, lebhaft, anschaulich, lebendig
@@ -1718,7 +1718,7 @@ Helfer, Gehilfe, Assistent
 hilfreicher Hinweis, Tipp
 Telefon
 Kamera
-berauschendes Getränk, ``Spirituosen''
+berauschendes Getränk, "Spirituosen"
 betrunken sein, sich betrinken
 Buchstabe (phonetisches Symbol)
 Alphabet
@@ -1727,7 +1727,7 @@ Allergen
 behandeln als, behandeln wie, eine Einstellung zu etwas zeigen
 (zusammen) passen, übereinstimmen, ergänzen, grundsätzlich verbessern
 Merkmal, Eigenschaft, Eigenart, Besonderheit, Kennzeichen, Attribut, Charakterzug, Aspekt, Facette
-wesentliche Charakteristik, innewohnende Charakteristik, Essenz, Konstitution; für Personen ``Persönlichkeit, Individualität"
+wesentliche Charakteristik, innewohnende Charakteristik, Essenz, Konstitution; für Personen "Persönlichkeit, Individualität"
 außergewöhnlich, grandios, unvergleichlich, ehrfurchtgebietend, jenseits von Perfektion
 Eleganz, Grazie, Anmut, Liebreiz
 fehlerhafte Charakteristik, etwas schlecht Durchdachtes, etwas grundsätzlich Fehlerhaftes
@@ -1748,7 +1748,7 @@ ordentlich sein, organisiert sein, aufgeräumt sein
 ordnen, ordentlich machen, aufräumen, in Ordnung bringen
 Methode, Herangehensweise, System, Prozedere, Prozess
 chaotisch, unordentlich, durcheinander, unaufgeräumt
-organisiert, ``alles im Griff haben", ``den Überblick behalten"
+organisiert, "alles im Griff haben", "den Überblick behalten"
 in leiser Weise, in stiller Weise
 Jagd (konrektes Ereignis)
 konkurrieren, sich messen, wetteifern, wettstreiten
@@ -1883,7 +1883,6 @@ Schokolade
 Ananas
 Schreiber, Autor
 Film, Video, Spielfilm
-Wörterbuch
 Wörterbuch
 in ungeduldiger Weise
 ungeduldig
@@ -2090,6 +2089,7 @@ vorteilhaft, von Vorteil
 unvorteilhaft, ungünstig, nicht von Vorteil
 Ausnahme
 eine Ausnahme machen
+Jagdgesellschaft
 fließend (für das Sprechen)
 Nachteil, Hindernis, Kehrseite, Schattenseite
 Sprecher, Sprecherin
@@ -2219,3 +2219,342 @@ durchstechen, durchbohren, pierchen
 Zeichen, Hinweis, Signal
 Nominalphrase (ein Teilsatz, dessen ausschlaggebendes oder zentrales Wort ein Substantiv ist)
 hi, hey (ungezwungene Begrüßung)
+beten
+Gebet (allgemein, abstrakt)
+Gebet (konkret)
+Segen
+segnen, Segen geben
+Wunder
+wunderbar, übernatürlich
+Liebes (Kosename, Kosewort für Kinder), wörtl. kleines Wunder
+ungewöhnlich
+außergewöhnlich
+in außergewöhnlicher Weise, außergewöhnlicherweise
+Weisheit
+weise
+weise
+Stress, Überlastung, Belastung, Beanspruchung (mentales oder emotionales Gefühl)
+anstrengend, stressig, aufreibend
+Trauer, Kummer, Gram, Schmerz
+trauern, sich grämen, betrübt sein, Kummer bereiten
+herunternehmen, ablegen, absetzen, weglegen
+brennen (Feuer)
+Brennholz, Brennstoff, Brennmaterial
+(Feuere) auslöschen, (Feuer) löschen
+rot (blutrot)
+orange (feuerrot)
+Stock (eines Baumes, Astes)
+Bundstift, kurz: pinvul
+Bundstift, kurz von: 'opinvultsyìp
+mehr oder weniger, etwas, ja und nein, ein bisschen, gewissermaßen
+Geburt
+zittern, schaudern, erschaudern, frösteln
+zitternd, schaudernd, fröstelnd, in zitternder Weise, in schaudernder Weise, in fröstelnder Weise
+frei, nicht blockiert, ungehindert, unversperrt
+Mann, Männchen (Geschlechtsunterscheidung)
+Frau, Weibchen (Geschlechtsunterscheidung)
+männlich
+weiblich
+Demütigung, Erniedrigung, Beschämung, Blamage, Peinlichkeit, Gesichtsverlust
+demütigen, beschämen, erniedrigen, Schmach zufügen
+Führer, Anführer, jemand, der die Führung übernimmt
+(etwas) verlieren
+Verlust
+kontrollieren, steuern, Kontrolle haben, Kontrolle ausüben
+Kontrolle, Einfluss
+Selbstkontrolle
+hinbringen, wegbringen, wegnehmen
+unbekannt, ungewusst
+allein, einsam
+erleben, erfahren, ein Erlebnis machen
+Nahrung, Ernährung, Versorgung
+ernähren, nähren, Nahrung bereitstellen
+ehren, Ehre erweisen
+Schwächling, Hänfling, Weichling (eine Person von schwacher Statur oder Charakter)
+trauernd, in trauernder Weise
+in endloser Weise, in unendlicher Weise, für immer
+verfolgen mit dem Vorhaben zu fangen
+Pause, kleine Erholung, kleine Entspannung
+als es scheint, als dir bewusst ist
+Macht, Stärke (physisch, psychologisch, emotional oder politisch)
+mächtig
+mächtig
+Strömung, Lauf (eines Flusses)
+fließen, strömen
+Herzschlag
+Kraftmensch, starke Person (Person von starker Statur oder Charakter)
+Weisheit (selten genutzt), siehe: hafyon
+Stift, Bleistift, oft gekürzt zu: relvul
+Stift, Bleistift, kurze Form von: pamrelvul
+Holzstift
+Bleistift
+kolorieren, ausmalen, farbig machen, anmalen
+Präfix, Nachsilbe
+formen, (etwas) Form geben (physisch oder metaphorisch)
+gähnen
+Gähnen
+etwas überwinden, seinen Umstand akzeptieren, sich mit etwas abfinden, weitermachen
+freiwillig, aus freien Stücken, bereitwillig
+Horizont
+Schicht
+geschichtet, stufig, schichtig
+in Schichten
+gefroren
+einfrieren
+nützlich sein, von Nutzen sein, sich als nützlich erweisen
+feierlich
+Köln
+Boston
+New York
+entsetzlich, grausam, schrecklich, furchtbar, fürchterlich
+Entsetzen, Schrecken, Grauen, Horror
+auf entsetzliche Weise, auf grauenhafte Weise
+(etwas) anfangen, (etwas) beginnen
+Anfang (zeitlich oder örtlich neutral)
+verschmelzen, mischen, sich verbinden, (mit etwas) eins werden
+Flut, mächtige Ansammlung von Wasser
+Mond
+Januar
+Februar
+März
+April
+Mai
+Juni
+Juli
+August
+September
+Oktober
+November
+Dezember
+Sommer
+Winter
+wachsen, keimen und entwickeln (einer Pflanze)
+Wachstum
+Frühling
+sammeln von Essen aus dem Wald, pflücken, (in der Landwirtschaft) ernten
+Herbst
+plötzlicher Schock, unerwarteter Schock
+schockiert sein, erschrocken sein
+befürchten, erwarten, dass etwas Schlimmes passiert
+ungünstig, unvorteilhaft
+Verzweiflung, Gefühl von großer Sorge
+verzweifelt sein
+humpeln
+widerlich, widerwärtig, abstoßend
+erfolgreich, in erfolgreicher Weise
+gigantisch, riesig
+sehr mögen, enorm genießen
+Heiler
+Schritt (Geräusch)
+von hinten, hintenherum
+steil
+(jemanden/etwas) stützen
+häufig, häufig anzutreffen
+selten, selten anzutreffen
+hocken, kauern, sich ducken
+hmmm ..., lass mich nachdenken
+wagen (etwas zu tun), sich trauen (etwas zu tun)
+wickeln, einwickeln, umwickeln
+sich von Fleisch ernähren, fleischfressend sein
+grasen, weiden
+drücken, aufdrücken, Druck ausüben auf
+Druck
+Brücke
+Furt, Überquerung
+Kinderspielzeug, Spielzeug
+ob es dir gefällt oder nicht
+mein Sohn (Anredeform)
+meine Tochter (Anredeform)
+überrascht sein, überraschend sein
+Überraschung
+überraschend, überraschenderweise
+Alpha Centauri B
+Alpha Centauri C aka Proxima Centauri
+Alpha Centauri C aka Proxima Centauri (umgangssprachlich)
+Queue, neuraler Zopf
+tief, in tiefer Weise (auch metaphorisch)
+nach unten, runter (in Richtung)
+Ziel
+physische Trennung, Abstand zwischen zwei Orten oder Personen
+wie nah, wie fern, wie weit entfernt
+wie nah, wie weit, wie weit entfernt
+wie weit weg, wie nah
+wie weit weg, wie nah
+treten, auftreten, schreiten, einen Schritt machen
+bedeutungslos, sinnlos, ohne Inhalt
+Realität
+real, echt
+Vorhersage, Vorraussage
+Tintenfischfruchtbaum, octocrus folliculus
+Ranke, Tentakel, Fangarm
+Goblindiestel, cobalus carduus
+Wunderkerzentiger, candea inflata
+Harz
+Wasserlilie, inrigo lilliam, Wasserblume
+Kanonenkugelfruchtbaum, ecdurus putamen pomus
+Sonnenlilie, stella lilliam, Sonnenblume
+Celiafruchtbaum, pampinus bacca acinum, Rotbeere
+Anemonoid
+Flatterfliege, schöner Flügel
+walähnliche Wasserkreatur
+Sagittaria, kopffüßerähnliche Wasserkreatur mit einer harten Schale und langen Tentakeln
+dinicthoid, große, piranhaähnliche Wasserkreatur, die in Seen und trüben Flachlandtümpeln wohnt
+Riffzecke
+Teylu-Gesicht (eine Beleidigung)
+Hurensohn, 'Kind einer giftigen Spinne' (eine Beleidigung)
+Bastard, Verlierer (eine Beleidigung)
+Arschloch (eine sehr starke Beleidigung, vulgär)
+verwest, verdorben, verfault
+Aufnahme, Tonaufnahme
+aufnehmen, eine Tonaufnahme machen
+wir drei (exklusiv)
+schief, krumm, gekrümmt
+Fußgelenk, Fußknöchel
+verfehlen, (ein Ziel) nicht treffen, danebentreffen
+kleine oder mittlere Stadt
+große Stadt, Metropole
+männlicher Name
+weiblicher Name
+Anurai (Name eines Clans)
+männlicher Name
+männlicher Name
+männlicher Name
+Schwebenden Berge, Hallelujahberge
+Quell der Seelen
+männlicher Name
+männlicher Name
+männlicher Name
+Eywa (die große Mutter, die die Balance des Lebens aufrecht erhält)
+Pandora (Mond um Polyphemus; oft verkürzt zu: Eyweveng)
+Himmelsleiter, Initiationsritus für junge Na'vi
+männlicher Name
+männlicher Name
+Kekunan (Name eines Clans)
+Heimatbaum
+Li'ona (Name eines Clans)
+männlicher Name
+Toruk Makto Amulett (heiliger Gegenstand in der Legende um den ersten Toruk Makto)
+Riffvolkclan (Clanname)
+Versammlungsort (auch: der Name des Disney Themenparks)
+weiblicher Name
+weiblicher Name
+Polyphemus
+Toruk Makto Totem (Schädel eines Großen Leonopteryx im Zentrum des Heimatbaums)
+männlicher Name
+weiblicher Name
+weiblicher Name
+weiblicher Name
+Omatikaya (Name eines Clanes), Clan der Blauen Flöte
+männlicher Name
+weiblicher Name
+Party Party (unregelmäßige Benutzung: Name der Bar in Disney's Pandora - The World of Avatar)
+männlicher Name
+weiblicher Name
+weiblicher Name
+Rongloa (Name eines Clans)
+männlicher Name
+Kantine im Tal von Mo'ara
+Name von Neytiris Ikran (Bedeut.: Blaue Blume)
+weiblicher Name
+weiblicher Name
+heiliger Fluss, geheiligter Fluss
+Heiliger Ort des Gesangs (im Tal von Mo'ara gelegen)
+Tawkami (Name eines Clans)
+Tipani (Name eines Clans)
+männlicher Name
+spirituelle Führerin, die (ähnlich einer Schamanin)
+weiblicher Name
+weiblicher Name
+Name, verm. Familienname
+männlicher Name
+Original Name der Omatikaya
+weiblicher Name
+weiblicher Name
+Thanatorknochenhorn (heiliges Objekt, von den Anurai erschaffen, kann den großen Leonopteryx herbeirufen)
+männlicher Name
+weiblicher Name
+Traumjagd
+Baum der Stimmen
+männlicher Name
+Baum der Seelen
+Welche beiden Personen?
+Welche beiden Personen?
+Welche drei Personen?
+Welche drei Personen?
+Welche Personen?
+Welche Personen?
+Welcher Mann?
+Welcher Mann?
+Welche beiden Männer?
+Welche beiden Männer?
+Welche drei Männer?
+Welche drei Männer?
+Welche Männer?
+Welche Männer?
+Welche Frau?
+Welche Frau?
+Welche zwei Frauen?
+Welche zwei Frauen?
+Welche drei Frauen?
+Welche drei Frauen?
+Welche Frauen?
+Welche Frauen?
+Schild
+billigen, zustimmen, absegnen, zusagen, für gut befinden, bestätigen, gutheißen, mit etwas einverstanden sein
+Genehmigung, Billigung, Zustimmung, Absegnung, Bewilligung, Bestätigung, Gutheißung
+missbilligen, dagegen sein, nicht einverstanden sein mit, ablehnend gegenüberstehen
+Missbilligung, Missfallen, Ablehnung
+vortäuschen, vorspielen, heucheln; so tun, als ob (verwendet mit tsnì)
+Vorwand, Vortäuschung, Heuchelei, Schein
+Gewalt, Gewalttätigkeit, Brutalität, gewaltsames Vorgehen
+gewalttätig, gewaltsam, brutal
+Gewalt anwenden, gewalttätig sein, gewaltbereit sein
+außer, sofern nicht, es sei denn (meist mit dem Subjunktiv (<iv>) benutzt)
+Ausbreitung, Verbreitung
+rausgehen, hinausgehen
+stören, unterbrechen, beunruhigen, negativ auswirken auf
+Kontakt haben (gesellschaftlicher Sinn), in Kontakt sein, (mit jemandem) verkehren, (mit jemandem) umgehen
+(sozialer) Kontakt, Sozialkontakt, (gesellschaftlicher) Umgang
+Gefallen, Gefälligkeit, ein Akt der Güte
+jemandem einen Gefallen tun
+kleiner Gefallen
+Biss
+zersplittern, zerbrechen, zerschellen, zerschmettern, in Stücke brechen
+balancieren, das Gleichgewicht halten
+nass
+Auen, Feuchtgebiete, Sumpfgebiete
+tropfen, tröpfeln
+Dach, Decke (einer Behausung, eines Raumes)
+Tropfen (einer Flüssigkeit)
+Risiko, Gefahr, Wagnis
+riskant, gefährlich, gewagt, risikoreich
+dass (Nebensatzeinleiter für ein Verb, das den Dativ verlangt; kurze Form von: fì'ur a)
+Ein viertel
+Ein fünftel
+Ein sechstel
+Ein siebtel
+Ein achtel
+unterrichten, lehren, Anweisungen geben
+bereitstellen, zur Verfügung stellen, besorgen, beschaffen
+sich abdecken, sich bedecken, sich verdecken
+sich öffnen
+sich schließen
+sich (mit zeremonieller Kleidung) schmücken, sich anziehen
+Unideltabaum, Großer Wurzelbaum, Magellum deltoids
+Banshee-Fänger, Mundfessel
+Gewalt, Zwang
+zwingen
+freiwillig
+Freiwilliger, Ehrenamtlicher
+kürzlich
+Entehrung
+entehren
+Feigheit
+unehrenhaft
+Hindernis für die eigenen Ziele, Quelle der Frustration
+freustrierend
+blockiert, behindert, frustiert
+verhindern
+Prävention
+ausquetschen
+Sprachlaut, Phonem

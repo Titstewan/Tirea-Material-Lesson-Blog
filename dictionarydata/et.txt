@@ -2407,3 +2407,95 @@ persevest (ropp)
 mädane, roiskunud
 salvestis
 salvestama, lindistama 
+meie kolm (kaasav)
+kõver
+hüppeliiges
+möödalask, mitte tabama sihtmärki
+väikelinn
+suurlinn
+Na'vi mees
+Na'vi naine
+Na'vi klanni nimi
+Metkayina hõimu Na'vi mees
+Ateyo poeg
+Na'vi mees
+Hõljuvad mäed
+Hingede kaev
+Na'vi mees
+Na'vi mees
+Omatikaya hõimu juht
+looduse vaim, jumalus
+Pandora
+Trepp Taevasse; riitus
+Na'vi mees
+Na'vi mees
+Na'vi hõimu nimi
+Kodupuu
+Na'vi hõimu nimi
+Jake'i ja Neytiri teine poeg
+Toruk Makto amulett
+Rannikuala klann
+Pandora kanjon 
+Omatikaya naisšamaan
+Mo'ati tütar
+Polyphemus (planeet)
+Toruk makto pealuu
+Jake'i ja Neytiri esimene poeg
+Na'vi naine
+Omatikaya hõimu Na'vi naine
+Omatikaya hõimu naislaulja
+Sinise flöödi hõim
+Na'vi mees
+Omatikaya hõimu Na'vi naine
+Rühmapidu (ebareeglipärane)
+Na'vi mees
+Na'vi naine
+Metkayina hõimu Na'vi naine
+Na'vi hõimu nimi
+Metkayina hõimu Na'vi mees
+Mo'ara kanjoni söökla
+Neytiri mardus
+Neytiri õde
+Na'vi naine
+püha jõgi
+laulu püha koht
+Na'vi hõimu nimi
+Na'vi hõimu nimi
+Metkayina hõimu Na'vi mees
+sugukonda valitsev naine, tõlgitseja, šamaan
+Na'vi naine
+Metkayina hõimu Na'vi naine
+Na'vi hõimu nimi
+Omatikaya hõimu Na'vi mees
+Omatikaya hõimu algupärane nimi
+Na'vi naine
+Jake'i ja Neytiri tütar
+Surmapantriluu sarvepill
+Na'vi mees
+Na'vi naine
+Unelmate Jaht
+Häälte Puu
+Na'vi mees
+Hingede Puu 
+kes kaks isikut
+kes kaks isikut
+kes kolm isikut
+kes kolm isikut
+kes (mitmus)
+kes (mtmus)
+kes (mees)
+kes (mees)
+kes kaks meest
+kes kaks meest
+kes kolm meest
+kes kolm meest
+kes (mehed)
+kes (mehed)
+kes (naine)
+kes (naine)
+kes kaks naist
+kes kaks naist
+kes kolm naist
+kes kolm naist
+kes (naised)
+kes (naised)
