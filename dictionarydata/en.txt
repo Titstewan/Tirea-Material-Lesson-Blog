@@ -411,7 +411,7 @@ because, based on the cause
 skyship
 duck, dive
 panopyra, sky cup
-Skyperson, human
+skyperson, human
 used in full names
 receive
 cord
@@ -579,7 +579,7 @@ move
 bind / bring two or more things together (ii)
 feel, sense, perceive
 cook
-answer, respond
+answer, respond, respond to
 end, conclude
 lose oneself (spiritual sense)
 itch
@@ -1716,9 +1716,9 @@ how complex?
 beginning, starting position, initial location
 assistant, helper
 helpful hint, tip
-telephone
+phone, telephone
 camera
-intoxicating beverage, or ``spirits''
+intoxicating beverage, or "spirits"
 be, or get drunk
 letter (phonetic symbol)
 alphabet
@@ -1748,7 +1748,7 @@ be in order, be organized
 put in order, organize
 system, process, procedure, approach
 chaotic, messy, disorganized, in shambles
-organized, ``on top of things''
+organized, "on top of things"
 silently
 hunt
 compete
@@ -2241,8 +2241,8 @@ put down
 burn
 fuel
 put out, quench
-red (``blood tun")
-orange (``fire tun")
+red ("blood tun")
+orange ("fire tun")
 stick
 crayon
 crayon
@@ -2499,3 +2499,75 @@ what three women
 what three women
 what women
 what women
+shield
+approve of
+approval
+disapprove of
+disapproval
+pretend (use with tsnì)
+pretence
+violence
+violent
+be violent, use violence
+unless, except if (usually used with subjunctive <iv>)
+spread, proliferation
+go out, go outside
+disturb, disrupt, bother, affect negatively
+contact (in a social sense), communicate with
+(social) contact
+favor, act of kindness (usually pronounced tstungkem)
+do a favor
+little favor
+a bite
+shatter, break into pieces
+balance
+wet
+wetlands
+drip
+roof
+drop (of a liquid)
+risk
+risky
+that
+one-fourth
+one-fifth
+one-sixth
+one-seventh
+one-eighth
+teach, instruct, give instruction
+provide
+cover oneself
+open oneself, open by itself, open on its own
+close oneself, close by itself, close on its own
+adorn oneself
+unidelta tree, lit. tall large root
+banshee catcher, mouth-binder
+force, compulsion
+force, compel
+voluntarily, without force or compulsion
+domineering person; one who is bossy, authoritarian, or dictatorial
+recently
+dishonor
+dishonor
+cowardice
+dishonorable
+barrier to one’s goals, source of frustration
+frustrating
+blocked, obstructed; frustrated
+prevent
+prevention
+squeeze
+speech sound; phoneme
+law, societal rule
+enforce
+law enforcer, police officer
+law enforcer, police officer (colloquial, short for horenleykekyu)
+cruel (ofp)
+cruelty
+cruel (nfp)
+cruelly
+steal, rob
+theft
+thief
+English, of the English language
+ow, ouch

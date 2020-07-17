@@ -80,6 +80,7 @@ $txt['n_05g'] = 'Questions';
 $txt['n_06g'] = 'This and That, and Stuff';
 $txt['n_07g'] = '-ru, -yä, & si';
 $txt['n_08g'] = 'The «iv» Infix';
+$txt['n_09g'] = 'The -ri Suffix';
 // name generator
 $txt['g_n_try'] = 'Nice try. ;D';
 $txt['g_first_name'] = 'First Name # of Syllables';
