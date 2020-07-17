@@ -55,7 +55,7 @@ En Na'vi, c'est beaucoup plus prévisible. En fait, c'est complètement prévisi
 -   **pxe**+ (_trois éléments_)
 -   **ay**+ (_plusieurs éléments en général_)
 
-Lorsque vous utilisez ces choses, la première lettre ou le premier son du mot d'original pourrait changer, selon leque on what it starts with. (c'est pourquoi il y a le signe +. c'est pour vous dire qu'ils causent un changement). The letter/sound changes that occur are as follows:
+Lorsque vous utilisez ces choses, la première lettre ou le premier son du mot d'origine pourrait changer, dépendamment de laquelle commence le mot (c'est pourquoi il y a le signe +. c'est pour vous dire qu'ils causent un changement). Les changements de lettres/sons sont les suivants:
 
 | Avant  | Après                   |
 | ------ | ----------------------- |
