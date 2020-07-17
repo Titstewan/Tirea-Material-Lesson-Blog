@@ -31,7 +31,7 @@ Allons-y avec un peu de mots de vocabulaire:
 | **krr**   | _temps_   |
 | **fya'o** | _façon_    |
 
-Pour former des mots interrogatifs comme _qui_, _quoi_, _où_, etc., Il faut ajouter -**pe**+ (_quoi_/_quel_) aux noms ci-dessus. Cela peut à la fin ou au début du mot. **Fya'o** est réduit à **fya** dans ce cas. **Pefya** / **Fyape** est beaucoup plus courant que **fya'ope** ou **pefya'o**.  Et il y a à nouveau le signe +. Rappelez-vous [il y a quelques leçons](/index.php?p=lessons&l=03g-french), cela signifique que -**pe**+, lorsqu'utilisé au début du mot, pourrait apporter un changement à la première lettre du mot.
+Pour former des mots interrogatifs comme _qui_, _quoi_, _où_, etc., Il faut ajouter -**pe**+ (_quoi_/_quel_) aux noms ci-dessus. Cela peut à la fin ou au début du mot. **Fya'o** est réduit à **fya** dans ce cas. **Pefya** / **Fyape** est beaucoup plus courant que **fya'ope** ou **pefya'o**.  Et il y a à nouveau le signe +. Rappelez-vous [il y a quelques leçons](/index.php?p=lessons&l=03g-french), cela signifie que -**pe**+, lorsqu'utilisé au début du mot, pourrait apporter un changement à la première lettre du mot.
 
 Encore une fois, les mots interrogatifs en Na'vi ne sont que les noms de la liste ci-dessus avec -**pe**+ attaché au début ou à la fin de ceux-ci:
 
