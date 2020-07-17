@@ -49,7 +49,7 @@ Mais quoi faire si vous voulez décrire un nom à la volée tout en disant quelq
 
 Vous avez probablement remarqué que lorsque vous décrivez un nom à la volée tous en disant quelque chose d'autre à son sujet, il y a un -**a**- attaché à l'adjectif qui décrit le nom. Vous pouvez également remarqué que le -**a**- est toujours placé du côté de l'adjectif où se trouve le nom décrit, et que l'adjectif est toujours exactement à côté du nom.
 
-Ci-dessus, nous avons parlé de décrire un nom avec un seul adjectif. Maintenant, je vais vous montrer comment faire la même chose, mais au lieu de décrire le nom avec un seul nom, je vais le décrire avec une expression de mots. Jetez-y un œil :
+Ci-dessus, nous avons parlé de décrire un nom avec un seul adjectif. Maintenant, je vais vous montrer comment faire la même chose, mais au lieu de décrire le nom avec un seul mot, je vais le décrire avec une expression de mots. Jetez-y un œil :
 
 > **lrrtok si pxìm a tuté oeru sunu.**<br>
 > _La sourit-souvent -> femme pour moi est plaisante/agréable._<br>
