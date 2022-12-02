@@ -333,6 +333,7 @@ function aysaheylu()
 			<ul class="collection with-header">
 				<li class="collection-header indigo-text"><h4 class="indigo-text">', $txt['l_cool'], '</h4></li>
 				<li class="collection-item"><a class="collection-link purple-text" href="https://soundcloud.com/thesoundsofpandora">The Sounds of Pandora</a><br />Official Avatar SoundCloud</li>
+				<li class="collection-item"><a class="collection-link purple-text" href="https://fwew.app">Fwew Online Na&#39;vi Dictionary</a><br />Online Na&#39;vi Dictionary</li>
 				<li class="collection-item"><a class="collection-link purple-text" href="http://dict-navi.com">Dict-Na&#39;vi.com</a><br />Online Na&#39;vi Dictionary Search Engine</li>
 				<li class="collection-item"><a class="collection-link purple-text" href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br />Epic Na&#39;vi Number translator thingy</li>
 				<li class="collection-item"><a class="collection-link purple-text" href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a><br />Learn Na&#39;vi Memrise Course</li>
